@@ -1,0 +1,2026 @@
+{
+  "moduleId": "m02",
+  "lessons": [
+    {
+      "id": "m02-l01",
+      "moduleId": "m02",
+      "order": 1,
+      "title": "Strafbaar feit en verdachte",
+      "minutes": 15,
+      "termIds": [],
+      "objectives": [
+        {
+          "text": "Je kunt uitleggen wat een strafbaar feit is en wat het verschil is tussen misdrijf en overtreding.",
+          "level": "K"
+        },
+        {
+          "text": "Je kunt het wettigheidsbeginsel van art. 1 Sr in eigen woorden uitleggen.",
+          "level": "B"
+        },
+        {
+          "text": "Je kunt beoordelen of iemand verdachte is (art. 27 Sv) en of er sprake is van heterdaad (art. 128 Sv).",
+          "level": "T"
+        },
+        {
+          "text": "Je kunt uitleggen waar jouw opsporingsbevoegdheid als boa begint en eindigt.",
+          "level": "B"
+        }
+      ],
+      "screens": [
+        {
+          "type": "objectives",
+          "title": "Leerdoelen"
+        },
+        {
+          "type": "law",
+          "title": "Geen straf zonder wet",
+          "ref": {
+            "law": "Wetboek van Strafrecht",
+            "article": "art. 1"
+          },
+          "body": "Een gedraging is alleen strafbaar als een wettelijke strafbepaling dat vooraf zo heeft bepaald. Dat noemen we het **wettigheidsbeginsel**.\n\nJe kunt dus nooit iemand bekeuren voor iets dat 'eigenlijk niet hoort', als er geen strafbepaling voor is. Een strafbepaling kan in een wet staan, maar ook in een verordening van de gemeente, zoals de APV.\n\nBeleid of een afspraak in het team maakt niets strafbaar. Verandert de wet nadat het feit is gepleegd, dan geldt de regel die voor de verdachte het gunstigst is."
+        },
+        {
+          "type": "text",
+          "title": "Strafbaar feit: misdrijf of overtreding",
+          "body": "Een strafbaar feit is een gedraging die past in de omschrijving van een strafbepaling. Die omschrijving bestaat uit **bestanddelen**. Alle bestanddelen moeten bewezen worden. Ontbreekt er één, dan is het feit niet bewezen.\n\nEr zijn twee soorten strafbare feiten:\n\n- **Misdrijven**: de zwaardere feiten. In het Wetboek van Strafrecht staan ze in Boek 2.\n- **Overtredingen**: de lichtere feiten. Die staan in Boek 3.\n\nIn andere wetten bepaalt die wet zelf of een feit een misdrijf of een overtreding is. Het verschil is belangrijk. Het heeft bijvoorbeeld gevolgen voor de straf en voor de vraag of iemand buiten heterdaad mag worden aangehouden."
+        },
+        {
+          "type": "law",
+          "title": "Wie is verdachte?",
+          "ref": {
+            "law": "Wetboek van Strafvordering",
+            "article": "art. 27 lid 1"
+          },
+          "body": "Een verdachte is iemand tegen wie uit **feiten of omstandigheden** een **redelijk vermoeden van schuld** aan een strafbaar feit volgt.\n\nEen gevoel of uiterlijk is dus niet genoeg. Je moet kunnen uitleggen wat je zag of hoorde. Een ander moet je vermoeden kunnen volgen.\n\nDat is belangrijk, want veel bevoegdheden mag je alleen gebruiken tegenover een verdachte. Denk aan staande houden en aanhouden. Ook de rechten van de verdachte, zoals het zwijgrecht, gaan in zodra iemand verdachte is."
+        },
+        {
+          "type": "law",
+          "title": "Heterdaad en de boa",
+          "ref": {
+            "law": "Wetboek van Strafvordering",
+            "article": "art. 128 en art. 142"
+          },
+          "body": "Van **ontdekking op heterdaad** is sprake als het feit wordt ontdekt terwijl het wordt gepleegd, of direct daarna (art. 128 Sv). Het maakt niet uit wie het ontdekt.\n\nAls boa ben je **buitengewoon opsporingsambtenaar** (art. 142 Sv). Je bent beëdigd en je hebt een akte van opsporingsbevoegdheid. Je mag alleen strafbare feiten opsporen die bij jouw akte en jouw domein horen. Voor Domein I Openbare ruimte zijn dat vooral feiten over leefbaarheid en overlast.\n\nZie je een ernstig feit buiten jouw domein? Dan schakel je de politie in."
+        },
+        {
+          "type": "example",
+          "title": "Praktijk: vermoeden of verdenking?",
+          "body": "Je loopt met je collega door het centrum. Je ziet Fatima haar huisvuilzak naast een volle container zetten. In de APV van jouw gemeente is dat verboden.\n\nJe hebt het zelf gezien: dat is een feit. Daaruit volgt een redelijk vermoeden van schuld. Fatima is dus verdachte (art. 27 Sv). Je ontdekt het terwijl het gebeurt, dus op heterdaad (art. 128 Sv).\n\nHet feit staat in een strafbepaling en hoort bij jouw domein. Je mag dus optreden.\n\nStel dat je alleen een vuilzak naast de container ziet staan, zonder te weten van wie. Dan heb je nog geen verdachte. Dan ga je eerst op zoek naar feiten, bijvoorbeeld een adres in de zak."
+        },
+        {
+          "type": "exercise",
+          "title": "Oefening",
+          "questionId": "q-m02-l01-1"
+        },
+        {
+          "type": "check",
+          "title": "Kennischeck",
+          "questionIds": [
+            "q-m02-l01-2",
+            "q-m02-l01-3",
+            "q-m02-l01-4",
+            "q-m02-l01-5",
+            "q-m02-l01-6"
+          ]
+        },
+        {
+          "type": "summary",
+          "title": "Samenvatting"
+        }
+      ],
+      "summary": [
+        "Een gedraging is alleen strafbaar als een wettelijke strafbepaling dat vooraf regelde (art. 1 Sr). Beleid maakt niets strafbaar.",
+        "Een strafbaar feit is een misdrijf of een overtreding. Alle bestanddelen moeten bewezen worden.",
+        "Verdachte is wie uit feiten of omstandigheden redelijk verdacht wordt van een strafbaar feit (art. 27 Sv).",
+        "Heterdaad: het feit wordt ontdekt tijdens of direct na het plegen ervan (art. 128 Sv).",
+        "Als boa ben je opsporingsambtenaar (art. 142 Sv), maar alleen binnen jouw akte en domein."
+      ],
+      "sourceRefs": [
+        {
+          "law": "Wetboek van Strafrecht",
+          "article": "art. 1"
+        },
+        {
+          "law": "Wetboek van Strafrecht",
+          "article": "Boek 2 en Boek 3"
+        },
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 27"
+        },
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 128"
+        },
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 142"
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "concept",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "m02-l02",
+      "moduleId": "m02",
+      "order": 2,
+      "title": "Gegevens verzamelen: staande houden en identificeren",
+      "minutes": 15,
+      "termIds": [],
+      "objectives": [
+        {
+          "text": "Je kunt uitleggen wat staande houden is en wanneer je dat mag (art. 52 Sv).",
+          "level": "K"
+        },
+        {
+          "text": "Je kunt opnoemen welke gegevens je vraagt bij het vaststellen van de identiteit (art. 27a Sv).",
+          "level": "K"
+        },
+        {
+          "text": "Je kunt uitleggen wat het verschil is tussen de identificatieplicht en het zwijgrecht.",
+          "level": "B"
+        },
+        {
+          "text": "Je kunt in een casus beoordelen of iemand strafbaar is als hij zijn identiteitsbewijs niet toont.",
+          "level": "T"
+        }
+      ],
+      "screens": [
+        {
+          "type": "objectives",
+          "title": "Leerdoelen"
+        },
+        {
+          "type": "law",
+          "title": "Staande houden",
+          "ref": {
+            "law": "Wetboek van Strafvordering",
+            "article": "art. 52"
+          },
+          "body": "Iedere opsporingsambtenaar mag een **verdachte** staande houden om zijn **identiteit vast te stellen**. Als boa ben jij ook opsporingsambtenaar.\n\nStaande houden betekent: iemand kort laten stilstaan. Dat is een kleine beperking van de vrijheid. Daarom mag het alleen bij een verdachte. Je moet dus eerst een redelijk vermoeden van schuld hebben (art. 27 Sv).\n\nStaande houden is geen aanhouden. Je neemt iemand niet mee. Je mag de persoon ook niet doorzoeken. Je gebruikt deze bevoegdheid alleen om te weten wie hij is."
+        },
+        {
+          "type": "law",
+          "title": "Identiteit vaststellen",
+          "ref": {
+            "law": "Wetboek van Strafvordering",
+            "article": "art. 27a lid 1"
+          },
+          "body": "Je stelt de identiteit van een verdachte vast door te vragen naar:\n\n- naam en voornamen\n- geboorteplaats en geboortedatum\n- het adres waarop hij staat ingeschreven\n- het adres waar hij echt verblijft\n\nDaarnaast onderzoek je zijn **identiteitsbewijs**. Welke documenten dat zijn, staat in art. 1 van de Wet op de identificatieplicht. Denk aan een paspoort, identiteitskaart, vreemdelingendocument of rijbewijs.\n\nControleer of de foto lijkt en of het document geldig is. Klopt iets niet? Vraag dan door en schakel zo nodig de politie in."
+        },
+        {
+          "type": "law",
+          "title": "Identiteitsbewijs tonen",
+          "ref": {
+            "law": "Wetboek van Strafrecht",
+            "article": "art. 447e"
+          },
+          "body": "Iedereen van **14 jaar of ouder** moet op vordering een geldig identiteitsbewijs laten zien. Dat volgt uit de Wet op de identificatieplicht.\n\nToont iemand het identiteitsbewijs niet, terwijl hij dat wel moet? Dan pleegt hij een overtreding: art. 447e Sr.\n\nDe plicht gaat over **tonen**. Iemand die geen identiteitsbewijs bij zich heeft, maar wel zijn gegevens noemt, toont het ook niet. Ook dat valt onder art. 447e Sr. Hoe je daarmee omgaat, bepaalt de werkinstructie van je organisatie. Die instructie geeft geen extra bevoegdheden."
+        },
+        {
+          "type": "keypoints",
+          "title": "Identificeren en zwijgrecht",
+          "items": [
+            {
+              "term": "Plicht",
+              "text": "Op vordering een identiteitsbewijs tonen. Niet tonen is strafbaar (art. 447e Sr). Naar naam, geboortedatum en adres mag je een verdachte vragen (art. 27a Sv)."
+            },
+            {
+              "term": "Zwijgrecht",
+              "text": "Op vragen over het feit hoeft de verdachte niet te antwoorden (art. 29 lid 1 Sv)."
+            },
+            {
+              "term": "Liegen",
+              "text": "Een valse naam of vals adres opgeven is wel strafbaar (art. 435 Sr)."
+            },
+            {
+              "term": "Cautie",
+              "text": "Ga je vragen stellen over het feit? Geef dan eerst de cautie (art. 29 lid 2 Sv)."
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": "Praktijk: een fietser in het voetgangersgebied",
+          "body": "Je ziet Kevin over de markt fietsen terwijl er bordjes staan dat fietsen daar verboden is. Je stapt op hem af en zegt: 'Goedemiddag, ik ben boa van de gemeente. Ik houd u staande, omdat u fietst waar dat niet mag.'\n\nJe vraagt naar zijn naam, geboortedatum en -plaats en adres. Daarna vraag je zijn identiteitsbewijs. Kevin laat zijn rijbewijs zien. De foto lijkt en het rijbewijs is geldig.\n\nJe wilt weten of hij de borden heeft gezien. Voor je die vraag stelt, zeg je: 'U bent niet verplicht om antwoord te geven.' Kevin zegt dat hij haast had. Je noteert zijn verklaring."
+        },
+        {
+          "type": "exercise",
+          "title": "Oefening",
+          "questionId": "q-m02-l02-1"
+        },
+        {
+          "type": "check",
+          "title": "Kennischeck",
+          "questionIds": [
+            "q-m02-l02-2",
+            "q-m02-l02-3",
+            "q-m02-l02-4",
+            "q-m02-l02-5",
+            "q-m02-l02-6"
+          ]
+        },
+        {
+          "type": "summary",
+          "title": "Samenvatting"
+        }
+      ],
+      "summary": [
+        "Je mag alleen een verdachte staande houden, en alleen om zijn identiteit vast te stellen (art. 52 Sv).",
+        "Je vraagt naar naam, voornamen, geboorteplaats en -datum en adres, en onderzoekt het identiteitsbewijs (art. 27a Sv).",
+        "Wie 14 jaar of ouder is, moet op vordering een identiteitsbewijs tonen. Niet tonen is strafbaar (art. 447e Sr).",
+        "Het zwijgrecht gaat over vragen over het feit. Het identiteitsbewijs moet de verdachte wel tonen, en liegen over zijn naam of adres is strafbaar.",
+        "Staande houden is geen aanhouden en geeft geen recht om iemand te doorzoeken."
+      ],
+      "sourceRefs": [
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 52"
+        },
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 27a lid 1"
+        },
+        {
+          "law": "Wet op de identificatieplicht",
+          "article": "art. 1 en art. 2",
+          "note": "toonplicht en vorderingsbevoegdheid",
+          "verify": true
+        },
+        {
+          "law": "Wetboek van Strafrecht",
+          "article": "art. 447e"
+        },
+        {
+          "law": "Wetboek van Strafrecht",
+          "article": "art. 435 aanhef en onder 4",
+          "verify": true
+        },
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 29"
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "juridische_review_nodig",
+      "reviewNote": "Controleren: (1) of de verplichting van de verdachte om op vordering van een opsporingsambtenaar een identiteitsbewijs te tonen in art. 2 WID of in art. 27a Sv is geregeld, en hoe art. 2 WID precies luidt (welke ambtenaren, leeftijd 14 jaar); (2) of art. 435 aanhef en onder 4 Sr de juiste grondslag is voor het opgeven van een valse naam of vals adres.",
+      "version": "1.1",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "m02-l03",
+      "moduleId": "m02",
+      "order": 3,
+      "title": "Aanhouden",
+      "minutes": 18,
+      "termIds": [],
+      "objectives": [
+        {
+          "text": "Je kunt uitleggen wie bij heterdaad mag aanhouden (art. 53 lid 1 Sv).",
+          "level": "K"
+        },
+        {
+          "text": "Je kunt het verschil uitleggen tussen aanhouden op heterdaad en buiten heterdaad (art. 54 Sv).",
+          "level": "B"
+        },
+        {
+          "text": "Je weet wat er na een aanhouding moet gebeuren (voorgeleiden).",
+          "level": "K"
+        },
+        {
+          "text": "Je kunt in een casus afwegen of aanhouden proportioneel en noodzakelijk is.",
+          "level": "T"
+        }
+      ],
+      "screens": [
+        {
+          "type": "objectives",
+          "title": "Leerdoelen"
+        },
+        {
+          "type": "law",
+          "title": "Aanhouden op heterdaad",
+          "ref": {
+            "law": "Wetboek van Strafvordering",
+            "article": "art. 53 lid 1"
+          },
+          "body": "Bij **ontdekking op heterdaad** mag **iedereen** de verdachte aanhouden. Dat staat in art. 53 lid 1 Sv. Een burger mag het dus ook, en jij als boa ook.\n\nAanhouden is meer dan staande houden. Je beneemt iemand zijn vrijheid en neemt hem mee, of houdt hem vast tot de politie er is.\n\nBij heterdaad maakt het niet uit of het om een misdrijf of een overtreding gaat. Ook als het feit buiten jouw domein valt, mag je bij heterdaad aanhouden. Je draagt de verdachte dan over aan de politie."
+        },
+        {
+          "type": "law",
+          "title": "Aanhouden buiten heterdaad",
+          "ref": {
+            "law": "Wetboek van Strafvordering",
+            "article": "art. 54",
+            "verify": true
+          },
+          "body": "Is het feit niet op heterdaad ontdekt? Dan gelden strengere eisen:\n\n- Er moet een verdenking zijn van een **misdrijf waarvoor voorlopige hechtenis is toegelaten** (zie art. 67 Sv).\n- De bevoegdheid ligt bij de **officier van justitie**.\n- Alleen als zijn bevel niet kan worden afgewacht, mag de hulpofficier van justitie aanhouden. Kan ook die niet worden afgewacht, dan mag een opsporingsambtenaar dat.\n\nVoor jou als boa betekent dit: in de praktijk houd je bijna altijd alleen op heterdaad aan. Buiten heterdaad laat je het aan de politie over, tenzij de situatie echt geen uitstel toelaat."
+        },
+        {
+          "type": "law",
+          "title": "Overbrengen en voorgeleiden",
+          "ref": {
+            "law": "Wetboek van Strafvordering",
+            "article": "art. 53 lid 2 en lid 3",
+            "verify": true
+          },
+          "body": "Na een aanhouding beslis je niet zelf over de verdachte. Hij moet **onverwijld** worden voorgeleid aan de **officier van justitie** of de **hulpofficier van justitie**. Dat is een ervaren politieambtenaar met die aanwijzing.\n\nHeeft een burger iemand aangehouden? Dan draagt hij de verdachte zo snel mogelijk over aan een opsporingsambtenaar.\n\nIn de praktijk bel je als boa na een aanhouding direct de politie. Die zorgt voor vervoer en voorgeleiding. Jij maakt proces-verbaal op van wat je zag en deed."
+        },
+        {
+          "type": "keypoints",
+          "title": "Afwegen: moet ik aanhouden?",
+          "items": [
+            {
+              "term": "Bevoegdheid",
+              "text": "Mag het? Heterdaad (art. 53 Sv) of voorlopige hechtenis-feit (art. 54 Sv)."
+            },
+            {
+              "term": "Proportionaliteit",
+              "text": "Staat aanhouden in verhouding tot het feit?"
+            },
+            {
+              "term": "Subsidiariteit",
+              "text": "Kan het met een lichter middel, zoals staande houden en bekeuren?"
+            },
+            {
+              "term": "Veiligheid",
+              "text": "Kun je het veilig doen? Zo niet: afstand houden, observeren en politie inschakelen."
+            },
+            {
+              "term": "Beleid",
+              "text": "Werkinstructies geven aan wat je organisatie verwacht, maar zijn geen bevoegdheid."
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": "Praktijk: overtreder wil weglopen",
+          "body": "Je ziet Mehmet een zak bouwafval in een plantsoen dumpen. Je spreekt hem aan en houdt hem staande. Hij weigert zijn naam te geven en heeft geen identiteitsbewijs bij zich. Hij wil wegrijden.\n\nJe kunt zijn identiteit niet vaststellen. Je hebt hem op heterdaad betrapt. Je zegt duidelijk: 'U bent aangehouden.' Daarmee gebruik je art. 53 lid 1 Sv.\n\nJe meldt de aanhouding direct bij de meldkamer van de politie. Een politie-eenheid neemt Mehmet over en geleidt hem voor aan de hulpofficier van justitie. Jij schrijft daarna het proces-verbaal van aanhouding."
+        },
+        {
+          "type": "exercise",
+          "title": "Oefening",
+          "questionId": "q-m02-l03-1"
+        },
+        {
+          "type": "check",
+          "title": "Kennischeck",
+          "questionIds": [
+            "q-m02-l03-2",
+            "q-m02-l03-3",
+            "q-m02-l03-4",
+            "q-m02-l03-5",
+            "q-m02-l03-6"
+          ]
+        },
+        {
+          "type": "summary",
+          "title": "Samenvatting"
+        }
+      ],
+      "summary": [
+        "Bij heterdaad mag iedereen een verdachte aanhouden (art. 53 lid 1 Sv).",
+        "Buiten heterdaad mag alleen bij een feit waarvoor voorlopige hechtenis mogelijk is, en de bevoegdheid ligt bij de officier van justitie (art. 54 Sv).",
+        "Na een aanhouding wordt de verdachte onverwijld voorgeleid aan een (hulp)officier van justitie. In de praktijk via de politie.",
+        "Bevoegd is niet verplicht: kies het lichtste middel dat werkt en let op de verhouding tot het feit.",
+        "Werkinstructies en beleid geven geen bevoegdheid; die komt uit de wet."
+      ],
+      "sourceRefs": [
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 53",
+          "verify": true
+        },
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 54",
+          "verify": true
+        },
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 67"
+        },
+        {
+          "law": "Politiewet 2012",
+          "article": "art. 7 lid 5",
+          "note": "eisen bij geweld",
+          "verify": true
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "juridische_review_nodig",
+      "reviewNote": "Controleren: verdeling over de leden van art. 53 Sv (in welk lid de voorgeleiding aan de (hulp)officier van justitie staat en in welk lid de overlevering door een burger aan een opsporingsambtenaar) en de exacte formulering 'onverwijld'. Controleren: art. 54 Sv leden 1–3: bevoegdheid OvJ (lid 1), hulpofficier als het bevel van de OvJ niet kan worden afgewacht (lid 2) en opsporingsambtenaar als ook de hulpofficier niet kan worden afgewacht (lid 3?). Daarnaast nagaan of en hoe de akte/het domein van de boa deze bevoegdheid beperkt. Controleren: of art. 7 lid 5 Politiewet 2012 de juiste vindplaats is voor proportionaliteit en subsidiariteit bij geweld, en de toepasselijkheid op boa's via de Ambtsinstructie.",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "m02-l04",
+      "moduleId": "m02",
+      "order": 4,
+      "title": "Rechten van de verdachte",
+      "minutes": 18,
+      "termIds": [],
+      "objectives": [
+        {
+          "text": "Je kunt uitleggen wat de cautie is en wanneer je die geeft (art. 29 Sv).",
+          "level": "K"
+        },
+        {
+          "text": "Je kunt herkennen wanneer er sprake is van een verhoor.",
+          "level": "B"
+        },
+        {
+          "text": "Je kunt de rechten van een aangehouden verdachte noemen: informatie, rechtsbijstand en tolk.",
+          "level": "K"
+        },
+        {
+          "text": "Je kunt in een casus beoordelen of de cautie op tijd is gegeven.",
+          "level": "T"
+        }
+      ],
+      "screens": [
+        {
+          "type": "objectives",
+          "title": "Leerdoelen"
+        },
+        {
+          "type": "law",
+          "title": "Zwijgrecht en cautie",
+          "ref": {
+            "law": "Wetboek van Strafvordering",
+            "article": "art. 29 lid 1 en lid 2"
+          },
+          "body": "Een verdachte is **niet verplicht** om te antwoorden op vragen over het feit (art. 29 lid 1 Sv). Je mag hem ook niet onder druk zetten om toch een verklaring af te leggen.\n\nVoordat je een verdachte verhoort, zeg je hem dat hij niet verplicht is tot antwoorden. Dat heet de **cautie** (art. 29 lid 2 Sv). Bijvoorbeeld: 'U bent niet verplicht om antwoord te geven.'\n\nDe cautie geldt bij iedere verdachte, ook bij een lichte overtreding en ook als hij niet is aangehouden. Noteer in je proces-verbaal dat je de cautie hebt gegeven."
+        },
+        {
+          "type": "text",
+          "title": "Wanneer is het een verhoor?",
+          "body": "Er is sprake van een **verhoor** als je een verdachte vragen stelt over zijn betrokkenheid bij een strafbaar feit. Dat kan overal zijn: op straat, in een park of aan de telefoon.\n\nGeen verhoor zijn:\n\n- vragen naar de identiteit, zoals naam en adres (art. 27a Sv);\n- vragen aan iemand die (nog) geen verdachte is, bijvoorbeeld een getuige;\n- wat iemand zelf spontaan vertelt, zonder dat je iets vraagt.\n\nTwijfel je? Geef dan de cautie. Is iemand geen verdachte, maar wordt hij dat tijdens het gesprek wel? Geef dan op dat moment de cautie."
+        },
+        {
+          "type": "law",
+          "title": "Recht op informatie en rechtsbijstand",
+          "ref": {
+            "law": "Wetboek van Strafvordering",
+            "article": "art. 27c en art. 28 e.v.",
+            "verify": true
+          },
+          "body": "Een verdachte moet weten welke rechten hij heeft. Bij een aanhouding en vóór het eerste verhoor moeten hem zijn rechten worden meegedeeld (art. 27c Sv).\n\nEen **aangehouden** verdachte heeft onder meer:\n\n- recht op een gesprek met een advocaat vóór het eerste verhoor (**consultatiebijstand**);\n- recht op een advocaat tijdens het verhoor (**verhoorbijstand**);\n- recht op een **tolk** als hij de taal niet goed begrijpt.\n\nDraag je een aangehouden verdachte over aan de politie? Dan zorgt de politie dat deze rechten worden geregeld. Jij verhoort een aangehouden verdachte niet zonder dat zijn rechten zijn gerespecteerd."
+        },
+        {
+          "type": "example",
+          "title": "Praktijk: wildplassen in de binnenstad",
+          "body": "Om 23.00 uur zie je Joris tegen een gevel plassen. Je spreekt hem aan en houdt hem staande. Hij noemt zijn naam en laat zijn identiteitskaart zien.\n\nJe wilt weten of hij wist dat er een openbaar toilet om de hoek is. Dat is een vraag over het feit. Je zegt daarom eerst: 'U bent niet verplicht om antwoord te geven.'\n\nJoris zegt: 'Ik zag geen wc.' Je noteert dit letterlijk in je proces-verbaal. Je schrijft er ook bij dat je de cautie hebt gegeven vóór je vraag.\n\nZou Joris alleen Engels spreken en je niet goed begrijpen? Zorg dan dat hij zijn rechten en je vragen begrijpt, zo nodig met een tolk."
+        },
+        {
+          "type": "exercise",
+          "title": "Oefening",
+          "questionId": "q-m02-l04-1"
+        },
+        {
+          "type": "check",
+          "title": "Kennischeck",
+          "questionIds": [
+            "q-m02-l04-2",
+            "q-m02-l04-3",
+            "q-m02-l04-4",
+            "q-m02-l04-5",
+            "q-m02-l04-6"
+          ]
+        },
+        {
+          "type": "summary",
+          "title": "Samenvatting"
+        }
+      ],
+      "summary": [
+        "Een verdachte hoeft niet te antwoorden op vragen over het feit (art. 29 lid 1 Sv).",
+        "Vóór ieder verhoor geef je de cautie: 'U bent niet verplicht om antwoord te geven' (art. 29 lid 2 Sv).",
+        "Een verhoor is iedere vraag aan een verdachte over zijn betrokkenheid bij het feit, ook op straat.",
+        "Een aangehouden verdachte heeft recht op informatie, op een advocaat vóór en tijdens het verhoor en op een tolk.",
+        "Leg in je proces-verbaal vast dat en wanneer je de cautie hebt gegeven."
+      ],
+      "sourceRefs": [
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 29"
+        },
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 27c",
+          "verify": true
+        },
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 28"
+        },
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 28c",
+          "verify": true
+        },
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 28d",
+          "verify": true
+        },
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 29a",
+          "verify": true
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "juridische_review_nodig",
+      "reviewNote": "Controleren: (1) art. 27c Sv: welke rechten bij aanhouding (lid 1) en vóór het eerste verhoor (lid 2/3) moeten worden meegedeeld, en de schriftelijke verklaring van rechten; (2) art. 28 e.v. Sv: vindplaats van consultatiebijstand (art. 28c Sv) en verhoorbijstand (art. 28d Sv), de regeling van afstand (art. 28a Sv) en de uitzondering voor minderjarigen; (3) of en hoe het recht op consultatie geldt voor de niet-aangehouden verdachte van een licht feit dat ter plaatse wordt afgedaan; (4) art. 27c en art. 29a Sv als grondslag voor het recht op een tolk.",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "m02-l05",
+      "moduleId": "m02",
+      "order": 5,
+      "title": "Fouillering",
+      "minutes": 16,
+      "termIds": [],
+      "objectives": [
+        {
+          "text": "Je kunt het verschil uitleggen tussen veiligheidsfouillering, insluitingsfouillering en onderzoek aan kleding en lichaam.",
+          "level": "B"
+        },
+        {
+          "text": "Je weet dat je als boa alleen fouilleert als die bevoegdheid aan jou is toegekend.",
+          "level": "K"
+        },
+        {
+          "text": "Je kunt in een casus kiezen voor een veilige werkwijze als je niet bevoegd bent te fouilleren.",
+          "level": "T"
+        }
+      ],
+      "screens": [
+        {
+          "type": "objectives",
+          "title": "Leerdoelen"
+        },
+        {
+          "type": "law",
+          "title": "Veiligheidsfouillering",
+          "ref": {
+            "law": "Politiewet 2012",
+            "article": "art. 7 lid 3",
+            "verify": true
+          },
+          "body": "Bij een **veiligheidsfouillering** wordt de kleding van iemand onderzocht om **direct dreigend gevaar** af te wenden. Denk aan iemand die een mes of een ander wapen bij zich kan hebben.\n\nDe bevoegdheid staat in de Politiewet 2012 en is in de eerste plaats een bevoegdheid van de **politie**. Er moeten feiten of omstandigheden zijn waaruit blijkt dat het onderzoek nodig is.\n\nAls boa mag je een veiligheidsfouillering alleen uitvoeren als die bevoegdheid **aan jou is toegekend**. Dat volgt uit jouw akte en de regels die daarbij horen. Werkinstructies of beleid zijn geen grondslag."
+        },
+        {
+          "type": "keypoints",
+          "title": "Drie soorten onderzoek",
+          "items": [
+            {
+              "term": "Veiligheidsfouillering",
+              "text": "Doel: veiligheid. Onderzoek aan de kleding bij direct dreigend gevaar (art. 7 lid 3 Politiewet 2012)."
+            },
+            {
+              "term": "Insluitingsfouillering",
+              "text": "Doel: veiligheid in de cel. De politie voert die uit als iemand wordt ingesloten (Ambtsinstructie)."
+            },
+            {
+              "term": "Onderzoek aan kleding en lichaam",
+              "text": "Doel: bewijs. Bij een aangehouden verdachte, in het belang van het onderzoek (art. 56 Sv)."
+            },
+            {
+              "term": "Onderzoek in het lichaam",
+              "text": "Het meest ingrijpend. Alleen door een arts, met strenge voorwaarden."
+            }
+          ]
+        },
+        {
+          "type": "law",
+          "title": "Onderzoek voor het bewijs",
+          "ref": {
+            "law": "Wetboek van Strafvordering",
+            "article": "art. 56",
+            "verify": true
+          },
+          "body": "Soms is het voor het onderzoek nodig om bij een **aangehouden verdachte** te zoeken naar sporen of voorwerpen. Dat is iets anders dan zoeken naar wapens voor de veiligheid.\n\nArt. 56 Sv regelt het **onderzoek aan de kleding** en het **onderzoek aan het lichaam**. Over onderzoek aan het lichaam beslist de officier van justitie of de hulpofficier van justitie. Onderzoek **in** het lichaam is zwaarder en gebeurt alleen door een arts.\n\nVoor jou als boa betekent dit: je laat zulk onderzoek over aan de politie, tenzij jouw bevoegdheden het uitdrukkelijk toelaten."
+        },
+        {
+          "type": "text",
+          "title": "Respectvol en veilig",
+          "body": "Fouilleren is een inbreuk op iemands lichaam en privacy. Doe het daarom zorgvuldig, ook als je wel bevoegd bent:\n\n- Leg vooraf uit wat je gaat doen en waarom.\n- Laat het zo mogelijk doen door iemand van **hetzelfde geslacht**.\n- Doe het buiten het zicht van omstanders.\n- Werk zo mogelijk met een collega erbij.\n\nBen je niet bevoegd en voel je je onveilig? Dan houd je **afstand**, praat je rustig en schakel je de **politie** in. Je eigen veiligheid gaat voor, maar geeft je geen extra bevoegdheden."
+        },
+        {
+          "type": "example",
+          "title": "Praktijk: een verdachte bewaren tot de politie komt",
+          "body": "Je hebt Yusuf op heterdaad aangehouden omdat hij een fietsenrek vernielde. Hij is boos en stopt zijn hand steeds in zijn jaszak. Je weet niet wat erin zit.\n\nJouw akte geeft geen bevoegdheid tot veiligheidsfouillering. Je fouilleert dus niet. Je zegt rustig: 'Wilt u uw handen uit uw zakken houden? De politie komt zo.' Je houdt afstand en je collega meldt de situatie aan de meldkamer met de mededeling dat er mogelijk een wapen is.\n\nDe politie komt en voert een veiligheidsfouillering uit. Daarna nemen zij Yusuf over voor de voorgeleiding."
+        },
+        {
+          "type": "exercise",
+          "title": "Oefening",
+          "questionId": "q-m02-l05-1"
+        },
+        {
+          "type": "check",
+          "title": "Kennischeck",
+          "questionIds": [
+            "q-m02-l05-2",
+            "q-m02-l05-3",
+            "q-m02-l05-4",
+            "q-m02-l05-5",
+            "q-m02-l05-6"
+          ]
+        },
+        {
+          "type": "summary",
+          "title": "Samenvatting"
+        }
+      ],
+      "summary": [
+        "Een veiligheidsfouillering is bedoeld om direct dreigend gevaar af te wenden (art. 7 lid 3 Politiewet 2012).",
+        "Als boa fouilleer je alleen als die bevoegdheid aan jou is toegekend. Beleid of een werkinstructie is geen grondslag.",
+        "De insluitingsfouillering is voor de veiligheid in de cel en is een taak van de politie.",
+        "Onderzoek aan kleding en lichaam voor het bewijs regelt art. 56 Sv; over onderzoek aan het lichaam beslist de (hulp)officier van justitie.",
+        "Niet bevoegd en onveilig? Houd afstand, communiceer rustig en schakel de politie in."
+      ],
+      "sourceRefs": [
+        {
+          "law": "Politiewet 2012",
+          "article": "art. 7 lid 3",
+          "verify": true
+        },
+        {
+          "law": "Ambtsinstructie voor de politie, de Koninklijke marechaussee en andere opsporingsambtenaren",
+          "note": "insluitingsfouillering en uitvoering",
+          "verify": true
+        },
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 56",
+          "verify": true
+        },
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 142"
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "juridische_review_nodig",
+      "reviewNote": "Controleren: (1) art. 7 lid 3 Politiewet 2012 als grondslag van de veiligheidsfouillering en de voorwaarden (direct dreigend gevaar, feiten of omstandigheden); (2) of en via welke regeling (akte, Beleidsregels boa, Ambtsinstructie) een boa in Domein I de bevoegdheid tot veiligheidsfouillering kan krijgen; (3) de grondslag van de insluitingsfouillering (Ambtsinstructie, artikelnummer) en of boa's die ooit uitvoeren; (4) art. 56 Sv: wie onderzoek aan kleding en aan het lichaam mag bevelen en uitvoeren (lid 1, lid 2) en de eis van zo mogelijk iemand van hetzelfde geslacht.",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    }
+  ],
+  "questions": [
+    {
+      "id": "q-m02-l01-1",
+      "moduleId": "m02",
+      "lessonId": "m02-l01",
+      "termIds": [],
+      "topic": "Kernbegrippen strafrecht",
+      "level": "K",
+      "type": "match",
+      "prompt": "Koppel elk begrip aan de juiste omschrijving.",
+      "pairs": [
+        {
+          "left": "Wettigheidsbeginsel",
+          "right": "Een gedraging is alleen strafbaar als een wet dat vooraf bepaalde"
+        },
+        {
+          "left": "Verdachte",
+          "right": "Iemand tegen wie een redelijk vermoeden van schuld bestaat"
+        },
+        {
+          "left": "Heterdaad",
+          "right": "Het feit wordt ontdekt terwijl of direct nadat het wordt gepleegd"
+        },
+        {
+          "left": "Bestanddeel",
+          "right": "Onderdeel van de delictsomschrijving dat bewezen moet worden"
+        },
+        {
+          "left": "Buitengewoon opsporingsambtenaar",
+          "right": "Opsporingsambtenaar met bevoegdheden volgens akte en domein"
+        }
+      ],
+      "explanation": "Het wettigheidsbeginsel staat in art. 1 Sr. De verdachte is omschreven in art. 27 Sv, heterdaad in art. 128 Sv. De boa is opsporingsambtenaar op grond van art. 142 Sv, binnen de grenzen van akte en domein.",
+      "sourceRefs": [
+        {
+          "law": "Wetboek van Strafrecht",
+          "article": "art. 1"
+        },
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 27"
+        },
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 128"
+        },
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 142"
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "concept",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m02-l01-2",
+      "moduleId": "m02",
+      "lessonId": "m02-l01",
+      "termIds": [],
+      "topic": "Wettigheidsbeginsel",
+      "level": "K",
+      "type": "mc",
+      "prompt": "Wat houdt het wettigheidsbeginsel van art. 1 Sr in?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Een gedraging is alleen strafbaar als een wettelijke bepaling dat vóóraf zo regelde",
+          "feedback": "Juist. Art. 1 Sr bepaalt dat een feit alleen strafbaar is op grond van een wettelijke strafbepaling die al gold vóór het feit."
+        },
+        {
+          "id": "b",
+          "text": "Een gedraging is strafbaar zodra de gemeente beleid heeft vastgesteld dat het verbiedt",
+          "feedback": "Onjuist. Beleid maakt niets strafbaar. Er is een wettelijke strafbepaling nodig, bijvoorbeeld in een wet of verordening (art. 1 Sr)."
+        },
+        {
+          "id": "c",
+          "text": "Een gedraging is strafbaar als de officier van justitie dat achteraf zo beslist",
+          "feedback": "Onjuist. Strafbaarheid moet vooraf in de wet vastliggen. Een beslissing achteraf is in strijd met art. 1 Sr."
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "Art. 1 Sr: geen feit is strafbaar dan op grond van een voorafgaande wettelijke strafbepaling. Ook een APV-bepaling kan zo'n strafbepaling zijn, maar beleid niet.",
+      "sourceRefs": [
+        {
+          "law": "Wetboek van Strafrecht",
+          "article": "art. 1"
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "concept",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m02-l01-3",
+      "moduleId": "m02",
+      "lessonId": "m02-l01",
+      "termIds": [],
+      "topic": "Verdachte",
+      "level": "B",
+      "type": "mc",
+      "prompt": "Wanneer is iemand volgens art. 27 Sv een verdachte?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Als jij als boa sterk het gevoel hebt dat iemand iets verkeerds van plan is",
+          "feedback": "Onjuist. Een gevoel is niet genoeg. Art. 27 Sv eist feiten of omstandigheden waaruit een redelijk vermoeden van schuld volgt."
+        },
+        {
+          "id": "b",
+          "text": "Als iemand in de buurt is op het moment dat er een strafbaar feit wordt ontdekt",
+          "feedback": "Onjuist. Alleen aanwezig zijn is meestal geen feit of omstandigheid die een redelijk vermoeden van schuld oplevert (art. 27 Sv)."
+        },
+        {
+          "id": "c",
+          "text": "Als feiten of omstandigheden een redelijk vermoeden van schuld opleveren",
+          "feedback": "Juist. Dit is de omschrijving van de verdachte in art. 27 Sv. Het vermoeden moet objectief te onderbouwen zijn."
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "Art. 27 Sv: verdachte is degene tegen wie uit feiten of omstandigheden een redelijk vermoeden van schuld aan een strafbaar feit voortvloeit. Een ander moet je vermoeden kunnen volgen.",
+      "sourceRefs": [
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 27 lid 1"
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "concept",
+      "version": "1.1",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m02-l01-4",
+      "moduleId": "m02",
+      "lessonId": "m02-l01",
+      "termIds": [],
+      "topic": "Heterdaad",
+      "level": "T",
+      "type": "mc",
+      "case": "Een winkelier belt je. Hij ziet op dat moment hoe Ruben een lege fles kapot gooit op het plein. Twee minuten later ben je ter plaatse en wijst de winkelier Ruben aan, die nog tussen de scherven staat.",
+      "prompt": "Is hier sprake van ontdekking op heterdaad?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Nee, want je hebt het niet zelf gezien, de melder heeft het gezien",
+          "feedback": "Onjuist. Heterdaad gaat over het moment van ontdekking, niet over wie het ziet. Art. 128 Sv eist niet dat jij het zelf ziet."
+        },
+        {
+          "id": "b",
+          "text": "Ja, het feit wordt ontdekt terwijl het wordt gepleegd of direct daarna",
+          "feedback": "Juist. Art. 128 Sv: ontdekking op heterdaad is er als het feit wordt ontdekt terwijl het begaan wordt, of terstond nadat het begaan is."
+        },
+        {
+          "id": "c",
+          "text": "Nee, heterdaad is er alleen als de dader nog met het voorwerp in zijn handen staat",
+          "feedback": "Onjuist. Die eis staat niet in art. 128 Sv. Het gaat erom dat de ontdekking tijdens of direct na het feit plaatsvindt."
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "Art. 128 Sv omschrijft heterdaad als ontdekking tijdens of terstond na het plegen van het feit. Hoeveel tijd 'terstond' precies is, hangt af van de omstandigheden.",
+      "sourceRefs": [
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 128"
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "concept",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m02-l01-5",
+      "moduleId": "m02",
+      "lessonId": "m02-l01",
+      "termIds": [],
+      "topic": "Boa als opsporingsambtenaar",
+      "level": "B",
+      "type": "mc",
+      "prompt": "Waarom mag een boa in Domein I niet zomaar elk strafbaar feit opsporen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Omdat een boa alleen mag optreden als de politie daar vooraf toestemming voor geeft",
+          "feedback": "Onjuist. De boa heeft eigen opsporingsbevoegdheid op grond van art. 142 Sv. Toestemming van de politie is niet de grondslag."
+        },
+        {
+          "id": "b",
+          "text": "Omdat de gemeente in haar handhavingsbeleid per jaar vastlegt welke feiten de boa opspoort",
+          "feedback": "Onjuist. Beleid bepaalt prioriteiten, maar is geen bevoegdheidsgrondslag. De bevoegdheid volgt uit de wet, de akte en het domein."
+        },
+        {
+          "id": "c",
+          "text": "Omdat zijn opsporingsbevoegdheid beperkt is tot de feiten uit zijn akte en domein",
+          "feedback": "Juist. Een boa is opsporingsambtenaar op grond van art. 142 Sv, maar alleen voor de feiten en bevoegdheden die bij zijn akte en domein horen."
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "Een boa is buitengewoon opsporingsambtenaar (art. 142 Sv). Zijn opsporingsbevoegdheid is beperkt tot wat de akte van opsporingsbevoegdheid en de domeinlijst geven. Beleid kan prioriteiten stellen, maar geeft geen bevoegdheid.",
+      "sourceRefs": [
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 142"
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "concept",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m02-l01-6",
+      "moduleId": "m02",
+      "lessonId": "m02-l01",
+      "termIds": [],
+      "topic": "Misdrijf en overtreding",
+      "level": "K",
+      "type": "truefalse",
+      "prompt": "Stelling: in het Wetboek van Strafrecht staan de misdrijven in Boek 2 en de overtredingen in Boek 3.",
+      "correctAnswer": true,
+      "feedbackTrue": "Juist. Het Wetboek van Strafrecht deelt de strafbare feiten in: Boek 2 bevat de misdrijven, Boek 3 de overtredingen.",
+      "feedbackFalse": "Onjuist. De stelling klopt wel: Boek 2 Sr bevat de misdrijven en Boek 3 Sr de overtredingen.",
+      "explanation": "Het Wetboek van Strafrecht maakt onderscheid tussen misdrijven (Boek 2) en overtredingen (Boek 3). Bij bijzondere wetten bepaalt de wet zelf wat een misdrijf of overtreding is.",
+      "sourceRefs": [
+        {
+          "law": "Wetboek van Strafrecht",
+          "article": "Boek 2 en Boek 3"
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "concept",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m02-l02-1",
+      "moduleId": "m02",
+      "lessonId": "m02-l02",
+      "termIds": [],
+      "topic": "Staande houden",
+      "level": "T",
+      "type": "order",
+      "prompt": "Zet de stappen bij het staande houden van een verdachte in de juiste volgorde.",
+      "items": [
+        "Je stelt vast dat er een redelijk vermoeden van schuld is",
+        "Je houdt de verdachte staande en zegt dat je boa bent",
+        "Je vraagt naar naam, voornamen, geboortedatum en -plaats en adres",
+        "Je vordert het identiteitsbewijs en controleert het",
+        "Je geeft de cautie voordat je vragen stelt over het feit"
+      ],
+      "explanation": "Eerst moet er een verdachte zijn (art. 27 Sv). Dan mag je hem staande houden om zijn identiteit vast te stellen (art. 52 Sv). Je vraagt naar de personalia en onderzoekt het identiteitsbewijs (art. 27a Sv). Wil je daarna vragen stellen over het feit, dan geef je eerst de cautie (art. 29 lid 2 Sv).",
+      "sourceRefs": [
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 27"
+        },
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 52"
+        },
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 27a lid 1"
+        },
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 29 lid 2"
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "concept",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m02-l02-2",
+      "moduleId": "m02",
+      "lessonId": "m02-l02",
+      "termIds": [],
+      "topic": "Staande houden",
+      "level": "K",
+      "type": "mc",
+      "prompt": "Met welk doel mag je een verdachte staande houden op grond van art. 52 Sv?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Om zijn identiteit vast te stellen",
+          "feedback": "Juist. Art. 52 Sv geeft de bevoegdheid een verdachte staande te houden om zijn identiteit vast te stellen."
+        },
+        {
+          "id": "b",
+          "text": "Om hem mee te nemen naar het politiebureau",
+          "feedback": "Onjuist. Meenemen is aanhouden (art. 53 en 54 Sv). Staande houden is alleen kort laten stilstaan voor de identiteit."
+        },
+        {
+          "id": "c",
+          "text": "Om zijn tas te doorzoeken op verboden spullen",
+          "feedback": "Onjuist. Staande houden geeft geen bevoegdheid tot doorzoeken. Daarvoor is een aparte wettelijke grondslag nodig."
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "Art. 52 Sv: iedere opsporingsambtenaar mag een verdachte staande houden om zijn identiteit vast te stellen op de manier van art. 27a lid 1 Sv. Het is een korte vrijheidsbeperking, geen aanhouding.",
+      "sourceRefs": [
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 52"
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "concept",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m02-l02-3",
+      "moduleId": "m02",
+      "lessonId": "m02-l02",
+      "termIds": [],
+      "topic": "Identiteit vaststellen",
+      "level": "K",
+      "type": "mc",
+      "prompt": "Welke gegevens mag je vragen bij het vaststellen van de identiteit volgens art. 27a Sv?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Naam, voornamen, beroep, werkgever en adres",
+          "feedback": "Onjuist. Beroep en werkgever horen niet bij de gegevens van art. 27a lid 1 Sv."
+        },
+        {
+          "id": "b",
+          "text": "Naam, voornamen, telefoonnummer en e-mailadres",
+          "feedback": "Onjuist. Telefoonnummer en e-mailadres staan niet in art. 27a lid 1 Sv. Die mag iemand weigeren te geven."
+        },
+        {
+          "id": "c",
+          "text": "Naam, voornamen, geboorteplaats en -datum en adres",
+          "feedback": "Juist. Art. 27a lid 1 Sv noemt naam, voornamen, geboorteplaats en -datum, het adres van inschrijving en het adres waar iemand verblijft."
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "Art. 27a lid 1 Sv: de identiteit stel je vast door te vragen naar naam, voornamen, geboorteplaats en -datum, het adres waarop iemand in de basisregistratie personen staat en het adres waar hij feitelijk verblijft, en door het identiteitsbewijs te onderzoeken.",
+      "sourceRefs": [
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 27a lid 1"
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "concept",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m02-l02-4",
+      "moduleId": "m02",
+      "lessonId": "m02-l02",
+      "termIds": [],
+      "topic": "Identificatieplicht",
+      "level": "T",
+      "type": "mc",
+      "case": "Je houdt Daan (32) staande omdat hij met zijn hond loopt in een gebied waar dat verboden is. Je vraagt zijn identiteitsbewijs. Hij heeft het bij zich, maar zegt: 'Dat hoef ik jou niet te laten zien.'",
+      "prompt": "Wat geldt voor Daan nu hij weigert zijn identiteitsbewijs te tonen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Hij mag weigeren, want een verdachte hoeft niet aan zijn eigen vervolging mee te werken",
+          "feedback": "Onjuist. Het zwijgrecht geldt voor vragen over het feit. Het tonen van een identiteitsbewijs is een wettelijke plicht."
+        },
+        {
+          "id": "b",
+          "text": "Hij pleegt een strafbaar feit, want hij moet zijn identiteitsbewijs op vordering tonen",
+          "feedback": "Juist. Wie verplicht is een identiteitsbewijs te tonen en dat niet doet, is strafbaar op grond van art. 447e Sr."
+        },
+        {
+          "id": "c",
+          "text": "Hij pleegt alleen een strafbaar feit als hij helemaal geen identiteitsbewijs bezit",
+          "feedback": "Onjuist. Ook wie een identiteitsbewijs heeft maar het niet laat zien, voldoet niet aan de plicht. Dat is strafbaar (art. 447e Sr)."
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "Iemand van 14 jaar of ouder moet op vordering een geldig identiteitsbewijs tonen (Wet op de identificatieplicht). Niet tonen is strafbaar volgens art. 447e Sr. Het zwijgrecht geldt niet voor deze plicht.",
+      "sourceRefs": [
+        {
+          "law": "Wetboek van Strafrecht",
+          "article": "art. 447e"
+        },
+        {
+          "law": "Wet op de identificatieplicht",
+          "article": "art. 1 en art. 2",
+          "note": "toonplicht en vorderingsbevoegdheid",
+          "verify": true
+        },
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 27a lid 1"
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "juridische_review_nodig",
+      "reviewNote": "Controleren: (1) of de verplichting van de verdachte om op vordering van een opsporingsambtenaar een identiteitsbewijs te tonen in art. 2 WID of in art. 27a Sv is geregeld, en hoe art. 2 WID precies luidt (welke ambtenaren, leeftijd 14 jaar); (2) of art. 435 aanhef en onder 4 Sr de juiste grondslag is voor het opgeven van een valse naam of vals adres. Eindredactie 2026-11-02: nagaan of de toonplicht tegenover een boa (als opsporingsambtenaar, niet als toezichthouder) via art. 27a lid 1 Sv loopt en of art. 447e Sr daar dan naar verwijst; de explanation noemt nu alleen de WID.",
+      "version": "1.1",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m02-l02-5",
+      "moduleId": "m02",
+      "lessonId": "m02-l02",
+      "termIds": [],
+      "topic": "Zwijgrecht",
+      "level": "B",
+      "type": "mc",
+      "prompt": "Je hebt een verdachte staande gehouden en zijn identiteit vastgesteld. Je wilt nu weten waarom hij het feit pleegde. Wat geldt?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Hij moet antwoorden, want hij is staande gehouden",
+          "feedback": "Onjuist. Staande houden verplicht niet tot antwoorden over het feit. Wel moet hij op vordering zijn identiteitsbewijs tonen."
+        },
+        {
+          "id": "b",
+          "text": "Hij hoeft niet te antwoorden, en je geeft eerst de cautie",
+          "feedback": "Juist. De verdachte is niet verplicht tot antwoorden (art. 29 lid 1 Sv). Vóór het verhoor zeg je dat (cautie, art. 29 lid 2 Sv)."
+        },
+        {
+          "id": "c",
+          "text": "Hij hoeft alleen te antwoorden als hij ouder is dan 18",
+          "feedback": "Onjuist. Het zwijgrecht geldt voor iedere verdachte, ongeacht leeftijd (art. 29 Sv)."
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "Een verdachte hoeft niet mee te werken aan vragen over het feit. Hij is niet verplicht tot antwoorden (art. 29 lid 1 Sv) en je geeft vóór het verhoor de cautie (art. 29 lid 2 Sv). Dat staat los van de plicht om zich te identificeren.",
+      "sourceRefs": [
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 29 lid 1"
+        },
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 29 lid 2"
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "concept",
+      "version": "1.1",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m02-l02-6",
+      "moduleId": "m02",
+      "lessonId": "m02-l02",
+      "termIds": [],
+      "topic": "Valse personalia",
+      "level": "K",
+      "type": "mc",
+      "prompt": "Een verdachte geeft je bij het staande houden bewust een valse naam op. Wat geldt voor die valse opgave?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Dat is een apart strafbaar feit",
+          "feedback": "Juist. Het opgeven van een valse naam of vals adres aan een ambtenaar die daarnaar vraagt, is apart strafbaar (art. 435 Sr)."
+        },
+        {
+          "id": "b",
+          "text": "Dat valt onder zijn zwijgrecht",
+          "feedback": "Onjuist. Het zwijgrecht geeft het recht om te zwijgen, niet het recht om te liegen over de identiteit. Valse personalia opgeven is strafbaar (art. 435 Sr)."
+        },
+        {
+          "id": "c",
+          "text": "Dat mag, zolang hij geen identiteitsbewijs bij zich heeft",
+          "feedback": "Onjuist. Of iemand een identiteitsbewijs bij zich heeft, maakt niet uit. Een valse naam opgeven is strafbaar (art. 435 Sr)."
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "Wie aan een ambtenaar die daarnaar vraagt een valse naam, voornaam of vals adres opgeeft, pleegt een overtreding (art. 435 Sr). Het zwijgrecht gaat over vragen over het feit, niet over liegen over de identiteit.",
+      "sourceRefs": [
+        {
+          "law": "Wetboek van Strafrecht",
+          "article": "art. 435 aanhef en onder 4",
+          "verify": true
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "juridische_review_nodig",
+      "reviewNote": "Controleren of art. 435 aanhef en onder 4 Sr de juiste vindplaats is en of de omschrijving (valse naam, voornaam, vals adres aan een ambtenaar die daarnaar vraagt) klopt.",
+      "version": "1.1",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m02-l03-1",
+      "moduleId": "m02",
+      "lessonId": "m02-l03",
+      "termIds": [],
+      "topic": "Aanhouden op heterdaad",
+      "level": "T",
+      "type": "mc",
+      "case": "Tijdens je dienst zie je hoe Sander met een stoeptegel de ruit van een bushokje inslaat. Hij wil weglopen. Er is geen politie in de buurt.",
+      "prompt": "Mag je Sander aanhouden?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Nee, aanhouden is altijd voorbehouden aan de politie",
+          "feedback": "Onjuist. Bij ontdekking op heterdaad mag iedereen een verdachte aanhouden (art. 53 lid 1 Sv), dus jij ook."
+        },
+        {
+          "id": "b",
+          "text": "Nee, want vernieling is een misdrijf en dat valt buiten Domein I",
+          "feedback": "Onjuist. Bij heterdaad mag iedereen aanhouden, ook voor een feit buiten je domein (art. 53 lid 1 Sv). Daarna draag je over aan de politie."
+        },
+        {
+          "id": "c",
+          "text": "Ja, bij heterdaad mag iedereen een verdachte aanhouden",
+          "feedback": "Juist. Je ontdekt de vernieling terwijl die gebeurt. Bij heterdaad is ieder bevoegd de verdachte aan te houden (art. 53 lid 1 Sv)."
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "Art. 53 lid 1 Sv: bij ontdekking op heterdaad is ieder bevoegd de verdachte aan te houden. Daarna moet de aangehoudene onverwijld worden voorgeleid aan een (hulp)officier van justitie. Weeg af of aanhouden nodig is en veilig kan.",
+      "sourceRefs": [
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 53 lid 1"
+        },
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 128"
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "concept",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m02-l03-2",
+      "moduleId": "m02",
+      "lessonId": "m02-l03",
+      "termIds": [],
+      "topic": "Aanhouden op heterdaad",
+      "level": "K",
+      "type": "mc",
+      "prompt": "Wie mag volgens art. 53 lid 1 Sv een verdachte op heterdaad aanhouden?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Alleen politieagenten en boa's met een geweldsbevoegdheid",
+          "feedback": "Onjuist. Art. 53 lid 1 Sv beperkt de bevoegdheid niet tot bepaalde ambtenaren. Iedereen mag aanhouden bij heterdaad."
+        },
+        {
+          "id": "b",
+          "text": "Iedereen, dus ook een burger",
+          "feedback": "Juist. Bij ontdekking op heterdaad is ieder bevoegd de verdachte aan te houden (art. 53 lid 1 Sv)."
+        },
+        {
+          "id": "c",
+          "text": "Alleen opsporingsambtenaren met een akte",
+          "feedback": "Onjuist. Ook een burger zonder akte mag bij heterdaad aanhouden (art. 53 lid 1 Sv)."
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "Art. 53 lid 1 Sv geeft ieder de bevoegdheid om bij heterdaad de verdachte aan te houden. Het feit hoeft daarvoor geen misdrijf te zijn.",
+      "sourceRefs": [
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 53 lid 1"
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "concept",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m02-l03-3",
+      "moduleId": "m02",
+      "lessonId": "m02-l03",
+      "termIds": [],
+      "topic": "Aanhouden buiten heterdaad",
+      "level": "B",
+      "type": "mc",
+      "prompt": "Wat is het verschil tussen aanhouden op heterdaad en buiten heterdaad?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Buiten heterdaad moet voorlopige hechtenis voor het feit zijn toegelaten",
+          "feedback": "Juist. Art. 54 Sv eist buiten heterdaad een verdenking van een misdrijf waarvoor voorlopige hechtenis is toegelaten. Bij heterdaad geldt die eis niet."
+        },
+        {
+          "id": "b",
+          "text": "Buiten heterdaad mag iedereen aanhouden, maar alleen bij een misdrijf",
+          "feedback": "Onjuist. Buiten heterdaad mag niet iedereen aanhouden. De bevoegdheid ligt bij de officier van justitie (art. 54 Sv)."
+        },
+        {
+          "id": "c",
+          "text": "Er is geen verschil: in beide gevallen mag iedereen de verdachte aanhouden",
+          "feedback": "Onjuist. Alleen bij heterdaad mag iedereen aanhouden (art. 53 Sv). Buiten heterdaad gelden strengere eisen en ligt de bevoegdheid bij de officier van justitie (art. 54 Sv)."
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "Buiten heterdaad mag alleen worden aangehouden bij verdenking van een misdrijf waarvoor voorlopige hechtenis is toegelaten (art. 54 Sv, zie art. 67 Sv). De bevoegdheid ligt bij de officier van justitie. Alleen als zijn bevel niet kan worden afgewacht, mag de hulpofficier en daarna een opsporingsambtenaar dat zelf.",
+      "sourceRefs": [
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 54",
+          "verify": true
+        },
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 67"
+        },
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 53 lid 1"
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "juridische_review_nodig",
+      "reviewNote": "Controleren: art. 54 Sv leden 1–3: bevoegdheid OvJ (lid 1), hulpofficier als het bevel van de OvJ niet kan worden afgewacht (lid 2) en opsporingsambtenaar als ook de hulpofficier niet kan worden afgewacht (lid 3?). Daarnaast nagaan of en hoe de akte/het domein van de boa deze bevoegdheid beperkt.",
+      "version": "1.1",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m02-l03-4",
+      "moduleId": "m02",
+      "lessonId": "m02-l03",
+      "termIds": [],
+      "topic": "Voorgeleiden",
+      "level": "K",
+      "type": "mc",
+      "prompt": "Je hebt een verdachte op heterdaad aangehouden. Wat moet er dan gebeuren?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Je laat hem gaan nadat je zijn identiteit hebt vastgesteld",
+          "feedback": "Onjuist. Na een aanhouding beslis jij niet zelf over vrijlaten. De aangehoudene moet worden voorgeleid (art. 53 Sv)."
+        },
+        {
+          "id": "b",
+          "text": "Je houdt hem vast tot de officier van justitie de volgende dag beslist",
+          "feedback": "Onjuist. Dat duurt te lang. De wet eist dat je de aangehoudene onverwijld laat voorgeleiden (art. 53 Sv)."
+        },
+        {
+          "id": "c",
+          "text": "Hij wordt onverwijld voorgeleid aan een (hulp)officier van justitie",
+          "feedback": "Juist. Na een aanhouding wordt de verdachte zonder uitstel voorgeleid aan de officier of hulpofficier van justitie (art. 53 Sv)."
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "Na een aanhouding moet de aangehoudene onverwijld worden voorgeleid aan de officier van justitie of de hulpofficier van justitie (art. 53 Sv). In de praktijk breng je de verdachte over aan de politie, die de voorgeleiding regelt.",
+      "sourceRefs": [
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 53 lid 2 en lid 3",
+          "verify": true
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "juridische_review_nodig",
+      "reviewNote": "Controleren: verdeling over de leden van art. 53 Sv (in welk lid de voorgeleiding aan de (hulp)officier van justitie staat en in welk lid de overlevering door een burger aan een opsporingsambtenaar) en de exacte formulering 'onverwijld'.",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m02-l03-5",
+      "moduleId": "m02",
+      "lessonId": "m02-l03",
+      "termIds": [],
+      "topic": "Proportionaliteit en subsidiariteit",
+      "level": "B",
+      "type": "truefalse",
+      "prompt": "Stelling: als je bevoegd bent om aan te houden, ben je ook verplicht om altijd aan te houden.",
+      "correctAnswer": false,
+      "feedbackTrue": "Onjuist. Een bevoegdheid is geen plicht. Je weegt af of aanhouden in verhouding staat tot het feit en of een lichter middel volstaat.",
+      "feedbackFalse": "Juist. Een bevoegdheid geeft een mogelijkheid. Je kiest het lichtste middel dat werkt en let op de verhouding tot het feit (proportionaliteit en subsidiariteit).",
+      "explanation": "Een bevoegdheid is een mogelijkheid, geen plicht. Je kiest het lichtste middel dat het doel bereikt (subsidiariteit) en het middel moet in verhouding staan tot het feit (proportionaliteit). Bij geweld zijn deze eisen in de wet vastgelegd (art. 7 Politiewet 2012).",
+      "sourceRefs": [
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 53 lid 1"
+        },
+        {
+          "law": "Politiewet 2012",
+          "article": "art. 7 lid 5",
+          "note": "eisen bij geweld",
+          "verify": true
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "juridische_review_nodig",
+      "reviewNote": "Controleren: of art. 7 lid 5 Politiewet 2012 de juiste vindplaats is voor proportionaliteit en subsidiariteit bij geweld, en de toepasselijkheid op boa's via de Ambtsinstructie.",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m02-l03-6",
+      "moduleId": "m02",
+      "lessonId": "m02-l03",
+      "termIds": [],
+      "topic": "Proportionaliteit en subsidiariteit",
+      "level": "T",
+      "type": "mc",
+      "case": "Je ziet Lisa een sigarettenpeuk op straat gooien. Dat is in jouw gemeente verboden in de APV. Je spreekt haar aan. Ze werkt mee en heeft haar identiteitskaart bij zich.",
+      "prompt": "Welk optreden past het best bij dit feit?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Je houdt Lisa aan, want bij heterdaad mag dat altijd en is dat het veiligst",
+          "feedback": "Onjuist. Je bent wel bevoegd (art. 53 lid 1 Sv), maar aanhouden staat hier niet in verhouding tot het feit. Lisa werkt mee en er is een lichter middel."
+        },
+        {
+          "id": "b",
+          "text": "Je houdt Lisa staande, stelt haar identiteit vast en handelt het feit af",
+          "feedback": "Juist. Staande houden (art. 52 Sv) is genoeg om het feit af te handelen. Aanhouden is hier niet proportioneel en niet nodig (subsidiariteit)."
+        },
+        {
+          "id": "c",
+          "text": "Je laat Lisa gaan, want bij een overtreding mag je als boa niets doen",
+          "feedback": "Onjuist. Je bent bevoegd op te treden als het feit bij jouw domein hoort. Staande houden en identificeren mag (art. 52 Sv)."
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "Bevoegd zijn is niet hetzelfde als moeten. Als staande houden en identificeren genoeg is om het feit af te handelen, kies je dat lichtere middel (subsidiariteit). Aanhouden voor een licht feit van iemand die meewerkt, staat niet in verhouding (proportionaliteit).",
+      "sourceRefs": [
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 52"
+        },
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 53 lid 1"
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "concept",
+      "version": "1.1",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m02-l04-1",
+      "moduleId": "m02",
+      "lessonId": "m02-l04",
+      "termIds": [],
+      "topic": "Rechten bij verhoor",
+      "level": "T",
+      "type": "order",
+      "prompt": "Je hebt een verdachte staande gehouden en wilt hem ter plaatse vragen stellen over het feit. Zet de stappen in de juiste volgorde.",
+      "items": [
+        "Je stelt de identiteit vast",
+        "Je zegt dat hij niet verplicht is tot antwoorden (cautie)",
+        "Je stelt je vragen over het feit",
+        "Je noteert de verklaring en dat je de cautie hebt gegeven"
+      ],
+      "explanation": "Eerst stel je de identiteit vast (art. 52 en 27a Sv). Voordat je vragen over het feit stelt, geef je de cautie (art. 29 lid 2 Sv). Daarna verhoor je. In je proces-verbaal leg je vast dat je de cautie hebt gegeven.",
+      "sourceRefs": [
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 52"
+        },
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 27a lid 1"
+        },
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 29 lid 2"
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "concept",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m02-l04-2",
+      "moduleId": "m02",
+      "lessonId": "m02-l04",
+      "termIds": [],
+      "topic": "Cautie",
+      "level": "K",
+      "type": "mc",
+      "prompt": "Wat is de cautie?",
+      "options": [
+        {
+          "id": "a",
+          "text": "De mededeling aan de verdachte dat hij is aangehouden",
+          "feedback": "Onjuist. Dat is de mededeling van de aanhouding. De cautie gaat over het zwijgrecht (art. 29 lid 2 Sv)."
+        },
+        {
+          "id": "b",
+          "text": "De mededeling aan de verdachte dat hij niet verplicht is tot antwoorden",
+          "feedback": "Juist. Vóór het verhoor wordt de verdachte meegedeeld dat hij niet verplicht is tot antwoorden (art. 29 lid 2 Sv)."
+        },
+        {
+          "id": "c",
+          "text": "De mededeling aan de verdachte dat hij zijn identiteitsbewijs moet tonen",
+          "feedback": "Onjuist. Dat is de vordering van het identiteitsbewijs. De cautie gaat over het recht om te zwijgen (art. 29 lid 2 Sv)."
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "Art. 29 lid 2 Sv: vóór het verhoor zeg je de verdachte dat hij niet verplicht is tot antwoorden. Dat heet de cautie. Je legt in je proces-verbaal vast dat je de cautie hebt gegeven.",
+      "sourceRefs": [
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 29 lid 2"
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "concept",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m02-l04-3",
+      "moduleId": "m02",
+      "lessonId": "m02-l04",
+      "termIds": [],
+      "topic": "Verhoor",
+      "level": "B",
+      "type": "mc",
+      "prompt": "Wanneer is er sprake van een verhoor waarvoor je de cautie moet geven?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Als je de verdachte vraagt naar zijn naam, geboortedatum en adres",
+          "feedback": "Onjuist. Vragen naar de identiteit (art. 27a Sv) is geen verhoor over het feit. Daarvoor geldt geen cautieplicht."
+        },
+        {
+          "id": "b",
+          "text": "Pas als de verdachte is aangehouden en op het politiebureau zit",
+          "feedback": "Onjuist. Een verhoor kan ook op straat plaatsvinden, ook als de verdachte niet is aangehouden. Waar je bent, maakt niet uit."
+        },
+        {
+          "id": "c",
+          "text": "Als je de verdachte vraagt naar zijn betrokkenheid bij het feit",
+          "feedback": "Juist. Zodra je een verdachte vragen stelt over zijn betrokkenheid bij het strafbare feit, is dat een verhoor. Daarvoor geef je de cautie (art. 29 lid 2 Sv)."
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "Een verhoor is het stellen van vragen aan een verdachte over zijn betrokkenheid bij een strafbaar feit. Dat kan ook op straat. Vóór het verhoor geef je de cautie (art. 29 lid 2 Sv). Vragen naar de identiteit vallen daar niet onder.",
+      "sourceRefs": [
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 29 lid 2"
+        },
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 27a lid 1"
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "concept",
+      "version": "1.1",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m02-l04-4",
+      "moduleId": "m02",
+      "lessonId": "m02-l04",
+      "termIds": [],
+      "topic": "Cautie",
+      "level": "T",
+      "type": "mc",
+      "case": "In een park waar honden aangelijnd moeten zijn, zie je een loslopende hond. Noor staat erbij met een lege riem in haar hand. Je vraagt meteen: 'Heeft u die hond losgelaten?' Ze zegt: 'Ja.'",
+      "prompt": "Wat had je moeten doen voordat je deze vraag stelde?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Eerst de cautie geven, en pas daarna je vraag over de hond stellen",
+          "feedback": "Juist. Noor was al verdachte. Je vraag gaat over haar betrokkenheid bij het feit. Daarom moet je eerst de cautie geven (art. 29 lid 2 Sv)."
+        },
+        {
+          "id": "b",
+          "text": "Niets anders, want de cautie is alleen nodig als je iemand aanhoudt",
+          "feedback": "Onjuist. De cautie hangt niet af van een aanhouding. Ook bij een verdachte die niet is aangehouden geef je de cautie vóór het verhoor (art. 29 lid 2 Sv)."
+        },
+        {
+          "id": "c",
+          "text": "Niets anders, want de cautie is alleen nodig bij een misdrijf",
+          "feedback": "Onjuist. De cautieplicht geldt bij ieder verhoor van een verdachte, ook bij een overtreding (art. 29 lid 2 Sv)."
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "Noor was verdachte (art. 27 Sv) en je stelde een vraag over haar betrokkenheid bij het feit. Dat is een verhoor. Vóór het verhoor moet de cautie worden gegeven (art. 29 lid 2 Sv). Zonder cautie kan haar verklaring mogelijk niet voor het bewijs worden gebruikt.",
+      "sourceRefs": [
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 27 lid 1"
+        },
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 29 lid 2"
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "concept",
+      "version": "1.1",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m02-l04-5",
+      "moduleId": "m02",
+      "lessonId": "m02-l04",
+      "termIds": [],
+      "topic": "Recht op rechtsbijstand",
+      "level": "K",
+      "type": "mc",
+      "prompt": "Welk recht heeft een aangehouden verdachte voordat de politie hem voor het eerst verhoort?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Het recht om zelf te kiezen of hij door een boa of door de politie wordt verhoord",
+          "feedback": "Onjuist. Dat recht bestaat niet. De verdachte heeft wel recht op rechtsbijstand (art. 28 e.v. Sv)."
+        },
+        {
+          "id": "b",
+          "text": "Het recht om vóór het verhoor een advocaat te raadplegen",
+          "feedback": "Juist. Een aangehouden verdachte heeft recht op een gesprek met een advocaat vóór het eerste verhoor: consultatiebijstand (art. 28c Sv)."
+        },
+        {
+          "id": "c",
+          "text": "Het recht om pas na afloop van het onderzoek te worden verhoord",
+          "feedback": "Onjuist. Dat recht bestaat niet. Het verhoor mag plaatsvinden, maar de verdachte heeft recht op rechtsbijstand (art. 28 e.v. Sv)."
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "Een aangehouden verdachte heeft recht om vóór het eerste verhoor een advocaat te raadplegen (consultatiebijstand) en heeft recht op bijstand tijdens het verhoor (verhoorbijstand). Zie art. 28 e.v. Sv. Hij wordt over deze rechten geïnformeerd (art. 27c Sv).",
+      "sourceRefs": [
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 28"
+        },
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 28c",
+          "note": "consultatiebijstand",
+          "verify": true
+        },
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 28d",
+          "note": "verhoorbijstand",
+          "verify": true
+        },
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 27c",
+          "verify": true
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "juridische_review_nodig",
+      "reviewNote": "Controleren: (1) art. 27c Sv: welke rechten bij aanhouding (lid 1) en vóór het eerste verhoor (lid 2/3) moeten worden meegedeeld, en de schriftelijke verklaring van rechten; (2) art. 28 e.v. Sv: vindplaats van consultatiebijstand (art. 28c Sv) en verhoorbijstand (art. 28d Sv), de regeling van afstand (art. 28a Sv) en de uitzondering voor minderjarigen; (3) of en hoe het recht op consultatie geldt voor de niet-aangehouden verdachte van een licht feit dat ter plaatse wordt afgedaan; (4) art. 27c en art. 29a Sv als grondslag voor het recht op een tolk.",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m02-l04-6",
+      "moduleId": "m02",
+      "lessonId": "m02-l04",
+      "termIds": [],
+      "topic": "Recht op tolk",
+      "level": "T",
+      "type": "mc",
+      "prompt": "Wat geldt als je een verdachte wilt verhoren die de Nederlandse taal niet of onvoldoende begrijpt?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Je verhoort gewoon in het Nederlands; hij moet zelf zorgen voor vertaling",
+          "feedback": "Onjuist. Een verdachte die de taal niet goed begrijpt, heeft recht op een tolk. Anders begrijpt hij zijn rechten en de vragen niet."
+        },
+        {
+          "id": "b",
+          "text": "Je mag hem niet verhoren en hoeft het feit dus ook niet af te handelen",
+          "feedback": "Onjuist. Je mag het feit wel afhandelen. Je moet er wel voor zorgen dat de verdachte begrijpt wat er gebeurt, zo nodig met een tolk."
+        },
+        {
+          "id": "c",
+          "text": "Hij heeft recht op een tolk, ook bij het meedelen van zijn rechten",
+          "feedback": "Juist. Een verdachte die de taal niet of onvoldoende beheerst, heeft recht op een tolk bij het verhoor en bij de mededeling van zijn rechten."
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "Een verdachte moet zijn rechten en de vragen kunnen begrijpen. Beheerst hij het Nederlands niet of onvoldoende, dan heeft hij recht op bijstand van een tolk (art. 27c en 29a Sv).",
+      "sourceRefs": [
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 27c",
+          "verify": true
+        },
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 29a",
+          "note": "recht op tolk",
+          "verify": true
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "juridische_review_nodig",
+      "reviewNote": "Controleren: (1) art. 27c Sv: welke rechten bij aanhouding (lid 1) en vóór het eerste verhoor (lid 2/3) moeten worden meegedeeld, en de schriftelijke verklaring van rechten; (2) art. 28 e.v. Sv: vindplaats van consultatiebijstand (art. 28c Sv) en verhoorbijstand (art. 28d Sv), de regeling van afstand (art. 28a Sv) en de uitzondering voor minderjarigen; (3) of en hoe het recht op consultatie geldt voor de niet-aangehouden verdachte van een licht feit dat ter plaatse wordt afgedaan; (4) art. 27c en art. 29a Sv als grondslag voor het recht op een tolk.",
+      "version": "1.1",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m02-l05-1",
+      "moduleId": "m02",
+      "lessonId": "m02-l05",
+      "termIds": [],
+      "topic": "Soorten fouillering",
+      "level": "B",
+      "type": "match",
+      "prompt": "Koppel elke vorm van fouillering of onderzoek aan het juiste doel.",
+      "pairs": [
+        {
+          "left": "Veiligheidsfouillering",
+          "right": "Gevaarlijke voorwerpen vinden om direct dreigend gevaar af te wenden"
+        },
+        {
+          "left": "Insluitingsfouillering",
+          "right": "Voorkomen dat iemand gevaarlijke of verboden spullen meeneemt in de cel"
+        },
+        {
+          "left": "Onderzoek aan kleding (art. 56 Sv)",
+          "right": "Sporen of voorwerpen vinden die als bewijs kunnen dienen"
+        },
+        {
+          "left": "Onderzoek in het lichaam",
+          "right": "Ingrijpend onderzoek dat alleen een arts uitvoert"
+        }
+      ],
+      "explanation": "De veiligheidsfouillering (art. 7 lid 3 Politiewet 2012) is bedoeld voor veiligheid. De insluitingsfouillering vindt plaats bij insluiting in een cel. Het onderzoek aan kleding en lichaam (art. 56 Sv) is bedoeld voor bewijs. Onderzoek in het lichaam gebeurt door een arts.",
+      "sourceRefs": [
+        {
+          "law": "Politiewet 2012",
+          "article": "art. 7 lid 3",
+          "verify": true
+        },
+        {
+          "law": "Ambtsinstructie voor de politie, de Koninklijke marechaussee en andere opsporingsambtenaren",
+          "note": "insluitingsfouillering",
+          "verify": true
+        },
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 56",
+          "verify": true
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "juridische_review_nodig",
+      "reviewNote": "Controleren: (1) art. 7 lid 3 Politiewet 2012 als grondslag van de veiligheidsfouillering en de voorwaarden (direct dreigend gevaar, feiten of omstandigheden); (2) of en via welke regeling (akte, Beleidsregels boa, Ambtsinstructie) een boa in Domein I de bevoegdheid tot veiligheidsfouillering kan krijgen; (3) de grondslag van de insluitingsfouillering (Ambtsinstructie, artikelnummer) en of boa's die ooit uitvoeren; (4) art. 56 Sv: wie onderzoek aan kleding en aan het lichaam mag bevelen en uitvoeren (lid 1, lid 2) en de eis van zo mogelijk iemand van hetzelfde geslacht.",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m02-l05-2",
+      "moduleId": "m02",
+      "lessonId": "m02-l05",
+      "termIds": [],
+      "topic": "Veiligheidsfouillering",
+      "level": "K",
+      "type": "mc",
+      "prompt": "Wat is het doel van een veiligheidsfouillering?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Bewijs vinden van het strafbare feit waarvoor iemand is aangehouden",
+          "feedback": "Onjuist. Dat is het doel van onderzoek aan kleding en lichaam (art. 56 Sv). De veiligheidsfouillering is bedoeld voor veiligheid."
+        },
+        {
+          "id": "b",
+          "text": "Direct dreigend gevaar afwenden voor jezelf, de persoon of anderen",
+          "feedback": "Juist. De veiligheidsfouillering is bedoeld om gevaar af te wenden door gevaarlijke voorwerpen te vinden (art. 7 lid 3 Politiewet 2012)."
+        },
+        {
+          "id": "c",
+          "text": "Controleren of iemand zijn identiteitsbewijs bij zich heeft",
+          "feedback": "Onjuist. De identificatieplicht geeft geen recht om iemand te fouilleren. De veiligheidsfouillering is alleen voor veiligheid."
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "De veiligheidsfouillering is een onderzoek aan de kleding om direct dreigend gevaar af te wenden. Er moeten feiten of omstandigheden zijn waaruit blijkt dat dit nodig is (art. 7 lid 3 Politiewet 2012).",
+      "sourceRefs": [
+        {
+          "law": "Politiewet 2012",
+          "article": "art. 7 lid 3",
+          "verify": true
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "juridische_review_nodig",
+      "reviewNote": "Controleren: (1) art. 7 lid 3 Politiewet 2012 als grondslag van de veiligheidsfouillering en de voorwaarden (direct dreigend gevaar, feiten of omstandigheden); (2) of en via welke regeling (akte, Beleidsregels boa, Ambtsinstructie) een boa in Domein I de bevoegdheid tot veiligheidsfouillering kan krijgen; (3) de grondslag van de insluitingsfouillering (Ambtsinstructie, artikelnummer) en of boa's die ooit uitvoeren; (4) art. 56 Sv: wie onderzoek aan kleding en aan het lichaam mag bevelen en uitvoeren (lid 1, lid 2) en de eis van zo mogelijk iemand van hetzelfde geslacht.",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m02-l05-3",
+      "moduleId": "m02",
+      "lessonId": "m02-l05",
+      "termIds": [],
+      "topic": "Veiligheidsfouillering boa",
+      "level": "B",
+      "type": "mc",
+      "prompt": "Mag een boa in Domein I altijd een veiligheidsfouillering uitvoeren?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ja, iedere boa mag dat zodra hij iemand heeft aangehouden",
+          "feedback": "Onjuist. De bevoegdheid volgt niet automatisch uit de aanhouding. Een boa mag het alleen als die bevoegdheid aan hem is toegekend."
+        },
+        {
+          "id": "b",
+          "text": "Ja, als de werkinstructie van de gemeente dat voorschrijft",
+          "feedback": "Onjuist. Een werkinstructie of beleid is geen bevoegdheidsgrondslag. De bevoegdheid moet wettelijk aan de boa zijn toegekend."
+        },
+        {
+          "id": "c",
+          "text": "Nee, alleen als die bevoegdheid aan hem is toegekend",
+          "feedback": "Juist. Een boa heeft alleen de bevoegdheden die wet, akte en domein hem geven. De veiligheidsfouillering moet uitdrukkelijk zijn toegekend."
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "De veiligheidsfouillering is in de Politiewet 2012 een bevoegdheid van de politie (art. 7 lid 3). Een boa mag dit alleen als de bevoegdheid aan hem is toegekend, bijvoorbeeld in samenhang met een geweldsbevoegdheid. Beleid of een werkinstructie is geen grondslag.",
+      "sourceRefs": [
+        {
+          "law": "Politiewet 2012",
+          "article": "art. 7 lid 3",
+          "verify": true
+        },
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 142"
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "juridische_review_nodig",
+      "reviewNote": "Controleren: (1) art. 7 lid 3 Politiewet 2012 als grondslag van de veiligheidsfouillering en de voorwaarden (direct dreigend gevaar, feiten of omstandigheden); (2) of en via welke regeling (akte, Beleidsregels boa, Ambtsinstructie) een boa in Domein I de bevoegdheid tot veiligheidsfouillering kan krijgen; (3) de grondslag van de insluitingsfouillering (Ambtsinstructie, artikelnummer) en of boa's die ooit uitvoeren; (4) art. 56 Sv: wie onderzoek aan kleding en aan het lichaam mag bevelen en uitvoeren (lid 1, lid 2) en de eis van zo mogelijk iemand van hetzelfde geslacht.",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m02-l05-4",
+      "moduleId": "m02",
+      "lessonId": "m02-l05",
+      "termIds": [],
+      "topic": "Veiligheidsfouillering boa",
+      "level": "T",
+      "type": "mc",
+      "case": "Je hebt Bram op heterdaad aangehouden voor vernieling. Je ziet een mes uit zijn jaszak steken. Jouw akte geeft geen bevoegdheid tot veiligheidsfouillering. De politie is onderweg.",
+      "prompt": "Wat is de juiste handelwijze?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Je houdt afstand, laat de politie komen en houdt Bram in het oog",
+          "feedback": "Juist. Zonder toegekende bevoegdheid fouilleer je niet. Je zorgt voor veiligheid door afstand te houden en de politie in te schakelen."
+        },
+        {
+          "id": "b",
+          "text": "Je fouilleert Bram toch, want je eigen veiligheid gaat altijd voor",
+          "feedback": "Onjuist. Veiligheid is belangrijk, maar geeft je geen bevoegdheid die je niet hebt. Zonder toegekende bevoegdheid mag je niet fouilleren."
+        },
+        {
+          "id": "c",
+          "text": "Je vraagt Bram zijn zakken te legen en pakt zelf het mes uit zijn jas",
+          "feedback": "Onjuist. Zelf in zijn jas zoeken is een fouillering. Daarvoor heb je de bevoegdheid niet. Schakel de politie in en houd afstand."
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "Een veiligheidsrisico geeft je geen bevoegdheid. Heb je de bevoegdheid tot veiligheidsfouillering niet, dan zorg je voor veiligheid met afstand, communicatie en het inschakelen van de politie. De politie mag wel fouilleren (art. 7 lid 3 Politiewet 2012).",
+      "sourceRefs": [
+        {
+          "law": "Politiewet 2012",
+          "article": "art. 7 lid 3",
+          "verify": true
+        },
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 53 lid 1"
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "juridische_review_nodig",
+      "reviewNote": "Controleren: (1) art. 7 lid 3 Politiewet 2012 als grondslag van de veiligheidsfouillering en de voorwaarden (direct dreigend gevaar, feiten of omstandigheden); (2) of en via welke regeling (akte, Beleidsregels boa, Ambtsinstructie) een boa in Domein I de bevoegdheid tot veiligheidsfouillering kan krijgen; (3) de grondslag van de insluitingsfouillering (Ambtsinstructie, artikelnummer) en of boa's die ooit uitvoeren; (4) art. 56 Sv: wie onderzoek aan kleding en aan het lichaam mag bevelen en uitvoeren (lid 1, lid 2) en de eis van zo mogelijk iemand van hetzelfde geslacht.",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m02-l05-5",
+      "moduleId": "m02",
+      "lessonId": "m02-l05",
+      "termIds": [],
+      "topic": "Onderzoek aan kleding en lichaam",
+      "level": "K",
+      "type": "mc",
+      "prompt": "Waarvoor dient onderzoek aan kleding en lichaam van een aangehouden verdachte op grond van art. 56 Sv?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Voor de veiligheid van de boa tijdens het vervoer",
+          "feedback": "Onjuist. Dat is het doel van de veiligheidsfouillering. Art. 56 Sv gaat over onderzoek voor de waarheidsvinding."
+        },
+        {
+          "id": "b",
+          "text": "Voor het vinden van bewijs in het belang van het onderzoek",
+          "feedback": "Juist. Het onderzoek op grond van art. 56 Sv is bedoeld voor het strafrechtelijk onderzoek, zoals het vinden van sporen of voorwerpen."
+        },
+        {
+          "id": "c",
+          "text": "Voor het vaststellen van de identiteit van de verdachte",
+          "feedback": "Onjuist. Identiteit stel je vast met de personalia en het identiteitsbewijs (art. 27a Sv), niet met art. 56 Sv."
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "Art. 56 Sv regelt onderzoek aan de kleding en aan het lichaam van een aangehouden verdachte in het belang van het onderzoek. Onderzoek aan het lichaam gebeurt op bevel van de (hulp)officier van justitie. Onderzoek in het lichaam is ingrijpender en gebeurt door een arts.",
+      "sourceRefs": [
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 56",
+          "verify": true
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "juridische_review_nodig",
+      "reviewNote": "Controleren: (1) art. 7 lid 3 Politiewet 2012 als grondslag van de veiligheidsfouillering en de voorwaarden (direct dreigend gevaar, feiten of omstandigheden); (2) of en via welke regeling (akte, Beleidsregels boa, Ambtsinstructie) een boa in Domein I de bevoegdheid tot veiligheidsfouillering kan krijgen; (3) de grondslag van de insluitingsfouillering (Ambtsinstructie, artikelnummer) en of boa's die ooit uitvoeren; (4) art. 56 Sv: wie onderzoek aan kleding en aan het lichaam mag bevelen en uitvoeren (lid 1, lid 2) en de eis van zo mogelijk iemand van hetzelfde geslacht.",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m02-l05-6",
+      "moduleId": "m02",
+      "lessonId": "m02-l05",
+      "termIds": [],
+      "topic": "Respectvol fouilleren",
+      "level": "B",
+      "type": "truefalse",
+      "prompt": "Stelling: een fouillering of onderzoek aan het lichaam gebeurt zo mogelijk door iemand van hetzelfde geslacht als de persoon.",
+      "correctAnswer": true,
+      "feedbackTrue": "Juist. Een fouillering is een inbreuk op de privacy. Daarom gebeurt dit zo mogelijk door iemand van hetzelfde geslacht, en zo respectvol mogelijk.",
+      "feedbackFalse": "Onjuist. Een fouillering is een inbreuk op de privacy. Daarom geldt het uitgangspunt dat iemand van hetzelfde geslacht dit zo mogelijk uitvoert.",
+      "explanation": "Fouilleren is een inbreuk op de lichamelijke integriteit en privacy. Daarom gebeurt het zo mogelijk door iemand van hetzelfde geslacht, buiten het zicht van omstanders en met uitleg vooraf.",
+      "sourceRefs": [
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 56",
+          "verify": true
+        },
+        {
+          "law": "Ambtsinstructie voor de politie, de Koninklijke marechaussee en andere opsporingsambtenaren",
+          "note": "uitvoering fouillering",
+          "verify": true
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "juridische_review_nodig",
+      "reviewNote": "Controleren: (1) art. 7 lid 3 Politiewet 2012 als grondslag van de veiligheidsfouillering en de voorwaarden (direct dreigend gevaar, feiten of omstandigheden); (2) of en via welke regeling (akte, Beleidsregels boa, Ambtsinstructie) een boa in Domein I de bevoegdheid tot veiligheidsfouillering kan krijgen; (3) de grondslag van de insluitingsfouillering (Ambtsinstructie, artikelnummer) en of boa's die ooit uitvoeren; (4) art. 56 Sv: wie onderzoek aan kleding en aan het lichaam mag bevelen en uitvoeren (lid 1, lid 2) en de eis van zo mogelijk iemand van hetzelfde geslacht.",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Verdachte",
+      "definition": "Iemand tegen wie uit feiten of omstandigheden een redelijk vermoeden van schuld aan een strafbaar feit voortvloeit.",
+      "moduleId": "m02",
+      "sourceRefs": [
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 27 lid 1"
+        }
+      ],
+      "reviewStatus": "concept"
+    },
+    {
+      "term": "Ontdekking op heterdaad",
+      "definition": "Het strafbare feit wordt ontdekt terwijl het wordt gepleegd of direct nadat het is gepleegd.",
+      "moduleId": "m02",
+      "sourceRefs": [
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 128"
+        }
+      ],
+      "reviewStatus": "concept"
+    },
+    {
+      "term": "Wettigheidsbeginsel",
+      "definition": "Een gedraging is alleen strafbaar als een wettelijke strafbepaling dat vóór het feit bepaalde.",
+      "moduleId": "m02",
+      "sourceRefs": [
+        {
+          "law": "Wetboek van Strafrecht",
+          "article": "art. 1"
+        }
+      ],
+      "reviewStatus": "concept"
+    },
+    {
+      "term": "Staande houden",
+      "definition": "Een verdachte kort laten stilstaan om zijn identiteit vast te stellen; iedere opsporingsambtenaar is daartoe bevoegd.",
+      "moduleId": "m02",
+      "sourceRefs": [
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 52"
+        }
+      ],
+      "reviewStatus": "concept"
+    },
+    {
+      "term": "Aanhouden",
+      "definition": "Een verdachte zijn vrijheid benemen om hem voor te geleiden aan de (hulp)officier van justitie. Bij heterdaad mag iedereen dat.",
+      "moduleId": "m02",
+      "sourceRefs": [
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 53"
+        },
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 54"
+        }
+      ],
+      "reviewStatus": "concept"
+    },
+    {
+      "term": "Cautie",
+      "definition": "De mededeling aan een verdachte, vóór het verhoor, dat hij niet verplicht is tot antwoorden.",
+      "moduleId": "m02",
+      "sourceRefs": [
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 29 lid 2"
+        }
+      ],
+      "reviewStatus": "concept"
+    },
+    {
+      "term": "Veiligheidsfouillering",
+      "definition": "Onderzoek aan de kleding om direct dreigend gevaar af te wenden. Een boa mag dit alleen als de bevoegdheid aan hem is toegekend.",
+      "moduleId": "m02",
+      "sourceRefs": [
+        {
+          "law": "Politiewet 2012",
+          "article": "art. 7 lid 3",
+          "verify": true
+        }
+      ],
+      "reviewStatus": "concept"
+    }
+  ]
+}

@@ -1,0 +1,558 @@
+{
+  "moduleId": "m11",
+  "lessons": [
+    {
+      "id": "m11-l01",
+      "moduleId": "m11",
+      "order": 1,
+      "title": "Afval in de openbare ruimte",
+      "minutes": 15,
+      "termIds": [],
+      "objectives": [
+        {
+          "text": "Je weet wat een afvalstof is volgens de Wet milieubeheer.",
+          "level": "K"
+        },
+        {
+          "text": "Je begrijpt het verschil tussen de zorgplicht, het stortverbod en de regels van de afvalstoffenverordening.",
+          "level": "B"
+        },
+        {
+          "text": "Je kunt bij illegale dumping of bijplaatsing bepalen welke regel geldt en hoe je zorgvuldig de eigenaar onderzoekt.",
+          "level": "T"
+        }
+      ],
+      "screens": [
+        {
+          "type": "objectives",
+          "title": "Leerdoelen"
+        },
+        {
+          "type": "law",
+          "title": "Wat is een afvalstof?",
+          "ref": {
+            "law": "Wet milieubeheer",
+            "article": "art. 1.1",
+            "verify": true
+          },
+          "body": "De Wet milieubeheer (Wm) geeft een eigen omschrijving van **afvalstoffen**. Het gaat om stoffen, mengsels of voorwerpen waarvan de houder zich ontdoet, wil ontdoen of moet ontdoen.\n\nHet draait dus om de bedoeling en het gedrag van de houder. Een oude bank aan de straat, een zak huisvuil naast de container of puin in de berm: de eigenaar wil er vanaf. Dan is het een afvalstof.\n\nOf iets nog waarde heeft, maakt niet uit. Ook een bruikbare stoel die iemand op straat zet om er vanaf te zijn, kan afval zijn."
+        },
+        {
+          "type": "law",
+          "title": "Zorgplicht en stortverbod",
+          "ref": {
+            "law": "Wet milieubeheer",
+            "article": "art. 10.1 en art. 10.2",
+            "verify": true
+          },
+          "body": "**Zorgplicht (art. 10.1 Wm)**: iedereen die met afvalstoffen omgaat, moet maatregelen nemen om nadelige gevolgen voor het milieu te voorkomen of te beperken. Dit is een algemene plicht voor iedereen.\n\n**Stortverbod (art. 10.2 Wm)**: het is verboden afvalstoffen buiten een daarvoor bestemde plaats op of in de bodem te storten, achter te laten of te brengen. Denk aan een zak afval in het bos, een koelkast langs de weg of puin op een braakliggend terrein.\n\nDe zorgplicht is breed en algemeen. Het stortverbod is concreet: het gaat om afval dat ergens wordt gedumpt."
+        },
+        {
+          "type": "law",
+          "title": "De afvalstoffenverordening van de gemeente",
+          "ref": {
+            "law": "Wet milieubeheer",
+            "article": "art. 10.23",
+            "verify": true
+          },
+          "body": "De gemeenteraad stelt een **afvalstoffenverordening** vast. Daarin staan regels over het inzamelen van huishoudelijk afval. Bijvoorbeeld:\n- op welke dagen en tijden je afval mag aanbieden\n- in welke container of zak het moet\n- dat je geen afval naast een container mag zetten\n\nAfval naast een volle container zetten heet **bijplaatsing**. Dat is meestal een overtreding van de afvalstoffenverordening.\n\nArtikelnummers en regels verschillen per gemeente. Kijk dus altijd in de verordening van jouw gemeente."
+        },
+        {
+          "type": "keypoints",
+          "title": "Dumping, bijplaatsing en de eigenaar",
+          "items": [
+            {
+              "term": "Illegale dumping",
+              "text": "Afval wordt achtergelaten op een plek die daar niet voor is, zoals berm, bos of parkeerplaats. Denk aan het stortverbod van art. 10.2 Wm."
+            },
+            {
+              "term": "Bijplaatsing",
+              "text": "Huishoudelijk afval wordt naast of bij een container gezet. Denk aan de afvalstoffenverordening."
+            },
+            {
+              "term": "Eigenaar zoeken",
+              "text": "Een adres op een envelop in het afval is een aanwijzing, geen bewijs. Leg vast wat je vindt en waar, en ga na of de bewoner er echt iets mee te maken heeft."
+            },
+            {
+              "term": "Privacy",
+              "text": "Ga zorgvuldig om met persoonsgegevens uit afval. Gebruik ze alleen voor je onderzoek en leg ze vast volgens de regels voor politiegegevens."
+            },
+            {
+              "term": "Handhaving",
+              "text": "Overtreding van de afvalregels uit de Wm is een economisch delict via de WED. Of jij mag optreden, hangt af van je akte en de domeinlijst."
+            },
+            {
+              "term": "Vuurwerk",
+              "text": "De Wm kent ook een vuurwerkbepaling die in Domein I van belang is (art. 9.2.2.1a Wm). Dat onderwerp staat in de aparte e-learning 'De boa en optreden bij vuurwerk'."
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": "Praktijk: vuilniszakken in de berm",
+          "body": "Boa Sanne vindt langs een landweg vijf vuilniszakken en een kapotte stoel. Dit is geen bijplaatsing bij een container, maar dumping op een plek die daar niet voor bestemd is.\n\nZe maakt foto's van de plek en het afval. In één zak ziet ze enveloppen met naam en adres van meneer De Wit. Sanne beseft dat dit een aanwijzing is, geen bewijs. Iemand anders kan het afval hebben meegenomen.\n\nZe legt vast welke stukken ze vond en waar. Ze gaat langs bij meneer De Wit en vraagt hem, na de cautie, of hij iets weet van het afval. Daarna maakt ze haar rapport of proces-verbaal op, als dit feit onder haar bevoegdheid valt."
+        },
+        {
+          "type": "exercise",
+          "title": "Oefening: welke regel past?",
+          "questionId": "q-m11-l01-5"
+        },
+        {
+          "type": "check",
+          "title": "Kennischeck",
+          "questionIds": [
+            "q-m11-l01-1",
+            "q-m11-l01-2",
+            "q-m11-l01-3",
+            "q-m11-l01-4",
+            "q-m11-l01-6"
+          ]
+        },
+        {
+          "type": "summary",
+          "title": "Samenvatting"
+        }
+      ],
+      "summary": [
+        "Een afvalstof is iets waarvan de houder zich ontdoet, wil ontdoen of moet ontdoen (art. 1.1 Wm).",
+        "Iedereen die met afval omgaat, heeft een zorgplicht voor het milieu (art. 10.1 Wm).",
+        "Afval buiten een daarvoor bestemde plaats storten of achterlaten is verboden (art. 10.2 Wm).",
+        "De gemeentelijke afvalstoffenverordening regelt het aanbieden van huishoudelijk afval; bijplaatsing valt daaronder (art. 10.23 Wm).",
+        "Een adres in afval is een aanwijzing, geen bewijs; ga zorgvuldig om met die persoonsgegevens.",
+        "Handhaving loopt via de WED; je optreden moet passen binnen je akte en domeinlijst."
+      ],
+      "sourceRefs": [
+        {
+          "law": "Wet milieubeheer",
+          "article": "art. 1.1",
+          "verify": true
+        },
+        {
+          "law": "Wet milieubeheer",
+          "article": "art. 10.1"
+        },
+        {
+          "law": "Wet milieubeheer",
+          "article": "art. 10.2",
+          "verify": true
+        },
+        {
+          "law": "Wet milieubeheer",
+          "article": "art. 10.23",
+          "verify": true
+        },
+        {
+          "law": "Wet op de economische delicten",
+          "article": "art. 1a",
+          "verify": true
+        },
+        {
+          "law": "Wet politiegegevens",
+          "note": "verwerking persoonsgegevens door boa's",
+          "verify": true
+        },
+        {
+          "law": "Wet milieubeheer",
+          "article": "art. 9.2.2.1a",
+          "note": "vuurwerkbepaling; zie aparte e-learning",
+          "verify": true
+        }
+      ],
+      "reviewStatus": "juridische_review_nodig",
+      "reviewNote": "Controleer: (1) exacte omschrijving en vindplaats van 'afvalstoffen' in art. 1.1 lid 1 Wm; (2) actuele tekst van art. 10.2 lid 1 Wm na de Invoeringswet Omgevingswet (is 'buiten een inrichting' vervangen, en welke handelingen worden genoemd); (3) of art. 10.23 Wm het juiste artikel is voor de afvalstoffenverordening; (4) onder welke categorie van art. 1a WED de art. 10.1, 10.2 en de afvalstoffenverordening vallen (de verordening mogelijk via de Gemeentewet/art. 154 Gemeentewet strafbaar in plaats van via de WED); (5) of de Wpg (en het Besluit politiegegevens bijzondere opsporingsdiensten/boa's) de juiste grondslag is voor de verwerking van persoonsgegevens uit afval; (6) artikelnummer van de vuurwerkbepaling art. 9.2.2.1a Wm.",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    }
+  ],
+  "questions": [
+    {
+      "id": "q-m11-l01-1",
+      "moduleId": "m11",
+      "lessonId": "m11-l01",
+      "termIds": [],
+      "topic": "Begrip afvalstof",
+      "level": "K",
+      "type": "mc",
+      "prompt": "Wanneer is iets een afvalstof volgens de Wet milieubeheer?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Als het geen economische waarde meer heeft",
+          "feedback": "Onjuist. Waarde is niet beslissend. Ook iets bruikbaars kan afval zijn als de houder er vanaf wil (art. 1.1 Wm)."
+        },
+        {
+          "id": "b",
+          "text": "Als de houder zich ervan ontdoet, wil ontdoen of moet ontdoen",
+          "feedback": "Juist. Dat is de kern van het begrip afvalstoffen in art. 1.1 Wm."
+        },
+        {
+          "id": "c",
+          "text": "Als het in een vuilniszak van de gemeente zit",
+          "feedback": "Onjuist. De verpakking maakt niet uit. Het gaat om de vraag of de houder zich ervan ontdoet (art. 1.1 Wm)."
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "Art. 1.1 Wm omschrijft afvalstoffen als stoffen, mengsels of voorwerpen waarvan de houder zich ontdoet, voornemens is te ontdoen of moet ontdoen.",
+      "sourceRefs": [
+        {
+          "law": "Wet milieubeheer",
+          "article": "art. 1.1",
+          "verify": true
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "juridische_review_nodig",
+      "reviewNote": "Controleer de exacte omschrijving van 'afvalstoffen' in art. 1.1 lid 1 Wm.",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m11-l01-2",
+      "moduleId": "m11",
+      "lessonId": "m11-l01",
+      "termIds": [],
+      "topic": "Stortverbod",
+      "level": "T",
+      "type": "mc",
+      "case": "Je ziet een bestelbus stoppen bij een bosrand. De bestuurder zet een oude wasmachine en enkele zakken puin tussen de bomen en rijdt weg.",
+      "prompt": "Welk voorschrift uit de Wet milieubeheer is hier het meest van toepassing?",
+      "options": [
+        {
+          "id": "a",
+          "text": "De regels uit de afvalstoffenverordening over aanbiedtijden",
+          "feedback": "Onjuist. Het gaat niet om het aanbieden van huishoudelijk afval bij een inzamelpunt, maar om dumping in de natuur."
+        },
+        {
+          "id": "b",
+          "text": "De regels over activiteiten in het omgevingsplan",
+          "feedback": "Onjuist. Het omgevingsplan valt onder de Omgevingswet. Voor het dumpen van afval geldt het stortverbod uit de Wm."
+        },
+        {
+          "id": "c",
+          "text": "Het verbod om afval buiten een bestemde plaats te storten",
+          "feedback": "Juist. Het achterlaten van afval in het bos valt onder het stortverbod van art. 10.2 Wm."
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "Art. 10.2 Wm verbiedt om afvalstoffen buiten een daarvoor bestemde plaats op of in de bodem te storten of achter te laten. Dat is illegale dumping.",
+      "sourceRefs": [
+        {
+          "law": "Wet milieubeheer",
+          "article": "art. 10.2",
+          "verify": true
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "juridische_review_nodig",
+      "reviewNote": "Controleer de actuele formulering van art. 10.2 lid 1 Wm (begrip 'inrichting' na de Invoeringswet Omgevingswet).",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m11-l01-3",
+      "moduleId": "m11",
+      "lessonId": "m11-l01",
+      "termIds": [],
+      "topic": "Zorgplicht",
+      "level": "B",
+      "type": "mc",
+      "prompt": "Wat is het verschil tussen de zorgplicht (art. 10.1 Wm) en het stortverbod (art. 10.2 Wm)?",
+      "options": [
+        {
+          "id": "a",
+          "text": "De zorgplicht is een algemene plicht; het stortverbod verbiedt concreet dumpen",
+          "feedback": "Juist. Art. 10.1 Wm vraagt iedereen nadelige milieugevolgen te voorkomen. Art. 10.2 Wm verbiedt concreet het storten of achterlaten van afval."
+        },
+        {
+          "id": "b",
+          "text": "De zorgplicht geldt alleen voor bedrijven, het stortverbod alleen voor particulieren",
+          "feedback": "Onjuist. Beide gelden voor iedereen. De zorgplicht geldt voor ieder die handelingen met afvalstoffen verricht."
+        },
+        {
+          "id": "c",
+          "text": "De zorgplicht staat in de APV; het stortverbod in de afvalstoffenverordening",
+          "feedback": "Onjuist. Beide staan in de Wet milieubeheer zelf: art. 10.1 en art. 10.2 Wm."
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "De zorgplicht van art. 10.1 Wm is een open norm voor iedereen die met afval omgaat. Het stortverbod van art. 10.2 Wm is een concreet verbod op dumpen.",
+      "sourceRefs": [
+        {
+          "law": "Wet milieubeheer",
+          "article": "art. 10.1"
+        },
+        {
+          "law": "Wet milieubeheer",
+          "article": "art. 10.2",
+          "verify": true
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "juridische_review_nodig",
+      "reviewNote": "Controleer de actuele formulering van art. 10.2 Wm.",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m11-l01-4",
+      "moduleId": "m11",
+      "lessonId": "m11-l01",
+      "termIds": [],
+      "topic": "Onderzoek naar de eigenaar",
+      "level": "T",
+      "type": "mc",
+      "case": "In een gedumpte vuilniszak vind je een brief met de naam en het adres van mevrouw Bakker.",
+      "prompt": "Hoe ga je hiermee om?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Je maakt direct een proces-verbaal op tegen mevrouw Bakker, want het adres is bewijs",
+          "feedback": "Onjuist. Een adres is een aanwijzing, geen bewijs. Iemand anders kan het afval hebben achtergelaten."
+        },
+        {
+          "id": "b",
+          "text": "Je legt de vondst vast en onderzoekt zorgvuldig of zij er iets mee te maken heeft",
+          "feedback": "Juist. Je legt vast wat je vond en waar, en gaat na of mevrouw Bakker de dumper is. Met haar gegevens ga je zorgvuldig om."
+        },
+        {
+          "id": "c",
+          "text": "Je zet een foto van de brief op sociale media om de dader te vinden",
+          "feedback": "Onjuist. Dat is een onrechtmatige verwerking van persoonsgegevens. Gegevens gebruik je alleen voor je onderzoek."
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "Persoonsgegevens in afval zijn een aanwijzing voor onderzoek. Je legt ze zorgvuldig vast en gebruikt ze alleen voor de opsporing, volgens de regels voor politiegegevens.",
+      "sourceRefs": [
+        {
+          "law": "Wet milieubeheer",
+          "article": "art. 10.2",
+          "verify": true
+        },
+        {
+          "law": "Wet politiegegevens",
+          "verify": true
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "juridische_review_nodig",
+      "reviewNote": "Controleer of de Wet politiegegevens de juiste grondslag is voor de verwerking door boa's van persoonsgegevens uit afval en noem eventueel het specifieke artikel.",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m11-l01-5",
+      "moduleId": "m11",
+      "lessonId": "m11-l01",
+      "termIds": [],
+      "topic": "Afvalregels toepassen",
+      "level": "T",
+      "type": "match",
+      "prompt": "Koppel elke situatie aan de regel die het meest van toepassing is.",
+      "pairs": [
+        {
+          "left": "Iemand zet een zak huisvuil naast een volle container",
+          "right": "Afvalstoffenverordening van de gemeente"
+        },
+        {
+          "left": "Iemand laat een oude koelkast achter in de berm",
+          "right": "Stortverbod (art. 10.2 Wm)"
+        },
+        {
+          "left": "Een klusser gaat slordig om met afval, zodat het milieu schade loopt",
+          "right": "Zorgplicht (art. 10.1 Wm)"
+        },
+        {
+          "left": "Iemand wil van een oude bank af en zet die buiten",
+          "right": "Begrip afvalstof (art. 1.1 Wm)"
+        }
+      ],
+      "explanation": "Bijplaatsing valt onder de afvalstoffenverordening (art. 10.23 Wm). Dumping valt onder het stortverbod (art. 10.2 Wm). Slordig omgaan met afval raakt de zorgplicht (art. 10.1 Wm). Of iets afval is, volgt uit art. 1.1 Wm.",
+      "sourceRefs": [
+        {
+          "law": "Wet milieubeheer",
+          "article": "art. 1.1",
+          "verify": true
+        },
+        {
+          "law": "Wet milieubeheer",
+          "article": "art. 10.1"
+        },
+        {
+          "law": "Wet milieubeheer",
+          "article": "art. 10.2",
+          "verify": true
+        },
+        {
+          "law": "Wet milieubeheer",
+          "article": "art. 10.23",
+          "verify": true
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "juridische_review_nodig",
+      "reviewNote": "Controleer art. 1.1, art. 10.2 en art. 10.23 Wm.",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m11-l01-6",
+      "moduleId": "m11",
+      "lessonId": "m11-l01",
+      "termIds": [],
+      "topic": "Afvalstoffenverordening",
+      "level": "K",
+      "type": "truefalse",
+      "prompt": "Stelling: de regels over wanneer en hoe je huishoudelijk afval aanbiedt, zijn in elke gemeente precies gelijk, omdat ze in de Wet milieubeheer zelf staan.",
+      "correctAnswer": false,
+      "feedbackTrue": "Onjuist. De Wm geeft de gemeenteraad de taak een afvalstoffenverordening vast te stellen. De regels en artikelnummers verschillen per gemeente.",
+      "feedbackFalse": "Juist. Elke gemeente heeft een eigen afvalstoffenverordening. Kijk dus in de verordening van de gemeente waar je werkt.",
+      "explanation": "Op grond van art. 10.23 Wm stelt de gemeenteraad een afvalstoffenverordening vast. Daarin staan de lokale regels over het aanbieden van huishoudelijk afval.",
+      "sourceRefs": [
+        {
+          "law": "Wet milieubeheer",
+          "article": "art. 10.23",
+          "verify": true
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "juridische_review_nodig",
+      "reviewNote": "Controleer of art. 10.23 Wm het juiste artikel is voor de afvalstoffenverordening.",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m11-l01-7",
+      "moduleId": "m11",
+      "lessonId": "m11-l01",
+      "termIds": [],
+      "topic": "Bijplaatsing",
+      "level": "T",
+      "type": "mc",
+      "case": "Op dinsdagavond zie je dat meneer Hassan twee vuilniszakken naast een ondergrondse container zet, omdat de container vol is.",
+      "prompt": "Welke regeling bekijk je eerst om te bepalen of dit mag?",
+      "options": [
+        {
+          "id": "a",
+          "text": "De afvalstoffenverordening van de gemeente",
+          "feedback": "Juist. Afval naast een container zetten is bijplaatsing. De regels daarover staan in de afvalstoffenverordening (op grond van art. 10.23 Wm)."
+        },
+        {
+          "id": "b",
+          "text": "Het omgevingsplan van de gemeente",
+          "feedback": "Onjuist. Het omgevingsplan gaat over de fysieke leefomgeving onder de Omgevingswet, niet over het aanbieden van huisvuil."
+        },
+        {
+          "id": "c",
+          "text": "Het Wetboek van Strafrecht",
+          "feedback": "Onjuist. Het aanbieden van huishoudelijk afval is geregeld in de gemeentelijke afvalstoffenverordening."
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "Bijplaatsing is het zetten van afval naast of bij een container. De gemeentelijke afvalstoffenverordening regelt hoe en waar huishoudelijk afval mag worden aangeboden (art. 10.23 Wm).",
+      "sourceRefs": [
+        {
+          "law": "Wet milieubeheer",
+          "article": "art. 10.23",
+          "verify": true
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "juridische_review_nodig",
+      "reviewNote": "Controleer art. 10.23 Wm als grondslag voor de afvalstoffenverordening.",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Afvalstof",
+      "definition": "Stof, mengsel of voorwerp waarvan de houder zich ontdoet, wil ontdoen of moet ontdoen.",
+      "moduleId": "m11",
+      "sourceRefs": [
+        {
+          "law": "Wet milieubeheer",
+          "article": "art. 1.1",
+          "verify": true
+        }
+      ],
+      "reviewStatus": "concept"
+    },
+    {
+      "term": "Zorgplicht (afval)",
+      "definition": "Plicht van iedereen die met afvalstoffen omgaat om nadelige gevolgen voor het milieu te voorkomen of te beperken.",
+      "moduleId": "m11",
+      "sourceRefs": [
+        {
+          "law": "Wet milieubeheer",
+          "article": "art. 10.1"
+        }
+      ],
+      "reviewStatus": "concept"
+    },
+    {
+      "term": "Stortverbod",
+      "definition": "Verbod om afvalstoffen buiten een daarvoor bestemde plaats op of in de bodem te storten of achter te laten.",
+      "moduleId": "m11",
+      "sourceRefs": [
+        {
+          "law": "Wet milieubeheer",
+          "article": "art. 10.2",
+          "verify": true
+        }
+      ],
+      "reviewStatus": "concept"
+    },
+    {
+      "term": "Afvalstoffenverordening",
+      "definition": "Gemeentelijke verordening van de gemeenteraad met regels over het inzamelen en aanbieden van huishoudelijk afval.",
+      "moduleId": "m11",
+      "sourceRefs": [
+        {
+          "law": "Wet milieubeheer",
+          "article": "art. 10.23",
+          "verify": true
+        }
+      ],
+      "reviewStatus": "concept"
+    },
+    {
+      "term": "Bijplaatsing",
+      "definition": "Huishoudelijk afval naast of bij een container of inzamelpunt zetten in plaats van erin.",
+      "moduleId": "m11",
+      "sourceRefs": [
+        {
+          "law": "Wet milieubeheer",
+          "article": "art. 10.23",
+          "verify": true
+        }
+      ],
+      "reviewStatus": "concept"
+    },
+    {
+      "term": "Illegale dumping",
+      "definition": "Afval achterlaten of storten op een plek die daarvoor niet is bestemd, zoals een berm, bos of parkeerplaats.",
+      "moduleId": "m11",
+      "sourceRefs": [
+        {
+          "law": "Wet milieubeheer",
+          "article": "art. 10.2",
+          "verify": true
+        }
+      ],
+      "reviewStatus": "concept"
+    },
+    {
+      "term": "Economisch delict",
+      "definition": "Strafbaar feit dat in de Wet op de economische delicten is aangewezen, zoals overtreding van bepaalde milieuregels.",
+      "moduleId": "m11",
+      "sourceRefs": [
+        {
+          "law": "Wet op de economische delicten",
+          "article": "art. 1a",
+          "verify": true
+        }
+      ],
+      "reviewStatus": "concept"
+    }
+  ]
+}

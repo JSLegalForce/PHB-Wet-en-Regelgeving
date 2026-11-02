@@ -1,0 +1,519 @@
+{
+  "moduleId": "m06",
+  "lessons": [
+    {
+      "id": "m06-l01",
+      "moduleId": "m06",
+      "order": 1,
+      "title": "Jongeren en alcohol op openbare plaatsen",
+      "minutes": 15,
+      "termIds": [],
+      "objectives": [
+        {
+          "text": "Je kunt het verbod van artikel 45 Alcoholwet in eigen woorden uitleggen.",
+          "level": "K"
+        },
+        {
+          "text": "Je kunt het verschil uitleggen tussen drank 'voor consumptie gereed hebben' en 'aanwezig hebben'.",
+          "level": "B"
+        },
+        {
+          "text": "Je kunt in een casus beoordelen of artikel 45 Alcoholwet is overtreden en hoe je de leeftijd vaststelt.",
+          "level": "T"
+        },
+        {
+          "text": "Je kunt wettelijke bevoegdheid, beleid en de rol van de politie bij dit onderwerp uit elkaar houden.",
+          "level": "B"
+        }
+      ],
+      "screens": [
+        {
+          "type": "objectives",
+          "title": "Leerdoelen"
+        },
+        {
+          "type": "law",
+          "title": "Artikel 45 Alcoholwet",
+          "ref": {
+            "law": "Alcoholwet",
+            "article": "art. 45"
+          },
+          "body": "Een jongere die nog geen 18 jaar is, mag op een plaats die voor het publiek toegankelijk is geen alcoholhoudende drank bij zich hebben.\n\nHet verbod kent twee vormen:\n- **voor consumptie gereed hebben**: de drank is klaar om te drinken, bijvoorbeeld een geopend blikje bier;\n- **aanwezig hebben**: de jongere heeft de drank bij zich, ook als de fles nog dicht is.\n\nHet verbod richt zich tot de jongere zelf. Je hoeft dus niet te zien dat hij drinkt. Voor de verkoper of schenker gelden andere artikelen van de Alcoholwet.\n\nDe wet kent een beperkte uitzondering. Die is nog in juridische controle; kijk bij twijfel in de wettekst."
+        },
+        {
+          "type": "text",
+          "title": "Welke drank en welke plaats?",
+          "body": "**Alcoholhoudende drank** is drank die bij 20 °C voor meer dan 0,5 procent uit alcohol bestaat (art. 1 Alcoholwet). Bier, wijn, mixdrankjes en sterke drank vallen er dus onder. Alcoholvrij bier met maximaal 0,5 procent niet.\n\nEen **voor het publiek toegankelijke plaats** is een plaats waar in principe iedereen mag komen. Denk aan:\n- straat, plein, park en speeltuin;\n- station, winkelcentrum en parkeerterrein;\n- een café, terras of sportkantine.\n\nEen privéwoning of een afgesloten privétuin is geen voor het publiek toegankelijke plaats. Daar geldt artikel 45 niet."
+        },
+        {
+          "type": "text",
+          "title": "Leeftijd vaststellen",
+          "body": "Je kunt niet aan iemand zien hoe oud hij is. Heb je het vermoeden dat een jongere artikel 45 overtreedt? Dan is hij verdachte. Je mag hem dan staande houden en naar zijn naam, geboortedatum en adres vragen (art. 52 en art. 27a Sv).\n\nIemand van 14 jaar of ouder moet op jouw vordering een geldig identiteitsbewijs tonen (art. 2 Wet op de identificatieplicht). Doet hij dat niet, dan is dat een apart strafbaar feit (art. 447e Sr).\n\nIs de jongere jonger dan 14? Dan heeft hij geen toonplicht. Vraag dan naar zijn gegevens en controleer die waar dat kan.\n\nEen kind onder de 12 jaar wordt niet strafrechtelijk vervolgd (art. 486 Sv)."
+        },
+        {
+          "type": "keypoints",
+          "title": "Toezicht, opsporing en sanctie",
+          "items": [
+            {
+              "term": "Toezicht",
+              "text": "De burgemeester wijst toezichthouders aan voor de naleving van artikel 45 (art. 41 Alcoholwet). Dit artikel is nog in juridische controle."
+            },
+            {
+              "term": "Opsporing door de boa",
+              "text": "Je treedt alleen op als artikel 45 Alcoholwet in je akte of domeinlijst is opgenomen. Dan gebruik je de bevoegdheden uit het Wetboek van Strafvordering, zoals staande houden."
+            },
+            {
+              "term": "Sanctie",
+              "text": "Overtreding van artikel 45 is strafbaar. De jongere kan een geldboete krijgen. De precieze strafbepaling wordt nog gecontroleerd."
+            },
+            {
+              "term": "Beleid",
+              "text": "Ouders inlichten of een waarschuwing geven kan gemeentelijk beleid zijn. Beleid geeft je geen extra bevoegdheid."
+            },
+            {
+              "term": "Politie",
+              "text": "Is er geweld, gevaar of een jongere die medisch in nood is? Schakel de politie of 112 in."
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": "Praktijk: blikjes in het park",
+          "body": "Boa's Sanne en Farid lopen op zaterdagmiddag door het stadspark. Op een bankje zitten drie jongeren. Een van hen heeft een geopend blikje bier in zijn hand. Naast een ander staat een tas met dichte flesjes mixdrank.\n\nSanne en Farid stellen zich voor als boa. Ze houden de jongeren staande en vragen naar hun naam, geboortedatum en adres. Ze vragen om een identiteitsbewijs. Twee jongeren zijn 16 jaar. De derde is 19 en heeft geen drank.\n\nDe jongen met het open blikje heeft het bier 'voor consumptie gereed'. Het meisje met de tas heeft de flesjes 'aanwezig'. Beiden overtreden artikel 45. Sanne en Farid handelen dit af volgens de werkafspraken en hun akte."
+        },
+        {
+          "type": "exercise",
+          "title": "Oefening",
+          "questionId": "q-m06-l01-1"
+        },
+        {
+          "type": "check",
+          "title": "Kennischeck",
+          "questionIds": [
+            "q-m06-l01-2",
+            "q-m06-l01-3",
+            "q-m06-l01-4",
+            "q-m06-l01-6"
+          ]
+        },
+        {
+          "type": "summary",
+          "title": "Samenvatting"
+        }
+      ],
+      "summary": [
+        "Een jongere onder de 18 mag op een voor het publiek toegankelijke plaats geen alcoholhoudende drank voor consumptie gereed of aanwezig hebben (art. 45 Alcoholwet).",
+        "'Aanwezig hebben' geldt ook voor een dichte fles of een blikje in een tas.",
+        "Alcoholhoudende drank is drank met meer dan 0,5 procent alcohol (art. 1 Alcoholwet).",
+        "Je stelt de leeftijd vast via staandehouding en identificatie; de toonplicht geldt vanaf 14 jaar.",
+        "Je treedt alleen op als artikel 45 in je akte of domeinlijst staat; beleid is geen bevoegdheid."
+      ],
+      "sourceRefs": [
+        {
+          "law": "Alcoholwet",
+          "article": "art. 45"
+        },
+        {
+          "law": "Alcoholwet",
+          "article": "art. 45a",
+          "note": "inhoud nog niet in de les uitgewerkt",
+          "verify": true
+        },
+        {
+          "law": "Alcoholwet",
+          "article": "art. 1"
+        },
+        {
+          "law": "Alcoholwet",
+          "article": "art. 41",
+          "note": "aanwijzing toezichthouders door burgemeester",
+          "verify": true
+        },
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 52"
+        },
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 27a"
+        },
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 486"
+        },
+        {
+          "law": "Wet op de identificatieplicht",
+          "article": "art. 2",
+          "verify": true
+        },
+        {
+          "law": "Wetboek van Strafrecht",
+          "article": "art. 447e"
+        }
+      ],
+      "reviewStatus": "juridische_review_nodig",
+      "reviewNote": "1) Inhoud art. 45a Alcoholwet controleren aan toetsmatrijs en wettekst; is bewust niet uitgewerkt in de les. 2) Uitzondering(en) op het verbod van art. 45 (bijv. in het kader van werk/bezorging) controleren en zo nodig toevoegen. 3) Toezichtsbepaling: klopt art. 41 Alcoholwet (aanwijzing toezichthouders door de burgemeester) als grondslag voor toezicht op art. 45? 4) Strafbaarstelling en strafmaat overtreding art. 45 (welk artikel, welke boetecategorie) controleren. 5) Controleren of art. 45 Alcoholwet in de domeinlijst Domein I Openbare ruimte staat. 6) Grondslag toonplicht: art. 2 WID richt zich op politie en toezichthouder; voor een boa als opsporingsambtenaar tegenover een verdachte lijkt art. 27a lid 1 Sv de grondslag (scherm Leeftijd vaststellen). Controleren en zo nodig herformuleren.",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    }
+  ],
+  "questions": [
+    {
+      "id": "q-m06-l01-1",
+      "moduleId": "m06",
+      "lessonId": "m06-l01",
+      "termIds": [],
+      "topic": "Optreden bij jongeren met alcohol",
+      "level": "T",
+      "type": "order",
+      "case": "Je ziet op het schoolplein na schooltijd een jongere met een fles wijn in zijn hand. Hij lijkt jonger dan 18.",
+      "prompt": "Zet je optreden in de juiste volgorde.",
+      "items": [
+        "Je neemt waar dat de jongere alcoholhoudende drank bij zich heeft",
+        "Je maakt je bekend als boa",
+        "Je houdt de jongere staande en vraagt naar naam, geboortedatum en adres",
+        "Je vordert inzage in zijn identiteitsbewijs en stelt zijn leeftijd vast",
+        "Je handelt de overtreding af volgens je akte en de werkafspraken"
+      ],
+      "explanation": "Eerst stel je vast wat je ziet. Dan maak je je bekend en houd je de verdachte staande om zijn personalia te vragen (art. 52 en 27a Sv). Daarna stel je met een identiteitsbewijs de leeftijd vast (art. 2 WID). Pas als vaststaat dat de jongere onder de 18 is, is er een overtreding van art. 45 Alcoholwet die je afhandelt.",
+      "sourceRefs": [
+        {
+          "law": "Alcoholwet",
+          "article": "art. 45"
+        },
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 52"
+        },
+        {
+          "law": "Wet op de identificatieplicht",
+          "article": "art. 2"
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "concept",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m06-l01-2",
+      "moduleId": "m06",
+      "lessonId": "m06-l01",
+      "termIds": [],
+      "topic": "Verbod artikel 45",
+      "level": "K",
+      "type": "mc",
+      "prompt": "Wat verbiedt artikel 45 Alcoholwet?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Dat iemand onder 18 jaar op straat alcohol drinkt, maar alleen als hij daardoor zichtbaar dronken is",
+          "feedback": "Onjuist. Dronkenschap is geen voorwaarde. Art. 45 verbiedt al het gereed of aanwezig hebben van drank."
+        },
+        {
+          "id": "b",
+          "text": "Dat iemand onder 18 jaar op een publiek toegankelijke plaats alcohol gereed of aanwezig heeft",
+          "feedback": "Juist. Dit is de kern van art. 45 Alcoholwet. Het verbod richt zich tot de jongere zelf."
+        },
+        {
+          "id": "c",
+          "text": "Dat een volwassene alcohol koopt en die daarna doorgeeft aan iemand onder de 18 jaar",
+          "feedback": "Onjuist. Art. 45 richt zich tot de jongere zelf, niet tot een volwassene die drank koopt of doorgeeft."
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "Art. 45 Alcoholwet verbiedt personen onder de 18 jaar om op voor het publiek toegankelijke plaatsen alcoholhoudende drank voor consumptie gereed of aanwezig te hebben.",
+      "sourceRefs": [
+        {
+          "law": "Alcoholwet",
+          "article": "art. 45"
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "concept",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m06-l01-3",
+      "moduleId": "m06",
+      "lessonId": "m06-l01",
+      "termIds": [],
+      "topic": "Aanwezig hebben",
+      "level": "B",
+      "type": "mc",
+      "case": "Bij het station zie je Noor (16). In haar open rugzak zitten vier dichte blikjes bier. Ze drinkt niet.",
+      "prompt": "Overtreedt Noor artikel 45 Alcoholwet?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Nee, want de blikjes zijn nog dicht en ze drinkt er niet uit",
+          "feedback": "Onjuist. Drinken is niet nodig. Ook dichte drank die je bij je hebt, valt onder 'aanwezig hebben'."
+        },
+        {
+          "id": "b",
+          "text": "Nee, want een station is geen openbare weg en dus geen publieke plaats",
+          "feedback": "Onjuist. Een station is een voor het publiek toegankelijke plaats. Art. 45 geldt daar ook."
+        },
+        {
+          "id": "c",
+          "text": "Ja, ze heeft de drank aanwezig op een publiek toegankelijke plaats",
+          "feedback": "Juist. 'Aanwezig hebben' geldt ook voor dichte verpakkingen. Noor is 16 en is op een publiek toegankelijke plaats."
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "Art. 45 Alcoholwet kent twee vormen: voor consumptie gereed hebben (bijv. een open blikje) en aanwezig hebben (de drank bij je hebben, ook dicht). Noor heeft de drank aanwezig.",
+      "sourceRefs": [
+        {
+          "law": "Alcoholwet",
+          "article": "art. 45"
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "concept",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m06-l01-4",
+      "moduleId": "m06",
+      "lessonId": "m06-l01",
+      "termIds": [],
+      "topic": "Publiek toegankelijke plaats",
+      "level": "T",
+      "type": "mc",
+      "case": "Tijdens je surveillance kijk je over een hoge schutting. In de afgesloten achtertuin van een woning drinken twee jongeren van 17 een glas wijn.",
+      "prompt": "Is artikel 45 Alcoholwet hier overtreden?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Nee, want een afgesloten privétuin is niet voor het publiek toegankelijk",
+          "feedback": "Juist. Het verbod geldt alleen op voor het publiek toegankelijke plaatsen. Een afgesloten privétuin hoort daar niet bij."
+        },
+        {
+          "id": "b",
+          "text": "Ja, want het verbod geldt overal waar de boa het vanaf de openbare weg kan zien",
+          "feedback": "Onjuist. Het gaat om de plaats zelf, niet om wat jij vanaf de straat kunt zien."
+        },
+        {
+          "id": "c",
+          "text": "Ja, want de jongeren zijn 17 en drinken de wijn al",
+          "feedback": "Onjuist. Drinken alleen is niet genoeg. De plaats moet voor het publiek toegankelijk zijn."
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "Art. 45 Alcoholwet geldt alleen op voor het publiek toegankelijke plaatsen, zoals straat, park, station of café. Een afgesloten privétuin valt daar niet onder.",
+      "sourceRefs": [
+        {
+          "law": "Alcoholwet",
+          "article": "art. 45"
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "concept",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m06-l01-5",
+      "moduleId": "m06",
+      "lessonId": "m06-l01",
+      "termIds": [],
+      "topic": "Begrip alcoholhoudende drank",
+      "level": "K",
+      "type": "mc",
+      "prompt": "Wanneer is een drank volgens de Alcoholwet een alcoholhoudende drank?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Als er bij 20 °C meer dan 5 procent alcohol in zit",
+          "feedback": "Onjuist. De grens is veel lager: 0,5 procent. Ook licht bier valt eronder."
+        },
+        {
+          "id": "b",
+          "text": "Als er op het etiket staat dat het niet voor jongeren is",
+          "feedback": "Onjuist. Het etiket bepaalt het niet. Het alcoholpercentage bepaalt het (art. 1 Alcoholwet)."
+        },
+        {
+          "id": "c",
+          "text": "Als er bij 20 °C meer dan 0,5 procent alcohol in zit",
+          "feedback": "Juist. Dit is de grens uit art. 1 Alcoholwet."
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "Art. 1 Alcoholwet: alcoholhoudende drank is drank die bij een temperatuur van 20 °C voor meer dan 0,5 volumeprocent uit alcohol bestaat. Alcoholvrij bier tot 0,5 procent valt er niet onder.",
+      "sourceRefs": [
+        {
+          "law": "Alcoholwet",
+          "article": "art. 1"
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "concept",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m06-l01-6",
+      "moduleId": "m06",
+      "lessonId": "m06-l01",
+      "termIds": [],
+      "topic": "Leeftijd vaststellen",
+      "level": "T",
+      "type": "mc",
+      "case": "In het park houd je Daan staande. Hij heeft een open blikje bier. Hij zegt dat hij 13 jaar is en heeft geen identiteitsbewijs bij zich.",
+      "prompt": "Welke uitspraak over Daan is juist?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Hij pleegt een extra strafbaar feit, omdat hij geen geldig identiteitsbewijs kan tonen",
+          "feedback": "Onjuist. De toonplicht geldt pas vanaf 14 jaar (art. 2 WID). Een 13-jarige pleegt dan geen feit van art. 447e Sr."
+        },
+        {
+          "id": "b",
+          "text": "Hij hoeft geen identiteitsbewijs te tonen; je vraagt en controleert zijn gegevens",
+          "feedback": "Juist. Onder de 14 jaar is er geen toonplicht. Je vraagt naar naam, geboortedatum en adres (art. 27a en 52 Sv) en controleert die waar dat kan."
+        },
+        {
+          "id": "c",
+          "text": "Je mag niets doen, want voor iemand onder de 14 geldt art. 45 Alcoholwet niet",
+          "feedback": "Onjuist. Art. 45 geldt voor iedereen onder de 18 jaar. Alleen de toonplicht begint pas bij 14 jaar."
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "De identificatieplicht (toonplicht) geldt vanaf 14 jaar (art. 2 WID, art. 447e Sr). Bij een jongere onder de 14 vraag je naar zijn personalia en controleer je die. Art. 45 Alcoholwet geldt wel voor alle jongeren onder de 18.",
+      "sourceRefs": [
+        {
+          "law": "Wet op de identificatieplicht",
+          "article": "art. 2",
+          "verify": true
+        },
+        {
+          "law": "Wetboek van Strafrecht",
+          "article": "art. 447e"
+        },
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 27a",
+          "verify": true
+        },
+        {
+          "law": "Alcoholwet",
+          "article": "art. 45"
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "juridische_review_nodig",
+      "version": "1.0",
+      "lastModified": "2026-11-02",
+      "reviewNote": "Controleer de grondslag van de toonplicht tegenover een boa als opsporingsambtenaar: art. 2 WID noemt de ambtenaar van politie en de toezichthouder; bij een verdachte lijkt art. 27a lid 1 Sv de grondslag. Geldt de leeftijdsgrens van 14 jaar ook daar?"
+    },
+    {
+      "id": "q-m06-l01-7",
+      "moduleId": "m06",
+      "lessonId": "m06-l01",
+      "termIds": [],
+      "topic": "Bevoegdheid en beleid",
+      "level": "B",
+      "type": "truefalse",
+      "prompt": "Een boa mag op artikel 45 Alcoholwet handhaven omdat de gemeente dit in haar handhavingsbeleid heeft opgenomen, ook als het niet in zijn akte of domeinlijst staat.",
+      "correctAnswer": false,
+      "feedbackTrue": "Onjuist. Beleid is nooit een bevoegdheidsgrondslag. Een boa heeft alleen de bevoegdheden die wet, akte en domeinlijst hem geven.",
+      "feedbackFalse": "Juist. Beleid bepaalt alleen waar de gemeente prioriteit aan geeft. De bevoegdheid moet uit wet, akte en domeinlijst komen.",
+      "explanation": "Een boa mag alleen strafbare feiten opsporen waarvoor hij in zijn akte of domeinlijst bevoegd is (art. 142 Sv). Gemeentelijk handhavingsbeleid geeft geen extra bevoegdheden.",
+      "sourceRefs": [
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 142"
+        },
+        {
+          "law": "Alcoholwet",
+          "article": "art. 45"
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "concept",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Alcoholhoudende drank",
+      "definition": "Drank die bij 20 °C voor meer dan 0,5 procent uit alcohol bestaat.",
+      "moduleId": "m06",
+      "sourceRefs": [
+        {
+          "law": "Alcoholwet",
+          "article": "art. 1"
+        }
+      ],
+      "reviewStatus": "concept"
+    },
+    {
+      "term": "Voor het publiek toegankelijke plaats",
+      "definition": "Plaats waar in principe iedereen mag komen, zoals straat, park, station of café. Een privéwoning of afgesloten privétuin hoort er niet bij.",
+      "moduleId": "m06",
+      "sourceRefs": [
+        {
+          "law": "Alcoholwet",
+          "article": "art. 45"
+        }
+      ],
+      "reviewStatus": "concept"
+    },
+    {
+      "term": "Voor consumptie gereed hebben",
+      "definition": "De drank is klaar om te drinken, bijvoorbeeld een geopend blikje of een ingeschonken glas.",
+      "moduleId": "m06",
+      "sourceRefs": [
+        {
+          "law": "Alcoholwet",
+          "article": "art. 45"
+        }
+      ],
+      "reviewStatus": "concept"
+    },
+    {
+      "term": "Aanwezig hebben",
+      "definition": "De drank bij je hebben, ook als de verpakking nog dicht is, bijvoorbeeld in een tas.",
+      "moduleId": "m06",
+      "sourceRefs": [
+        {
+          "law": "Alcoholwet",
+          "article": "art. 45"
+        }
+      ],
+      "reviewStatus": "concept"
+    },
+    {
+      "term": "Toonplicht",
+      "definition": "De plicht voor iemand van 14 jaar of ouder om op vordering van een bevoegde ambtenaar een geldig identiteitsbewijs te tonen.",
+      "moduleId": "m06",
+      "sourceRefs": [
+        {
+          "law": "Wet op de identificatieplicht",
+          "article": "art. 2"
+        },
+        {
+          "law": "Wetboek van Strafrecht",
+          "article": "art. 447e"
+        }
+      ],
+      "reviewStatus": "concept"
+    },
+    {
+      "term": "Toezichthouder Alcoholwet",
+      "definition": "Ambtenaar die door de burgemeester is aangewezen om toezicht te houden op de naleving van onder meer artikel 45 Alcoholwet.",
+      "moduleId": "m06",
+      "sourceRefs": [
+        {
+          "law": "Alcoholwet",
+          "article": "art. 41",
+          "verify": true
+        }
+      ],
+      "reviewStatus": "concept"
+    }
+  ]
+}

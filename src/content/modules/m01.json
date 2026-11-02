@@ -1,0 +1,2932 @@
+{
+  "moduleId": "m01",
+  "lessons": [
+    {
+      "id": "m01-l01",
+      "moduleId": "m01",
+      "order": 1,
+      "title": "De gemeente als organisatie",
+      "minutes": 16,
+      "termIds": [],
+      "objectives": [
+        {
+          "text": "Je kunt de drie bestuursorganen van de gemeente noemen en hun hoofdtaken beschrijven.",
+          "level": "K"
+        },
+        {
+          "text": "Je legt uit welke rol de burgemeester heeft bij de openbare orde (art. 172 Gemeentewet).",
+          "level": "B"
+        },
+        {
+          "text": "Je kunt beschrijven wat de gemeente als werkgever voor jou als boa doet.",
+          "level": "K"
+        },
+        {
+          "text": "Je legt uit dat je bevoegdheden uit de wet, je akte en je domein komen, en wie toezicht houdt.",
+          "level": "B"
+        }
+      ],
+      "screens": [
+        {
+          "type": "objectives",
+          "title": "Leerdoelen"
+        },
+        {
+          "type": "text",
+          "title": "Drie bestuursorganen",
+          "body": "Elke gemeente heeft drie bestuursorganen: de **gemeenteraad**, het **college van burgemeester en wethouders** (college van B en W) en de **burgemeester**.\n\n- De gemeenteraad staat aan het hoofd van de gemeente. De inwoners kiezen de raad rechtstreeks. De raad stelt de hoofdlijnen vast, maakt verordeningen zoals de APV en controleert het college.\n- Het college bestaat uit de burgemeester en de wethouders. Het college voert het dagelijks bestuur. Het bereidt besluiten van de raad voor en voert ze uit.\n- De burgemeester wordt niet gekozen maar door de Kroon benoemd. Hij heeft eigen taken, vooral de openbare orde.\n\nDeze verdeling staat in de Grondwet en de Gemeentewet."
+        },
+        {
+          "type": "law",
+          "title": "De burgemeester en de openbare orde",
+          "ref": {
+            "law": "Gemeentewet",
+            "article": "art. 172"
+          },
+          "body": "De burgemeester is belast met de handhaving van de openbare orde. Hij mag optreden om overtredingen van regels over de openbare orde te voorkomen of te beëindigen. Daarvoor gebruikt hij de politie die bij die taak onder zijn gezag staat. Bij een verstoring van de openbare orde, of ernstige vrees daarvoor, mag hij de bevelen geven die nodig zijn om de orde te handhaven.\n\nVoor jou betekent dit: de burgemeester bepaalt vaak mee waar het toezicht in de openbare ruimte op is gericht. Maar de burgemeester kan jou geen opsporingsbevoegdheden geven. Die komen uit de wet, je akte en je domein."
+        },
+        {
+          "type": "text",
+          "title": "De gemeente als werkgever",
+          "body": "De ambtelijke organisatie bestaat uit de medewerkers van de gemeente. Zij werken onder verantwoordelijkheid van het college. Aan het hoofd van de ambtelijke organisatie staat de gemeentesecretaris.\n\nAls boa in Domein I ben je meestal in dienst van de gemeente. Je werkgever:\n- vraagt je akte aan en zorgt dat je aan de eisen blijft voldoen, zoals opleiding en bijscholing;\n- zorgt voor uitrusting, instructies en werkafspraken;\n- bepaalt waar en wanneer je werkt, bijvoorbeeld via een handhavingsprogramma.\n\nLet op: werkafspraken en prioriteiten zijn **beleid**. Ze bepalen waar je op let. Ze geven je geen extra bevoegdheden."
+        },
+        {
+          "type": "keypoints",
+          "title": "Akte, domein en toezicht",
+          "items": [
+            {
+              "term": "Boa",
+              "text": "Een buitengewoon opsporingsambtenaar is met opsporing belast voor zover de wet of de akte dat bepaalt (art. 142 Sv)."
+            },
+            {
+              "term": "Akte van opsporingsbevoegdheid",
+              "text": "Daarin staat voor welke strafbare feiten en met welke bevoegdheden je opsporingsambtenaar bent. De akte wordt namens de minister van Justitie en Veiligheid afgegeven; Justis behandelt de aanvraag."
+            },
+            {
+              "term": "Domein",
+              "text": "Jouw domein is Domein I Openbare ruimte. De domeinlijst bepaalt welke strafbare feiten je mag opsporen."
+            },
+            {
+              "term": "Gezag",
+              "text": "Bij opsporing sta je onder gezag van de officier van justitie (art. 148 Sv). Bij toezicht werk je voor het bestuursorgaan dat je heeft aangewezen."
+            },
+            {
+              "term": "Toezicht",
+              "text": "Het Openbaar Ministerie houdt toezicht op de manier waarop je je opsporingstaak uitvoert."
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": "Praktijk: wie bepaalt wat?",
+          "body": "Na klachten over overlast vraagt de burgemeester om extra toezicht bij het winkelcentrum. Het college neemt dit op in het handhavingsprogramma. Boa Sanne krijgt daarom diensten in het winkelcentrum.\n\nSanne ziet een man tegen een gevel plassen. Dit is een overtreding van de APV. Het feit staat op haar domeinlijst en valt onder haar akte. Ze spreekt de man aan en maakt een proces-verbaal op. Bij die opsporing staat ze onder gezag van de officier van justitie.\n\nDe burgemeester en het college bepalen dus **waar** Sanne werkt. De wet, haar akte en de domeinlijst bepalen **wat** zij mag."
+        },
+        {
+          "type": "exercise",
+          "title": "Oefening",
+          "questionId": "q-m01-l01-1"
+        },
+        {
+          "type": "check",
+          "title": "Kennischeck",
+          "questionIds": [
+            "q-m01-l01-2",
+            "q-m01-l01-3",
+            "q-m01-l01-4",
+            "q-m01-l01-5",
+            "q-m01-l01-6"
+          ]
+        },
+        {
+          "type": "summary",
+          "title": "Samenvatting"
+        }
+      ],
+      "summary": [
+        "De gemeente heeft drie bestuursorganen: de gemeenteraad, het college van B en W en de burgemeester.",
+        "De raad stelt verordeningen vast en controleert het college; het college voert het dagelijks bestuur.",
+        "De burgemeester is belast met de handhaving van de openbare orde (art. 172 Gemeentewet).",
+        "Je werkgever bepaalt waar en wanneer je werkt, maar geeft je geen bevoegdheden: die komen uit de wet, je akte en je domein.",
+        "Bij opsporing sta je onder gezag van de officier van justitie (art. 148 Sv)."
+      ],
+      "sourceRefs": [
+        {
+          "law": "Grondwet",
+          "article": "art. 125"
+        },
+        {
+          "law": "Grondwet",
+          "article": "art. 129"
+        },
+        {
+          "law": "Grondwet",
+          "article": "art. 131"
+        },
+        {
+          "law": "Gemeentewet",
+          "article": "art. 34",
+          "note": "Samenstelling college",
+          "verify": true
+        },
+        {
+          "law": "Gemeentewet",
+          "article": "art. 100",
+          "note": "Gemeentesecretaris",
+          "verify": true
+        },
+        {
+          "law": "Gemeentewet",
+          "article": "art. 147"
+        },
+        {
+          "law": "Gemeentewet",
+          "article": "art. 160"
+        },
+        {
+          "law": "Gemeentewet",
+          "article": "art. 172"
+        },
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 142"
+        },
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 148"
+        },
+        {
+          "law": "Besluit buitengewoon opsporingsambtenaar",
+          "note": "Akte, eisen en werkgeversverplichtingen",
+          "verify": true
+        },
+        {
+          "law": "Beleidsregels buitengewoon opsporingsambtenaar",
+          "note": "Domeinlijst, rol Justis en toezicht OM",
+          "verify": true
+        }
+      ],
+      "reviewStatus": "juridische_review_nodig",
+      "reviewNote": "Controleren: (1) Gemeentewet art. 34 als bron voor de samenstelling van het college (burgemeester en wethouders). (2) Gemeentewet art. 100 als bron voor de gemeentesecretaris. (3) Rol van Justis bij de behandeling van de akte-aanvraag namens de minister van JenV en de toetsing van betrouwbaarheid en vakbekwaamheid: welke bepalingen van het Besluit buitengewoon opsporingsambtenaar en de Beleidsregels boa precies. (4) Toezicht door het OM op de opsporingstaak van boa's en de verplichtingen van de werkgever: exacte grondslag in Besluit boa / Beleidsregels boa.",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "m01-l02",
+      "moduleId": "m01",
+      "order": 2,
+      "title": "Regelgeving: van wet tot APV",
+      "minutes": 18,
+      "termIds": [],
+      "objectives": [
+        {
+          "text": "Je kunt de soorten regelgeving noemen en zeggen wie ze maakt.",
+          "level": "K"
+        },
+        {
+          "text": "Je legt uit waarom een hogere regeling voorgaat op een lagere.",
+          "level": "B"
+        },
+        {
+          "text": "Je kunt uitleggen waar de raad zijn bevoegdheid om verordeningen te maken vandaan haalt en hoe een overtreding strafbaar wordt.",
+          "level": "K"
+        },
+        {
+          "text": "Je kunt met je akte en domeinlijst bepalen of je een regel mag handhaven.",
+          "level": "T"
+        }
+      ],
+      "screens": [
+        {
+          "type": "objectives",
+          "title": "Leerdoelen"
+        },
+        {
+          "type": "text",
+          "title": "Soorten regelgeving",
+          "body": "Je handhaaft regels van verschillende makers.\n\n- **Wet in formele zin**: gemaakt door regering en Staten-Generaal samen. Voorbeelden: Wetboek van Strafrecht, Gemeentewet, Wegenverkeerswet 1994.\n- **Algemene maatregel van bestuur (AMvB)**: vastgesteld bij koninklijk besluit, op grond van een wet. De Raad van State adviseert vooraf. Voorbeelden: het RVV 1990 en het Besluit buitengewoon opsporingsambtenaar.\n- **Ministeriële regeling**: vastgesteld door een minister, op grond van een wet of AMvB. Vaak een technische uitwerking.\n- **Gemeentelijke verordening**: vastgesteld door de gemeenteraad. Voorbeelden: de APV en de afvalstoffenverordening.\n\nStraf op een AMvB kan alleen als een wet dat mogelijk maakt."
+        },
+        {
+          "type": "law",
+          "title": "Verordenende bevoegdheid van de raad",
+          "ref": {
+            "law": "Gemeentewet",
+            "article": "art. 147 en 149"
+          },
+          "body": "De gemeenteraad stelt de verordeningen van de gemeente vast. Alleen als de wet die bevoegdheid aan het college of de burgemeester geeft, is dat anders (art. 147).\n\nDe raad mag de verordeningen maken die hij in het belang van de gemeente nodig vindt (art. 149). Zo ontstaat bijvoorbeeld de APV.\n\nDe raad mag niet in strijd handelen met hogere regels. Regelt een wet of AMvB hetzelfde onderwerp, dan vervallen de bepalingen van de verordening daarover vanzelf (art. 122). Aanvullende regels mogen wel, zolang ze niet in strijd zijn met de hogere regel (art. 121)."
+        },
+        {
+          "type": "law",
+          "title": "Strafbaarstelling en bekendmaking",
+          "ref": {
+            "law": "Gemeentewet",
+            "article": "art. 154"
+          },
+          "body": "De raad kan straf stellen op overtreding van zijn verordeningen (art. 154). De straf is ten hoogste hechtenis van drie maanden of een geldboete van de tweede categorie. Zo'n overtreding is dus een strafbaar feit. Je kunt het als boa opsporen als het in je akte en op je domeinlijst staat.\n\nEen verordening geldt pas na bekendmaking (art. 139). Dat gebeurt elektronisch in het gemeenteblad.\n\nDe VNG heeft een **Model-APV**. Elke gemeente maakt toch haar eigen APV. Artikelnummers verschillen dus per gemeente. Kijk altijd in de APV van je eigen gemeente."
+        },
+        {
+          "type": "keypoints",
+          "title": "Rangorde: hoger gaat voor lager",
+          "items": [
+            {
+              "term": "Verdragen en EU-recht",
+              "text": "Een ieder verbindende verdragsbepalingen gaan voor op Nederlandse regels (art. 93 en 94 Grondwet)."
+            },
+            {
+              "term": "Grondwet",
+              "text": "De hoogste nationale regeling."
+            },
+            {
+              "term": "Wet in formele zin",
+              "text": "Gemaakt door regering en Staten-Generaal samen."
+            },
+            {
+              "term": "AMvB en ministeriële regeling",
+              "text": "Uitwerking van een wet. Ze mogen niet in strijd zijn met de wet."
+            },
+            {
+              "term": "Gemeentelijke verordening",
+              "text": "Onderaan de rangorde. Is zij in strijd met een hogere regel, dan gaat de hogere regel voor."
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": "Praktijk: de hond in het park",
+          "body": "Boa Yusuf spreekt in het park een vrouw aan. Haar hond loopt los. Zij zegt: \"Dat staat nergens.\"\n\nYusuf weet hoe het zit. De gemeenteraad heeft in de APV een aanlijngebod opgenomen voor gebieden die het college aanwijst. Het college heeft dit park aangewezen. Raadsbesluit en aanwijzingsbesluit zijn bekendgemaakt in het gemeenteblad. De APV stelt straf op overtreding, op grond van art. 154 Gemeentewet.\n\nHet feit staat op Yusufs domeinlijst en valt onder zijn akte. Hij mag dus optreden. Hij legt de vrouw kort uit welke regel geldt en waar ze die kan vinden. Daarna maakt hij een afweging: een waarschuwing of een boete."
+        },
+        {
+          "type": "exercise",
+          "title": "Oefening",
+          "questionId": "q-m01-l02-1"
+        },
+        {
+          "type": "check",
+          "title": "Kennischeck",
+          "questionIds": [
+            "q-m01-l02-2",
+            "q-m01-l02-3",
+            "q-m01-l02-4",
+            "q-m01-l02-5",
+            "q-m01-l02-6"
+          ]
+        },
+        {
+          "type": "summary",
+          "title": "Samenvatting"
+        }
+      ],
+      "summary": [
+        "Een wet in formele zin maken regering en Staten-Generaal samen; een AMvB en een ministeriële regeling werken de wet uit.",
+        "De gemeenteraad stelt verordeningen vast, zoals de APV (art. 147 en 149 Gemeentewet).",
+        "Een hogere regeling gaat voor op een lagere; een verordening mag niet in strijd zijn met hogere regels.",
+        "De raad kan straf stellen op overtreding van een verordening (art. 154 Gemeentewet); een verordening geldt pas na bekendmaking (art. 139).",
+        "APV-artikelnummers verschillen per gemeente. Je mag een feit alleen opsporen als het in je akte en op je domeinlijst staat."
+      ],
+      "sourceRefs": [
+        {
+          "law": "Grondwet",
+          "article": "art. 73"
+        },
+        {
+          "law": "Grondwet",
+          "article": "art. 81"
+        },
+        {
+          "law": "Grondwet",
+          "article": "art. 89"
+        },
+        {
+          "law": "Grondwet",
+          "article": "art. 93 en 94"
+        },
+        {
+          "law": "Gemeentewet",
+          "article": "art. 121",
+          "note": "Aanvullende verordeningen",
+          "verify": true
+        },
+        {
+          "law": "Gemeentewet",
+          "article": "art. 122",
+          "note": "Vervallen van rechtswege",
+          "verify": true
+        },
+        {
+          "law": "Gemeentewet",
+          "article": "art. 139"
+        },
+        {
+          "law": "Gemeentewet",
+          "article": "art. 147"
+        },
+        {
+          "law": "Gemeentewet",
+          "article": "art. 149"
+        },
+        {
+          "law": "Gemeentewet",
+          "article": "art. 154",
+          "note": "Strafmaximum en kwalificatie als overtreding (lid 1a en lid 2)",
+          "verify": true
+        },
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 142"
+        },
+        {
+          "law": "Beleidsregels buitengewoon opsporingsambtenaar",
+          "note": "Domeinlijst Domein I",
+          "verify": true
+        }
+      ],
+      "reviewStatus": "juridische_review_nodig",
+      "reviewNote": "Controleren: (1) Gemeentewet art. 121 (aanvullende verordeningen) en art. 122 (vervallen van rechtswege bij regeling van hetzelfde onderwerp door hogere regeling): juiste artikelnummers en formulering. (2) Gemeentewet art. 154: strafmaximum hechtenis ten hoogste drie maanden of geldboete tweede categorie (lid 1a) en kwalificatie als overtreding: juiste leden. (3) Vindplaats van de domeinlijst Domein I (Beleidsregels boa, bijlage).",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "m01-l03",
+      "moduleId": "m01",
+      "order": 3,
+      "title": "Persoonsgegevens: AVG of Wet politiegegevens?",
+      "minutes": 18,
+      "termIds": [],
+      "objectives": [
+        {
+          "text": "Je kunt uitleggen wat een persoonsgegeven is en wat verwerken betekent.",
+          "level": "K"
+        },
+        {
+          "text": "Je legt uit wanneer de AVG geldt en wanneer de regels voor politiegegevens.",
+          "level": "B"
+        },
+        {
+          "text": "Je kunt in een situatie bepalen of je als toezichthouder of als opsporingsambtenaar gegevens verwerkt.",
+          "level": "T"
+        },
+        {
+          "text": "Je kunt de beginselen doelbinding, noodzaak, juistheid en beveiliging noemen.",
+          "level": "K"
+        }
+      ],
+      "screens": [
+        {
+          "type": "objectives",
+          "title": "Leerdoelen"
+        },
+        {
+          "type": "text",
+          "title": "Wat zijn persoonsgegevens?",
+          "body": "Een persoonsgegeven is alle informatie over een natuurlijke persoon die je kunt identificeren. Dat kan direct, zoals een naam. Of indirect, als je de persoon met andere informatie kunt achterhalen.\n\nVoorbeelden uit je werk:\n- naam, adres, geboortedatum, BSN;\n- een kenteken dat bij een persoon hoort;\n- een herkenbare persoon op een foto of bodycambeeld;\n- een notitie als \"man met rode jas, woont op nummer 12\".\n\n**Verwerken** is alles wat je met die gegevens doet: noteren, opslaan, opzoeken, doorgeven en vernietigen. Gegevens over gezondheid of geloof zijn bijzondere persoonsgegevens. Gegevens over strafbare feiten krijgen ook extra bescherming."
+        },
+        {
+          "type": "law",
+          "title": "Twee regimes",
+          "ref": {
+            "law": "Algemene verordening gegevensbescherming (AVG)",
+            "article": "art. 2 lid 2 onder d"
+          },
+          "body": "De AVG is de algemene Europese privacywet. Zij geldt niet als een bevoegde autoriteit persoonsgegevens verwerkt om strafbare feiten te voorkomen, op te sporen of te vervolgen. Daarvoor geldt een aparte Europese richtlijn.\n\nIn Nederland is die richtlijn voor de politie uitgewerkt in de Wet politiegegevens (Wpg). Via de Wpg en een besluit voor boa's gelden die regels ook voor jou, als je gegevens verwerkt voor je opsporingstaak.\n\nVoor alle andere verwerkingen geldt de AVG, met de Nederlandse Uitvoeringswet AVG (UAVG)."
+        },
+        {
+          "type": "keypoints",
+          "title": "Toezichthouder of opsporingsambtenaar?",
+          "items": [
+            {
+              "term": "Toezicht (bestuurlijk)",
+              "text": "Je controleert als toezichthouder of regels worden nageleefd (art. 5:11 Awb), bijvoorbeeld voor een waarschuwing of last onder dwangsom van het college. Dan geldt de AVG."
+            },
+            {
+              "term": "Opsporing (strafrechtelijk)",
+              "text": "Je onderzoekt een strafbaar feit, bijvoorbeeld voor een proces-verbaal of een boete. Dan gelden de regels voor politiegegevens."
+            },
+            {
+              "term": "Het doel beslist",
+              "text": "Niet je functie bepaalt welk regime geldt, maar het doel waarvoor je de gegevens verwerkt. Op één dienst kun je met beide te maken krijgen."
+            },
+            {
+              "term": "Twijfel?",
+              "text": "Vraag het je privacy officer of de functionaris voor gegevensbescherming (FG) van je organisatie."
+            }
+          ]
+        },
+        {
+          "type": "keypoints",
+          "title": "Beginselen die altijd gelden",
+          "items": [
+            {
+              "term": "Doelbinding",
+              "text": "Je verzamelt gegevens voor een duidelijk doel. Je gebruikt ze niet zomaar voor iets anders."
+            },
+            {
+              "term": "Noodzaak",
+              "text": "Je verwerkt alleen de gegevens die echt nodig zijn voor dat doel. Niet meer."
+            },
+            {
+              "term": "Juistheid",
+              "text": "Gegevens moeten kloppen. Noteer zorgvuldig en laat fouten herstellen."
+            },
+            {
+              "term": "Beveiliging",
+              "text": "Gegevens moeten goed beschermd zijn tegen verlies en tegen inzage door onbevoegden."
+            },
+            {
+              "term": "Bewaren",
+              "text": "Bewaar gegevens niet langer dan nodig."
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": "Praktijk: één dienst, twee regimes",
+          "body": "Boa Fenna begint haar dienst met een controle van terrassen. Zij is door het college aangewezen als toezichthouder. Eén terras staat buiten de vergunde grens. Fenna noteert de naam van de exploitant voor een bestuurlijke waarschuwing. Op die gegevens is de **AVG** van toepassing.\n\nIn de middag ziet Fenna iemand afval naast een container zetten. Dat feit staat op haar domeinlijst. Ze noteert naam en adres en maakt een boete op. Nu werkt zij in haar opsporingstaak. Dan gelden de **regels voor politiegegevens**.\n\nIn beide gevallen noteert Fenna alleen wat nodig is. Zij bewaart het veilig in de systemen van haar organisatie."
+        },
+        {
+          "type": "exercise",
+          "title": "Oefening",
+          "questionId": "q-m01-l03-1"
+        },
+        {
+          "type": "check",
+          "title": "Kennischeck",
+          "questionIds": [
+            "q-m01-l03-2",
+            "q-m01-l03-3",
+            "q-m01-l03-4",
+            "q-m01-l03-5",
+            "q-m01-l03-6"
+          ]
+        },
+        {
+          "type": "summary",
+          "title": "Samenvatting"
+        }
+      ],
+      "summary": [
+        "Een persoonsgegeven is alle informatie over een identificeerbare natuurlijke persoon (art. 4 AVG); ook een herkenbaar beeld.",
+        "De AVG geldt niet voor verwerking voor opsporing en vervolging (art. 2 lid 2 onder d AVG); daarvoor gelden de regels voor politiegegevens.",
+        "Als toezichthouder (bestuurlijk) val je onder de AVG; in je opsporingstaak onder de Wpg en het besluit voor boa's.",
+        "Het doel van de verwerking bepaalt welk regime geldt, niet je functie.",
+        "Werk altijd volgens doelbinding, noodzaak, juistheid en beveiliging."
+      ],
+      "sourceRefs": [
+        {
+          "law": "Algemene verordening gegevensbescherming (AVG)",
+          "article": "art. 2 lid 2 onder d"
+        },
+        {
+          "law": "Algemene verordening gegevensbescherming (AVG)",
+          "article": "art. 4 onder 1 en 2"
+        },
+        {
+          "law": "Algemene verordening gegevensbescherming (AVG)",
+          "article": "art. 5"
+        },
+        {
+          "law": "Algemene verordening gegevensbescherming (AVG)",
+          "article": "art. 9"
+        },
+        {
+          "law": "Algemene verordening gegevensbescherming (AVG)",
+          "article": "art. 10"
+        },
+        {
+          "law": "Algemene verordening gegevensbescherming (AVG)",
+          "article": "art. 32"
+        },
+        {
+          "law": "Wet politiegegevens",
+          "article": "art. 1",
+          "note": "Begrip politiegegeven"
+        },
+        {
+          "law": "Wet politiegegevens",
+          "article": "art. 3 en 4",
+          "note": "Doelbinding, noodzaak en juistheid",
+          "verify": true
+        },
+        {
+          "law": "Besluit politiegegevens buitengewoon opsporingsambtenaren",
+          "note": "Toepassing Wpg-regels op boa's; naam en grondslag controleren",
+          "verify": true
+        },
+        {
+          "law": "Uitvoeringswet Algemene verordening gegevensbescherming",
+          "article": "art. 6",
+          "note": "Autoriteit Persoonsgegevens",
+          "verify": true
+        },
+        {
+          "law": "Algemene wet bestuursrecht",
+          "article": "art. 5:11"
+        }
+      ],
+      "reviewStatus": "juridische_review_nodig",
+      "reviewNote": "Controleren: (1) Exacte naam en grondslag in de Wpg van het besluit dat de Wpg-regels van toepassing verklaart op boa's (vermoedelijk 'Besluit politiegegevens buitengewoon opsporingsambtenaren'), en welk Wpg-artikel daarvoor de basis is. (2) Wpg art. 3 (doelbinding/noodzaak) en art. 4 (juistheid) als vindplaats van de beginselen; Wpg-artikel over beveiliging (art. 4a?). (3) Afbakening: geldt voor de boa die een bestuurlijke strafbeschikking of andere afdoening voorbereidt de Wpg of de AVG? Les gaat uit van: opsporingstaak = Wpg, bestuurlijk toezicht = AVG/UAVG. (4) UAVG art. 6 als bron voor de Autoriteit Persoonsgegevens.",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "m01-l04",
+      "moduleId": "m01",
+      "order": 4,
+      "title": "Gebruik en verstrekken van persoonsgegevens",
+      "minutes": 18,
+      "termIds": [],
+      "objectives": [
+        {
+          "text": "Je weet dat je een geheimhoudingsplicht hebt en waar die vandaan komt.",
+          "level": "K"
+        },
+        {
+          "text": "Je kunt bepalen met wie je welke gegevens wel of niet mag delen.",
+          "level": "T"
+        },
+        {
+          "text": "Je kunt de belangrijkste rechten van betrokkenen noemen.",
+          "level": "K"
+        },
+        {
+          "text": "Je weet wat je doet bij een mogelijk datalek en hoe je zorgvuldig omgaat met notities en beelden.",
+          "level": "T"
+        }
+      ],
+      "screens": [
+        {
+          "type": "objectives",
+          "title": "Leerdoelen"
+        },
+        {
+          "type": "law",
+          "title": "Geheimhouding",
+          "ref": {
+            "law": "Wetboek van Strafrecht",
+            "article": "art. 272"
+          },
+          "body": "Als boa hoor en zie je veel over mensen. Daarvoor geldt een geheimhoudingsplicht. Voor gegevens uit je opsporingstaak staat die in de Wpg. Als ambtenaar heb je daarnaast een algemene geheimhoudingsplicht voor wat je in je functie te weten komt.\n\nWie opzettelijk een geheim bekendmaakt dat hij vanwege zijn ambt moet bewaren, pleegt een strafbaar feit (art. 272 Sr).\n\nGeheimhouding geldt altijd: ook na je dienst, thuis, tegenover vrienden en familie, en op sociale media."
+        },
+        {
+          "type": "keypoints",
+          "title": "Delen: met wie wel en niet?",
+          "items": [
+            {
+              "term": "Collega",
+              "text": "Alleen als je collega de gegevens nodig heeft voor zijn taak. Gegevens opzoeken uit nieuwsgierigheid mag nooit."
+            },
+            {
+              "term": "Politie",
+              "text": "Alleen als daar een wettelijke grondslag voor is, bijvoorbeeld in de opsporing. Gebruik de afgesproken kanalen van je organisatie."
+            },
+            {
+              "term": "Derden",
+              "text": "Melders, buren, winkeliers en de pers krijgen in principe geen persoonsgegevens. Vertel een melder dus niet wie de overtreder is of welke boete is opgelegd."
+            },
+            {
+              "term": "Sociale media",
+              "text": "Deel nooit gegevens, foto's of beelden uit je werk. Ook niet in een besloten groep."
+            }
+          ]
+        },
+        {
+          "type": "keypoints",
+          "title": "Rechten van betrokkenen",
+          "items": [
+            {
+              "term": "Inzage",
+              "text": "Iemand mag vragen welke gegevens over hem worden verwerkt (art. 15 AVG)."
+            },
+            {
+              "term": "Rectificatie",
+              "text": "Iemand mag onjuiste gegevens laten verbeteren (art. 16 AVG)."
+            },
+            {
+              "term": "Wissing",
+              "text": "Iemand mag in bepaalde gevallen vragen gegevens te wissen (art. 17 AVG)."
+            },
+            {
+              "term": "Bezwaar",
+              "text": "Iemand mag in bepaalde gevallen bezwaar maken tegen verwerking (art. 21 AVG)."
+            },
+            {
+              "term": "Jouw rol",
+              "text": "Je handelt een verzoek niet zelf op straat af. Verwijs naar de procedure van je organisatie. Ook de Wpg kent rechten voor betrokkenen, maar met meer beperkingen."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "title": "Datalek en zorgvuldig werken",
+          "body": "Een datalek is een inbreuk op de beveiliging, waardoor persoonsgegevens verloren gaan of bij onbevoegden terechtkomen. Voorbeelden: een kwijtgeraakt opschrijfboekje, een gestolen werktelefoon of een e-mail naar de verkeerde persoon.\n\nJe organisatie is verwerkingsverantwoordelijke. Zij meldt een datalek zo nodig binnen 72 uur bij de Autoriteit Persoonsgegevens (art. 33 AVG). **Jij meldt het direct intern**, volgens de procedure van je organisatie, bijvoorbeeld bij de FG.\n\nZo werk je zorgvuldig:\n- gebruik alleen werkmiddelen, geen privételefoon;\n- werk notities snel uit in het systeem en laat je boekje nooit slingeren;\n- kopieer of deel bodycambeelden niet buiten de instructie van je werkgever."
+        },
+        {
+          "type": "example",
+          "title": "Praktijk: de nieuwsgierige melder",
+          "body": "Boa Ravi handelt een melding af over een buurman die steeds grofvuil op de stoep zet. Ravi treft de buurman aan en geeft hem een boete.\n\nEen dag later belt de melder: \"Heeft hij een boete gekregen? Hoe heet hij eigenlijk voluit?\" Ravi zegt dat de melding is opgepakt en is afgehandeld. Over de buurman vertelt hij niets.\n\nDiezelfde avond vraagt een vriend in een appgroep of Ravi \"die vechtpartij van gisteren\" op zijn bodycam heeft. Ravi reageert niet inhoudelijk. Beelden en gegevens uit zijn werk deelt hij nooit privé."
+        },
+        {
+          "type": "exercise",
+          "title": "Oefening",
+          "questionId": "q-m01-l04-1"
+        },
+        {
+          "type": "check",
+          "title": "Kennischeck",
+          "questionIds": [
+            "q-m01-l04-2",
+            "q-m01-l04-3",
+            "q-m01-l04-4",
+            "q-m01-l04-5",
+            "q-m01-l04-6"
+          ]
+        },
+        {
+          "type": "summary",
+          "title": "Samenvatting"
+        }
+      ],
+      "summary": [
+        "Je hebt een geheimhoudingsplicht; opzettelijk schenden van een ambtsgeheim is strafbaar (art. 272 Sr).",
+        "Deel gegevens alleen met wie ze nodig heeft voor zijn taak en als daarvoor een grondslag is; nooit op sociale media.",
+        "Betrokkenen hebben onder meer recht op inzage, rectificatie, wissing en bezwaar (art. 15–21 AVG); verwijs naar je organisatie.",
+        "Meld een mogelijk datalek direct intern; je organisatie meldt zo nodig binnen 72 uur bij de Autoriteit Persoonsgegevens (art. 33 AVG).",
+        "Gebruik alleen werkmiddelen en ga zorgvuldig om met je notities en bodycambeelden."
+      ],
+      "sourceRefs": [
+        {
+          "law": "Wetboek van Strafrecht",
+          "article": "art. 272",
+          "note": "Ook na einde dienstverband? Controleren",
+          "verify": true
+        },
+        {
+          "law": "Wet politiegegevens",
+          "article": "art. 7",
+          "note": "Geheimhouding politiegegevens",
+          "verify": true
+        },
+        {
+          "law": "Ambtenarenwet 2017",
+          "article": "art. 9",
+          "note": "Geheimhoudingsplicht ambtenaar",
+          "verify": true
+        },
+        {
+          "law": "Algemene verordening gegevensbescherming (AVG)",
+          "article": "art. 4 onder 12"
+        },
+        {
+          "law": "Algemene verordening gegevensbescherming (AVG)",
+          "article": "art. 5 lid 1 onder b en f"
+        },
+        {
+          "law": "Algemene verordening gegevensbescherming (AVG)",
+          "article": "art. 6"
+        },
+        {
+          "law": "Algemene verordening gegevensbescherming (AVG)",
+          "article": "art. 15, 16, 17 en 21"
+        },
+        {
+          "law": "Algemene verordening gegevensbescherming (AVG)",
+          "article": "art. 32"
+        },
+        {
+          "law": "Algemene verordening gegevensbescherming (AVG)",
+          "article": "art. 33"
+        },
+        {
+          "law": "Algemene verordening gegevensbescherming (AVG)",
+          "article": "art. 37–39",
+          "note": "Functionaris voor gegevensbescherming"
+        },
+        {
+          "law": "Wet politiegegevens",
+          "note": "Meldplicht datalek en rechten betrokkenen onder de Wpg",
+          "verify": true
+        }
+      ],
+      "reviewStatus": "juridische_review_nodig",
+      "reviewNote": "Controleren: (1) Wpg art. 7 als bron voor de geheimhoudingsplicht bij verwerking van politiegegevens. (2) Ambtenarenwet 2017 art. 9 als bron voor de algemene geheimhoudingsplicht van ambtenaren. (3) Sr art. 272: geldt de strafbaarstelling ook voor wie vroeger tot geheimhouding verplicht was (na einde dienstverband)? (4) Wpg-bepaling over melden van een datalek (art. 33a?) en de rechten van betrokkenen onder de Wpg (art. 25 e.v.?) en de beperkingen daarop. (5) Bodycambeelden in de opsporingstaak: vallen ze onder de Wpg-regels; bewaartermijnen staan in beleid/instructie van de werkgever. Aanvulling eindredactie bij (3): naar mijn kennis noemt art. 272 Sr ook het geheim dat iemand uit hoofde van een vroeger ambt moet bewaren; dat zou de zin \"ook na je dienst\" ondersteunen. Bevestigen.",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "m01-l05",
+      "moduleId": "m01",
+      "order": 5,
+      "title": "Samenwerking met de politie",
+      "minutes": 17,
+      "termIds": [],
+      "objectives": [
+        {
+          "text": "Je weet onder wiens gezag je staat bij opsporing (art. 148 Sv).",
+          "level": "K"
+        },
+        {
+          "text": "Je legt het verschil uit tussen de taak van de politie en jouw taak als boa.",
+          "level": "B"
+        },
+        {
+          "text": "Je legt uit wat een convenant wel en niet regelt.",
+          "level": "B"
+        },
+        {
+          "text": "Je weet wanneer je de politie inschakelt en wat je doorgeeft bij overdracht van een aangehouden verdachte.",
+          "level": "T"
+        }
+      ],
+      "screens": [
+        {
+          "type": "objectives",
+          "title": "Leerdoelen"
+        },
+        {
+          "type": "law",
+          "title": "Gezag van de officier van justitie",
+          "ref": {
+            "law": "Wetboek van Strafvordering",
+            "article": "art. 148"
+          },
+          "body": "De officier van justitie is belast met de opsporing van strafbare feiten. Hij kan bevelen geven aan de anderen die met opsporing zijn belast (art. 148 Sv).\n\nPolitieambtenaren zijn algemeen opsporingsambtenaar (art. 141 Sv). Jij bent buitengewoon opsporingsambtenaar (art. 142 Sv). Bij opsporing staan jullie dus allebei onder gezag van de officier van justitie.\n\nBij toezicht en bestuurlijke handhaving werk je niet onder het gezag van de officier, maar voor het bestuursorgaan dat jou heeft aangewezen."
+        },
+        {
+          "type": "text",
+          "title": "Taakverdeling boa en politie",
+          "body": "De politie heeft als taak de daadwerkelijke handhaving van de rechtsorde en hulpverlening (art. 3 Politiewet 2012). Bij de openbare orde staat de politie onder gezag van de burgemeester, bij de strafrechtelijke handhaving onder gezag van de officier van justitie (art. 11 en 12 Politiewet 2012). De politie heeft brede bevoegdheden, ook om geweld te gebruiken als dat nodig is (art. 7 Politiewet 2012).\n\nJij hebt een beperkte taak. Je spoort alleen de feiten op die bij je domein horen en in je akte staan. Ook je middelen zijn beperkt tot wat in je akte is toegekend.\n\nIn de praktijk:\n- boa: leefbaarheid, overlast en lichte overtredingen in de openbare ruimte;\n- politie: geweld, ernstige criminaliteit, noodhulp en situaties waarin meer bevoegdheden nodig zijn."
+        },
+        {
+          "type": "keypoints",
+          "title": "Convenant en samenwerkingsafspraken",
+          "items": [
+            {
+              "term": "Wat is het?",
+              "text": "Afspraken tussen gemeente en politie, soms ook met het OM, over taakverdeling, bereikbaarheid, overdracht en informatie-uitwisseling."
+            },
+            {
+              "term": "Status",
+              "text": "Een convenant is beleid. Het geeft je geen bevoegdheden. Je bevoegdheden komen uit de wet, je akte en je domein (art. 142 Sv)."
+            },
+            {
+              "term": "Informatie",
+              "text": "Een convenant kan beschrijven hoe je informatie deelt. Het kan geen wettelijke grondslag vervangen."
+            },
+            {
+              "term": "Waarom nuttig?",
+              "text": "Iedereen weet vooraf wie wat doet. Dat maakt samenwerken veiliger en sneller."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "title": "Politie inschakelen en overdracht",
+          "body": "Schakel de politie in bij:\n- geweld of dreiging met geweld;\n- gevaar voor jezelf of anderen (bij spoed: 112);\n- een strafbaar feit dat niet op je domeinlijst staat;\n- een situatie waarvoor je een bevoegdheid nodig hebt die je niet hebt.\n\nBij ontdekking op heterdaad mag iedereen een verdachte aanhouden (art. 53 Sv). De verdachte moet dan naar de (hulp)officier van justitie. In de praktijk neemt de politie hem van je over.\n\nGeef bij de overdracht door: wie de verdachte is, voor welk feit en hoe laat je hem hebt aangehouden, of je de cautie hebt gegeven (art. 29 Sv), en of je hebt gefouilleerd of iets in beslag hebt genomen. Daarna maak je zelf proces-verbaal op (art. 152 Sv)."
+        },
+        {
+          "type": "example",
+          "title": "Praktijk: de controle loopt uit de hand",
+          "body": "Boa's Lotte en Bram spreken een man aan van wie de hond in de speeltuin poept. De man wordt boos en duwt Bram hard tegen een hek.\n\nLotte en Bram nemen afstand. Ze houden de man niet zelf vast, maar melden het geweld meteen bij de meldkamer van de politie. Ze houden de man in het oog tot de politie er is.\n\nTwee agenten nemen de zaak over. Lotte vertelt kort wat er gebeurde, hoe laat, en wie getuige was. Na de dienst maken Lotte en Bram elk een proces-verbaal op van wat zij zelf hebben waargenomen. Voor het hondenpoepfeit, dat op hun domeinlijst staat, handelen zij zelf af."
+        },
+        {
+          "type": "exercise",
+          "title": "Oefening",
+          "questionId": "q-m01-l05-1"
+        },
+        {
+          "type": "check",
+          "title": "Kennischeck",
+          "questionIds": [
+            "q-m01-l05-2",
+            "q-m01-l05-3",
+            "q-m01-l05-4",
+            "q-m01-l05-5",
+            "q-m01-l05-6"
+          ]
+        },
+        {
+          "type": "summary",
+          "title": "Samenvatting"
+        }
+      ],
+      "summary": [
+        "Bij opsporing sta je onder gezag van de officier van justitie (art. 148 Sv).",
+        "De politie handhaaft de rechtsorde in brede zin (art. 3 Politiewet 2012); jij alleen binnen je akte en domein.",
+        "Een convenant is beleid: het regelt samenwerking, maar geeft geen bevoegdheden en vervangt geen wettelijke grondslag.",
+        "Schakel de politie in bij geweld, gevaar of een feit buiten je domein.",
+        "Bij overdracht van een aangehouden verdachte geef je alle relevante informatie door en maak je zelf proces-verbaal op (art. 152 Sv)."
+      ],
+      "sourceRefs": [
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 29"
+        },
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 53",
+          "note": "Lid over voorgeleiding/overlevering controleren",
+          "verify": true
+        },
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 141"
+        },
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 142"
+        },
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 148"
+        },
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 152"
+        },
+        {
+          "law": "Politiewet 2012",
+          "article": "art. 3"
+        },
+        {
+          "law": "Politiewet 2012",
+          "article": "art. 7"
+        },
+        {
+          "law": "Politiewet 2012",
+          "article": "art. 11"
+        },
+        {
+          "law": "Politiewet 2012",
+          "article": "art. 12"
+        },
+        {
+          "law": "Beleidsregels buitengewoon opsporingsambtenaar",
+          "note": "Samenwerkingsafspraken en geweldsbevoegdheid boa",
+          "verify": true
+        }
+      ],
+      "reviewStatus": "juridische_review_nodig",
+      "reviewNote": "Controleren: (1) Sv art. 53: welk lid regelt dat een opsporingsambtenaar de aangehoudene voorgeleidt aan de (hulp)officier van justitie en dat een ander dan een opsporingsambtenaar de aangehoudene overlevert aan een opsporingsambtenaar. (2) Of de Beleidsregels boa samenwerkingsafspraken tussen werkgever en politie voorschrijven voor Domein I. (3) Grondslag voor de inzet van geweld door boa's (Besluit boa, toekenning in akte, Ambtsinstructie): les noemt alleen dat dit in de akte moet zijn toegekend.",
+      "version": "1.1",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "m01-l06",
+      "moduleId": "m01",
+      "order": 6,
+      "title": "Ketenpartners",
+      "minutes": 15,
+      "termIds": [],
+      "objectives": [
+        {
+          "text": "Je kunt belangrijke ketenpartners en hun taak noemen.",
+          "level": "K"
+        },
+        {
+          "text": "Je legt uit wanneer je zelf optreedt en wanneer je doorverwijst.",
+          "level": "B"
+        },
+        {
+          "text": "Je legt uit dat informatie delen met ketenpartners een wettelijke grondslag nodig heeft.",
+          "level": "B"
+        },
+        {
+          "text": "Je kunt bij een signaal de juiste ketenpartner kiezen.",
+          "level": "T"
+        }
+      ],
+      "screens": [
+        {
+          "type": "objectives",
+          "title": "Leerdoelen"
+        },
+        {
+          "type": "keypoints",
+          "title": "De strafrechtelijke keten",
+          "items": [
+            {
+              "term": "Openbaar Ministerie (OM)",
+              "text": "Belast met de strafrechtelijke handhaving van de rechtsorde (art. 124 Wet RO). Het OM beslist of er wordt vervolgd en heeft het gezag over de opsporing."
+            },
+            {
+              "term": "Politie",
+              "text": "Handhaaft de rechtsorde en verleent hulp (art. 3 Politiewet 2012). Zie les 5."
+            },
+            {
+              "term": "Halt",
+              "text": "Voor jongeren van 12 tot 18 jaar die een licht strafbaar feit plegen. Een Halt-afdoening voorkomt een strafzaak (art. 77e Sr). Welke feiten en wie mag verwijzen, is wettelijk vastgelegd."
+            },
+            {
+              "term": "CJIB",
+              "text": "Het Centraal Justitieel Incassobureau verwerkt boetes en beschikkingen en int de bedragen."
+            }
+          ]
+        },
+        {
+          "type": "keypoints",
+          "title": "Gemeente, zorg en wonen",
+          "items": [
+            {
+              "term": "Vergunningen",
+              "text": "De gemeentelijke afdeling die vergunningen verleent, bijvoorbeeld voor evenementen, terrassen of standplaatsen. Je kunt er navragen of een vergunning is verleend."
+            },
+            {
+              "term": "Sociaal domein",
+              "text": "Wijkteams en zorgafdelingen van de gemeente, onder meer op grond van de Wmo 2015 en de Jeugdwet. Voor signalen als verwaarlozing, eenzaamheid of verward gedrag."
+            },
+            {
+              "term": "Veilig Thuis",
+              "text": "Advies- en meldpunt voor huiselijk geweld en kindermishandeling. Elke gemeente moet dit regelen (art. 4.1.1 Wmo 2015)."
+            },
+            {
+              "term": "Woningcorporatie",
+              "text": "Verhuurder van sociale huurwoningen. Partner bij overlast en vervuiling in en rond haar woningen."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "title": "Zelf optreden of doorverwijzen?",
+          "body": "Je treedt **zelf op** als het feit op je domeinlijst staat, in je akte valt en het veilig is.\n\nJe **verwijst door** als:\n- het feit of probleem buiten je domein valt;\n- iemand vooral zorg of hulp nodig heeft;\n- een andere organisatie bevoegd is, zoals de afdeling vergunningen.\n\nBij acuut gevaar bel je altijd 112. Dat geldt ook bij huiselijk geweld dat nu gebeurt.\n\nOok als je doorverwijst, heb je een taak: je signaleert. Geef het signaal door via de werkafspraken van je organisatie. Soms kun je ook allebei doen: zelf een overtreding afhandelen én een zorgsignaal doorgeven."
+        },
+        {
+          "type": "law",
+          "title": "Informatie delen binnen de regels",
+          "ref": {
+            "law": "Algemene verordening gegevensbescherming (AVG)",
+            "article": "art. 6 lid 1"
+          },
+          "body": "Gegevens delen met een ketenpartner is een verwerking. Daarvoor is een grondslag nodig. Voor de overheid is dat meestal een wettelijke verplichting of een taak van algemeen belang (art. 6 lid 1 onder c of e AVG). Voor gegevens uit je opsporingstaak gelden de regels voor politiegegevens.\n\nEen convenant beschrijft hoe partners samenwerken. Het kan zelf geen grondslag maken die er wettelijk niet is.\n\nDaarom: deel alleen wat nodig is, alleen met wie het nodig heeft, en alleen via de afgesproken route. Twijfel je? Vraag het je privacy officer of de FG."
+        },
+        {
+          "type": "example",
+          "title": "Praktijk: afval bij de flat",
+          "body": "Boa's Noor en Kevin vinden een berg vuilniszakken naast de container bij een flat. In een zak zit post met een naam en adres. Zij zoeken de bewoner op. Afval naast de container staat op hun domeinlijst. Ze handelen het feit zelf af.\n\nDe bewoner is een oudere man. Zijn woning is erg vervuild en hij lijkt in de war. Dit is een zorgsignaal. Noor geeft het via de interne werkafspraak door aan het wijkteam.\n\nDe woningcorporatie vraagt later wie de boete heeft gekregen. Kevin geeft die gegevens niet zomaar. Hij verwijst naar de afspraken en de privacy officer van de gemeente."
+        },
+        {
+          "type": "exercise",
+          "title": "Oefening",
+          "questionId": "q-m01-l06-1"
+        },
+        {
+          "type": "check",
+          "title": "Kennischeck",
+          "questionIds": [
+            "q-m01-l06-2",
+            "q-m01-l06-3",
+            "q-m01-l06-4",
+            "q-m01-l06-5",
+            "q-m01-l06-6"
+          ]
+        },
+        {
+          "type": "summary",
+          "title": "Samenvatting"
+        }
+      ],
+      "summary": [
+        "Belangrijke ketenpartners zijn het OM, de politie, Halt, het CJIB, gemeentelijke afdelingen, Veilig Thuis en woningcorporaties.",
+        "Je treedt zelf op binnen je akte en domein; daarbuiten verwijs je door of schakel je de politie in.",
+        "Bij acuut gevaar bel je altijd 112.",
+        "Informatie delen met een ketenpartner vraagt een wettelijke grondslag (art. 6 AVG of de Wpg-regels); een convenant alleen is niet genoeg.",
+        "Deel alleen wat nodig is, met wie het nodig heeft, via de afgesproken route."
+      ],
+      "sourceRefs": [
+        {
+          "law": "Wet op de rechterlijke organisatie",
+          "article": "art. 124"
+        },
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 167"
+        },
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 257a"
+        },
+        {
+          "law": "Wetboek van Strafrecht",
+          "article": "art. 77e",
+          "note": "Halt-afdoening; leeftijd en verwijzende ambtenaren controleren",
+          "verify": true
+        },
+        {
+          "law": "Besluit aanwijzing Halt-feiten",
+          "verify": true
+        },
+        {
+          "law": "Wet maatschappelijke ondersteuning 2015",
+          "article": "art. 4.1.1",
+          "note": "Veilig Thuis",
+          "verify": true
+        },
+        {
+          "law": "Centraal Justitieel Incassobureau (CJIB)",
+          "note": "Wettelijke omschrijving rol CJIB controleren",
+          "verify": true
+        },
+        {
+          "law": "Politiewet 2012",
+          "article": "art. 3"
+        },
+        {
+          "law": "Algemene verordening gegevensbescherming (AVG)",
+          "article": "art. 5"
+        },
+        {
+          "law": "Algemene verordening gegevensbescherming (AVG)",
+          "article": "art. 6 lid 1"
+        },
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 142"
+        },
+        {
+          "law": "Algemene wet bestuursrecht",
+          "article": "art. 5:17",
+          "note": "Onderzoek van zaken door toezichthouder (afvalzak in praktijkvoorbeeld)",
+          "verify": true
+        }
+      ],
+      "reviewStatus": "juridische_review_nodig",
+      "reviewNote": "Controleren: (1) Sr art. 77e: leeftijdsgrens Halt-afdoening (12 tot 18 jaar) en welke opsporingsambtenaren (ook boa's) een jongere naar Halt mogen verwijzen; feitenlijst in het Besluit aanwijzing Halt-feiten. (2) Wmo 2015 art. 4.1.1 als grondslag voor Veilig Thuis (advies- en meldpunt huiselijk geweld en kindermishandeling). (3) Juiste wettelijke omschrijving van de rol van het CJIB bij inning van boetes (Wahv, strafbeschikking art. 257a Sv, tenuitvoerlegging). (4) Of de boa onder de Wet verplichte meldcode huiselijk geweld en kindermishandeling valt: les spreekt alleen van 'werkafspraken of meldcode van je organisatie'. (5) Aanvulling eindredactie: in het praktijkvoorbeeld vinden de boa's post in een vuilniszak. Controleren op welke grondslag een boa een afvalzak mag openen of onderzoeken (art. 5:17 Awb als toezichthouder, of een opsporingsbevoegdheid uit de akte) en dat eventueel kort in het voorbeeld noemen.",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    }
+  ],
+  "questions": [
+    {
+      "id": "q-m01-l01-1",
+      "moduleId": "m01",
+      "lessonId": "m01-l01",
+      "termIds": [],
+      "topic": "Gemeentelijke organisatie",
+      "level": "K",
+      "type": "match",
+      "prompt": "Koppel elk orgaan aan de taak die erbij hoort.",
+      "explanation": "De raad stelt verordeningen vast (art. 147 Gemeentewet). Het college voert het dagelijks bestuur (art. 160 Gemeentewet). De burgemeester is belast met de handhaving van de openbare orde (art. 172 Gemeentewet). Bij opsporing staat de boa onder gezag van de officier van justitie (art. 148 Sv).",
+      "pairs": [
+        {
+          "left": "Gemeenteraad",
+          "right": "Stelt verordeningen vast, zoals de APV"
+        },
+        {
+          "left": "College van B en W",
+          "right": "Voert het dagelijks bestuur van de gemeente"
+        },
+        {
+          "left": "Burgemeester",
+          "right": "Is belast met de handhaving van de openbare orde"
+        },
+        {
+          "left": "Officier van justitie",
+          "right": "Heeft het gezag over de boa bij opsporing"
+        }
+      ],
+      "sourceRefs": [
+        {
+          "law": "Gemeentewet",
+          "article": "art. 147"
+        },
+        {
+          "law": "Gemeentewet",
+          "article": "art. 160"
+        },
+        {
+          "law": "Gemeentewet",
+          "article": "art. 172"
+        },
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 148"
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "concept",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m01-l01-2",
+      "moduleId": "m01",
+      "lessonId": "m01-l01",
+      "termIds": [],
+      "topic": "Burgemeester en openbare orde",
+      "level": "K",
+      "type": "mc",
+      "prompt": "Wie is in de gemeente belast met de handhaving van de openbare orde?",
+      "explanation": "Volgens art. 172 Gemeentewet is de burgemeester belast met de handhaving van de openbare orde. Daarvoor gebruikt hij de politie die onder zijn gezag staat.",
+      "options": [
+        {
+          "id": "a",
+          "text": "De gemeenteraad",
+          "feedback": "Onjuist. De raad stelt verordeningen vast en controleert het college. De handhaving van de openbare orde is een eigen taak van de burgemeester (art. 172 Gemeentewet)."
+        },
+        {
+          "id": "b",
+          "text": "De burgemeester",
+          "feedback": "Juist. Art. 172 Gemeentewet belast de burgemeester met de handhaving van de openbare orde."
+        },
+        {
+          "id": "c",
+          "text": "De gemeentesecretaris",
+          "feedback": "Onjuist. De secretaris staat aan het hoofd van de ambtelijke organisatie. Hij is geen bestuursorgaan met een taak voor de openbare orde (art. 172 Gemeentewet)."
+        }
+      ],
+      "correctAnswer": "b",
+      "sourceRefs": [
+        {
+          "law": "Gemeentewet",
+          "article": "art. 172"
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "concept",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m01-l01-3",
+      "moduleId": "m01",
+      "lessonId": "m01-l01",
+      "termIds": [],
+      "topic": "Bevoegdheid boa",
+      "level": "T",
+      "type": "mc",
+      "case": "Een wethouder vertelt boa Daan: \"Het college heeft besloten dat jullie voortaan ook een ander soort overtreding beboeten.\" Dat feit staat niet in Daans akte en niet op zijn domeinlijst.",
+      "prompt": "Mag Daan dit feit opsporen?",
+      "explanation": "Een boa is met opsporing belast voor zover dat bij of krachtens de wet en in de akte is bepaald (art. 142 Sv). Een besluit of werkafspraak van de werkgever is beleid. Beleid kan geen bevoegdheid geven.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ja, het college is zijn werkgever en bepaalt welke taken hij uitvoert.",
+          "feedback": "Onjuist. Het college bepaalt als werkgever waar Daan op let, maar kan geen opsporingsbevoegdheid geven. Die volgt uit art. 142 Sv, de akte en de domeinlijst."
+        },
+        {
+          "id": "b",
+          "text": "Ja, als de burgemeester het besluit van het college ook goedkeurt.",
+          "feedback": "Onjuist. Ook de burgemeester kan geen opsporingsbevoegdheid toekennen. Zijn taak voor de openbare orde (art. 172 Gemeentewet) geeft boa's geen extra bevoegdheden."
+        },
+        {
+          "id": "c",
+          "text": "Nee, zijn bevoegdheid volgt uit de wet, zijn akte en de domeinlijst.",
+          "feedback": "Juist. Een boa is alleen met opsporing belast voor zover wet en akte dat bepalen (art. 142 Sv). Een collegebesluit is geen bevoegdheidsgrondslag."
+        }
+      ],
+      "correctAnswer": "c",
+      "sourceRefs": [
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 142"
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "concept",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m01-l01-4",
+      "moduleId": "m01",
+      "lessonId": "m01-l01",
+      "termIds": [],
+      "topic": "Gezag bij opsporing",
+      "level": "K",
+      "type": "mc",
+      "prompt": "Onder wiens gezag sta je als boa wanneer je een strafbaar feit opspoort?",
+      "explanation": "Art. 148 Sv belast de officier van justitie met de opsporing van strafbare feiten. Hij kan bevelen geven aan de andere personen die met opsporing zijn belast. Daar val jij als boa (art. 142 Sv) ook onder.",
+      "options": [
+        {
+          "id": "a",
+          "text": "De officier van justitie",
+          "feedback": "Juist. De officier van justitie is belast met de opsporing en geeft bevelen aan de andere opsporingsambtenaren, ook aan boa's (art. 148 Sv)."
+        },
+        {
+          "id": "b",
+          "text": "De burgemeester",
+          "feedback": "Onjuist. De burgemeester heeft gezag bij de openbare orde (art. 172 Gemeentewet). Bij opsporing ligt het gezag bij de officier van justitie (art. 148 Sv)."
+        },
+        {
+          "id": "c",
+          "text": "Het hoofd handhaving van de gemeente",
+          "feedback": "Onjuist. Je leidinggevende stuurt je werk als werkgever aan. Het gezag bij opsporing ligt wettelijk bij de officier van justitie (art. 148 Sv)."
+        }
+      ],
+      "correctAnswer": "a",
+      "sourceRefs": [
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 148"
+        },
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 142"
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "concept",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m01-l01-5",
+      "moduleId": "m01",
+      "lessonId": "m01-l01",
+      "termIds": [],
+      "topic": "Raad en college",
+      "level": "B",
+      "type": "mc",
+      "prompt": "Wat is het verschil tussen de taak van de gemeenteraad en die van het college van B en W?",
+      "explanation": "De gemeenteraad staat aan het hoofd van de gemeente en stelt verordeningen vast (art. 147 Gemeentewet). Het college voert het dagelijks bestuur, bereidt raadsbesluiten voor en voert ze uit (art. 160 Gemeentewet).",
+      "options": [
+        {
+          "id": "a",
+          "text": "Het college stelt de APV vast en de raad voert die dagelijks uit.",
+          "feedback": "Onjuist. Het is andersom: de raad stelt verordeningen vast (art. 147 Gemeentewet) en het college voert raadsbesluiten uit (art. 160 Gemeentewet)."
+        },
+        {
+          "id": "b",
+          "text": "Ze hebben dezelfde taak, want het college is een commissie van de raad.",
+          "feedback": "Onjuist. Het college is een eigen bestuursorgaan met eigen taken, zoals het dagelijks bestuur (art. 160 Gemeentewet)."
+        },
+        {
+          "id": "c",
+          "text": "De raad stelt regels vast, het college voert het dagelijks bestuur.",
+          "feedback": "Juist. De raad stelt verordeningen vast (art. 147 Gemeentewet). Het college voert het dagelijks bestuur en voert raadsbesluiten uit (art. 160 Gemeentewet)."
+        }
+      ],
+      "correctAnswer": "c",
+      "sourceRefs": [
+        {
+          "law": "Grondwet",
+          "article": "art. 125"
+        },
+        {
+          "law": "Gemeentewet",
+          "article": "art. 147"
+        },
+        {
+          "law": "Gemeentewet",
+          "article": "art. 160"
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "concept",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m01-l01-6",
+      "moduleId": "m01",
+      "lessonId": "m01-l01",
+      "termIds": [],
+      "topic": "Beleid en bevoegdheid",
+      "level": "B",
+      "type": "truefalse",
+      "prompt": "Stelling: een handhavingsprioriteit of werkafspraak van je werkgever kan je extra opsporingsbevoegdheden geven.",
+      "explanation": "Een boa is alleen met opsporing belast voor zover wet en akte dat bepalen (art. 142 Sv). Beleid van de werkgever is nooit een bevoegdheidsgrondslag.",
+      "correctAnswer": false,
+      "feedbackTrue": "Onjuist. Een prioriteit of werkafspraak is beleid. Je opsporingsbevoegdheid volgt alleen uit de wet, je akte en je domeinlijst (art. 142 Sv).",
+      "feedbackFalse": "Juist gezien: de stelling klopt niet. Beleid bepaalt waar je op let, maar geeft geen bevoegdheid. Die komt uit de wet, je akte en je domeinlijst (art. 142 Sv).",
+      "sourceRefs": [
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 142"
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "concept",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m01-l01-7",
+      "moduleId": "m01",
+      "lessonId": "m01-l01",
+      "termIds": [],
+      "topic": "Burgemeester en politie",
+      "level": "K",
+      "type": "mc",
+      "prompt": "Van wie maakt de burgemeester gebruik bij de handhaving van de openbare orde?",
+      "explanation": "Art. 172 Gemeentewet bepaalt dat de burgemeester zich bij de handhaving van de openbare orde bedient van de politie die onder zijn gezag staat. Art. 11 Politiewet 2012 regelt dat gezag vanuit de politie gezien.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Van het Openbaar Ministerie",
+          "feedback": "Onjuist. Het OM is belast met de strafrechtelijke handhaving. Voor de openbare orde gebruikt de burgemeester de politie (art. 172 Gemeentewet)."
+        },
+        {
+          "id": "b",
+          "text": "Van de politie, die daarbij onder zijn gezag staat",
+          "feedback": "Juist. Bij de handhaving van de openbare orde staat de politie onder gezag van de burgemeester (art. 172 Gemeentewet en art. 11 Politiewet 2012)."
+        },
+        {
+          "id": "c",
+          "text": "Van de gemeenteraad, die hij daarvoor bijeenroept",
+          "feedback": "Onjuist. De raad is een bestuursorgaan en geen uitvoerende dienst. De burgemeester gebruikt de politie (art. 172 Gemeentewet)."
+        }
+      ],
+      "correctAnswer": "b",
+      "sourceRefs": [
+        {
+          "law": "Gemeentewet",
+          "article": "art. 172"
+        },
+        {
+          "law": "Politiewet 2012",
+          "article": "art. 11"
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "concept",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m01-l02-1",
+      "moduleId": "m01",
+      "lessonId": "m01-l02",
+      "termIds": [],
+      "topic": "Rangorde van regelgeving",
+      "level": "K",
+      "type": "order",
+      "prompt": "Zet deze regelingen in de juiste rangorde, van hoog naar laag.",
+      "explanation": "Een lagere regeling mag niet in strijd zijn met een hogere. Een AMvB en een ministeriële regeling zijn gebaseerd op een wet. Een gemeentelijke verordening vervalt voor zover een hogere regeling hetzelfde onderwerp regelt (art. 122 Gemeentewet).",
+      "items": [
+        "Grondwet",
+        "Wet in formele zin",
+        "Algemene maatregel van bestuur",
+        "Ministeriële regeling",
+        "Gemeentelijke verordening, zoals de APV"
+      ],
+      "sourceRefs": [
+        {
+          "law": "Grondwet",
+          "article": "art. 81"
+        },
+        {
+          "law": "Grondwet",
+          "article": "art. 89"
+        },
+        {
+          "law": "Gemeentewet",
+          "article": "art. 122",
+          "verify": true
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "juridische_review_nodig",
+      "reviewNote": "Controleren: Gemeentewet art. 122 als bron voor het vervallen van verordeningsbepalingen bij regeling door een hogere regeling. Aanvulling eindredactie: art. 121 en 122 Gemeentewet noemen wet, AMvB en provinciale verordening, maar geen ministeriële regeling. Controleren of de plaatsing \"ministeriële regeling boven gemeentelijke verordening\" als vaste rangorde verdedigbaar is, of dat de vraag beter zonder ministeriële regeling kan.",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m01-l02-2",
+      "moduleId": "m01",
+      "lessonId": "m01-l02",
+      "termIds": [],
+      "topic": "Verordenende bevoegdheid",
+      "level": "K",
+      "type": "mc",
+      "prompt": "Wie stelt de Algemene plaatselijke verordening (APV) vast?",
+      "explanation": "Art. 147 Gemeentewet: verordeningen worden vastgesteld door de raad, tenzij de wet dit aan het college of de burgemeester geeft. Art. 149: de raad maakt de verordeningen die hij in het belang van de gemeente nodig oordeelt.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Het college van B en W",
+          "feedback": "Onjuist. Het college voert het dagelijks bestuur. Verordeningen worden vastgesteld door de raad (art. 147 Gemeentewet)."
+        },
+        {
+          "id": "b",
+          "text": "De burgemeester",
+          "feedback": "Onjuist. De burgemeester heeft eigen bevoegdheden, zoals voor de openbare orde, maar stelt de APV niet vast (art. 147 Gemeentewet)."
+        },
+        {
+          "id": "c",
+          "text": "De gemeenteraad",
+          "feedback": "Juist. Verordeningen worden vastgesteld door de raad (art. 147 Gemeentewet). De raad maakt de verordeningen die hij in het belang van de gemeente nodig vindt (art. 149)."
+        }
+      ],
+      "correctAnswer": "c",
+      "sourceRefs": [
+        {
+          "law": "Gemeentewet",
+          "article": "art. 147"
+        },
+        {
+          "law": "Gemeentewet",
+          "article": "art. 149"
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "concept",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m01-l02-3",
+      "moduleId": "m01",
+      "lessonId": "m01-l02",
+      "termIds": [],
+      "topic": "Soorten regelgeving",
+      "level": "K",
+      "type": "mc",
+      "prompt": "Wat voor soort regeling is het Reglement verkeersregels en verkeerstekens 1990 (RVV 1990)?",
+      "explanation": "Een AMvB wordt bij koninklijk besluit vastgesteld (art. 89 Grondwet). Het RVV 1990 is zo'n AMvB, gebaseerd op de Wegenverkeerswet 1994.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Een algemene maatregel van bestuur",
+          "feedback": "Juist. Het RVV 1990 is een AMvB, vastgesteld bij koninklijk besluit op grond van de Wegenverkeerswet 1994 (art. 89 Grondwet)."
+        },
+        {
+          "id": "b",
+          "text": "Een gemeentelijke verordening",
+          "feedback": "Onjuist. Een gemeentelijke verordening maakt de raad. Het RVV 1990 geldt in heel Nederland en is vastgesteld bij koninklijk besluit (art. 89 Grondwet)."
+        },
+        {
+          "id": "c",
+          "text": "Een wet in formele zin",
+          "feedback": "Onjuist. Een wet in formele zin maken regering en Staten-Generaal samen (art. 81 Grondwet). Het RVV 1990 is een uitwerking van de Wegenverkeerswet 1994."
+        }
+      ],
+      "correctAnswer": "a",
+      "sourceRefs": [
+        {
+          "law": "Grondwet",
+          "article": "art. 89"
+        },
+        {
+          "law": "Grondwet",
+          "article": "art. 81"
+        },
+        {
+          "law": "Reglement verkeersregels en verkeerstekens 1990"
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "concept",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m01-l02-4",
+      "moduleId": "m01",
+      "lessonId": "m01-l02",
+      "termIds": [],
+      "topic": "Rangorde van regelgeving",
+      "level": "B",
+      "type": "mc",
+      "prompt": "Een bepaling in de APV is in strijd met een wet. Welke regel gaat voor?",
+      "explanation": "Een gemeentelijke verordening staat onderaan de rangorde. Bepalingen die een onderwerp regelen dat al door een wet of AMvB wordt geregeld, vervallen van rechtswege (art. 122 Gemeentewet). Aanvullende regels zijn alleen toegestaan als ze niet in strijd zijn met de hogere regel (art. 121).",
+      "options": [
+        {
+          "id": "a",
+          "text": "De APV, omdat die specifiek voor de gemeente is gemaakt.",
+          "feedback": "Onjuist. Een lokale regel gaat niet voor op een hogere regel. Een verordening mag niet in strijd zijn met hogere regelgeving."
+        },
+        {
+          "id": "b",
+          "text": "De wet, omdat een hogere regeling voorgaat op een lagere.",
+          "feedback": "Juist. Een verordening staat onder de wet. Regelt de wet hetzelfde onderwerp, dan vervalt de bepaling in de verordening (art. 122 Gemeentewet)."
+        },
+        {
+          "id": "c",
+          "text": "De regel die het laatst is vastgesteld.",
+          "feedback": "Onjuist. Bij regels van verschillende niveaus beslist de rangorde, niet de datum. De wet gaat voor op de verordening."
+        }
+      ],
+      "correctAnswer": "b",
+      "sourceRefs": [
+        {
+          "law": "Gemeentewet",
+          "article": "art. 121",
+          "verify": true
+        },
+        {
+          "law": "Gemeentewet",
+          "article": "art. 122",
+          "verify": true
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "juridische_review_nodig",
+      "reviewNote": "Controleren: Gemeentewet art. 121 en 122 als bron voor aanvullende verordeningen en het vervallen van rechtswege.",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m01-l02-5",
+      "moduleId": "m01",
+      "lessonId": "m01-l02",
+      "termIds": [],
+      "topic": "Strafbaarstelling verordening",
+      "level": "B",
+      "type": "mc",
+      "prompt": "Waardoor wordt overtreding van een APV-bepaling een strafbaar feit?",
+      "explanation": "Art. 154 Gemeentewet geeft de raad de bevoegdheid straf te stellen op overtreding van zijn verordeningen. De APV bevat daarom een strafbepaling. Pas daardoor is overtreding een strafbaar feit dat je als boa kunt opsporen, als het op je domeinlijst staat.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Doordat de burgemeester de bepaling handhaaft.",
+          "feedback": "Onjuist. Handhaving door de burgemeester maakt een feit niet strafbaar. Strafbaarheid volgt uit de strafbepaling die de raad vaststelt (art. 154 Gemeentewet)."
+        },
+        {
+          "id": "b",
+          "text": "Doordat de bepaling ook in de Model-APV van de VNG staat.",
+          "feedback": "Onjuist. De Model-APV is een voorbeeld zonder eigen rechtskracht. Alleen de APV die de raad vaststelt, met strafbepaling, telt (art. 154 Gemeentewet)."
+        },
+        {
+          "id": "c",
+          "text": "Doordat de raad in de APV straf stelt op overtreding.",
+          "feedback": "Juist. De raad kan straf stellen op overtreding van zijn verordeningen (art. 154 Gemeentewet). Daardoor is het een strafbaar feit."
+        }
+      ],
+      "correctAnswer": "c",
+      "sourceRefs": [
+        {
+          "law": "Gemeentewet",
+          "article": "art. 154"
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "concept",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m01-l02-6",
+      "moduleId": "m01",
+      "lessonId": "m01-l02",
+      "termIds": [],
+      "topic": "Bekendmaking",
+      "level": "T",
+      "type": "mc",
+      "case": "De raad heeft gisteren een nieuwe APV-regel vastgesteld. De regel is nog niet in het gemeenteblad bekendgemaakt. Je ziet een vrouw die de nieuwe regel overtreedt.",
+      "prompt": "Kun je de vrouw nu bekeuren op grond van deze nieuwe regel?",
+      "explanation": "Besluiten van het gemeentebestuur met algemeen verbindende voorschriften, zoals de APV, verbinden pas na bekendmaking (art. 139 Gemeentewet). Bekendmaking gebeurt elektronisch in het gemeenteblad.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ja, de raad heeft de regel vastgesteld en dat is genoeg.",
+          "feedback": "Onjuist. Vaststellen is niet genoeg. Een verordening verbindt pas na bekendmaking (art. 139 Gemeentewet)."
+        },
+        {
+          "id": "b",
+          "text": "Nee, een verordening verbindt pas na bekendmaking.",
+          "feedback": "Juist. Algemeen verbindende voorschriften van de gemeente verbinden pas na bekendmaking in het gemeenteblad (art. 139 Gemeentewet)."
+        },
+        {
+          "id": "c",
+          "text": "Ja, als je haar eerst een waarschuwing geeft.",
+          "feedback": "Onjuist. Een waarschuwing verandert niets aan de regel. Zonder bekendmaking geldt de regel nog niet (art. 139 Gemeentewet)."
+        }
+      ],
+      "correctAnswer": "b",
+      "sourceRefs": [
+        {
+          "law": "Gemeentewet",
+          "article": "art. 139"
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "concept",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m01-l02-7",
+      "moduleId": "m01",
+      "lessonId": "m01-l02",
+      "termIds": [],
+      "topic": "Domeinlijst",
+      "level": "B",
+      "type": "mc",
+      "prompt": "Waar kijk je om te weten of je een strafbaar feit als boa mag opsporen?",
+      "explanation": "Een boa is met opsporing belast voor zover dat bij of krachtens de wet en in de akte is bepaald (art. 142 Sv). De domeinlijst geeft per domein aan welke strafbare feiten een boa mag opsporen.",
+      "options": [
+        {
+          "id": "a",
+          "text": "In je akte en de domeinlijst van Domein I",
+          "feedback": "Juist. Je bent alleen met opsporing belast voor zover wet en akte dat bepalen (art. 142 Sv). De domeinlijst bepaalt welke feiten bij jouw domein horen."
+        },
+        {
+          "id": "b",
+          "text": "In het handhavingsprogramma van het college",
+          "feedback": "Onjuist. Het handhavingsprogramma is beleid. Het zegt waar je op let, maar geeft geen bevoegdheid (art. 142 Sv)."
+        },
+        {
+          "id": "c",
+          "text": "In de Model-APV van de VNG",
+          "feedback": "Onjuist. De Model-APV is een voorbeeld voor gemeenten. Zij zegt niets over jouw bevoegdheid; die volgt uit wet, akte en domeinlijst (art. 142 Sv)."
+        }
+      ],
+      "correctAnswer": "a",
+      "sourceRefs": [
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 142"
+        },
+        {
+          "law": "Beleidsregels buitengewoon opsporingsambtenaar",
+          "note": "Domeinlijst Domein I",
+          "verify": true
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "juridische_review_nodig",
+      "reviewNote": "Controleren: vindplaats van de domeinlijst Domein I in de Beleidsregels buitengewoon opsporingsambtenaar.",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m01-l03-1",
+      "moduleId": "m01",
+      "lessonId": "m01-l03",
+      "termIds": [],
+      "topic": "AVG of Wpg",
+      "level": "T",
+      "type": "mc",
+      "case": "Boa Thijs is ook aangewezen als toezichthouder. Hij ziet dat een ondernemer reclameborden op de stoep zet zonder vergunning. Thijs noteert de gegevens van de ondernemer, zodat het college hem een bestuurlijke waarschuwing kan sturen.",
+      "prompt": "Welk regime is van toepassing op de gegevens die Thijs noteert?",
+      "explanation": "De AVG geldt niet voor verwerking voor de opsporing van strafbare feiten (art. 2 lid 2 onder d AVG). Thijs werkt hier als toezichthouder (art. 5:11 Awb) voor een bestuurlijke maatregel. Daarom geldt de AVG.",
+      "options": [
+        {
+          "id": "a",
+          "text": "De AVG, want hij werkt hier als toezichthouder.",
+          "feedback": "Juist. Thijs verwerkt de gegevens niet voor opsporing, maar voor bestuurlijke handhaving. De uitzondering van art. 2 lid 2 onder d AVG geldt dan niet."
+        },
+        {
+          "id": "b",
+          "text": "De Wet politiegegevens, want Thijs is ook boa.",
+          "feedback": "Onjuist. Niet de functie, maar het doel bepaalt het regime. Voor bestuurlijk toezicht geldt de AVG; de Wpg-regels gelden alleen in de opsporingstaak."
+        },
+        {
+          "id": "c",
+          "text": "Geen van beide, want het gaat om de openbare ruimte.",
+          "feedback": "Onjuist. Ook in de openbare ruimte verwerk je persoonsgegevens (art. 4 AVG). De privacyregels gelden dus altijd."
+        }
+      ],
+      "correctAnswer": "a",
+      "sourceRefs": [
+        {
+          "law": "Algemene verordening gegevensbescherming (AVG)",
+          "article": "art. 2 lid 2 onder d"
+        },
+        {
+          "law": "Algemene wet bestuursrecht",
+          "article": "art. 5:11"
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "concept",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m01-l03-2",
+      "moduleId": "m01",
+      "lessonId": "m01-l03",
+      "termIds": [],
+      "topic": "Begrip persoonsgegeven",
+      "level": "K",
+      "type": "mc",
+      "prompt": "Wat is een persoonsgegeven volgens de AVG?",
+      "explanation": "Art. 4 onder 1 AVG: een persoonsgegeven is alle informatie over een geïdentificeerde of identificeerbare natuurlijke persoon. Identificeerbaar betekent: direct of indirect te herkennen, bijvoorbeeld via naam, kenteken of beeld.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Alleen de naam, het adres en het BSN van een persoon",
+          "feedback": "Onjuist. Het begrip is veel ruimer. Ook een kenteken of een herkenbaar beeld kan een persoonsgegeven zijn (art. 4 onder 1 AVG)."
+        },
+        {
+          "id": "b",
+          "text": "Alle informatie over een identificeerbare natuurlijke persoon",
+          "feedback": "Juist. Dat is de definitie van art. 4 onder 1 AVG. Het maakt niet uit of de persoon direct of indirect te herkennen is."
+        },
+        {
+          "id": "c",
+          "text": "Alleen gegevens die in een computersysteem van de overheid staan",
+          "feedback": "Onjuist. Ook een notitie in je opschrijfboekje of een papieren dossier kan persoonsgegevens bevatten (art. 4 onder 1 AVG)."
+        }
+      ],
+      "correctAnswer": "b",
+      "sourceRefs": [
+        {
+          "law": "Algemene verordening gegevensbescherming (AVG)",
+          "article": "art. 4 onder 1"
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "concept",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m01-l03-3",
+      "moduleId": "m01",
+      "lessonId": "m01-l03",
+      "termIds": [],
+      "topic": "AVG of Wpg",
+      "level": "T",
+      "type": "mc",
+      "case": "Boa Esra ziet een man wildplassen. Het feit staat op haar domeinlijst. Ze vraagt zijn identiteitsbewijs en noteert zijn gegevens voor een boete.",
+      "prompt": "Welke regels gelden voor de gegevens die Esra hierbij noteert?",
+      "explanation": "Esra spoort een strafbaar feit op. Voor die verwerking geldt de AVG niet (art. 2 lid 2 onder d AVG). De Wpg en het besluit voor boa's regelen hoe zij met deze gegevens omgaat.",
+      "options": [
+        {
+          "id": "a",
+          "text": "De AVG, omdat Esra bij de gemeente in dienst is en niet bij de politie",
+          "feedback": "Onjuist. Je werkgever bepaalt het regime niet. Esra verwerkt de gegevens voor opsporing; daarvoor geldt de AVG niet (art. 2 lid 2 onder d AVG)."
+        },
+        {
+          "id": "b",
+          "text": "De Archiefwet, omdat de boete wordt bewaard",
+          "feedback": "Onjuist. De Archiefwet gaat over bewaren van archieven. Op de verwerking voor opsporing zijn de regels voor politiegegevens van toepassing."
+        },
+        {
+          "id": "c",
+          "text": "De Wpg-regels, omdat zij in haar opsporingstaak werkt",
+          "feedback": "Juist. Bij opsporing geldt de AVG niet (art. 2 lid 2 onder d AVG). Voor boa's in hun opsporingstaak gelden de Wpg-regels via het besluit voor boa's."
+        }
+      ],
+      "correctAnswer": "c",
+      "sourceRefs": [
+        {
+          "law": "Algemene verordening gegevensbescherming (AVG)",
+          "article": "art. 2 lid 2 onder d"
+        },
+        {
+          "law": "Wet politiegegevens"
+        },
+        {
+          "law": "Besluit politiegegevens buitengewoon opsporingsambtenaren",
+          "verify": true
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "juridische_review_nodig",
+      "reviewNote": "Controleren: naam en grondslag van het besluit dat de Wpg-regels van toepassing verklaart op boa's in hun opsporingstaak (vermoedelijk 'Besluit politiegegevens buitengewoon opsporingsambtenaren').",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m01-l03-4",
+      "moduleId": "m01",
+      "lessonId": "m01-l03",
+      "termIds": [],
+      "topic": "Beginselen",
+      "level": "K",
+      "type": "mc",
+      "prompt": "Hoe heet het beginsel dat je gegevens alleen gebruikt voor het doel waarvoor je ze hebt verzameld?",
+      "explanation": "Art. 5 lid 1 AVG noemt de beginselen. Onder b staat doelbinding: gegevens worden voor een welbepaald, uitdrukkelijk omschreven doel verzameld en niet voor een onverenigbaar doel gebruikt.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Juistheid",
+          "feedback": "Onjuist. Juistheid betekent dat gegevens moeten kloppen (art. 5 lid 1 onder d AVG). Het gaat hier om het doel."
+        },
+        {
+          "id": "b",
+          "text": "Beveiliging",
+          "feedback": "Onjuist. Beveiliging gaat over bescherming tegen verlies en onbevoegde inzage (art. 5 lid 1 onder f AVG)."
+        },
+        {
+          "id": "c",
+          "text": "Doelbinding",
+          "feedback": "Juist. Gegevens worden verzameld voor een duidelijk doel en niet verder verwerkt op een manier die daarmee niet verenigbaar is (art. 5 lid 1 onder b AVG)."
+        }
+      ],
+      "correctAnswer": "c",
+      "sourceRefs": [
+        {
+          "law": "Algemene verordening gegevensbescherming (AVG)",
+          "article": "art. 5 lid 1 onder b"
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "concept",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m01-l03-5",
+      "moduleId": "m01",
+      "lessonId": "m01-l03",
+      "termIds": [],
+      "topic": "AVG of Wpg",
+      "level": "B",
+      "type": "mc",
+      "prompt": "Waarom geldt de AVG niet als je als boa een strafbaar feit opspoort?",
+      "explanation": "De AVG is niet van toepassing op verwerking door bevoegde autoriteiten voor het voorkomen, onderzoeken, opsporen en vervolgen van strafbare feiten (art. 2 lid 2 onder d AVG). Daarvoor geldt een Europese richtlijn, in Nederland uitgewerkt in de Wpg.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Omdat de AVG die verwerking zelf uitzondert.",
+          "feedback": "Juist. Art. 2 lid 2 onder d AVG zondert verwerking voor opsporing en vervolging uit. In Nederland gelden daarvoor de Wpg-regels."
+        },
+        {
+          "id": "b",
+          "text": "Omdat bij opsporing helemaal geen privacyregels gelden.",
+          "feedback": "Onjuist. Er gelden wel regels, alleen andere: de regels voor politiegegevens. De beginselen zoals doelbinding blijven gelden."
+        },
+        {
+          "id": "c",
+          "text": "Omdat boa's geen persoonsgegevens mogen verwerken.",
+          "feedback": "Onjuist. Boa's verwerken wel persoonsgegevens, bijvoorbeeld voor een proces-verbaal. Alleen het regime is anders (art. 2 lid 2 onder d AVG)."
+        }
+      ],
+      "correctAnswer": "a",
+      "sourceRefs": [
+        {
+          "law": "Algemene verordening gegevensbescherming (AVG)",
+          "article": "art. 2 lid 2 onder d"
+        },
+        {
+          "law": "Wet politiegegevens"
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "concept",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m01-l03-6",
+      "moduleId": "m01",
+      "lessonId": "m01-l03",
+      "termIds": [],
+      "topic": "Begrip persoonsgegeven",
+      "level": "K",
+      "type": "truefalse",
+      "prompt": "Stelling: een opname van je bodycam waarop een persoon herkenbaar is, bevat persoonsgegevens.",
+      "explanation": "Een persoonsgegeven is alle informatie over een geïdentificeerde of identificeerbare natuurlijke persoon (art. 4 onder 1 AVG). Een beeld waarop iemand herkenbaar is, valt daaronder.",
+      "correctAnswer": true,
+      "feedbackTrue": "Juist. Een herkenbaar beeld is informatie over een identificeerbare natuurlijke persoon (art. 4 onder 1 AVG). Het is dus een persoonsgegeven.",
+      "feedbackFalse": "Onjuist gekozen: de stelling klopt wel. Een herkenbaar beeld is informatie over een identificeerbare persoon en dus een persoonsgegeven (art. 4 onder 1 AVG).",
+      "sourceRefs": [
+        {
+          "law": "Algemene verordening gegevensbescherming (AVG)",
+          "article": "art. 4 onder 1"
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "concept",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m01-l03-7",
+      "moduleId": "m01",
+      "lessonId": "m01-l03",
+      "termIds": [],
+      "topic": "Noodzaak en bijzondere gegevens",
+      "level": "T",
+      "type": "mc",
+      "case": "Je geeft als toezichthouder een bestuurlijke waarschuwing aan een vrouw van wie de hond loslopend in een aanlijngebied rent. Ze vertelt dat ze net uit het ziekenhuis komt en noemt haar diagnose.",
+      "prompt": "Wat doe je met deze informatie over haar gezondheid?",
+      "explanation": "Volgens het beginsel van minimale gegevensverwerking verwerk je alleen gegevens die nodig zijn voor het doel (art. 5 lid 1 onder c AVG). Gegevens over gezondheid zijn bijzondere persoonsgegevens; verwerking daarvan is in principe verboden (art. 9 AVG).",
+      "options": [
+        {
+          "id": "a",
+          "text": "Je noteert het niet; het is niet nodig voor de waarschuwing.",
+          "feedback": "Juist. Je verwerkt alleen wat nodig is (art. 5 lid 1 onder c AVG). Gezondheidsgegevens zijn bovendien bijzondere persoonsgegevens met extra bescherming (art. 9 AVG)."
+        },
+        {
+          "id": "b",
+          "text": "Je noteert alles, dan is je rapport volledig.",
+          "feedback": "Onjuist. Volledig is niet hetzelfde als nodig. Je verwerkt alleen gegevens die nodig zijn voor het doel (art. 5 lid 1 onder c AVG)."
+        },
+        {
+          "id": "c",
+          "text": "Je schrijft het op in je eigen boekje, niet in het systeem.",
+          "feedback": "Onjuist. Ook een notitie in je boekje is een verwerking. Niet nodige gezondheidsgegevens noteer je helemaal niet (art. 5 lid 1 onder c en art. 9 AVG)."
+        }
+      ],
+      "correctAnswer": "a",
+      "sourceRefs": [
+        {
+          "law": "Algemene verordening gegevensbescherming (AVG)",
+          "article": "art. 5 lid 1 onder c"
+        },
+        {
+          "law": "Algemene verordening gegevensbescherming (AVG)",
+          "article": "art. 9"
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "concept",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m01-l04-1",
+      "moduleId": "m01",
+      "lessonId": "m01-l04",
+      "termIds": [],
+      "topic": "Datalek",
+      "level": "T",
+      "type": "mc",
+      "case": "Na je dienst merk je dat je opschrijfboekje weg is. Er staan namen en adressen in van mensen die je vandaag hebt gecontroleerd.",
+      "prompt": "Wat doe je nu je opschrijfboekje met persoonsgegevens kwijt is?",
+      "explanation": "Verlies van persoonsgegevens is een inbreuk in verband met persoonsgegevens (art. 4 onder 12 AVG). De verwerkingsverantwoordelijke meldt dit zo nodig zonder onredelijke vertraging en zo mogelijk binnen 72 uur bij de AP (art. 33 AVG). Jouw taak is direct intern melden.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Je doet niets; er stonden maar een paar namen in.",
+          "feedback": "Onjuist. Ook een paar namen en adressen zijn persoonsgegevens. Verlies is een datalek (art. 4 onder 12 AVG). Je organisatie moet beoordelen of melden nodig is."
+        },
+        {
+          "id": "b",
+          "text": "Je meldt het direct intern volgens de datalekprocedure.",
+          "feedback": "Juist. Je organisatie is verwerkingsverantwoordelijke en moet het lek beoordelen en zo nodig binnen 72 uur melden bij de Autoriteit Persoonsgegevens (art. 33 AVG). Daarvoor moet zij het direct weten."
+        },
+        {
+          "id": "c",
+          "text": "Je meldt het zelf bij de Autoriteit Persoonsgegevens.",
+          "feedback": "Onjuist. De melding bij de AP doet de verwerkingsverantwoordelijke, dus je organisatie (art. 33 AVG). Jij meldt het intern."
+        }
+      ],
+      "correctAnswer": "b",
+      "sourceRefs": [
+        {
+          "law": "Algemene verordening gegevensbescherming (AVG)",
+          "article": "art. 4 onder 12"
+        },
+        {
+          "law": "Algemene verordening gegevensbescherming (AVG)",
+          "article": "art. 33"
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "concept",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m01-l04-2",
+      "moduleId": "m01",
+      "lessonId": "m01-l04",
+      "termIds": [],
+      "topic": "Datalek",
+      "level": "K",
+      "type": "mc",
+      "prompt": "Binnen welke termijn moet de verwerkingsverantwoordelijke een meldplichtig datalek zo mogelijk melden bij de Autoriteit Persoonsgegevens?",
+      "explanation": "Art. 33 AVG: de verwerkingsverantwoordelijke meldt een inbreuk zonder onredelijke vertraging en zo mogelijk uiterlijk 72 uur nadat hij ervan kennis heeft genomen, tenzij het niet waarschijnlijk is dat de inbreuk een risico oplevert.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Binnen 24 uur na ontdekking",
+          "feedback": "Onjuist. De AVG noemt geen termijn van 24 uur. De termijn is zo mogelijk binnen 72 uur na ontdekking (art. 33 AVG)."
+        },
+        {
+          "id": "b",
+          "text": "Binnen twee weken na ontdekking",
+          "feedback": "Onjuist. Twee weken is veel te laat. De melding moet zonder onredelijke vertraging, zo mogelijk binnen 72 uur (art. 33 AVG)."
+        },
+        {
+          "id": "c",
+          "text": "Binnen 72 uur na ontdekking",
+          "feedback": "Juist. De verwerkingsverantwoordelijke meldt zonder onredelijke vertraging en zo mogelijk binnen 72 uur (art. 33 AVG)."
+        }
+      ],
+      "correctAnswer": "c",
+      "sourceRefs": [
+        {
+          "law": "Algemene verordening gegevensbescherming (AVG)",
+          "article": "art. 33"
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "concept",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m01-l04-3",
+      "moduleId": "m01",
+      "lessonId": "m01-l04",
+      "termIds": [],
+      "topic": "Delen met derden",
+      "level": "T",
+      "type": "mc",
+      "case": "Een bewoner belt je. Zij had gemeld dat haar buurman afval naast de container zet. Ze vraagt of de buurman een boete heeft gekregen.",
+      "prompt": "Wat zeg je tegen de melder?",
+      "explanation": "Gegevens over een overtreder deel je niet met een melder. Er is geen grondslag en het past niet bij het doel waarvoor de gegevens zijn verzameld (art. 5 lid 1 onder b en art. 6 AVG; bij opsporing de Wpg-regels). Daarnaast geldt je geheimhoudingsplicht.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Dat de melding is opgepakt, maar niets over de buurman zelf.",
+          "feedback": "Juist. De melder heeft de gegevens van de buurman niet nodig. Je bent tot geheimhouding verplicht en deelt alleen wat nodig is (art. 5 lid 1 onder b en c AVG)."
+        },
+        {
+          "id": "b",
+          "text": "Dat de buurman een boete heeft gekregen, want zij heeft gemeld.",
+          "feedback": "Onjuist. Een melding geeft geen recht op informatie over een ander. Dat zou je geheimhoudingsplicht schenden."
+        },
+        {
+          "id": "c",
+          "text": "Alleen de naam van de buurman, zodat ze zelf kan praten.",
+          "feedback": "Onjuist. Ook alleen een naam is een persoonsgegeven. Voor die verstrekking is geen doel of grondslag (art. 5 en 6 AVG)."
+        }
+      ],
+      "correctAnswer": "a",
+      "sourceRefs": [
+        {
+          "law": "Algemene verordening gegevensbescherming (AVG)",
+          "article": "art. 5 lid 1 onder b en c"
+        },
+        {
+          "law": "Algemene verordening gegevensbescherming (AVG)",
+          "article": "art. 6"
+        },
+        {
+          "law": "Wet politiegegevens",
+          "article": "art. 7",
+          "verify": true
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "juridische_review_nodig",
+      "reviewNote": "Controleren: Wpg art. 7 als bron voor de geheimhoudingsplicht bij politiegegevens.",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m01-l04-4",
+      "moduleId": "m01",
+      "lessonId": "m01-l04",
+      "termIds": [],
+      "topic": "Delen met collega's",
+      "level": "T",
+      "type": "mc",
+      "case": "Een collega van een andere afdeling vraagt je het adres van iemand die jij vorige week hebt bekeurd. Hij wil weten waar diegene woont, omdat hij hem kent van zijn sportclub.",
+      "prompt": "Mag je het adres aan je collega geven?",
+      "explanation": "Gegevens die je in je werk hebt verzameld, gebruik je alleen voor het doel waarvoor ze zijn verzameld (doelbinding, art. 5 lid 1 onder b AVG). Verstrekken aan een collega voor een privédoel is niet toegestaan.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ja, hij werkt ook bij de gemeente.",
+          "feedback": "Onjuist. Werken bij dezelfde organisatie is geen reden. Je collega heeft het adres niet nodig voor zijn taak; het doel is privé (art. 5 lid 1 onder b AVG)."
+        },
+        {
+          "id": "b",
+          "text": "Nee, hij vraagt het voor een privédoel.",
+          "feedback": "Juist. Je deelt gegevens alleen met wie ze nodig heeft voor zijn taak. Gebruik voor een privédoel past niet bij het doel waarvoor de gegevens zijn verzameld (doelbinding) en schendt je geheimhoudingsplicht."
+        },
+        {
+          "id": "c",
+          "text": "Ja, als hij belooft het niet verder te vertellen.",
+          "feedback": "Onjuist. Een belofte maakt de verstrekking niet rechtmatig. Er is geen doel en geen grondslag (art. 5 en 6 AVG)."
+        }
+      ],
+      "correctAnswer": "b",
+      "sourceRefs": [
+        {
+          "law": "Algemene verordening gegevensbescherming (AVG)",
+          "article": "art. 5 lid 1 onder b"
+        },
+        {
+          "law": "Algemene verordening gegevensbescherming (AVG)",
+          "article": "art. 6"
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "concept",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m01-l04-5",
+      "moduleId": "m01",
+      "lessonId": "m01-l04",
+      "termIds": [],
+      "topic": "Rechten van betrokkenen",
+      "level": "K",
+      "type": "mc",
+      "prompt": "Welk recht heeft een betrokkene volgens de AVG?",
+      "explanation": "De AVG geeft betrokkenen onder meer het recht op inzage (art. 15), rectificatie (art. 16), wissing (art. 17) en bezwaar (art. 21). De organisatie handelt die verzoeken af.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Het recht om de gegevens van zijn buren in te zien",
+          "feedback": "Onjuist. Het inzagerecht gaat alleen over je eigen gegevens (art. 15 AVG)."
+        },
+        {
+          "id": "b",
+          "text": "Het recht om te vragen welke gegevens over hem worden verwerkt",
+          "feedback": "Juist. Dat is het recht op inzage (art. 15 AVG)."
+        },
+        {
+          "id": "c",
+          "text": "Het recht dat de boa zijn gegevens ter plekke direct wist",
+          "feedback": "Onjuist. Een verzoek om wissing behandelt de organisatie volgens de procedure (art. 17 AVG). Je wist niets zelf op straat."
+        }
+      ],
+      "correctAnswer": "b",
+      "sourceRefs": [
+        {
+          "law": "Algemene verordening gegevensbescherming (AVG)",
+          "article": "art. 15"
+        },
+        {
+          "law": "Algemene verordening gegevensbescherming (AVG)",
+          "article": "art. 16"
+        },
+        {
+          "law": "Algemene verordening gegevensbescherming (AVG)",
+          "article": "art. 17"
+        },
+        {
+          "law": "Algemene verordening gegevensbescherming (AVG)",
+          "article": "art. 21"
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "concept",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m01-l04-6",
+      "moduleId": "m01",
+      "lessonId": "m01-l04",
+      "termIds": [],
+      "topic": "Zorgvuldig werken",
+      "level": "T",
+      "type": "mc",
+      "case": "Je wilt een foto maken van een overtreding als bewijs. Je werktelefoon is leeg, je privételefoon heb je wel bij je.",
+      "prompt": "Hoe leg je de overtreding op de juiste manier vast?",
+      "explanation": "Persoonsgegevens moeten passend beveiligd worden (art. 5 lid 1 onder f en art. 32 AVG). Hoe je dat in de praktijk doet, staat in de instructies van je werkgever. Dat is beleid, maar het helpt je de wettelijke eisen na te leven.",
+      "options": [
+        {
+          "id": "a",
+          "text": "De foto in de groepsapp van je team zetten, dan weet iedereen ervan.",
+          "feedback": "Onjuist. Een groepsapp is geen beveiligd systeem en niet iedereen heeft de foto nodig. Dat past niet bij beveiliging en noodzaak (art. 5 lid 1 onder c en f AVG)."
+        },
+        {
+          "id": "b",
+          "text": "De foto op je privételefoon bewaren tot je hem nodig hebt.",
+          "feedback": "Onjuist. Op een privételefoon is de beveiliging niet gewaarborgd en loop je risico op een datalek (art. 5 lid 1 onder f en art. 32 AVG)."
+        },
+        {
+          "id": "c",
+          "text": "Je gebruikt geen privételefoon, alleen werkmiddelen en het systeem.",
+          "feedback": "Juist. Je organisatie moet passende beveiliging treffen (art. 32 AVG). Je werkt daarom alleen met werkmiddelen en de systemen van je organisatie, volgens de instructie van je werkgever."
+        }
+      ],
+      "correctAnswer": "c",
+      "sourceRefs": [
+        {
+          "law": "Algemene verordening gegevensbescherming (AVG)",
+          "article": "art. 5 lid 1 onder f"
+        },
+        {
+          "law": "Algemene verordening gegevensbescherming (AVG)",
+          "article": "art. 32"
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "concept",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m01-l05-1",
+      "moduleId": "m01",
+      "lessonId": "m01-l05",
+      "termIds": [],
+      "topic": "Politie inschakelen",
+      "level": "T",
+      "type": "mc",
+      "case": "Tijdens je surveillance zie je in een steegje twee mannen die kleine zakjes en geld uitwisselen. Het lijkt op drugshandel.",
+      "prompt": "Wat doe je met deze waarneming?",
+      "explanation": "Je bent alleen met opsporing belast voor zover wet en akte dat bepalen (art. 142 Sv). De politie handhaaft de rechtsorde in brede zin (art. 3 Politiewet 2012). Bij een feit buiten je domein schakel je de politie in en geef je door wat je hebt gezien.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Je gaat erop af, fouilleert de mannen en neemt de zakjes in beslag.",
+          "feedback": "Onjuist. Drugshandel staat niet op de domeinlijst van Domein I. Je hebt hiervoor geen opsporingsbevoegdheid en brengt jezelf in gevaar (art. 142 Sv)."
+        },
+        {
+          "id": "b",
+          "text": "Je doet niets, want het feit valt buiten je domein.",
+          "feedback": "Onjuist. Je mag het feit niet zelf opsporen, maar je kunt wel waarnemen en de politie inschakelen. Signaleren en doorgeven hoort bij goede samenwerking."
+        },
+        {
+          "id": "c",
+          "text": "Je neemt veilig waar en meldt het direct bij de politie.",
+          "feedback": "Juist. Het feit valt buiten je akte en domein (art. 142 Sv). De politie heeft hier de taak en de bevoegdheden (art. 3 Politiewet 2012). Jij geeft je waarnemingen door."
+        }
+      ],
+      "correctAnswer": "c",
+      "sourceRefs": [
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 142"
+        },
+        {
+          "law": "Politiewet 2012",
+          "article": "art. 3"
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "concept",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m01-l05-2",
+      "moduleId": "m01",
+      "lessonId": "m01-l05",
+      "termIds": [],
+      "topic": "Gezag bij opsporing",
+      "level": "K",
+      "type": "mc",
+      "prompt": "Welk artikel bepaalt dat de officier van justitie bevelen kan geven aan opsporingsambtenaren, ook aan boa's?",
+      "explanation": "Art. 148 Sv: de officier van justitie is belast met de opsporing van strafbare feiten en geeft daarbij bevelen aan de andere personen die met opsporing zijn belast. Boa's vallen daaronder (art. 142 Sv).",
+      "options": [
+        {
+          "id": "a",
+          "text": "Art. 172 Gemeentewet",
+          "feedback": "Onjuist. Art. 172 Gemeentewet gaat over de burgemeester en de openbare orde, niet over opsporing."
+        },
+        {
+          "id": "b",
+          "text": "Art. 5:11 Algemene wet bestuursrecht",
+          "feedback": "Onjuist. Art. 5:11 Awb omschrijft wie toezichthouder is. Het gaat niet over het gezag bij opsporing."
+        },
+        {
+          "id": "c",
+          "text": "Art. 148 Wetboek van Strafvordering",
+          "feedback": "Juist. Art. 148 Sv belast de officier van justitie met de opsporing en geeft hem de bevoegdheid bevelen te geven aan andere opsporingsambtenaren."
+        }
+      ],
+      "correctAnswer": "c",
+      "sourceRefs": [
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 148"
+        },
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 142"
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "concept",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m01-l05-3",
+      "moduleId": "m01",
+      "lessonId": "m01-l05",
+      "termIds": [],
+      "topic": "Convenant",
+      "level": "B",
+      "type": "mc",
+      "case": "In het convenant tussen de gemeente en de politie staat: \"Boa's controleren bij evenementen de tassen van bezoekers.\" In je akte staat geen bevoegdheid die dat mogelijk maakt.",
+      "prompt": "Geeft dit convenant je de bevoegdheid om tassen te doorzoeken?",
+      "explanation": "Een convenant regelt samenwerking: wie doet wat, hoe bereik je elkaar, hoe draag je over. Het is beleid. Opsporingsbevoegdheden van een boa volgen alleen uit de wet en de akte (art. 142 Sv).",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ja, het convenant is door gemeente en politie ondertekend.",
+          "feedback": "Onjuist. Ondertekening door de politie maakt een convenant geen wet. Een convenant is beleid en geeft geen bevoegdheid (art. 142 Sv)."
+        },
+        {
+          "id": "b",
+          "text": "Nee, een convenant is beleid en geeft geen bevoegdheid.",
+          "feedback": "Juist. Een boa heeft alleen de bevoegdheden die wet, akte en domein geven (art. 142 Sv). Een convenant kan dat niet uitbreiden."
+        },
+        {
+          "id": "c",
+          "text": "Ja, als de burgemeester het evenement heeft vergund.",
+          "feedback": "Onjuist. Een vergunning regelt het evenement, niet jouw bevoegdheden. Die volgen uit wet en akte (art. 142 Sv)."
+        }
+      ],
+      "correctAnswer": "b",
+      "sourceRefs": [
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 142"
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "concept",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m01-l05-4",
+      "moduleId": "m01",
+      "lessonId": "m01-l05",
+      "termIds": [],
+      "topic": "Opsporingsambtenaren",
+      "level": "K",
+      "type": "mc",
+      "prompt": "Wie is volgens het Wetboek van Strafvordering algemeen opsporingsambtenaar?",
+      "explanation": "Art. 141 Sv noemt de algemene opsporingsambtenaren, waaronder politieambtenaren. Art. 142 Sv regelt de buitengewoon opsporingsambtenaren, die alleen bevoegd zijn voor zover wet en akte dat bepalen.",
+      "options": [
+        {
+          "id": "a",
+          "text": "De politieambtenaar",
+          "feedback": "Juist. Politieambtenaren zijn algemeen opsporingsambtenaar (art. 141 Sv). Zij mogen alle strafbare feiten opsporen."
+        },
+        {
+          "id": "b",
+          "text": "De boa in Domein I",
+          "feedback": "Onjuist. Een boa is buitengewoon opsporingsambtenaar (art. 142 Sv). Hij spoort alleen de feiten op die in zijn akte en domein staan."
+        },
+        {
+          "id": "c",
+          "text": "De toezichthouder op grond van de Awb",
+          "feedback": "Onjuist. Een toezichthouder (art. 5:11 Awb) houdt toezicht op naleving. Dat is geen opsporing van strafbare feiten."
+        }
+      ],
+      "correctAnswer": "a",
+      "sourceRefs": [
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 141"
+        },
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 142"
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "concept",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m01-l05-5",
+      "moduleId": "m01",
+      "lessonId": "m01-l05",
+      "termIds": [],
+      "topic": "Overdracht verdachte",
+      "level": "T",
+      "type": "mc",
+      "case": "Je hebt een verdachte op heterdaad aangehouden. Twee agenten komen ter plaatse om hem over te nemen.",
+      "prompt": "Wat geef je in elk geval door aan de agenten die de verdachte overnemen?",
+      "explanation": "Een op heterdaad aangehouden verdachte moet worden voorgeleid aan de (hulp)officier van justitie (art. 53 Sv). Bij de overdracht geef je door wat de politie nodig heeft: het feit, het tijdstip van aanhouding, of de cautie is gegeven (art. 29 Sv), en of je hebt gefouilleerd of iets in beslag genomen.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Alleen de naam van de verdachte; de rest staat later in je proces-verbaal.",
+          "feedback": "Onjuist. De politie moet direct weten wat er is gebeurd, om de verdachte goed te kunnen voorgeleiden en zijn rechten te bewaken (art. 29 en 53 Sv)."
+        },
+        {
+          "id": "b",
+          "text": "Het feit, het tijdstip, of de cautie is gegeven en wat je deed.",
+          "feedback": "Juist. Met deze informatie kan de politie de verdachte correct voorgeleiden. Of de cautie is gegeven is belangrijk voor de rechten van de verdachte (art. 29 Sv)."
+        },
+        {
+          "id": "c",
+          "text": "Je eigen mening over de straf die de verdachte zou moeten krijgen.",
+          "feedback": "Onjuist. Over vervolging en straf beslist het OM en de rechter. Jij geeft feiten en waarnemingen door."
+        }
+      ],
+      "correctAnswer": "b",
+      "sourceRefs": [
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 29"
+        },
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 53",
+          "verify": true
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "juridische_review_nodig",
+      "reviewNote": "Controleren: welk lid van art. 53 Sv de voorgeleiding aan de (hulp)officier van justitie regelt.",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m01-l05-6",
+      "moduleId": "m01",
+      "lessonId": "m01-l05",
+      "termIds": [],
+      "topic": "Proces-verbaal",
+      "level": "B",
+      "type": "truefalse",
+      "prompt": "Stelling: als de politie een verdachte van je overneemt, hoef je zelf geen proces-verbaal meer op te maken van wat jij hebt waargenomen.",
+      "explanation": "Art. 152 Sv: opsporingsambtenaren maken zo spoedig mogelijk proces-verbaal op van het door hen opgespoorde strafbare feit of van wat zij tot opsporing hebben verricht of bevonden. De overdracht aan de politie verandert dat niet.",
+      "correctAnswer": false,
+      "feedbackTrue": "Onjuist. Je maakt zelf zo spoedig mogelijk proces-verbaal op van het feit dat jij hebt opgespoord en van wat je hebt gedaan of waargenomen (art. 152 Sv).",
+      "feedbackFalse": "Juist gezien: de stelling klopt niet. Jij bent opsporingsambtenaar en legt je eigen waarnemingen vast in een proces-verbaal (art. 152 Sv).",
+      "sourceRefs": [
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 152"
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "concept",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m01-l05-7",
+      "moduleId": "m01",
+      "lessonId": "m01-l05",
+      "termIds": [],
+      "topic": "Taakverdeling boa en politie",
+      "level": "B",
+      "type": "mc",
+      "prompt": "Waarom schakel je bij een vechtpartij de politie in?",
+      "explanation": "De politie heeft tot taak de daadwerkelijke handhaving van de rechtsorde en hulpverlening (art. 3 Politiewet 2012) en heeft daarvoor brede bevoegdheden, ook om geweld te gebruiken (art. 7 Politiewet 2012). Een boa heeft alleen de bevoegdheden die wet en akte geven (art. 142 Sv).",
+      "options": [
+        {
+          "id": "a",
+          "text": "Omdat een boa nooit mag optreden als er geweld wordt gebruikt.",
+          "feedback": "Onjuist. Je mag bijvoorbeeld bij heterdaad aanhouden (art. 53 Sv) en jezelf verdedigen. Maar de politie heeft hier de taak en de middelen."
+        },
+        {
+          "id": "b",
+          "text": "Omdat de burgemeester dat in de APV heeft bepaald.",
+          "feedback": "Onjuist. De taak van de politie volgt uit de Politiewet 2012, niet uit de APV."
+        },
+        {
+          "id": "c",
+          "text": "Omdat de politie hiervoor de taak en de bevoegdheden heeft.",
+          "feedback": "Juist. De politie handhaaft de rechtsorde en mag zo nodig geweld gebruiken (art. 3 en 7 Politiewet 2012). Jouw bevoegdheden zijn beperkt tot wat je akte toekent."
+        }
+      ],
+      "correctAnswer": "c",
+      "sourceRefs": [
+        {
+          "law": "Politiewet 2012",
+          "article": "art. 3"
+        },
+        {
+          "law": "Politiewet 2012",
+          "article": "art. 7"
+        },
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 142"
+        },
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 53"
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "concept",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m01-l06-1",
+      "moduleId": "m01",
+      "lessonId": "m01-l06",
+      "termIds": [],
+      "topic": "Ketenpartners",
+      "level": "T",
+      "type": "match",
+      "prompt": "Koppel elke situatie aan de ketenpartner die erbij hoort.",
+      "explanation": "Halt is er voor jongeren met een licht feit (art. 77e Sr). Veilig Thuis is het meldpunt voor huiselijk geweld en kindermishandeling (art. 4.1.1 Wmo 2015). Bij geweld en acuut gevaar schakel je de politie in (art. 3 Politiewet 2012). De afdeling vergunningen weet welke vergunningen zijn verleend. Het CJIB verwerkt en int boetes.",
+      "pairs": [
+        {
+          "left": "Een 15-jarige pleegt een licht feit waarvoor een Halt-afdoening mogelijk is",
+          "right": "Halt"
+        },
+        {
+          "left": "Je hebt zorgen over kindermishandeling in een gezin, zonder acuut gevaar",
+          "right": "Veilig Thuis"
+        },
+        {
+          "left": "Op straat is een vechtpartij met gewonden",
+          "right": "Politie via 112"
+        },
+        {
+          "left": "Je wilt weten of een evenement een vergunning heeft gekregen",
+          "right": "Afdeling vergunningen van de gemeente"
+        },
+        {
+          "left": "Iemand vraagt hoe hij een opgelegde boete kan betalen",
+          "right": "CJIB"
+        }
+      ],
+      "sourceRefs": [
+        {
+          "law": "Wetboek van Strafrecht",
+          "article": "art. 77e",
+          "verify": true
+        },
+        {
+          "law": "Wet maatschappelijke ondersteuning 2015",
+          "article": "art. 4.1.1",
+          "verify": true
+        },
+        {
+          "law": "Politiewet 2012",
+          "article": "art. 3"
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "juridische_review_nodig",
+      "reviewNote": "Controleren: Sr art. 77e (Halt-afdoening, leeftijd) en Wmo 2015 art. 4.1.1 (Veilig Thuis) als bronnen.",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m01-l06-2",
+      "moduleId": "m01",
+      "lessonId": "m01-l06",
+      "termIds": [],
+      "topic": "Ketenpartners",
+      "level": "K",
+      "type": "mc",
+      "prompt": "Wat is de taak van het CJIB?",
+      "explanation": "Het Centraal Justitieel Incassobureau verwerkt en int onder meer strafbeschikkingen (art. 257a Sv) en verkeersboetes. Over vervolging beslist het OM (art. 167 Sv).",
+      "options": [
+        {
+          "id": "a",
+          "text": "Beslissen of een verdachte wordt vervolgd",
+          "feedback": "Onjuist. Over vervolging beslist het Openbaar Ministerie (art. 167 Sv), niet het CJIB."
+        },
+        {
+          "id": "b",
+          "text": "De akte van opsporingsbevoegdheid afgeven",
+          "feedback": "Onjuist. De akte wordt namens de minister van Justitie en Veiligheid afgegeven. Het CJIB heeft daar geen rol in."
+        },
+        {
+          "id": "c",
+          "text": "Boetes en beschikkingen verwerken en innen",
+          "feedback": "Juist. Het CJIB verwerkt opgelegde boetes en beschikkingen en zorgt voor de inning."
+        }
+      ],
+      "correctAnswer": "c",
+      "sourceRefs": [
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 257a"
+        },
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 167"
+        },
+        {
+          "law": "Centraal Justitieel Incassobureau (CJIB)",
+          "note": "Wettelijke omschrijving rol CJIB controleren",
+          "verify": true
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "juridische_review_nodig",
+      "reviewNote": "Controleren: juiste wettelijke omschrijving van de rol van het CJIB bij verwerking en inning van boetes.",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m01-l06-3",
+      "moduleId": "m01",
+      "lessonId": "m01-l06",
+      "termIds": [],
+      "topic": "Openbaar Ministerie",
+      "level": "K",
+      "type": "mc",
+      "prompt": "Welke ketenpartner beslist of een verdachte strafrechtelijk wordt vervolgd?",
+      "explanation": "Het OM is belast met de strafrechtelijke handhaving van de rechtsorde (art. 124 Wet op de rechterlijke organisatie). Het beslist of vervolging moet plaatsvinden (art. 167 Sv).",
+      "options": [
+        {
+          "id": "a",
+          "text": "Het Openbaar Ministerie",
+          "feedback": "Juist. Het OM is belast met de strafrechtelijke handhaving van de rechtsorde (art. 124 Wet RO) en beslist over vervolging (art. 167 Sv)."
+        },
+        {
+          "id": "b",
+          "text": "Het Centraal Justitieel Incassobureau (CJIB)",
+          "feedback": "Onjuist. Het CJIB verwerkt en int boetes. Het beslist niet over vervolging (art. 167 Sv)."
+        },
+        {
+          "id": "c",
+          "text": "Halt, voor jongeren van 12 tot 18 jaar",
+          "feedback": "Onjuist. Halt voert een afdoening uit voor jongeren. De beslissing over vervolging ligt bij het OM (art. 167 Sv)."
+        }
+      ],
+      "correctAnswer": "a",
+      "sourceRefs": [
+        {
+          "law": "Wet op de rechterlijke organisatie",
+          "article": "art. 124"
+        },
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 167"
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "concept",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m01-l06-4",
+      "moduleId": "m01",
+      "lessonId": "m01-l06",
+      "termIds": [],
+      "topic": "Doorverwijzen",
+      "level": "T",
+      "type": "mc",
+      "case": "Tijdens een gesprek over overlast vertelt een bewoonster je dat haar partner haar thuis regelmatig slaat. Ze is op dit moment niet in direct gevaar.",
+      "prompt": "Wat doe je met wat de bewoonster je vertelt?",
+      "explanation": "Je spoort alleen feiten op die in je akte en domein staan (art. 142 Sv). Bij huiselijk geweld zonder acuut gevaar verwijs je naar Veilig Thuis (art. 4.1.1 Wmo 2015) en geef je het signaal door via de werkafspraken of meldcode van je organisatie. Bij acuut gevaar bel je 112.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Je maakt zelf proces-verbaal op van mishandeling door de partner.",
+          "feedback": "Onjuist. Mishandeling valt buiten de domeinlijst van Domein I. Je hebt daarvoor geen opsporingsbevoegdheid (art. 142 Sv)."
+        },
+        {
+          "id": "b",
+          "text": "Je verwijst haar naar Veilig Thuis en geeft het signaal door.",
+          "feedback": "Juist. Veilig Thuis is het meldpunt voor huiselijk geweld (art. 4.1.1 Wmo 2015). Jij signaleert en geeft door. Bij acuut gevaar bel je 112."
+        },
+        {
+          "id": "c",
+          "text": "Je doet niets, want dit valt buiten je domein.",
+          "feedback": "Onjuist. Dat het feit buiten je domein valt, betekent niet dat je niets doet. Je kunt doorverwijzen en signaleren."
+        }
+      ],
+      "correctAnswer": "b",
+      "sourceRefs": [
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 142"
+        },
+        {
+          "law": "Wet maatschappelijke ondersteuning 2015",
+          "article": "art. 4.1.1",
+          "verify": true
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "juridische_review_nodig",
+      "reviewNote": "Controleren: Wmo 2015 art. 4.1.1 als grondslag voor Veilig Thuis; en of boa's onder de Wet verplichte meldcode vallen.",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m01-l06-5",
+      "moduleId": "m01",
+      "lessonId": "m01-l06",
+      "termIds": [],
+      "topic": "Informatie delen",
+      "level": "B",
+      "type": "mc",
+      "case": "Een medewerker van een woningcorporatie vraagt je welke huurders je de afgelopen maand hebt beboet voor afval naast de container. De gemeente en de corporatie hebben een convenant over samenwerking bij overlast.",
+      "prompt": "Mag je de gevraagde gegevens aan de woningcorporatie geven?",
+      "explanation": "Informatie delen met een ketenpartner is een verwerking en vraagt een wettelijke grondslag (art. 6 lid 1 AVG; bij opsporingsgegevens de Wpg-regels). Het moet passen bij het doel waarvoor de gegevens zijn verzameld (art. 5 lid 1 onder b AVG). Een convenant alleen is niet genoeg.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Niet zomaar: daarvoor is een wettelijke grondslag nodig.",
+          "feedback": "Juist. Delen is een verwerking. Daarvoor is een grondslag nodig (art. 6 AVG of de Wpg-regels) en het moet passen bij het doel (art. 5 lid 1 onder b AVG)."
+        },
+        {
+          "id": "b",
+          "text": "Ja, want er is een convenant met de woningcorporatie.",
+          "feedback": "Onjuist. Een convenant beschrijft de samenwerking, maar maakt zelf geen wettelijke grondslag voor het delen van gegevens."
+        },
+        {
+          "id": "c",
+          "text": "Ja, want de corporatie is eigenaar en verhuurder van de flat.",
+          "feedback": "Onjuist. Eigenaar of verhuurder zijn geeft geen recht op persoonsgegevens van huurders uit jouw werk. Er is een grondslag nodig (art. 6 AVG)."
+        }
+      ],
+      "correctAnswer": "a",
+      "sourceRefs": [
+        {
+          "law": "Algemene verordening gegevensbescherming (AVG)",
+          "article": "art. 5 lid 1 onder b"
+        },
+        {
+          "law": "Algemene verordening gegevensbescherming (AVG)",
+          "article": "art. 6 lid 1"
+        },
+        {
+          "law": "Wet politiegegevens"
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "concept",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m01-l06-6",
+      "moduleId": "m01",
+      "lessonId": "m01-l06",
+      "termIds": [],
+      "topic": "Zelf optreden of doorverwijzen",
+      "level": "B",
+      "type": "mc",
+      "prompt": "Wanneer treed je als boa zelf op?",
+      "explanation": "Een boa is alleen met opsporing belast voor zover wet en akte dat bepalen (art. 142 Sv). Binnen die grenzen treed je zelf op, als het veilig is. Daarbuiten verwijs je door of schakel je de politie in.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Altijd, want je bent opsporingsambtenaar.",
+          "feedback": "Onjuist. Je bent alleen opsporingsambtenaar voor de feiten die in je akte en domein staan (art. 142 Sv)."
+        },
+        {
+          "id": "b",
+          "text": "Alleen als de politie je daar vooraf toestemming voor geeft.",
+          "feedback": "Onjuist. Voor feiten binnen je domein heb je geen toestemming van de politie nodig. Je bevoegdheid volgt uit wet en akte (art. 142 Sv)."
+        },
+        {
+          "id": "c",
+          "text": "Als het feit binnen je akte en domein valt en het veilig is.",
+          "feedback": "Juist. Je bevoegdheid volgt uit wet, akte en domein (art. 142 Sv). Veiligheid weeg je altijd mee; bij gevaar schakel je de politie in."
+        }
+      ],
+      "correctAnswer": "c",
+      "sourceRefs": [
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 142"
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "concept",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m01-l06-7",
+      "moduleId": "m01",
+      "lessonId": "m01-l06",
+      "termIds": [],
+      "topic": "Informatie delen",
+      "level": "B",
+      "type": "truefalse",
+      "prompt": "Stelling: een convenant tussen gemeente en woningcorporatie is op zichzelf een voldoende grondslag om persoonsgegevens te delen.",
+      "explanation": "Voor elke verwerking is een grondslag nodig (art. 6 lid 1 AVG). Een convenant is een afspraak tussen partners. Het kan uitwerken hoe gedeeld wordt, maar kan zelf geen grondslag scheppen die de wet niet geeft.",
+      "correctAnswer": false,
+      "feedbackTrue": "Onjuist. Een convenant beschrijft de samenwerking, maar is geen wettelijke grondslag. De grondslag moet uit de wet komen, bijvoorbeeld art. 6 lid 1 AVG.",
+      "feedbackFalse": "Juist gezien: de stelling klopt niet. Een convenant kan geen wettelijke grondslag vervangen (art. 6 lid 1 AVG).",
+      "sourceRefs": [
+        {
+          "law": "Algemene verordening gegevensbescherming (AVG)",
+          "article": "art. 6 lid 1"
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "concept",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "College van burgemeester en wethouders",
+      "definition": "Bestuursorgaan van de gemeente, bestaande uit de burgemeester en de wethouders. Voert het dagelijks bestuur en voert besluiten van de raad uit.",
+      "moduleId": "m01",
+      "sourceRefs": [
+        {
+          "law": "Gemeentewet",
+          "article": "art. 160"
+        }
+      ],
+      "reviewStatus": "concept"
+    },
+    {
+      "term": "Burgemeester",
+      "definition": "Bestuursorgaan van de gemeente, benoemd door de Kroon. Is onder meer belast met de handhaving van de openbare orde.",
+      "moduleId": "m01",
+      "sourceRefs": [
+        {
+          "law": "Grondwet",
+          "article": "art. 131"
+        },
+        {
+          "law": "Gemeentewet",
+          "article": "art. 172"
+        }
+      ],
+      "reviewStatus": "concept"
+    },
+    {
+      "term": "Gemeentelijke verordening",
+      "definition": "Algemeen verbindend voorschrift dat de gemeenteraad vaststelt, zoals de APV. Geldt pas na bekendmaking in het gemeenteblad.",
+      "moduleId": "m01",
+      "sourceRefs": [
+        {
+          "law": "Gemeentewet",
+          "article": "art. 139"
+        },
+        {
+          "law": "Gemeentewet",
+          "article": "art. 147"
+        },
+        {
+          "law": "Gemeentewet",
+          "article": "art. 149"
+        }
+      ],
+      "reviewStatus": "concept"
+    },
+    {
+      "term": "Algemene plaatselijke verordening (APV)",
+      "definition": "Verordening van de gemeenteraad met lokale regels over onder meer openbare orde en overlast. Elke gemeente heeft een eigen APV; artikelnummers verschillen per gemeente.",
+      "moduleId": "m01",
+      "sourceRefs": [
+        {
+          "law": "Gemeentewet",
+          "article": "art. 149"
+        },
+        {
+          "law": "Gemeentewet",
+          "article": "art. 154"
+        }
+      ],
+      "reviewStatus": "concept"
+    },
+    {
+      "term": "Algemene maatregel van bestuur (AMvB)",
+      "definition": "Regeling die bij koninklijk besluit wordt vastgesteld op grond van een wet, na advies van de Raad van State. Voorbeeld: het RVV 1990.",
+      "moduleId": "m01",
+      "sourceRefs": [
+        {
+          "law": "Grondwet",
+          "article": "art. 73"
+        },
+        {
+          "law": "Grondwet",
+          "article": "art. 89"
+        }
+      ],
+      "reviewStatus": "concept"
+    },
+    {
+      "term": "Akte van opsporingsbevoegdheid",
+      "definition": "Document waarin staat voor welke strafbare feiten en met welke bevoegdheden een boa opsporingsambtenaar is.",
+      "moduleId": "m01",
+      "sourceRefs": [
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 142"
+        }
+      ],
+      "reviewStatus": "concept"
+    },
+    {
+      "term": "Domeinlijst",
+      "definition": "Lijst met strafbare feiten die een boa binnen een bepaald domein, zoals Domein I Openbare ruimte, mag opsporen.",
+      "moduleId": "m01",
+      "sourceRefs": [
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 142"
+        }
+      ],
+      "reviewStatus": "concept"
+    },
+    {
+      "term": "Persoonsgegeven",
+      "definition": "Alle informatie over een geïdentificeerde of identificeerbare natuurlijke persoon, zoals een naam, kenteken of herkenbaar beeld.",
+      "moduleId": "m01",
+      "sourceRefs": [
+        {
+          "law": "Algemene verordening gegevensbescherming (AVG)",
+          "article": "art. 4 onder 1"
+        }
+      ],
+      "reviewStatus": "concept"
+    },
+    {
+      "term": "Politiegegeven",
+      "definition": "Persoonsgegeven dat wordt verwerkt voor de uitvoering van de politietaak. Ook voor boa's in hun opsporingstaak gelden de regels van de Wet politiegegevens.",
+      "moduleId": "m01",
+      "sourceRefs": [
+        {
+          "law": "Wet politiegegevens",
+          "article": "art. 1"
+        }
+      ],
+      "reviewStatus": "concept"
+    },
+    {
+      "term": "Convenant",
+      "definition": "Schriftelijke samenwerkingsafspraak tussen organisaties, bijvoorbeeld gemeente en politie. Is beleid: geeft geen bevoegdheden en vervangt geen wettelijke grondslag.",
+      "moduleId": "m01",
+      "sourceRefs": [
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 142"
+        },
+        {
+          "law": "Algemene verordening gegevensbescherming (AVG)",
+          "article": "art. 6 lid 1"
+        }
+      ],
+      "reviewStatus": "concept"
+    }
+  ]
+}

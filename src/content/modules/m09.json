@@ -1,0 +1,891 @@
+{
+  "moduleId": "m09",
+  "lessons": [
+    {
+      "id": "m09-l01",
+      "moduleId": "m09",
+      "order": 1,
+      "title": "Het stelsel van de Omgevingswet",
+      "minutes": 15,
+      "termIds": [],
+      "objectives": [
+        {
+          "text": "Je weet sinds wanneer de Omgevingswet geldt en welke oude regels erin zijn opgegaan.",
+          "level": "K"
+        },
+        {
+          "text": "Je begrijpt de rol van het omgevingsplan, algemene regels en de omgevingsvergunning.",
+          "level": "B"
+        },
+        {
+          "text": "Je herkent in de openbare ruimte activiteiten waarvoor mogelijk een vergunning nodig is.",
+          "level": "T"
+        }
+      ],
+      "screens": [
+        {
+          "type": "objectives",
+          "title": "Leerdoelen"
+        },
+        {
+          "type": "text",
+          "title": "Eén wet voor de fysieke leefomgeving",
+          "body": "De Omgevingswet is op **1 januari 2024** in werking getreden. Die datum is belangrijk: voor situaties vanaf die dag gelden de nieuwe regels.\n\nDe wet bundelt veel oude wetten en regels over de fysieke leefomgeving. Denk aan de Wet algemene bepalingen omgevingsrecht (Wabo) met de oude omgevingsvergunning, en aan de bestemmingsplannen van de gemeente.\n\nDe fysieke leefomgeving is breed. Het gaat onder meer over:\n- bouwwerken en wegen\n- bomen, groen en natuur\n- water, bodem en lucht\n- het gebruik van gebouwen en grond\n\nDe gedachte is: minder losse regels, en per gebied één samenhangend overzicht."
+        },
+        {
+          "type": "law",
+          "title": "Het omgevingsplan van de gemeente",
+          "ref": {
+            "law": "Omgevingswet",
+            "article": "art. 2.4"
+          },
+          "body": "Volgens de Omgevingswet stelt de gemeenteraad voor het hele grondgebied van de gemeente één omgevingsplan vast.\n\nIn het omgevingsplan staan de regels over de fysieke leefomgeving in die gemeente. Bijvoorbeeld wat je op een plek mag bouwen, hoe je een gebouw mag gebruiken en wanneer je een boom mag kappen.\n\nDe oude bestemmingsplannen zijn niet zomaar verdwenen. Ze zijn bij de invoering onderdeel geworden van het tijdelijke deel van het omgevingsplan. Gemeenten zetten die regels stap voor stap om naar het nieuwe deel.\n\nVoor jou betekent dit: wil je weten wat op een plek mag, dan kijk je in het omgevingsplan van die gemeente."
+        },
+        {
+          "type": "law",
+          "title": "Verbod zonder omgevingsvergunning",
+          "ref": {
+            "law": "Omgevingswet",
+            "article": "art. 5.1",
+            "verify": true
+          },
+          "body": "De Omgevingswet werkt met **activiteiten**. Een activiteit is iets wat iemand doet, zoals bouwen, slopen, kappen of het gebruik van een pand of terrein veranderen.\n\nVoor veel activiteiten gelden **algemene regels**. Die gelden voor iedereen; je hoeft vooraf niets aan te vragen.\n\nVoor sommige activiteiten is een **omgevingsvergunning** nodig. Artikel 5.1 Omgevingswet verbiedt dan om de activiteit zonder vergunning te verrichten. Of een vergunning nodig is, volgt uit de wet, de rijksregels of het omgevingsplan.\n\nLet op: wat in de ene gemeente vergunningplichtig is, kan in een andere gemeente vrij zijn."
+        },
+        {
+          "type": "keypoints",
+          "title": "Wat kom je tegen in de openbare ruimte?",
+          "items": [
+            {
+              "term": "Kappen",
+              "text": "Een boom wordt gekapt terwijl het omgevingsplan (of in sommige gemeenten nog de APV) daarvoor een vergunning eist."
+            },
+            {
+              "term": "Bouwen en slopen",
+              "text": "Er wordt gebouwd of gesloopt zonder dat duidelijk is of daarvoor toestemming is."
+            },
+            {
+              "term": "Opslag",
+              "text": "Materialen, bouwafval of voertuigen worden opgeslagen op grond waar dat volgens het omgevingsplan niet mag."
+            },
+            {
+              "term": "Gebruik wijzigen",
+              "text": "Een pand of terrein wordt anders gebruikt dan is toegestaan, bijvoorbeeld een schuur als woning."
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": "Praktijk: de gekapte bomen",
+          "body": "Boa Fenna loopt surveillance in een woonwijk. Ze ziet dat in een voortuin twee grote bomen zijn omgezaagd. De stammen liggen deels op de stoep.\n\nFenna weet dat de gemeente in het omgevingsplan regels heeft over kappen. Ze weet niet of de bewoner een vergunning heeft. Ze spreekt de bewoner, meneer Ouali, vriendelijk aan en vraagt of hij een vergunning heeft. Hij zegt dat hij die heeft aangevraagd.\n\nFenna noteert wat ze ziet, maakt foto's en noteert de gegevens. Ze geeft de situatie door aan de afdeling vergunningen en handhaving. Die kan nagaan of er een vergunning is verleend. Over de stammen op de stoep let ze apart op de regels voor de openbare weg."
+        },
+        {
+          "type": "exercise",
+          "title": "Oefening: begrippen koppelen",
+          "questionId": "q-m09-l01-5"
+        },
+        {
+          "type": "check",
+          "title": "Kennischeck",
+          "questionIds": [
+            "q-m09-l01-1",
+            "q-m09-l01-2",
+            "q-m09-l01-3",
+            "q-m09-l01-4",
+            "q-m09-l01-6"
+          ]
+        },
+        {
+          "type": "summary",
+          "title": "Samenvatting"
+        }
+      ],
+      "summary": [
+        "De Omgevingswet is op 1 januari 2024 in werking getreden en bundelt onder meer de regels van de Wabo en de bestemmingsplannen.",
+        "De gemeenteraad stelt voor de hele gemeente één omgevingsplan vast (art. 2.4 Ow).",
+        "Voor veel activiteiten gelden algemene regels; voor sommige is een omgevingsvergunning nodig (art. 5.1 Ow).",
+        "Of een vergunning nodig is, verschilt per activiteit en per gemeente; kijk in het omgevingsplan.",
+        "Voorbeelden in de openbare ruimte zijn illegale kap, opslag en illegaal gebruik van grond of gebouwen."
+      ],
+      "sourceRefs": [
+        {
+          "law": "Omgevingswet",
+          "article": "art. 2.4"
+        },
+        {
+          "law": "Omgevingswet",
+          "article": "art. 5.1",
+          "verify": true
+        },
+        {
+          "law": "Omgevingswet",
+          "article": "art. 22.1",
+          "note": "tijdelijk deel omgevingsplan (overgangsrecht)",
+          "verify": true
+        }
+      ],
+      "reviewStatus": "juridische_review_nodig",
+      "reviewNote": "Controleer: (1) welk lid van art. 5.1 Ow het verbod voor de omgevingsplanactiviteit bevat (lid 1) en welke activiteiten in lid 2 staan; (2) of het tijdelijk deel van het omgevingsplan juist is verwoord en art. 22.1 Ow de juiste vindplaats is; (3) of de opmerking klopt dat kapregels in sommige gemeenten tijdens de overgangsperiode nog in de APV kunnen staan.",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "m09-l02",
+      "moduleId": "m09",
+      "order": 2,
+      "title": "Handhaving onder de Omgevingswet",
+      "minutes": 15,
+      "termIds": [],
+      "objectives": [
+        {
+          "text": "Je weet wie bestuursrechtelijk handhaaft en welke middelen daarvoor bestaan.",
+          "level": "K"
+        },
+        {
+          "text": "Je begrijpt het verschil tussen bestuursrechtelijke en strafrechtelijke handhaving.",
+          "level": "B"
+        },
+        {
+          "text": "Je weet wat je als boa doet als je een mogelijke overtreding van de Omgevingswet ziet.",
+          "level": "T"
+        }
+      ],
+      "screens": [
+        {
+          "type": "objectives",
+          "title": "Leerdoelen"
+        },
+        {
+          "type": "text",
+          "title": "Twee sporen: bestuursrecht en strafrecht",
+          "body": "Overtredingen van de Omgevingswet kunnen op twee manieren worden aangepakt.\n\n**Bestuursrechtelijk**: de overheid zorgt dat de overtreding stopt of wordt hersteld. Dat doet het **bevoegd gezag**. Bij gemeentelijke regels is dat meestal het college van burgemeester en wethouders. De regels hierover staan in hoofdstuk 18 Omgevingswet en in de Algemene wet bestuursrecht (Awb).\n\n**Strafrechtelijk**: de overtreder wordt gestraft. Veel overtredingen van de Omgevingswet zijn economische delicten volgens de Wet op de economische delicten (WED).\n\nBeide sporen kunnen naast elkaar lopen. Het ene spoor gaat over herstel, het andere over straf."
+        },
+        {
+          "type": "law",
+          "title": "Herstelsancties uit de Awb",
+          "ref": {
+            "law": "Algemene wet bestuursrecht",
+            "article": "art. 5:21 en art. 5:31d"
+          },
+          "body": "Het bevoegd gezag kan twee herstelsancties opleggen.\n\n- **Last onder bestuursdwang** (art. 5:21 Awb): de overtreder moet de overtreding binnen een termijn ongedaan maken. Doet hij dat niet, dan doet de overheid het zelf, op kosten van de overtreder.\n- **Last onder dwangsom** (art. 5:31d Awb): de overtreder moet de overtreding ongedaan maken. Doet hij dat niet, dan moet hij een geldbedrag betalen.\n\nDeze lasten zijn besluiten van het bestuursorgaan. Een boa legt ze niet zelf op. Jouw waarneming en rapport kunnen wel de basis zijn voor zo'n besluit."
+        },
+        {
+          "type": "law",
+          "title": "Strafrecht via de WED",
+          "ref": {
+            "law": "Wet op de economische delicten",
+            "article": "art. 1a",
+            "verify": true
+          },
+          "body": "In artikel 1a WED staan wetten en artikelen waarvan overtreding een economisch delict is. Daar worden ook voorschriften uit of op grond van de Omgevingswet genoemd. Bijvoorbeeld een activiteit verrichten zonder de vereiste omgevingsvergunning.\n\nIs het feit opzettelijk gepleegd, dan is het in de regel een misdrijf. Anders is het een overtreding (art. 2 WED).\n\nOf jij als boa een proces-verbaal mag opmaken voor zo'n feit, hangt af van je akte en de domeinlijst van Domein I. Controleer dus altijd of het feit binnen jouw bevoegdheid valt."
+        },
+        {
+          "type": "keypoints",
+          "title": "Jouw rol als boa",
+          "items": [
+            {
+              "term": "Constateren",
+              "text": "Je ziet en legt vast wat er gebeurt: wie, wat, waar, wanneer. Foto's helpen."
+            },
+            {
+              "term": "Vragen naar vergunning",
+              "text": "Je vraagt of er een omgevingsvergunning is en noteert het antwoord."
+            },
+            {
+              "term": "Rapporteren",
+              "text": "Je geeft je bevindingen door aan de vergunningverlener of handhaver van het bevoegd gezag."
+            },
+            {
+              "term": "Toezichthouder",
+              "text": "Ben je aangewezen als toezichthouder, dan heb je de bevoegdheden uit titel 5.2 Awb, zoals inlichtingen vorderen (art. 5:16 Awb)."
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": "Praktijk: opslag op een braakliggend terrein",
+          "body": "Boa Daan ziet op een braakliggend terrein aan de rand van het dorp steeds meer bouwmaterialen en oude aanhangers staan. Volgens het omgevingsplan is het terrein bestemd als groen.\n\nDaan spreekt een vrouw aan die materialen uitlaadt. Mevrouw Kramer blijkt de eigenaar van het bedrijf. Daan vraagt of er toestemming is voor de opslag. Zij weet het niet zeker.\n\nDaan maakt foto's, noteert gegevens en tijden en schrijft een rapport. Dat stuurt hij naar de afdeling handhaving van de gemeente. Die beoordeelt of er een overtreding is en of het college een last onder dwangsom oplegt. Daan legt zelf geen last op en belooft ook niets over de afloop."
+        },
+        {
+          "type": "exercise",
+          "title": "Oefening: zet de stappen in volgorde",
+          "questionId": "q-m09-l02-5"
+        },
+        {
+          "type": "check",
+          "title": "Kennischeck",
+          "questionIds": [
+            "q-m09-l02-1",
+            "q-m09-l02-2",
+            "q-m09-l02-4",
+            "q-m09-l02-6",
+            "q-m09-l02-7"
+          ]
+        },
+        {
+          "type": "summary",
+          "title": "Samenvatting"
+        }
+      ],
+      "summary": [
+        "Het bevoegd gezag, bij gemeentelijke regels meestal het college van B en W, handhaaft bestuursrechtelijk (hoofdstuk 18 Ow).",
+        "Herstelsancties zijn de last onder bestuursdwang (art. 5:21 Awb) en de last onder dwangsom (art. 5:31d Awb).",
+        "Strafrechtelijke handhaving loopt via de WED (art. 1a WED).",
+        "Als boa constateer je, vraag je naar de vergunning en rapporteer je aan de vergunningverlener of handhaver.",
+        "Of je een proces-verbaal mag opmaken, hangt af van je akte en de domeinlijst; als toezichthouder heb je de Awb-bevoegdheden."
+      ],
+      "sourceRefs": [
+        {
+          "law": "Omgevingswet",
+          "article": "hoofdstuk 18",
+          "verify": true
+        },
+        {
+          "law": "Algemene wet bestuursrecht",
+          "article": "art. 5:21"
+        },
+        {
+          "law": "Algemene wet bestuursrecht",
+          "article": "art. 5:31d"
+        },
+        {
+          "law": "Algemene wet bestuursrecht",
+          "article": "art. 5:11 en art. 5:16"
+        },
+        {
+          "law": "Wet op de economische delicten",
+          "article": "art. 1a",
+          "verify": true
+        },
+        {
+          "law": "Wet op de economische delicten",
+          "article": "art. 2"
+        }
+      ],
+      "reviewStatus": "juridische_review_nodig",
+      "reviewNote": "Controleer: (1) welke artikelen in hoofdstuk 18 Ow de taak en het bevoegd gezag voor bestuursrechtelijke handhaving regelen (art. 18.1 en 18.2 Ow?); (2) onder welke categorie van art. 1a WED de Omgevingswet en de regels op grond daarvan (omgevingsplan) zijn opgenomen; (3) welke Ow-feiten op de domeinlijst Domein I staan, zodat de passage over proces-verbaal klopt.",
+      "version": "1.1",
+      "lastModified": "2026-11-02"
+    }
+  ],
+  "questions": [
+    {
+      "id": "q-m09-l01-1",
+      "moduleId": "m09",
+      "lessonId": "m09-l01",
+      "termIds": [],
+      "topic": "Stelsel Omgevingswet",
+      "level": "K",
+      "type": "mc",
+      "prompt": "Sinds wanneer is de Omgevingswet in werking?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sinds 1 januari 2022",
+          "feedback": "Onjuist. De invoering is meerdere keren uitgesteld. De wet is pas op 1 januari 2024 in werking getreden."
+        },
+        {
+          "id": "b",
+          "text": "Sinds 1 januari 2024",
+          "feedback": "Juist. De Omgevingswet is op 1 januari 2024 in werking getreden en verving onder meer de Wabo."
+        },
+        {
+          "id": "c",
+          "text": "Sinds 1 januari 2026",
+          "feedback": "Onjuist. De wet geldt al langer: sinds 1 januari 2024."
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "De Omgevingswet is op 1 januari 2024 in werking getreden. Daarmee gingen onder meer de Wabo en de bestemmingsplannen op in het nieuwe stelsel.",
+      "sourceRefs": [
+        {
+          "law": "Omgevingswet",
+          "note": "inwerkingtreding 1 januari 2024"
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "concept",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m09-l01-2",
+      "moduleId": "m09",
+      "lessonId": "m09-l01",
+      "termIds": [],
+      "topic": "Omgevingsplan",
+      "level": "K",
+      "type": "mc",
+      "prompt": "Wie stelt het omgevingsplan van een gemeente vast?",
+      "options": [
+        {
+          "id": "a",
+          "text": "De gemeenteraad",
+          "feedback": "Juist. Volgens art. 2.4 Ow stelt de gemeenteraad voor het hele grondgebied één omgevingsplan vast."
+        },
+        {
+          "id": "b",
+          "text": "De burgemeester",
+          "feedback": "Onjuist. De burgemeester stelt het omgevingsplan niet vast. Dat doet de gemeenteraad (art. 2.4 Ow)."
+        },
+        {
+          "id": "c",
+          "text": "De provincie",
+          "feedback": "Onjuist. De provincie heeft een eigen omgevingsverordening. Het omgevingsplan is van de gemeente en wordt vastgesteld door de gemeenteraad (art. 2.4 Ow)."
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "Art. 2.4 Omgevingswet bepaalt dat de gemeenteraad voor het hele grondgebied van de gemeente één omgevingsplan vaststelt.",
+      "sourceRefs": [
+        {
+          "law": "Omgevingswet",
+          "article": "art. 2.4"
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "concept",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m09-l01-3",
+      "moduleId": "m09",
+      "lessonId": "m09-l01",
+      "termIds": [],
+      "topic": "Omgevingsvergunning",
+      "level": "B",
+      "type": "mc",
+      "prompt": "Wat regelt artikel 5.1 van de Omgevingswet in de kern?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Dat iedere activiteit in de openbare ruimte vergunningplichtig is",
+          "feedback": "Onjuist. Voor veel activiteiten gelden alleen algemene regels. Alleen waar dat is bepaald, is een vergunning nodig."
+        },
+        {
+          "id": "b",
+          "text": "Dat de boa een omgevingsvergunning mag intrekken als die wordt overtreden",
+          "feedback": "Onjuist. Art. 5.1 Ow gaat niet over bevoegdheden van de boa. Het bevat een verbod voor de burger of het bedrijf."
+        },
+        {
+          "id": "c",
+          "text": "Dat het verboden is een activiteit zonder vereiste vergunning te doen",
+          "feedback": "Juist. Art. 5.1 Ow verbiedt om zonder omgevingsvergunning een activiteit te verrichten als daarvoor een vergunning is vereist."
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "Art. 5.1 Ow bevat het verbod om zonder omgevingsvergunning bepaalde activiteiten te verrichten. Welke activiteiten vergunningplichtig zijn, volgt uit de wet, de rijksregels en het omgevingsplan.",
+      "sourceRefs": [
+        {
+          "law": "Omgevingswet",
+          "article": "art. 5.1",
+          "verify": true
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "juridische_review_nodig",
+      "reviewNote": "Controleer of de samenvatting van art. 5.1 Ow (lid 1 en lid 2) juist en volledig genoeg is voor deze vraag.",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m09-l01-4",
+      "moduleId": "m09",
+      "lessonId": "m09-l01",
+      "termIds": [],
+      "topic": "Vergunningplicht in de praktijk",
+      "level": "T",
+      "type": "mc",
+      "case": "Tijdens je dienst zie je dat iemand in een plantsoen naast zijn woning een grote boom omzaagt. Je weet niet of hiervoor een vergunning nodig is.",
+      "prompt": "Wat is het beste dat je nu doet?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Je laat het gaan, want kappen is sinds de Omgevingswet altijd vrij",
+          "feedback": "Onjuist. Kappen is niet altijd vrij. De gemeente kan in het omgevingsplan een vergunningplicht voor kappen opnemen."
+        },
+        {
+          "id": "b",
+          "text": "Je vraagt naar een vergunning, legt vast wat je ziet en meldt het",
+          "feedback": "Juist. Je vraagt of er een vergunning is, legt de feiten vast en geeft het door aan de vergunningverlener of handhaver. Die kan nagaan of art. 5.1 Ow is overtreden."
+        },
+        {
+          "id": "c",
+          "text": "Je legt direct een last onder dwangsom op om herplant te eisen",
+          "feedback": "Onjuist. Een last onder dwangsom is een besluit van het bevoegd gezag, niet van de boa (art. 5:31d Awb)."
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "Of kappen vergunningplichtig is, volgt uit het omgevingsplan van de gemeente. Je constateert, vraagt naar een vergunning en rapporteert. Een herstelsanctie legt alleen het bevoegd gezag op.",
+      "sourceRefs": [
+        {
+          "law": "Omgevingswet",
+          "article": "art. 5.1",
+          "verify": true
+        },
+        {
+          "law": "Omgevingswet",
+          "article": "art. 2.4"
+        },
+        {
+          "law": "Algemene wet bestuursrecht",
+          "article": "art. 5:31d"
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "juridische_review_nodig",
+      "reviewNote": "Controleer art. 5.1 Ow als grondslag voor het kapverbod via het omgevingsplan, en of in de overgangsperiode kapregels nog in de APV kunnen staan.",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m09-l01-5",
+      "moduleId": "m09",
+      "lessonId": "m09-l01",
+      "termIds": [],
+      "topic": "Begrippen Omgevingswet",
+      "level": "B",
+      "type": "match",
+      "prompt": "Koppel elk begrip aan de juiste omschrijving.",
+      "pairs": [
+        {
+          "left": "Omgevingsplan",
+          "right": "Eén plan per gemeente met regels over de fysieke leefomgeving"
+        },
+        {
+          "left": "Omgevingsvergunning",
+          "right": "Toestemming vooraf voor een activiteit waarvoor dat is vereist"
+        },
+        {
+          "left": "Algemene regel",
+          "right": "Regel die voor iedereen geldt, zonder aanvraag vooraf"
+        },
+        {
+          "left": "Activiteit",
+          "right": "Iets wat iemand doet, zoals bouwen, slopen of kappen"
+        }
+      ],
+      "explanation": "De gemeenteraad stelt één omgevingsplan vast (art. 2.4 Ow). Voor activiteiten gelden algemene regels; soms is daarnaast een omgevingsvergunning vereist (art. 5.1 Ow).",
+      "sourceRefs": [
+        {
+          "law": "Omgevingswet",
+          "article": "art. 2.4"
+        },
+        {
+          "law": "Omgevingswet",
+          "article": "art. 5.1",
+          "verify": true
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "juridische_review_nodig",
+      "reviewNote": "Controleer de verwijzing naar art. 5.1 Ow (welk lid).",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m09-l01-6",
+      "moduleId": "m09",
+      "lessonId": "m09-l01",
+      "termIds": [],
+      "topic": "Bestemmingsplannen en omgevingsplan",
+      "level": "B",
+      "type": "truefalse",
+      "prompt": "Stelling: de oude bestemmingsplannen van een gemeente zijn bij de invoering van de Omgevingswet onderdeel geworden van het tijdelijke deel van het omgevingsplan.",
+      "correctAnswer": true,
+      "feedbackTrue": "Juist. Bij de invoering zijn de bestemmingsplannen opgegaan in het tijdelijke deel van het omgevingsplan. Gemeenten zetten die regels geleidelijk om.",
+      "feedbackFalse": "Onjuist. De bestemmingsplannen zijn niet verdwenen. Ze zijn onderdeel geworden van het tijdelijke deel van het omgevingsplan.",
+      "explanation": "Volgens het overgangsrecht van de Omgevingswet hebben gemeenten van rechtswege een omgevingsplan met een tijdelijk deel, waarin onder meer de oude bestemmingsplannen zitten.",
+      "sourceRefs": [
+        {
+          "law": "Omgevingswet",
+          "article": "art. 22.1",
+          "verify": true
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "juridische_review_nodig",
+      "reviewNote": "Controleer of art. 22.1 Ow de juiste vindplaats is voor het tijdelijk deel van het omgevingsplan.",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m09-l02-1",
+      "moduleId": "m09",
+      "lessonId": "m09-l02",
+      "termIds": [],
+      "topic": "Bevoegd gezag",
+      "level": "K",
+      "type": "mc",
+      "prompt": "Wie handhaaft meestal bestuursrechtelijk bij overtreding van de regels in het omgevingsplan?",
+      "options": [
+        {
+          "id": "a",
+          "text": "De officier van justitie",
+          "feedback": "Onjuist. De officier van justitie gaat over strafrechtelijke handhaving, niet over bestuursrechtelijke herstelsancties."
+        },
+        {
+          "id": "b",
+          "text": "De boa die de overtreding ziet",
+          "feedback": "Onjuist. De boa constateert en rapporteert. Het opleggen van een herstelsanctie is aan het bevoegd gezag."
+        },
+        {
+          "id": "c",
+          "text": "Het college van burgemeester en wethouders",
+          "feedback": "Juist. Bij gemeentelijke regels is het college meestal het bevoegd gezag dat bestuursrechtelijk handhaaft (hoofdstuk 18 Ow)."
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "Bestuursrechtelijke handhaving is een taak van het bevoegd gezag (hoofdstuk 18 Ow). Bij het omgevingsplan is dat in de regel het college van burgemeester en wethouders.",
+      "sourceRefs": [
+        {
+          "law": "Omgevingswet",
+          "article": "hoofdstuk 18",
+          "verify": true
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "juridische_review_nodig",
+      "reviewNote": "Controleer welk artikel in hoofdstuk 18 Ow het bevoegd gezag voor handhaving aanwijst (art. 18.2 Ow?).",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m09-l02-2",
+      "moduleId": "m09",
+      "lessonId": "m09-l02",
+      "termIds": [],
+      "topic": "Herstelsancties",
+      "level": "B",
+      "type": "mc",
+      "prompt": "Wat is het verschil tussen een last onder bestuursdwang en een last onder dwangsom?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Bij bestuursdwang herstelt de overheid op kosten van de overtreder; bij dwangsom betaalt hij geld",
+          "feedback": "Juist. Bij bestuursdwang treedt de overheid zelf op als de overtreder niet herstelt (art. 5:21 Awb). Bij een dwangsom moet hij een geldsom betalen (art. 5:31d Awb)."
+        },
+        {
+          "id": "b",
+          "text": "Bestuursdwang is een straf die de rechter oplegt; een dwangsom is een boete die de boa uitschrijft",
+          "feedback": "Onjuist. Beide zijn herstelsancties van het bestuursorgaan. Ze zijn geen straf en worden niet door de boa opgelegd."
+        },
+        {
+          "id": "c",
+          "text": "Er is geen verschil; het zijn twee namen voor dezelfde maatregel",
+          "feedback": "Onjuist. De Awb kent ze als twee verschillende herstelsancties (art. 5:21 en art. 5:31d Awb)."
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "Beide lasten zijn bedoeld om de overtreding te laten stoppen of te herstellen. Bij bestuursdwang grijpt de overheid zelf in (art. 5:21 Awb); bij een dwangsom moet de overtreder betalen als hij niet herstelt (art. 5:31d Awb).",
+      "sourceRefs": [
+        {
+          "law": "Algemene wet bestuursrecht",
+          "article": "art. 5:21"
+        },
+        {
+          "law": "Algemene wet bestuursrecht",
+          "article": "art. 5:31d"
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "concept",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m09-l02-3",
+      "moduleId": "m09",
+      "lessonId": "m09-l02",
+      "termIds": [],
+      "topic": "Strafrechtelijke handhaving",
+      "level": "K",
+      "type": "mc",
+      "prompt": "Via welke wet worden overtredingen van de Omgevingswet strafrechtelijk aangepakt?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Via de Algemene wet bestuursrecht",
+          "feedback": "Onjuist. De Awb regelt de bestuursrechtelijke handhaving, zoals bestuursdwang en dwangsom, niet de strafbaarheid."
+        },
+        {
+          "id": "b",
+          "text": "Via de Wet op de economische delicten",
+          "feedback": "Juist. Art. 1a WED noemt voorschriften uit of op grond van de Omgevingswet. Overtreding daarvan is een economisch delict."
+        },
+        {
+          "id": "c",
+          "text": "Via de Gemeentewet",
+          "feedback": "Onjuist. De Gemeentewet regelt onder meer de APV. De strafbaarheid van Omgevingswetfeiten loopt via de WED."
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "Overtredingen van de Omgevingswet en de regels op grond daarvan zijn economische delicten volgens art. 1a WED. Of het een misdrijf of overtreding is, volgt uit art. 2 WED.",
+      "sourceRefs": [
+        {
+          "law": "Wet op de economische delicten",
+          "article": "art. 1a",
+          "verify": true
+        },
+        {
+          "law": "Wet op de economische delicten",
+          "article": "art. 2"
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "juridische_review_nodig",
+      "reviewNote": "Controleer onder welke onderdelen van art. 1a WED de Omgevingswet is opgenomen en of dit ook geldt voor regels in het omgevingsplan.",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m09-l02-4",
+      "moduleId": "m09",
+      "lessonId": "m09-l02",
+      "termIds": [],
+      "topic": "Rol boa bij Omgevingswet",
+      "level": "T",
+      "type": "mc",
+      "case": "Je ziet dat een schuur achter een woning wordt omgebouwd tot woonruimte. Er staat een bouwbord zonder vergunningnummer. De eigenaar, mevrouw Yildiz, zegt dat ze 'niets nodig heeft'.",
+      "prompt": "Wat is jouw taak als boa in deze situatie?",
+      "options": [
+        {
+          "id": "a",
+          "text": "De bouw stilleggen en de schuur laten verzegelen",
+          "feedback": "Onjuist. Stilleggen en verzegelen zijn bestuursrechtelijke maatregelen van het bevoegd gezag, niet van de boa."
+        },
+        {
+          "id": "b",
+          "text": "Niets doen, omdat het om een privéterrein gaat",
+          "feedback": "Onjuist. Ook op privéterrein gelden de regels van de Omgevingswet en het omgevingsplan. Je kunt constateren en melden."
+        },
+        {
+          "id": "c",
+          "text": "Vastleggen wat je ziet en rapporteren aan de handhaver",
+          "feedback": "Juist. Je constateert, noteert het antwoord van de eigenaar en rapporteert aan de vergunningverlener of handhaver. Die beoordeelt of er een overtreding is."
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "Het gebruik van een bouwwerk wijzigen kan vergunningplichtig zijn (art. 5.1 Ow en omgevingsplan). De boa constateert en rapporteert; het bevoegd gezag besluit over handhaving.",
+      "sourceRefs": [
+        {
+          "law": "Omgevingswet",
+          "article": "art. 5.1",
+          "verify": true
+        },
+        {
+          "law": "Omgevingswet",
+          "article": "hoofdstuk 18",
+          "verify": true
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "juridische_review_nodig",
+      "reviewNote": "Controleer art. 5.1 Ow (lid) en de artikelen in hoofdstuk 18 Ow over het bevoegd gezag voor handhaving.",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m09-l02-5",
+      "moduleId": "m09",
+      "lessonId": "m09-l02",
+      "termIds": [],
+      "topic": "Werkwijze boa",
+      "level": "T",
+      "type": "order",
+      "prompt": "Zet de stappen die je als boa zet bij een mogelijke overtreding van de Omgevingswet in een logische volgorde.",
+      "items": [
+        "Je ziet de situatie en legt vast wat er gebeurt",
+        "Je vraagt de betrokkene of er een omgevingsvergunning is",
+        "Je noteert het antwoord en de gegevens van de betrokkene",
+        "Je schrijft een rapport van je bevindingen",
+        "Je stuurt het rapport naar de vergunningverlener of handhaver"
+      ],
+      "explanation": "De boa constateert, vraagt naar de vergunning en rapporteert. Het bevoegd gezag beoordeelt daarna of het handhaaft (hoofdstuk 18 Ow, titel 5.3 Awb).",
+      "sourceRefs": [
+        {
+          "law": "Omgevingswet",
+          "article": "hoofdstuk 18",
+          "verify": true
+        },
+        {
+          "law": "Algemene wet bestuursrecht",
+          "article": "art. 5:21 en art. 5:31d"
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "juridische_review_nodig",
+      "reviewNote": "Controleer de verwijzing naar hoofdstuk 18 Ow.",
+      "version": "1.1",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m09-l02-6",
+      "moduleId": "m09",
+      "lessonId": "m09-l02",
+      "termIds": [],
+      "topic": "Herstelsancties",
+      "level": "K",
+      "type": "truefalse",
+      "prompt": "Stelling: als boa mag je zelf een last onder dwangsom opleggen als iemand zonder vergunning bouwt.",
+      "correctAnswer": false,
+      "feedbackTrue": "Onjuist. Een last onder dwangsom is een besluit van het bestuursorgaan dat bevoegd is, meestal het college van B en W. De boa rapporteert.",
+      "feedbackFalse": "Juist. De boa legt geen last onder dwangsom op. Dat doet het bevoegd gezag met een besluit (art. 5:31d en 5:32 Awb).",
+      "explanation": "Een last onder dwangsom is een herstelsanctie die het bestuursorgaan oplegt (art. 5:31d en 5:32 Awb). De boa levert met zijn waarneming en rapport de feiten aan.",
+      "sourceRefs": [
+        {
+          "law": "Algemene wet bestuursrecht",
+          "article": "art. 5:31d"
+        },
+        {
+          "law": "Algemene wet bestuursrecht",
+          "article": "art. 5:32"
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "concept",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m09-l02-7",
+      "moduleId": "m09",
+      "lessonId": "m09-l02",
+      "termIds": [],
+      "topic": "Toezichthouder",
+      "level": "K",
+      "type": "mc",
+      "prompt": "Je bent aangewezen als toezichthouder. Welke bevoegdheid heb je dan op grond van de Algemene wet bestuursrecht?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Inlichtingen vorderen",
+          "feedback": "Juist. Een toezichthouder mag inlichtingen vorderen (art. 5:16 Awb), voor zover dat redelijkerwijs nodig is."
+        },
+        {
+          "id": "b",
+          "text": "Een verdachte aanhouden",
+          "feedback": "Onjuist. Aanhouden is een strafvorderlijke bevoegdheid (Wetboek van Strafvordering), geen toezichtsbevoegdheid uit de Awb."
+        },
+        {
+          "id": "c",
+          "text": "Een vergunning intrekken",
+          "feedback": "Onjuist. Een vergunning intrekken is een besluit van het bevoegd gezag, geen bevoegdheid van de toezichthouder."
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "Een toezichthouder is iemand die bij of krachtens wettelijk voorschrift is belast met toezicht (art. 5:11 Awb). Hij heeft onder meer de bevoegdheid inlichtingen te vorderen (art. 5:16 Awb).",
+      "sourceRefs": [
+        {
+          "law": "Algemene wet bestuursrecht",
+          "article": "art. 5:11"
+        },
+        {
+          "law": "Algemene wet bestuursrecht",
+          "article": "art. 5:16"
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "concept",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Omgevingswet",
+      "definition": "Wet die sinds 1 januari 2024 de regels voor de fysieke leefomgeving bundelt, onder meer de oude Wabo en de bestemmingsplannen.",
+      "moduleId": "m09",
+      "sourceRefs": [
+        {
+          "law": "Omgevingswet"
+        }
+      ],
+      "reviewStatus": "concept"
+    },
+    {
+      "term": "Omgevingsplan",
+      "definition": "Het ene plan per gemeente, vastgesteld door de gemeenteraad, met regels over de fysieke leefomgeving.",
+      "moduleId": "m09",
+      "sourceRefs": [
+        {
+          "law": "Omgevingswet",
+          "article": "art. 2.4"
+        }
+      ],
+      "reviewStatus": "concept"
+    },
+    {
+      "term": "Omgevingsvergunning",
+      "definition": "Toestemming vooraf van het bevoegd gezag voor een activiteit waarvoor een vergunning is vereist.",
+      "moduleId": "m09",
+      "sourceRefs": [
+        {
+          "law": "Omgevingswet",
+          "article": "art. 5.1",
+          "verify": true
+        }
+      ],
+      "reviewStatus": "concept"
+    },
+    {
+      "term": "Activiteit",
+      "definition": "Handeling in de fysieke leefomgeving, zoals bouwen, slopen, kappen of het gebruik van grond of een gebouw wijzigen.",
+      "moduleId": "m09",
+      "sourceRefs": [
+        {
+          "law": "Omgevingswet"
+        }
+      ],
+      "reviewStatus": "concept"
+    },
+    {
+      "term": "Bevoegd gezag",
+      "definition": "Het bestuursorgaan dat beslist over een vergunning en dat bestuursrechtelijk handhaaft; bij gemeentelijke regels meestal het college van B en W.",
+      "moduleId": "m09",
+      "sourceRefs": [
+        {
+          "law": "Omgevingswet",
+          "article": "hoofdstuk 18",
+          "verify": true
+        }
+      ],
+      "reviewStatus": "concept"
+    },
+    {
+      "term": "Last onder bestuursdwang",
+      "definition": "Herstelsanctie waarbij de overheid zelf de overtreding ongedaan maakt als de overtreder dat niet op tijd doet, op kosten van de overtreder.",
+      "moduleId": "m09",
+      "sourceRefs": [
+        {
+          "law": "Algemene wet bestuursrecht",
+          "article": "art. 5:21"
+        }
+      ],
+      "reviewStatus": "concept"
+    },
+    {
+      "term": "Last onder dwangsom",
+      "definition": "Herstelsanctie waarbij de overtreder een geldsom moet betalen als hij de overtreding niet op tijd ongedaan maakt.",
+      "moduleId": "m09",
+      "sourceRefs": [
+        {
+          "law": "Algemene wet bestuursrecht",
+          "article": "art. 5:31d"
+        }
+      ],
+      "reviewStatus": "concept"
+    },
+    {
+      "term": "Toezichthouder",
+      "definition": "Persoon die bij of krachtens wettelijk voorschrift is belast met het houden van toezicht op de naleving van regels.",
+      "moduleId": "m09",
+      "sourceRefs": [
+        {
+          "law": "Algemene wet bestuursrecht",
+          "article": "art. 5:11"
+        }
+      ],
+      "reviewStatus": "concept"
+    }
+  ]
+}

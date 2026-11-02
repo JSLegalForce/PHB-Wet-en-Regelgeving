@@ -1,0 +1,476 @@
+{
+  "moduleId": "m07",
+  "lessons": [
+    {
+      "id": "m07-l01",
+      "moduleId": "m07",
+      "order": 1,
+      "title": "Winkeltijden",
+      "minutes": 15,
+      "termIds": [],
+      "objectives": [
+        {
+          "text": "Je kunt uitleggen wat een winkel is volgens de Winkeltijdenwet.",
+          "level": "K"
+        },
+        {
+          "text": "Je kunt noemen op welke dagen en tijden een winkel volgens de wet dicht moet zijn.",
+          "level": "K"
+        },
+        {
+          "text": "Je kunt uitleggen welke rol de gemeenteraad heeft bij vrijstelling en ontheffing.",
+          "level": "B"
+        },
+        {
+          "text": "Je kunt in een casus beoordelen of een winkel in strijd met de Winkeltijdenwet open is en wie daarvoor verantwoordelijk is.",
+          "level": "T"
+        }
+      ],
+      "screens": [
+        {
+          "type": "objectives",
+          "title": "Leerdoelen"
+        },
+        {
+          "type": "law",
+          "title": "Wat is een winkel? (art. 1)",
+          "ref": {
+            "law": "Winkeltijdenwet",
+            "article": "art. 1"
+          },
+          "body": "De Winkeltijdenwet gebruikt een eigen begrip winkel. Een **winkel** is een besloten ruimte die voor het publiek toegankelijk is, waarin goederen aan particulieren worden verkocht.\n\nDrie punten zijn belangrijk:\n- het is een **besloten ruimte**, dus een ruimte met wanden en een dak;\n- het publiek kan er **binnenkomen**;\n- er worden **goederen aan particulieren** verkocht.\n\nEen kapper of een café verkoopt vooral diensten of consumpties ter plaatse. Of zo'n zaak onder het begrip winkel valt, hangt af van wat er feitelijk gebeurt. Beoordeel dat per geval."
+        },
+        {
+          "type": "law",
+          "title": "Wanneer moet een winkel dicht? (art. 2)",
+          "ref": {
+            "law": "Winkeltijdenwet",
+            "article": "art. 2"
+          },
+          "body": "Het is verboden een winkel voor het publiek open te hebben:\n- op **zondag**;\n- op de **feestdagen** die de wet noemt, zoals Nieuwjaarsdag, tweede Paasdag, Hemelvaartsdag, tweede Pinksterdag, eerste en tweede Kerstdag en Koningsdag;\n- op **werkdagen vóór 06.00 uur en na 22.00 uur**.\n\nDe wet noemt ook enkele dagen waarop een winkel 's avonds eerder dicht moet, bijvoorbeeld 24 december.\n\nDe precieze lijst met feestdagen en avondtijden staat in artikel 2. Kijk bij twijfel in de wettekst."
+        },
+        {
+          "type": "text",
+          "title": "Vrijstelling, ontheffing en uitzonderingen",
+          "body": "De wet geeft de **gemeenteraad** ruimte om af te wijken (art. 3 e.v. Winkeltijdenwet). De raad kan bij verordening:\n- **vrijstelling** geven: een regel voor alle winkels of een groep winkels, bijvoorbeeld zondagsopening in het centrum;\n- regelen dat het college **ontheffing** kan geven: toestemming voor één bepaalde winkel.\n\nDaarom verschillen de regels per gemeente. Kijk altijd in de winkeltijdenverordening van jouw gemeente.\n\nDaarnaast kent de wet zelf uitzonderingen voor bepaalde soorten verkoop. Welke precies, wordt nog juridisch gecontroleerd. Twijfel je? Overleg met je leidinggevende of kijk in de wettekst."
+        },
+        {
+          "type": "keypoints",
+          "title": "Verantwoordelijkheid en handhaving",
+          "items": [
+            {
+              "term": "Wie is verantwoordelijk?",
+              "text": "Het verbod richt zich tot degene die de winkel voor het publiek open heeft, meestal de ondernemer of exploitant. Niet het winkelende publiek."
+            },
+            {
+              "term": "Toezicht",
+              "text": "Ambtenaren die door het gemeentebestuur zijn aangewezen, houden toezicht op de naleving. Het artikel hierover wordt nog gecontroleerd."
+            },
+            {
+              "term": "Strafbaar feit",
+              "text": "Overtreding van art. 2 is een economisch delict via de Wet op de economische delicten (WED). Dit wordt nog gecontroleerd."
+            },
+            {
+              "term": "Bevoegdheid boa",
+              "text": "Je treedt alleen op als de Winkeltijdenwet in je akte of domeinlijst staat. Beleid van de gemeente is geen bevoegdheid."
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": "Praktijk: zondagavond in de wijk",
+          "body": "Boa Lotte surveilleert op zondagavond in een woonwijk. Een kleine supermarkt is open en verkoopt boodschappen. In deze gemeente staat de verordening alleen zondagsopening toe in het centrum.\n\nLotte controleert eerst of de winkel een ontheffing heeft. De eigenaar, meneer Bakker, heeft die niet. Lotte stelt vast:\n- het is een besloten ruimte, open voor publiek;\n- er worden goederen aan particulieren verkocht;\n- het is zondag en er is geen vrijstelling of ontheffing.\n\nLotte spreekt meneer Bakker aan als verantwoordelijke ondernemer. Zij legt haar waarnemingen vast en handelt de overtreding af volgens haar akte en de werkafspraken van de gemeente."
+        },
+        {
+          "type": "exercise",
+          "title": "Oefening",
+          "questionId": "q-m07-l01-1"
+        },
+        {
+          "type": "check",
+          "title": "Kennischeck",
+          "questionIds": [
+            "q-m07-l01-2",
+            "q-m07-l01-3",
+            "q-m07-l01-4",
+            "q-m07-l01-5"
+          ]
+        },
+        {
+          "type": "summary",
+          "title": "Samenvatting"
+        }
+      ],
+      "summary": [
+        "Een winkel is een besloten, voor het publiek toegankelijke ruimte waar goederen aan particulieren worden verkocht (art. 1 Winkeltijdenwet).",
+        "Een winkel moet dicht op zondag, op de wettelijke feestdagen en op werkdagen vóór 06.00 en na 22.00 uur (art. 2 Winkeltijdenwet).",
+        "De gemeenteraad kan bij verordening vrijstelling geven of ontheffing mogelijk maken; de regels verschillen dus per gemeente.",
+        "Het verbod richt zich tot degene die de winkel open heeft, niet tot de klant.",
+        "Je treedt alleen op als de Winkeltijdenwet in je akte of domeinlijst staat; beleid is geen bevoegdheid."
+      ],
+      "sourceRefs": [
+        {
+          "law": "Winkeltijdenwet",
+          "article": "art. 1"
+        },
+        {
+          "law": "Winkeltijdenwet",
+          "article": "art. 2"
+        },
+        {
+          "law": "Winkeltijdenwet",
+          "article": "art. 3",
+          "note": "vrijstelling en ontheffing door gemeenteraad",
+          "verify": true
+        },
+        {
+          "law": "Winkeltijdenwet",
+          "note": "toezichtsbepaling",
+          "verify": true
+        },
+        {
+          "law": "Wet op de economische delicten",
+          "article": "art. 1 onder 4°",
+          "verify": true
+        }
+      ],
+      "reviewStatus": "juridische_review_nodig",
+      "reviewNote": "1) Precieze lijst feestdagen in art. 2 Winkeltijdenwet controleren (o.a. of en wanneer 5 mei meetelt) en de dagen met vroegere sluitingstijd (bijv. 24 december, 4 mei, Goede Vrijdag) en het tijdstip daarvan. 2) Artikelnummers en reikwijdte vrijstelling/ontheffing (art. 3 e.v.) controleren: wat regelt de raad bij verordening en wat het college. 3) Wettelijke uitzonderingen voor bepaalde winkels/verkoop controleren en zo nodig uitwerken (bewust niet uitgewerkt). 4) Toezichtsbepaling Winkeltijdenwet: welk artikel en wie wijst toezichthouders aan. 5) Strafbaarheid via WED: staat art. 2 Winkeltijdenwet in art. 1 onder 4° WED? 6) Controleren of de Winkeltijdenwet in de domeinlijst Domein I Openbare ruimte staat. 7) Begrip winkel bij dienstverleners (kapper, horeca) laten controleren.",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    }
+  ],
+  "questions": [
+    {
+      "id": "q-m07-l01-1",
+      "moduleId": "m07",
+      "lessonId": "m07-l01",
+      "termIds": [],
+      "topic": "Winkeltijden toepassen",
+      "level": "T",
+      "type": "match",
+      "prompt": "Koppel de situatie aan de juiste beoordeling. Er is in deze gemeente geen vrijstelling of ontheffing.",
+      "pairs": [
+        {
+          "left": "Een kledingwinkel is op dinsdag om 21.30 uur open",
+          "right": "Toegestaan: werkdag tussen 06.00 en 22.00 uur"
+        },
+        {
+          "left": "Een bouwmarkt is op zondagmiddag open",
+          "right": "Verboden: winkel open op zondag"
+        },
+        {
+          "left": "Een supermarkt opent op maandag om 05.30 uur",
+          "right": "Verboden: werkdag vóór 06.00 uur"
+        },
+        {
+          "left": "Een elektronicazaak is op eerste Kerstdag open",
+          "right": "Verboden: wettelijke feestdag"
+        }
+      ],
+      "explanation": "Art. 2 Winkeltijdenwet verbiedt een winkel open te hebben op zondag, op de genoemde feestdagen (waaronder eerste Kerstdag) en op werkdagen vóór 06.00 en na 22.00 uur. Zonder vrijstelling of ontheffing geldt dat verbod.",
+      "sourceRefs": [
+        {
+          "law": "Winkeltijdenwet",
+          "article": "art. 2"
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "concept",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m07-l01-2",
+      "moduleId": "m07",
+      "lessonId": "m07-l01",
+      "termIds": [],
+      "topic": "Begrip winkel",
+      "level": "K",
+      "type": "mc",
+      "prompt": "Wat is een winkel volgens artikel 1 Winkeltijdenwet?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Elke plek, binnen of buiten, waar een bedrijf geld verdient met verkoop van goederen of diensten",
+          "feedback": "Onjuist. Het gaat om een besloten ruimte waar goederen aan particulieren worden verkocht, niet om elke bedrijfsplek."
+        },
+        {
+          "id": "b",
+          "text": "Een kraam op de markt waar goederen worden verkocht",
+          "feedback": "Onjuist. Een marktkraam is geen besloten ruimte. Daarom valt die niet onder het begrip winkel van art. 1."
+        },
+        {
+          "id": "c",
+          "text": "Een besloten, publiek toegankelijke ruimte waar goederen aan particulieren worden verkocht",
+          "feedback": "Juist. Dit zijn de kenmerken uit art. 1 Winkeltijdenwet."
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "Art. 1 Winkeltijdenwet: een winkel is een voor het publiek toegankelijke besloten ruimte waarin goederen aan particulieren plegen te worden verkocht.",
+      "sourceRefs": [
+        {
+          "law": "Winkeltijdenwet",
+          "article": "art. 1"
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "concept",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m07-l01-3",
+      "moduleId": "m07",
+      "lessonId": "m07-l01",
+      "termIds": [],
+      "topic": "Openingstijden werkdagen",
+      "level": "K",
+      "type": "mc",
+      "prompt": "Tussen welke tijden mag een winkel op een gewone werkdag volgens art. 2 Winkeltijdenwet open zijn?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Tussen 06.00 en 22.00 uur",
+          "feedback": "Juist. Vóór 06.00 en na 22.00 uur is een winkel op werkdagen verboden open (art. 2)."
+        },
+        {
+          "id": "b",
+          "text": "Tussen 07.00 en 21.00 uur",
+          "feedback": "Onjuist. De wettelijke grenzen zijn ruimer: 06.00 en 22.00 uur."
+        },
+        {
+          "id": "c",
+          "text": "Tussen 08.00 en 18.00 uur",
+          "feedback": "Onjuist. Dit zijn veelvoorkomende openingstijden, maar geen wettelijke grens. De wet noemt 06.00 en 22.00 uur."
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "Art. 2 Winkeltijdenwet verbiedt een winkel op werkdagen voor het publiek open te hebben vóór 06.00 uur en na 22.00 uur.",
+      "sourceRefs": [
+        {
+          "law": "Winkeltijdenwet",
+          "article": "art. 2"
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "concept",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m07-l01-4",
+      "moduleId": "m07",
+      "lessonId": "m07-l01",
+      "termIds": [],
+      "topic": "Vrijstelling en ontheffing",
+      "level": "B",
+      "type": "mc",
+      "case": "Een collega zegt: 'In onze gemeente mogen alle winkels in het centrum op zondag open, maar in een buurgemeente niet.'",
+      "prompt": "Hoe kan het dat de zondagsregels per gemeente verschillen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Elke winkelier bepaalt zelf of hij op zondag opengaat, de gemeente niet",
+          "feedback": "Onjuist. Zonder vrijstelling of ontheffing geldt het wettelijke verbod van art. 2. De winkelier kiest dat niet zelf."
+        },
+        {
+          "id": "b",
+          "text": "De gemeenteraad kan bij verordening vrijstelling geven",
+          "feedback": "Juist. De Winkeltijdenwet laat de gemeenteraad bij verordening afwijken van het verbod (art. 3 e.v.). Daarom verschillen de regels per gemeente."
+        },
+        {
+          "id": "c",
+          "text": "De politie bepaalt per wijk welke winkels op zondag open mogen",
+          "feedback": "Onjuist. De politie heeft geen rol bij het vaststellen van winkeltijden. Dat doet de gemeenteraad bij verordening."
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "De Winkeltijdenwet geeft de gemeenteraad de bevoegdheid om bij verordening vrijstelling te geven of ontheffing mogelijk te maken (art. 3 e.v.). Daardoor verschillen de zondagsregels per gemeente.",
+      "sourceRefs": [
+        {
+          "law": "Winkeltijdenwet",
+          "article": "art. 3",
+          "verify": true
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "juridische_review_nodig",
+      "reviewNote": "Artikelnummer(s) voor de vrijstellings- en ontheffingsbevoegdheid van de gemeenteraad (art. 3 e.v. Winkeltijdenwet) controleren.",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m07-l01-5",
+      "moduleId": "m07",
+      "lessonId": "m07-l01",
+      "termIds": [],
+      "topic": "Verantwoordelijkheid",
+      "level": "T",
+      "type": "mc",
+      "case": "Op zondag is een schoenenwinkel open zonder vrijstelling of ontheffing. Binnen zijn de eigenaar, mevrouw Yilmaz, een verkoper en drie klanten.",
+      "prompt": "Tot wie richt het verbod van art. 2 Winkeltijdenwet zich in de eerste plaats?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Tot de drie klanten, omdat zij in de winkel kopen",
+          "feedback": "Onjuist. Het verbod gaat over het open hebben van de winkel. Klanten hebben de winkel niet open."
+        },
+        {
+          "id": "b",
+          "text": "Tot de verkoper, omdat hij achter de kassa staat",
+          "feedback": "Onjuist. De verkoper werkt in opdracht. Het verbod richt zich in de eerste plaats tot wie de winkel open heeft."
+        },
+        {
+          "id": "c",
+          "text": "Tot mevrouw Yilmaz, omdat zij de winkel open heeft",
+          "feedback": "Juist. Art. 2 verbiedt het voor het publiek geopend hebben van een winkel. Dat doet de ondernemer of exploitant."
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "Art. 2 Winkeltijdenwet verbiedt een winkel voor het publiek geopend te hebben. Dat verbod richt zich tot degene die de winkel open heeft: de ondernemer of exploitant. Klanten overtreden het verbod niet.",
+      "sourceRefs": [
+        {
+          "law": "Winkeltijdenwet",
+          "article": "art. 2"
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "concept",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m07-l01-6",
+      "moduleId": "m07",
+      "lessonId": "m07-l01",
+      "termIds": [],
+      "topic": "Feestdagen",
+      "level": "K",
+      "type": "mc",
+      "prompt": "Op welke van deze dagen moet een winkel volgens art. 2 Winkeltijdenwet dicht, als er geen vrijstelling of ontheffing is?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Koningsdag",
+          "feedback": "Juist. Koningsdag staat in art. 2 bij de feestdagen waarop een winkel dicht moet."
+        },
+        {
+          "id": "b",
+          "text": "Elke zaterdag",
+          "feedback": "Onjuist. Zaterdag is een werkdag. Een winkel mag dan open tussen 06.00 en 22.00 uur."
+        },
+        {
+          "id": "c",
+          "text": "Elke vrijdagavond na 18.00 uur",
+          "feedback": "Onjuist. Vrijdag is een werkdag. De grens ligt op 22.00 uur, niet op 18.00 uur."
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "Art. 2 Winkeltijdenwet verbiedt winkels open te hebben op zondag en op een aantal feestdagen, waaronder Koningsdag. Op werkdagen, ook zaterdag, mag een winkel open tussen 06.00 en 22.00 uur.",
+      "sourceRefs": [
+        {
+          "law": "Winkeltijdenwet",
+          "article": "art. 2"
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "concept",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m07-l01-7",
+      "moduleId": "m07",
+      "lessonId": "m07-l01",
+      "termIds": [],
+      "topic": "Bevoegdheid boa",
+      "level": "B",
+      "type": "truefalse",
+      "prompt": "Een boa mag op de Winkeltijdenwet handhaven als die wet in zijn akte of domeinlijst is opgenomen.",
+      "correctAnswer": true,
+      "feedbackTrue": "Juist. De bevoegdheid van een boa volgt uit wet, akte en domeinlijst (art. 142 Sv). Beleid geeft geen bevoegdheid.",
+      "feedbackFalse": "Onjuist. Staat de Winkeltijdenwet in je akte of domeinlijst, dan ben je bevoegd om overtredingen op te sporen.",
+      "explanation": "Een boa is bevoegd tot opsporing van de strafbare feiten die in zijn akte of domeinlijst staan (art. 142 Sv). Het gemeentelijk handhavingsbeleid bepaalt alleen prioriteiten, niet de bevoegdheid.",
+      "sourceRefs": [
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 142"
+        },
+        {
+          "law": "Winkeltijdenwet",
+          "article": "art. 2"
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "concept",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Winkel (Winkeltijdenwet)",
+      "definition": "Een besloten, voor het publiek toegankelijke ruimte waarin goederen aan particulieren worden verkocht.",
+      "moduleId": "m07",
+      "sourceRefs": [
+        {
+          "law": "Winkeltijdenwet",
+          "article": "art. 1"
+        }
+      ],
+      "reviewStatus": "concept"
+    },
+    {
+      "term": "Werkdag",
+      "definition": "Een dag die geen zondag en geen wettelijke feestdag uit de Winkeltijdenwet is. Een winkel mag dan open tussen 06.00 en 22.00 uur.",
+      "moduleId": "m07",
+      "sourceRefs": [
+        {
+          "law": "Winkeltijdenwet",
+          "article": "art. 2"
+        }
+      ],
+      "reviewStatus": "concept"
+    },
+    {
+      "term": "Vrijstelling",
+      "definition": "Een algemene regel in een gemeentelijke verordening waardoor een groep winkels mag afwijken van het verbod van art. 2 Winkeltijdenwet.",
+      "moduleId": "m07",
+      "sourceRefs": [
+        {
+          "law": "Winkeltijdenwet",
+          "article": "art. 3",
+          "verify": true
+        }
+      ],
+      "reviewStatus": "concept"
+    },
+    {
+      "term": "Ontheffing",
+      "definition": "Toestemming voor één bepaalde winkel om af te wijken van het verbod van art. 2 Winkeltijdenwet, op basis van de gemeentelijke verordening.",
+      "moduleId": "m07",
+      "sourceRefs": [
+        {
+          "law": "Winkeltijdenwet",
+          "article": "art. 3",
+          "verify": true
+        }
+      ],
+      "reviewStatus": "concept"
+    },
+    {
+      "term": "Economisch delict",
+      "definition": "Een strafbaar feit dat in de Wet op de economische delicten is genoemd, zoals overtreding van bepaalde voorschriften uit de Winkeltijdenwet.",
+      "moduleId": "m07",
+      "sourceRefs": [
+        {
+          "law": "Wet op de economische delicten",
+          "article": "art. 1 onder 4°",
+          "verify": true
+        }
+      ],
+      "reviewStatus": "concept"
+    }
+  ]
+}

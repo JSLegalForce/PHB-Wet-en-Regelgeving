@@ -1,0 +1,1654 @@
+{
+  "moduleId": "m02",
+  "lessons": [
+    {
+      "id": "m02-l06",
+      "moduleId": "m02",
+      "order": 6,
+      "title": "Inbeslagneming",
+      "minutes": 15,
+      "termIds": [],
+      "objectives": [
+        {
+          "text": "Je kunt uitleggen wat inbeslagneming is en welke voorwerpen vatbaar zijn voor beslag.",
+          "level": "K"
+        },
+        {
+          "text": "Je kunt het verschil uitleggen tussen inbeslagneming bij staande houden of aanhouding en bij ontdekking op heterdaad.",
+          "level": "B"
+        },
+        {
+          "text": "Je kunt in een praktijksituatie beoordelen of je een voorwerp in beslag mag nemen en hoe je dat vastlegt.",
+          "level": "T"
+        }
+      ],
+      "screens": [
+        {
+          "type": "objectives",
+          "title": "Leerdoelen"
+        },
+        {
+          "type": "text",
+          "title": "Wat is inbeslagneming?",
+          "body": "Bij inbeslagneming neem je een voorwerp onder je, of je gaat het onder je houden, voor de strafvordering (art. 134 Sv). Iemand bevelen een voorwerp af te geven is een aparte bevoegdheid: het bevel tot uitlevering.\n\nInbeslagneming is een dwangmiddel. Je maakt inbreuk op het eigendom of bezit van iemand. Daarom mag je het alleen doen als de wet je die bevoegdheid geeft.\n\nAls boa heb je deze bevoegdheid alleen voor de strafbare feiten die horen bij je akte en je domeinlijst. Valt het feit daarbuiten? Dan schakel je de politie in."
+        },
+        {
+          "type": "law",
+          "title": "Welke voorwerpen zijn vatbaar voor beslag?",
+          "ref": {
+            "law": "Wetboek van Strafvordering",
+            "article": "art. 94"
+          },
+          "body": "Artikel 94 Sv noemt twee soorten voorwerpen die je in beslag mag nemen.\n\n- Voorwerpen die kunnen helpen om de waarheid aan de dag te brengen. Denk aan bewijs van het strafbare feit.\n- Voorwerpen die helpen om wederrechtelijk verkregen voordeel aan te tonen.\n\nDaarnaast zijn ook voorwerpen vatbaar voor beslag die de rechter later verbeurd kan verklaren of aan het verkeer kan onttrekken. Een voorbeeld is een verboden voorwerp dat niet terug mag naar de eigenaar."
+        },
+        {
+          "type": "law",
+          "title": "Wanneer mag je in beslag nemen?",
+          "ref": {
+            "law": "Wetboek van Strafvordering",
+            "article": "art. 95 en art. 96",
+            "verify": true
+          },
+          "body": "**Art. 95 Sv:** houd je een verdachte staande of houd je hem aan? Dan mag je de voorwerpen in beslag nemen die hij bij zich heeft.\n\n**Art. 96 Sv:** bij ontdekking op heterdaad, of bij verdenking van een misdrijf waarvoor voorlopige hechtenis is toegelaten, mag een opsporingsambtenaar voorwerpen in beslag nemen. Hij mag zich daarvoor naar elke plaats begeven. Voor het binnentreden van een woning gelden aparte regels. Dat doe je als boa niet zelf.\n\nLet op: je mag deze bevoegdheden alleen gebruiken als ze bij je akte en domein horen."
+        },
+        {
+          "type": "keypoints",
+          "title": "Uitlevering vorderen en vastleggen",
+          "items": [
+            {
+              "term": "Bevel tot uitlevering (art. 96a Sv)",
+              "text": "Bij verdenking van een misdrijf waarvoor voorlopige hechtenis is toegelaten kan een opsporingsambtenaar iemand bevelen een voorwerp af te geven. Dit bevel geef je nooit aan de verdachte zelf."
+            },
+            {
+              "term": "Verschoningsgerechtigden",
+              "text": "Wie een verschoningsrecht heeft, zoals een arts of advocaat, hoeft het bevel tot uitlevering niet altijd op te volgen."
+            },
+            {
+              "term": "Bewijs van ontvangst",
+              "text": "De persoon bij wie je het voorwerp in beslag neemt, krijgt een bewijs van ontvangst (kennisgeving van inbeslagneming)."
+            },
+            {
+              "term": "Zorgvuldig vastleggen",
+              "text": "Beschrijf in je proces-verbaal wat je in beslag nam, bij wie, waar, wanneer en waarom. Bewaar het voorwerp volgens de instructies van je organisatie en het Openbaar Ministerie."
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": "Praktijkvoorbeeld: blikje bier in het park",
+          "body": "Boa Fatima ziet op een zomeravond een man in het park een blikje bier drinken. In dit deel van het park geldt een alcoholverbod in de APV. Fatima houdt de man staande, vraagt naar zijn identiteit en zegt dat hij een strafbaar feit pleegt.\n\nHet feit staat op haar domeinlijst. Bij de staande houding neemt zij het geopende blikje in beslag. Het blikje is bewijs van het feit. Zij geeft de man een bewijs van ontvangst.\n\nIn haar proces-verbaal schrijft zij precies op wat zij zag, wat zij in beslag nam en wat er met het blikje gebeurde. Zo kan iedereen later controleren of zij zorgvuldig heeft gehandeld."
+        },
+        {
+          "type": "exercise",
+          "title": "Oefening: de juiste volgorde",
+          "questionId": "q-m02-l06-6"
+        },
+        {
+          "type": "check",
+          "title": "Kennischeck",
+          "questionIds": [
+            "q-m02-l06-1",
+            "q-m02-l06-2",
+            "q-m02-l06-3",
+            "q-m02-l06-4",
+            "q-m02-l06-5"
+          ]
+        },
+        {
+          "type": "summary",
+          "title": "Samenvatting"
+        }
+      ],
+      "summary": [
+        "Inbeslagneming is een dwangmiddel: je mag het alleen doen met een wettelijke bevoegdheid die bij je akte en domein hoort.",
+        "Vatbaar voor beslag zijn onder meer voorwerpen die helpen de waarheid aan de dag te brengen of wederrechtelijk voordeel aan te tonen (art. 94 Sv).",
+        "Bij staande houden of aanhouden mag je voorwerpen die de verdachte bij zich heeft in beslag nemen (art. 95 Sv).",
+        "Een bevel tot uitlevering (art. 96a Sv) geef je nooit aan de verdachte.",
+        "Geef een bewijs van ontvangst en leg alles zorgvuldig vast in je proces-verbaal."
+      ],
+      "sourceRefs": [
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 134 lid 1"
+        },
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 94"
+        },
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 95",
+          "verify": true
+        },
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 96",
+          "verify": true
+        },
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 96a",
+          "verify": true
+        },
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "kennisgeving van inbeslagneming / bewijs van ontvangst",
+          "note": "Vindplaats in Sv of Besluit inbeslaggenomen voorwerpen te bepalen",
+          "verify": true
+        }
+      ],
+      "reviewStatus": "juridische_review_nodig",
+      "reviewNote": "Controleren: (1) exacte formulering en reikwijdte van art. 95 en art. 96 Sv (staande houden én aanhouden in art. 95; 'zich naar alle plaatsen begeven' in art. 96 lid 1 en de uitzondering voor woningen). (2) Of art. 95 en 96 Sv voor boa Domein I standaard in de akte/het Besluit boa zijn opgenomen of per akte verschillen. (3) Juiste wettelijke vindplaats van de kennisgeving van inbeslagneming / het bewijs van ontvangst aan de beslagene (Sv of Besluit inbeslaggenomen voorwerpen). (4) Of de zinsnede over verbeurdverklaring/onttrekking aan het verkeer correct in art. 94 lid 2 Sv staat. Eindredactie 2026-11-02: (5) controleren of art. 96a lid 1 Sv het bevel tot uitlevering ook toestaat bij ontdekking op heterdaad van een strafbaar feit (en niet alleen bij verdenking van een misdrijf uit art. 67 lid 1 Sv); de keypoint \"Bevel tot uitlevering\" noemt nu alleen het laatste.",
+      "version": "1.1",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "m02-l07",
+      "moduleId": "m02",
+      "order": 7,
+      "title": "Binnentreden",
+      "minutes": 15,
+      "termIds": [],
+      "objectives": [
+        {
+          "text": "Je kunt uitleggen wat de Algemene wet op het binnentreden (Awbi) regelt.",
+          "level": "K"
+        },
+        {
+          "text": "Je kunt het verschil uitleggen tussen binnentreden met en zonder toestemming van de bewoner.",
+          "level": "B"
+        },
+        {
+          "text": "Je kunt in een praktijksituatie bepalen of je een woning of andere plaats mag binnengaan of de politie moet inschakelen.",
+          "level": "T"
+        }
+      ],
+      "screens": [
+        {
+          "type": "objectives",
+          "title": "Leerdoelen"
+        },
+        {
+          "type": "text",
+          "title": "Het huisrecht",
+          "body": "Iedereen heeft recht op een ongestoord leven in zijn eigen woning. Dit heet het huisrecht. Het staat in de Grondwet.\n\nDe overheid mag een woning zonder toestemming van de bewoner alleen binnengaan als een wet dat toestaat. De **Algemene wet op het binnentreden (Awbi)** regelt hoe dat moet gebeuren.\n\nBelangrijk: de Awbi geeft zelf geen bevoegdheid om binnen te treden. De bevoegdheid moet in een andere wet staan. De Awbi bepaalt alleen de spelregels: wie toestemming geeft, wie een machtiging geeft en wat je moet vastleggen."
+        },
+        {
+          "type": "law",
+          "title": "Legitimeren, doel noemen en machtiging",
+          "ref": {
+            "law": "Algemene wet op het binnentreden",
+            "article": "art. 1, 2 en 3",
+            "verify": true
+          },
+          "body": "Wie een woning wil binnengaan, laat eerst zien wie hij is (legitimeren). Hij vertelt ook waarom hij binnen wil komen (mededeling van het doel). Dat geldt als je toestemming vraagt én als je zonder toestemming binnengaat (art. 1 Awbi).\n\nGa je een woning binnen zonder toestemming van de bewoner? Dan heb je in de regel een schriftelijke machtiging nodig (art. 2 Awbi). De wet bepaalt wie zo'n machtiging mag geven. In het strafrecht zijn dat onder meer de officier van justitie en de hulpofficier van justitie (art. 3 Awbi)."
+        },
+        {
+          "type": "law",
+          "title": "Verslag van het binnentreden",
+          "ref": {
+            "law": "Algemene wet op het binnentreden",
+            "article": "art. 10"
+          },
+          "body": "Is een woning zonder toestemming van de bewoner binnengegaan? Dan maakt degene die binnenging een schriftelijk verslag (art. 10 Awbi).\n\nIn dat verslag staat onder meer wie binnenging, op grond van welke bevoegdheid, wanneer, met welk doel en wat er binnen gebeurde. De bewoner krijgt een afschrift van het verslag.\n\nZo kan later worden gecontroleerd of het binnentreden rechtmatig was."
+        },
+        {
+          "type": "keypoints",
+          "title": "Wat betekent dit voor jou als boa?",
+          "items": [
+            {
+              "term": "Woning",
+              "text": "Een woning ga je zonder toestemming van de bewoner niet binnen. Een boa heeft daar in de praktijk geen bevoegdheid voor. Schakel de politie in."
+            },
+            {
+              "term": "Toestemming",
+              "text": "Toestemming moet vrijwillig zijn en de bewoner moet weten waarom je binnen wilt komen. Twijfel je of de toestemming echt is? Ga dan niet naar binnen."
+            },
+            {
+              "term": "Andere plaatsen",
+              "text": "Plaatsen die geen woning zijn mag je alleen betreden als een wet jou die bevoegdheid geeft, binnen je eigen domein. Voorbeeld: een toezichthouder mag plaatsen betreden, maar een woning niet zonder toestemming van de bewoner (art. 5:15 Awb)."
+            },
+            {
+              "term": "Bij twijfel",
+              "text": "Twijfel je over je bevoegdheid? Doe het niet zelf, maar bel de politie."
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": "Praktijkvoorbeeld: harde muziek uit een woning",
+          "body": "Boa's Daan en Merel krijgen een melding van geluidsoverlast. Bij de woning horen zij harde muziek. De voordeur staat op een kier.\n\nDaan wil naar binnen lopen om te vragen of het zachter kan. Merel houdt hem tegen. Zonder toestemming van de bewoner mogen zij de woning niet binnengaan.\n\nZij bellen aan, laten hun legitimatie zien en vertellen waarom zij er zijn. De bewoner zet de muziek zachter. Zij praten bij de deur. Was de bewoner niet opengedaan en was er sprake van gevaar? Dan hadden zij de politie ingeschakeld."
+        },
+        {
+          "type": "exercise",
+          "title": "Oefening: wat doe je?",
+          "questionId": "q-m02-l07-6"
+        },
+        {
+          "type": "check",
+          "title": "Kennischeck",
+          "questionIds": [
+            "q-m02-l07-1",
+            "q-m02-l07-2",
+            "q-m02-l07-3",
+            "q-m02-l07-4",
+            "q-m02-l07-5"
+          ]
+        },
+        {
+          "type": "summary",
+          "title": "Samenvatting"
+        }
+      ],
+      "summary": [
+        "De Awbi regelt hoe je een woning binnentreedt, maar geeft zelf geen bevoegdheid: die moet in een andere wet staan.",
+        "Voor het binnentreden legitimeer je je en vertel je het doel (art. 1 Awbi).",
+        "Binnentreden in een woning zonder toestemming vraagt in de regel een schriftelijke machtiging (art. 2 Awbi).",
+        "Na binnentreden zonder toestemming maak je een schriftelijk verslag (art. 10 Awbi).",
+        "Als boa ga je een woning niet zonder toestemming binnen; bij twijfel schakel je de politie in."
+      ],
+      "sourceRefs": [
+        {
+          "law": "Grondwet",
+          "article": "art. 12"
+        },
+        {
+          "law": "Algemene wet op het binnentreden",
+          "article": "art. 1",
+          "verify": true
+        },
+        {
+          "law": "Algemene wet op het binnentreden",
+          "article": "art. 2"
+        },
+        {
+          "law": "Algemene wet op het binnentreden",
+          "article": "art. 3",
+          "verify": true
+        },
+        {
+          "law": "Algemene wet op het binnentreden",
+          "article": "art. 10"
+        },
+        {
+          "law": "Algemene wet op het binnentreden",
+          "article": "art. 11",
+          "note": "afschrift verslag aan bewoner",
+          "verify": true
+        },
+        {
+          "law": "Algemene wet bestuursrecht",
+          "article": "art. 5:15"
+        }
+      ],
+      "reviewStatus": "juridische_review_nodig",
+      "reviewNote": "Controleren: (1) of art. 1 Awbi de plicht tot legitimeren en mededeling van het doel geeft voor zowel binnentreden met als zonder toestemming (of dat dit deels in art. 1 lid 1 en lid 2 staat). (2) Of art. 3 Awbi de officier van justitie en hulpofficier van justitie noemt als bevoegd tot het geven van een machtiging voor binnentreden in het kader van strafvordering, en welke uitzonderingen art. 2 lid 2 Awbi kent. (3) Of het afschrift van het verslag aan de bewoner in art. 11 Awbi (of in art. 10) staat. (4) Of de stelling dat een boa Domein I in de praktijk geen bevoegdheid heeft om een woning zonder toestemming binnen te treden algemeen juist is.",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "m02-l08",
+      "moduleId": "m02",
+      "order": 8,
+      "title": "Jeugd en Halt",
+      "minutes": 15,
+      "termIds": [],
+      "objectives": [
+        {
+          "text": "Je kunt de leeftijdsgrenzen van het jeugdstrafrecht noemen.",
+          "level": "K"
+        },
+        {
+          "text": "Je kunt uitleggen wat een Halt-afdoening is en waarom die bestaat.",
+          "level": "B"
+        },
+        {
+          "text": "Je kunt in een praktijksituatie met een jongere passend handelen, binnen je bevoegdheden.",
+          "level": "T"
+        }
+      ],
+      "screens": [
+        {
+          "type": "objectives",
+          "title": "Leerdoelen"
+        },
+        {
+          "type": "law",
+          "title": "Kinderen onder de 12 jaar",
+          "ref": {
+            "law": "Wetboek van Strafvordering",
+            "article": "art. 486"
+          },
+          "body": "Een kind dat jonger was dan 12 jaar toen het een strafbaar feit pleegde, wordt niet strafrechtelijk vervolgd (art. 486 Sv).\n\nDat betekent niet dat je niets doet. Je stopt het gedrag, je zorgt voor veiligheid en je volgt de werkafspraken van je organisatie. Vaak worden de ouders en de politie ingelicht. De politie kan bekijken of hulp nodig is.\n\nWelke opsporingshandelingen wel mogen bij een kind onder 12, regelt de wet apart. Volg hierbij de instructies van je organisatie en de politie."
+        },
+        {
+          "type": "law",
+          "title": "Jeugdstrafrecht: 12 tot 18 jaar",
+          "ref": {
+            "law": "Wetboek van Strafrecht",
+            "article": "art. 77a"
+          },
+          "body": "Was iemand 12 jaar of ouder, maar nog geen 18 jaar, toen hij het feit pleegde? Dan geldt het jeugdstrafrecht (art. 77a Sr).\n\nHet gaat om de leeftijd **op het moment van het feit**, niet om de leeftijd op het moment van de zitting.\n\nHet jeugdstrafrecht richt zich meer op opvoeding en het voorkomen van nieuwe feiten dan het strafrecht voor volwassenen. De straffen en maatregelen zijn anders."
+        },
+        {
+          "type": "law",
+          "title": "Halt-afdoening",
+          "ref": {
+            "law": "Wetboek van Strafrecht",
+            "article": "art. 77e",
+            "verify": true
+          },
+          "body": "Een Halt-afdoening is een snelle reactie op een licht strafbaar feit door een jongere van 12 tot 18 jaar (art. 77e Sr).\n\nDe jongere doet bijvoorbeeld een leeropdracht of herstelt de schade. Rondt de jongere de Halt-afdoening goed af? Dan volgt er geen strafzaak meer.\n\nVoor welke feiten Halt mogelijk is, staat in een algemene maatregel van bestuur. Alleen een opsporingsambtenaar die daarvoor is aangewezen, mag een jongere naar Halt verwijzen. Of jij dat mag, hangt af van je aanwijzing en de afspraken in je organisatie."
+        },
+        {
+          "type": "keypoints",
+          "title": "Ouders en een passende benadering",
+          "items": [
+            {
+              "term": "Ouders informeren",
+              "text": "Wordt een jongere van zijn vrijheid beroofd en opgehouden voor onderzoek? Dan worden de ouders of de voogd zo snel mogelijk ingelicht (art. 488b Sv). Dat regelt de hulpofficier van justitie bij de politie."
+            },
+            {
+              "term": "Jouw taak",
+              "text": "Houd je een jongere aan? Vertel de politie direct hoe oud hij is. Zo kunnen zij de regels voor jongeren goed toepassen."
+            },
+            {
+              "term": "Rustig en duidelijk",
+              "text": "Praat rustig, gebruik eenvoudige woorden en leg uit wat er gebeurt. Een jongere begrijpt zijn situatie vaak minder goed dan een volwassene."
+            },
+            {
+              "term": "Respect",
+              "text": "Behandel een jongere met respect. Zet hem niet voor schut tegenover vrienden. Dit is een kwestie van professionaliteit, geen wettelijke bevoegdheid."
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": "Praktijkvoorbeeld: vuurwerk op het schoolplein",
+          "body": "Boa Yusuf ziet twee jongens op een schoolplein een knalvuurwerkje afsteken. Het is geen jaarwisseling. Hij houdt de jongens staande en vraagt naar hun identiteit.\n\nDe ene jongen, Luuk, is 14 jaar. De andere, Sem, is 11 jaar. Voor Luuk geldt het jeugdstrafrecht. Sem wordt niet strafrechtelijk vervolgd, omdat hij jonger is dan 12.\n\nYusuf praat rustig met beide jongens en legt uit wat er mis is. Voor Luuk bekijkt hij volgens de werkinstructie of een Halt-verwijzing mogelijk is. Voor Sem volgt hij de afspraken: hij laat de ouders en de politie weten wat er gebeurde."
+        },
+        {
+          "type": "exercise",
+          "title": "Oefening: wat is de juiste aanpak?",
+          "questionId": "q-m02-l08-6"
+        },
+        {
+          "type": "check",
+          "title": "Kennischeck",
+          "questionIds": [
+            "q-m02-l08-1",
+            "q-m02-l08-2",
+            "q-m02-l08-3",
+            "q-m02-l08-4",
+            "q-m02-l08-5"
+          ]
+        },
+        {
+          "type": "summary",
+          "title": "Samenvatting"
+        }
+      ],
+      "summary": [
+        "Een kind dat jonger dan 12 was ten tijde van het feit, wordt niet strafrechtelijk vervolgd (art. 486 Sv).",
+        "Voor jongeren van 12 tot 18 jaar ten tijde van het feit geldt het jeugdstrafrecht (art. 77a Sr).",
+        "Halt is een snelle afdoening voor lichte feiten door jongeren; welke feiten, staat in een AMvB (art. 77e Sr).",
+        "Bij ophouden voor onderzoek worden ouders of voogd zo snel mogelijk ingelicht (art. 488b Sv).",
+        "Benader jongeren rustig, duidelijk en respectvol, en meld hun leeftijd direct aan de politie."
+      ],
+      "sourceRefs": [
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 486"
+        },
+        {
+          "law": "Wetboek van Strafrecht",
+          "article": "art. 77a"
+        },
+        {
+          "law": "Wetboek van Strafrecht",
+          "article": "art. 77e",
+          "verify": true
+        },
+        {
+          "law": "Besluit aanwijzing Halt-feiten",
+          "note": "AMvB met de Halt-feiten",
+          "verify": true
+        },
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 488b",
+          "verify": true
+        }
+      ],
+      "reviewStatus": "juridische_review_nodig",
+      "reviewNote": "Controleren: (1) art. 77e Sr: welke opsporingsambtenaren een Halt-afdoening mogen voorstellen (aanwijzing door het OM) en of boa Domein I daaronder kunnen vallen; of het vervallen van het recht tot strafvordering na goede afronding in art. 77e Sr staat. (2) Naam en actualiteit van de AMvB met de Halt-feiten (Besluit aanwijzing Halt-feiten). (3) Art. 488b Sv: de plicht tot informeren van ouders/voogd geldt bij ophouden voor onderzoek en ligt bij de hulpofficier van justitie; controleren of dit juist is weergegeven en of er voor boa's een eigen informatieplicht is. (4) Welke opsporingshandelingen bij kinderen onder 12 zijn toegestaan (art. 487 Sv e.v.); hierover is in de les bewust geen inhoud gegeven.",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "m02-l09",
+      "moduleId": "m02",
+      "order": 9,
+      "title": "Proces-verbaal",
+      "minutes": 18,
+      "termIds": [],
+      "objectives": [
+        {
+          "text": "Je kunt de wettelijke plicht en de vereisten van een proces-verbaal noemen.",
+          "level": "K"
+        },
+        {
+          "text": "Je kunt uitleggen waarom een proces-verbaal van een opsporingsambtenaar bijzondere bewijswaarde heeft.",
+          "level": "B"
+        },
+        {
+          "text": "Je kunt een objectieve en concrete beschrijving maken van wat je zelf hebt waargenomen.",
+          "level": "T"
+        }
+      ],
+      "screens": [
+        {
+          "type": "objectives",
+          "title": "Leerdoelen"
+        },
+        {
+          "type": "law",
+          "title": "De plicht om een proces-verbaal op te maken",
+          "ref": {
+            "law": "Wetboek van Strafvordering",
+            "article": "art. 152"
+          },
+          "body": "Als opsporingsambtenaar maak je zo snel mogelijk een proces-verbaal op (art. 152 Sv). Daarin schrijf je het strafbare feit dat je hebt opgespoord. Je schrijft er ook in wat je hebt gedaan of ontdekt bij de opsporing.\n\nAls boa ben je opsporingsambtenaar. Deze plicht geldt dus ook voor jou.\n\nEen proces-verbaal is een officieel verslag. De officier van justitie en de rechter gebruiken het om te beslissen over de zaak. Daarom moet het kloppen en volledig zijn."
+        },
+        {
+          "type": "law",
+          "title": "Vereisten en bewijswaarde",
+          "ref": {
+            "law": "Wetboek van Strafvordering",
+            "article": "art. 153 en art. 344",
+            "verify": true
+          },
+          "body": "Je maakt het proces-verbaal op **op ambtseed of ambtsbelofte**. Je ondertekent het (art. 153 Sv). Je vermeldt zo veel mogelijk hoe je iets weet: de redenen van wetenschap.\n\nEen proces-verbaal van een opsporingsambtenaar is een wettig bewijsmiddel. Het gaat dan om feiten of omstandigheden die je zelf hebt waargenomen of ondervonden (art. 344 lid 1 onder 2 Sv).\n\nDe rechter mag het bewijs dat de verdachte het feit heeft begaan aannemen op alleen het proces-verbaal van een opsporingsambtenaar (art. 344 lid 2 Sv). Dat geldt niet voor de verklaring van één getuige of alleen de bekentenis van de verdachte: die zijn op zichzelf te weinig (art. 342 lid 2 en art. 341 lid 4 Sv). Dat maakt jouw proces-verbaal heel belangrijk."
+        },
+        {
+          "type": "keypoints",
+          "title": "Opbouw: de W-vragen",
+          "items": [
+            {
+              "term": "Wie",
+              "text": "Wie ben jij, wie is de verdachte, wie zijn getuigen?"
+            },
+            {
+              "term": "Wat",
+              "text": "Wat is er gebeurd en welk strafbaar feit is het?"
+            },
+            {
+              "term": "Waar",
+              "text": "Op welke plaats precies: straat, huisnummer, kenmerken."
+            },
+            {
+              "term": "Wanneer",
+              "text": "Datum en tijdstip, zo precies mogelijk."
+            },
+            {
+              "term": "Waarom",
+              "text": "Waarom trad je op: wat was de aanleiding of melding?"
+            },
+            {
+              "term": "Hoe",
+              "text": "Hoe gebeurde het en hoe heb je gehandeld, met welke bevoegdheid?"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "title": "Objectief en concreet schrijven",
+          "body": "Schrijf wat je **zelf** zag, hoorde, rook of voelde. Gebruik de ik-vorm: \"Ik zag\", \"Ik hoorde\".\n\nHoud eigen waarneming en wat anderen zeggen strikt gescheiden. Zegt een getuige iets? Schrijf dan: \"De getuige verklaarde mij dat...\" en noteer wie de getuige is.\n\nSchrijf concreet, zonder oordeel. Niet: \"De man was agressief.\" Wel: \"Ik zag dat de man zijn vuist balde. Ik hoorde hem roepen: ...\"\n\nVermijd vage woorden zoals \"ongeveer\", \"een beetje\" of \"leek\", tenzij je echt niet zeker bent. Zeg dat dan ook."
+        },
+        {
+          "type": "example",
+          "title": "Praktijkvoorbeeld: afval naast de container",
+          "body": "Boa Ingrid ziet een vrouw een zak afval naast een ondergrondse container zetten. Een buurman komt erbij staan.\n\nIn haar proces-verbaal schrijft zij: \"Op 14 oktober omstreeks 10:15 uur bevond ik mij op het Kerkplein. Ik zag dat een vrouw een zwarte vuilniszak naast de container plaatste. De container was niet vol: ik zag dat de klep openging. De mij onbekende buurman, later genoemd als getuige, verklaarde mij dat hij dit vaker had gezien.\"\n\nIngrid scheidt wat zij zelf zag van wat de buurman zei. Zij schrijft geen oordeel op, maar feiten."
+        },
+        {
+          "type": "exercise",
+          "title": "Oefening: koppel de W-vraag",
+          "questionId": "q-m02-l09-6"
+        },
+        {
+          "type": "check",
+          "title": "Kennischeck",
+          "questionIds": [
+            "q-m02-l09-1",
+            "q-m02-l09-2",
+            "q-m02-l09-3",
+            "q-m02-l09-4",
+            "q-m02-l09-5"
+          ]
+        },
+        {
+          "type": "summary",
+          "title": "Samenvatting"
+        }
+      ],
+      "summary": [
+        "Als opsporingsambtenaar maak je zo snel mogelijk een proces-verbaal op van het feit en van wat je deed (art. 152 Sv).",
+        "Je maakt het op ambtseed of ambtsbelofte op en ondertekent het (art. 153 Sv).",
+        "De rechter mag het bewijs van het feit aannemen op alleen het proces-verbaal van een opsporingsambtenaar (art. 344 lid 2 Sv).",
+        "Beantwoord de W-vragen: wie, wat, waar, wanneer, waarom en hoe.",
+        "Schrijf objectief en concreet in de ik-vorm en scheid je eigen waarneming van wat anderen verklaren."
+      ],
+      "sourceRefs": [
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 152"
+        },
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 153",
+          "verify": true
+        },
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 344 lid 1 onder 2"
+        },
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 344 lid 2"
+        },
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 342 lid 2",
+          "note": "één getuige is geen getuige; samenhang met art. 344 lid 2"
+        },
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 341 lid 4"
+        }
+      ],
+      "reviewStatus": "juridische_review_nodig",
+      "reviewNote": "Controleren: (1) actuele formulering van art. 153 Sv: opmaken op ambtseed/ambtsbelofte, ondertekenen, dagtekening en de vermelding van redenen van wetenschap (en in welk lid dit staat). (2) De zin 'voor ander bewijs geldt dat één bewijsmiddel niet genoeg is' is een vereenvoudiging van art. 342 lid 2 Sv en de bewijsminimumregels; nagaan of deze vereenvoudiging juridisch verantwoord is. Eindredactie 2026-11-02: punt (2) aangepast; de algemene zin over 'één bewijsmiddel' is vervangen door de concrete regels van art. 342 lid 2 Sv (één getuige) en art. 341 lid 4 Sv (verklaring verdachte alleen).",
+      "version": "1.1",
+      "lastModified": "2026-11-02"
+    }
+  ],
+  "questions": [
+    {
+      "id": "q-m02-l06-1",
+      "moduleId": "m02",
+      "lessonId": "m02-l06",
+      "termIds": [],
+      "topic": "Inbeslagneming",
+      "level": "K",
+      "type": "mc",
+      "prompt": "Welk voorwerp is volgens artikel 94 Sv vatbaar voor inbeslagneming?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Elk voorwerp dat een verdachte bij zich heeft, ook als het niets met het feit te maken heeft",
+          "feedback": "Onjuist. Art. 94 Sv beperkt beslag tot voorwerpen met een doel voor de strafvordering, zoals bewijs. Niet alles wat iemand bij zich heeft, valt daaronder."
+        },
+        {
+          "id": "b",
+          "text": "Een voorwerp dat kan helpen om de waarheid over het strafbare feit aan de dag te brengen",
+          "feedback": "Juist. Art. 94 Sv noemt voorwerpen die kunnen dienen om de waarheid aan de dag te brengen of wederrechtelijk verkregen voordeel aan te tonen."
+        },
+        {
+          "id": "c",
+          "text": "Alleen voorwerpen die de eigenaar zelf vrijwillig aan jou afgeeft",
+          "feedback": "Onjuist. Inbeslagneming is een dwangmiddel. Het kan ook zonder dat de eigenaar meewerkt. Vrijwilligheid is geen voorwaarde in art. 94 Sv."
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "Art. 94 Sv bepaalt welke voorwerpen vatbaar zijn voor inbeslagneming: onder meer voorwerpen die kunnen dienen om de waarheid aan de dag te brengen of om wederrechtelijk verkregen voordeel aan te tonen.",
+      "sourceRefs": [
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 94"
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "concept",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m02-l06-2",
+      "moduleId": "m02",
+      "lessonId": "m02-l06",
+      "termIds": [],
+      "topic": "Inbeslagneming",
+      "level": "T",
+      "type": "mc",
+      "case": "Je houdt Kees staande omdat hij in een gebied met een alcoholverbod uit de APV een geopende fles wijn drinkt. Het feit staat op je domeinlijst en art. 95 Sv is in je akte opgenomen.",
+      "prompt": "Mag je de geopende fles in beslag nemen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ja, want art. 95 Sv geldt ook als je een verdachte staande houdt",
+          "feedback": "Juist. Art. 95 Sv geeft de bevoegdheid om bij staande houden of aanhouden voorwerpen die de verdachte bij zich heeft in beslag te nemen. De fles is bewijs van het feit (art. 94 Sv)."
+        },
+        {
+          "id": "b",
+          "text": "Nee, inbeslagneming mag alleen als je de verdachte eerst hebt aangehouden",
+          "feedback": "Onjuist. Art. 95 Sv noemt ook de staande houding. Aanhouden is niet nodig om de fles in beslag te nemen."
+        },
+        {
+          "id": "c",
+          "text": "Nee, alleen de politie mag voorwerpen in beslag nemen bij een APV-overtreding",
+          "feedback": "Onjuist. Ook een boa is opsporingsambtenaar. Als de bevoegdheid in je akte staat en het feit in je domein valt, mag je zelf in beslag nemen."
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "Bij staande houden of aanhouden van een verdachte mag een opsporingsambtenaar de voorwerpen die de verdachte bij zich heeft in beslag nemen (art. 95 Sv). Voor een boa geldt dit alleen binnen akte en domein.",
+      "sourceRefs": [
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 95",
+          "verify": true
+        },
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 94"
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "juridische_review_nodig",
+      "reviewNote": "Controleren of art. 95 Sv zowel staande houden als aanhouden noemt.",
+      "version": "1.1",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m02-l06-3",
+      "moduleId": "m02",
+      "lessonId": "m02-l06",
+      "termIds": [],
+      "topic": "Bevel tot uitlevering",
+      "level": "K",
+      "type": "mc",
+      "prompt": "Aan wie mag een bevel tot uitlevering op grond van artikel 96a Sv niet worden gegeven?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Aan een getuige die het voorwerp in handen heeft",
+          "feedback": "Onjuist. Een getuige die vermoedelijk het voorwerp heeft, kan wel een bevel tot uitlevering krijgen (art. 96a lid 1 Sv)."
+        },
+        {
+          "id": "b",
+          "text": "Aan een winkelier die het voorwerp bewaart",
+          "feedback": "Onjuist. Een winkelier die het voorwerp onder zich heeft, kan in beginsel wel het bevel krijgen. Alleen de verdachte is uitgezonderd."
+        },
+        {
+          "id": "c",
+          "text": "Aan de verdachte van het strafbare feit",
+          "feedback": "Juist. Art. 96a lid 2 Sv bepaalt dat het bevel niet aan de verdachte wordt gegeven. Hij hoeft niet mee te werken aan zijn eigen veroordeling."
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "Het bevel tot uitlevering wordt niet aan de verdachte gegeven (art. 96a lid 2 Sv). Daarnaast hoeven verschoningsgerechtigden het bevel niet altijd op te volgen (art. 96a lid 3 Sv).",
+      "sourceRefs": [
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 96a lid 2",
+          "verify": true
+        },
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 96a lid 1",
+          "note": "reikwijdte: heterdaad en/of art. 67-misdrijf",
+          "verify": true
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "juridische_review_nodig",
+      "version": "1.0",
+      "lastModified": "2026-11-02",
+      "reviewNote": "Eindredactie 2026-11-02: controleren in welke gevallen art. 96a lid 1 Sv het bevel tot uitlevering toestaat (ook bij heterdaad?) en of de uitzondering voor de verdachte in lid 2 staat."
+    },
+    {
+      "id": "q-m02-l06-4",
+      "moduleId": "m02",
+      "lessonId": "m02-l06",
+      "termIds": [],
+      "topic": "Vastleggen van inbeslagneming",
+      "level": "B",
+      "type": "mc",
+      "prompt": "Waarom is het belangrijk dat je een inbeslagneming zorgvuldig vastlegt in je proces-verbaal?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Zodat de beslagene de inbeslagneming achteraf niet meer kan aanvechten",
+          "feedback": "Onjuist. Vastleggen neemt het recht om bezwaar te maken niet weg. Het maakt juist controle mogelijk."
+        },
+        {
+          "id": "b",
+          "text": "Zodat officier en rechter kunnen nagaan of je rechtmatig handelde",
+          "feedback": "Juist. Inbeslagneming is een dwangmiddel. Een goed proces-verbaal (art. 152 Sv) maakt controle op rechtmatigheid mogelijk en zorgt dat het bewijs bruikbaar blijft."
+        },
+        {
+          "id": "c",
+          "text": "Zodat je zelf mag beslissen of je het voorwerp vernietigt of teruggeeft",
+          "feedback": "Onjuist. Wat met een inbeslaggenomen voorwerp gebeurt, beslist de boa niet zelf. Je bewaart het volgens de instructies van je organisatie en het Openbaar Ministerie."
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "Een opsporingsambtenaar legt wat hij heeft gedaan vast in een proces-verbaal (art. 152 Sv). Bij een dwangmiddel als inbeslagneming is dat extra belangrijk voor controle en voor de bruikbaarheid van het bewijs.",
+      "sourceRefs": [
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 152"
+        },
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 94"
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "concept",
+      "version": "1.1",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m02-l06-5",
+      "moduleId": "m02",
+      "lessonId": "m02-l06",
+      "termIds": [],
+      "topic": "Bevel tot uitlevering",
+      "level": "B",
+      "type": "truefalse",
+      "prompt": "Stelling: je mag een verdachte op grond van artikel 96a Sv bevelen een voorwerp aan je uit te leveren.",
+      "correctAnswer": false,
+      "feedbackTrue": "Onjuist. Art. 96a lid 2 Sv bepaalt dat het bevel tot uitlevering niet aan de verdachte wordt gegeven.",
+      "feedbackFalse": "Juist. Het bevel tot uitlevering wordt niet aan de verdachte gegeven (art. 96a lid 2 Sv). Bij een verdachte kun je wel, als je bevoegd bent, op grond van art. 95 Sv voorwerpen in beslag nemen die hij bij zich heeft.",
+      "explanation": "Art. 96a Sv geeft een opsporingsambtenaar de bevoegdheid om iemand die vermoedelijk een voorwerp heeft te bevelen het af te geven, maar niet de verdachte (art. 96a lid 2 Sv).",
+      "sourceRefs": [
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 96a lid 2",
+          "verify": true
+        },
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 96a lid 1",
+          "note": "reikwijdte: heterdaad en/of art. 67-misdrijf",
+          "verify": true
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "juridische_review_nodig",
+      "version": "1.0",
+      "lastModified": "2026-11-02",
+      "reviewNote": "Eindredactie 2026-11-02: controleren in welke gevallen art. 96a lid 1 Sv het bevel tot uitlevering toestaat (ook bij heterdaad?) en of de uitzondering voor de verdachte in lid 2 staat."
+    },
+    {
+      "id": "q-m02-l06-6",
+      "moduleId": "m02",
+      "lessonId": "m02-l06",
+      "termIds": [],
+      "topic": "Werkwijze inbeslagneming",
+      "level": "T",
+      "type": "order",
+      "prompt": "Zet de stappen bij een inbeslagneming tijdens een staande houding in de juiste volgorde.",
+      "items": [
+        "Controleer of het feit in je domein valt en of de bevoegdheid in je akte staat",
+        "Vertel de verdachte dat je het voorwerp in beslag neemt en waarom",
+        "Neem het voorwerp in beslag",
+        "Geef de beslagene een bewijs van ontvangst",
+        "Leg de inbeslagneming vast in je proces-verbaal",
+        "Bewaar of draag het voorwerp over volgens de instructies"
+      ],
+      "explanation": "Eerst stel je vast dat je bevoegd bent (akte, domein, art. 95 Sv). Daarna neem je het voorwerp in beslag, geef je een bewijs van ontvangst en leg je alles vast in je proces-verbaal (art. 152 Sv). Tot slot zorg je voor juiste bewaring.",
+      "sourceRefs": [
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 95",
+          "verify": true
+        },
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 152"
+        },
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "kennisgeving van inbeslagneming / bewijs van ontvangst",
+          "verify": true
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "juridische_review_nodig",
+      "reviewNote": "Controleren: wettelijke vindplaats van het bewijs van ontvangst / de kennisgeving van inbeslagneming. De volgorde van mededelen en in beslag nemen is een werkwijze, geen wettelijke eis.",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m02-l07-1",
+      "moduleId": "m02",
+      "lessonId": "m02-l07",
+      "termIds": [],
+      "topic": "Algemene wet op het binnentreden",
+      "level": "B",
+      "type": "mc",
+      "prompt": "Welke uitspraak over de Algemene wet op het binnentreden (Awbi) is juist?",
+      "options": [
+        {
+          "id": "a",
+          "text": "De Awbi geeft iedere boa de bevoegdheid om zonder toestemming woningen binnen te gaan",
+          "feedback": "Onjuist. De Awbi geeft zelf geen bevoegdheid om binnen te treden. Die bevoegdheid moet in een andere wet staan."
+        },
+        {
+          "id": "b",
+          "text": "De Awbi geldt alleen voor de politie en niet voor andere ambtenaren, zoals boa's",
+          "feedback": "Onjuist. De Awbi geldt voor iedereen die op grond van een wettelijke bevoegdheid een woning binnentreedt, niet alleen voor de politie."
+        },
+        {
+          "id": "c",
+          "text": "De Awbi geeft spelregels, maar zelf geen bevoegdheid om binnen te treden",
+          "feedback": "Juist. De Awbi regelt de procedure: legitimeren, doel noemen, machtiging en verslag. De bevoegdheid zelf staat in een andere wet."
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "De Awbi is een procedurewet. Zij regelt de waarborgen bij binnentreden (onder meer art. 1, 2 en 10 Awbi). De bevoegdheid om binnen te treden moet uit een andere wet volgen.",
+      "sourceRefs": [
+        {
+          "law": "Algemene wet op het binnentreden",
+          "article": "art. 1",
+          "verify": true
+        },
+        {
+          "law": "Algemene wet op het binnentreden",
+          "article": "art. 2"
+        },
+        {
+          "law": "Grondwet",
+          "article": "art. 12"
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "juridische_review_nodig",
+      "version": "1.1",
+      "lastModified": "2026-11-02",
+      "reviewNote": "Controleren of de plicht tot legitimeren en mededeling van het doel in art. 1 Awbi staat."
+    },
+    {
+      "id": "q-m02-l07-2",
+      "moduleId": "m02",
+      "lessonId": "m02-l07",
+      "termIds": [],
+      "topic": "Machtiging tot binnentreden",
+      "level": "K",
+      "type": "mc",
+      "prompt": "Wat is in de regel nodig om een woning binnen te gaan zonder toestemming van de bewoner?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Een schriftelijke machtiging",
+          "feedback": "Juist. Art. 2 Awbi bepaalt dat voor binnentreden in een woning zonder toestemming van de bewoner in de regel een schriftelijke machtiging nodig is."
+        },
+        {
+          "id": "b",
+          "text": "Een mondelinge toestemming van je leidinggevende",
+          "feedback": "Onjuist. Toestemming van je leidinggevende is geen machtiging in de zin van de Awbi. De wet bepaalt wie een machtiging mag geven (art. 3 Awbi)."
+        },
+        {
+          "id": "c",
+          "text": "Een melding van overlast door een buurman",
+          "feedback": "Onjuist. Een melding is een aanleiding om te gaan kijken, maar geen grondslag om een woning binnen te gaan."
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "Voor binnentreden in een woning zonder toestemming van de bewoner is in de regel een schriftelijke machtiging nodig (art. 2 Awbi). Wie die mag geven, staat in art. 3 Awbi.",
+      "sourceRefs": [
+        {
+          "law": "Algemene wet op het binnentreden",
+          "article": "art. 2"
+        },
+        {
+          "law": "Algemene wet op het binnentreden",
+          "article": "art. 3",
+          "verify": true
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "juridische_review_nodig",
+      "version": "1.0",
+      "lastModified": "2026-11-02",
+      "reviewNote": "Controleren of art. 3 Awbi regelt wie een machtiging tot binnentreden mag geven, en welke uitzonderingen op het machtigingsvereiste art. 2 Awbi kent."
+    },
+    {
+      "id": "q-m02-l07-3",
+      "moduleId": "m02",
+      "lessonId": "m02-l07",
+      "termIds": [],
+      "topic": "Verslag van binnentreden",
+      "level": "K",
+      "type": "mc",
+      "prompt": "Wat moet er gebeuren nadat een woning zonder toestemming van de bewoner is binnengetreden?",
+      "options": [
+        {
+          "id": "a",
+          "text": "De bewoner moet achteraf alsnog schriftelijk toestemming geven",
+          "feedback": "Onjuist. Achteraf toestemming vragen is geen wettelijke eis en maakt binnentreden zonder toestemming niet rechtmatig."
+        },
+        {
+          "id": "b",
+          "text": "Degene die binnenging maakt een schriftelijk verslag",
+          "feedback": "Juist. Art. 10 Awbi bepaalt dat van binnentreden zonder toestemming een schriftelijk verslag wordt gemaakt."
+        },
+        {
+          "id": "c",
+          "text": "De gemeente stuurt de bewoner een rekening voor de kosten",
+          "feedback": "Onjuist. De Awbi kent geen kostenregeling voor de bewoner. Het verslag is de wettelijke eis."
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "Van binnentreden in een woning zonder toestemming van de bewoner wordt een schriftelijk verslag gemaakt (art. 10 Awbi). De bewoner krijgt daarvan een afschrift.",
+      "sourceRefs": [
+        {
+          "law": "Algemene wet op het binnentreden",
+          "article": "art. 10"
+        },
+        {
+          "law": "Algemene wet op het binnentreden",
+          "article": "art. 11",
+          "verify": true
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "juridische_review_nodig",
+      "version": "1.0",
+      "lastModified": "2026-11-02",
+      "reviewNote": "Controleren of het afschrift van het verslag aan de bewoner in art. 11 Awbi (of art. 10 Awbi) is geregeld."
+    },
+    {
+      "id": "q-m02-l07-4",
+      "moduleId": "m02",
+      "lessonId": "m02-l07",
+      "termIds": [],
+      "topic": "Binnentreden als boa",
+      "level": "T",
+      "type": "mc",
+      "case": "Als toezichthouder controleer je een melding over afval. Je wilt de achtertuin en de woning van Ahmed in om te kijken. Ahmed zegt duidelijk dat je zijn woning niet in mag.",
+      "prompt": "Wat doe je nu Ahmed geen toestemming geeft om zijn woning in te gaan?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Je gaat toch de woning in, omdat een toezichthouder plaatsen mag betreden",
+          "feedback": "Onjuist. De bevoegdheid van een toezichthouder om plaatsen te betreden geldt niet voor een woning zonder toestemming van de bewoner (art. 5:15 lid 1 Awb)."
+        },
+        {
+          "id": "b",
+          "text": "Je gaat de woning in nadat je je hebt gelegitimeerd en het doel hebt genoemd",
+          "feedback": "Onjuist. Legitimeren en het doel noemen (art. 1 Awbi) zijn waarborgen, maar geven geen bevoegdheid. Zonder bevoegdheid en zonder toestemming ga je niet naar binnen."
+        },
+        {
+          "id": "c",
+          "text": "Je blijft uit de woning en overlegt bij twijfel met je leidinggevende",
+          "feedback": "Juist. Een toezichthouder mag een woning niet zonder toestemming van de bewoner betreden (art. 5:15 lid 1 Awb). Bij twijfel doe je het niet zelf."
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "De toezichthouder mag plaatsen betreden, met uitzondering van een woning zonder toestemming van de bewoner (art. 5:15 lid 1 Awb). Zonder toestemming ga je de woning niet in.",
+      "sourceRefs": [
+        {
+          "law": "Algemene wet bestuursrecht",
+          "article": "art. 5:15 lid 1"
+        },
+        {
+          "law": "Algemene wet op het binnentreden",
+          "article": "art. 1",
+          "verify": true
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "juridische_review_nodig",
+      "version": "1.1",
+      "lastModified": "2026-11-02",
+      "reviewNote": "Controleren of de plicht tot legitimeren en mededeling van het doel in art. 1 Awbi staat."
+    },
+    {
+      "id": "q-m02-l07-5",
+      "moduleId": "m02",
+      "lessonId": "m02-l07",
+      "termIds": [],
+      "topic": "Legitimeren en doel",
+      "level": "K",
+      "type": "mc",
+      "prompt": "Wat moet je volgens de Awbi doen voordat je een woning binnengaat?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Je legitimeren en vertellen waarom je binnen wilt komen",
+          "feedback": "Juist. Volgens art. 1 Awbi legitimeer je je en doe je mededeling van het doel van het binnentreden."
+        },
+        {
+          "id": "b",
+          "text": "De bewoner vooraf een schriftelijke verklaring laten tekenen",
+          "feedback": "Onjuist. De Awbi eist geen getekende verklaring van de bewoner. Wel moet je je legitimeren en het doel noemen."
+        },
+        {
+          "id": "c",
+          "text": "Eerst bij de buren navragen wie er in de woning woont",
+          "feedback": "Onjuist. Dit is geen wettelijke eis. De Awbi vraagt dat je je legitimeert en het doel noemt."
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "Wie een woning binnentreedt, legitimeert zich en doet mededeling van het doel van het binnentreden (art. 1 Awbi).",
+      "sourceRefs": [
+        {
+          "law": "Algemene wet op het binnentreden",
+          "article": "art. 1",
+          "verify": true
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "juridische_review_nodig",
+      "reviewNote": "Controleren of de plicht tot legitimeren en mededeling van het doel in art. 1 Awbi staat en geldt voor binnentreden met én zonder toestemming.",
+      "version": "1.1",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m02-l07-6",
+      "moduleId": "m02",
+      "lessonId": "m02-l07",
+      "termIds": [],
+      "topic": "Binnentreden als boa",
+      "level": "T",
+      "type": "mc",
+      "case": "Je hoort hard geschreeuw uit een woning. De voordeur staat open. Niemand reageert als je aanbelt. Je weet niet wat er binnen aan de hand is.",
+      "prompt": "Hoe handel je als boa in deze situatie?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Je loopt naar binnen, omdat de deur openstaat en dat als toestemming geldt",
+          "feedback": "Onjuist. Een open deur is geen toestemming van de bewoner. Toestemming moet de bewoner zelf en vrijwillig geven."
+        },
+        {
+          "id": "b",
+          "text": "Je blijft buiten, belt direct de politie en houdt de situatie in de gaten",
+          "feedback": "Juist. Als boa heb je geen bevoegdheid om zonder toestemming een woning binnen te gaan. Bij mogelijk gevaar schakel je direct de politie in."
+        },
+        {
+          "id": "c",
+          "text": "Je gaat naar binnen nadat je hardop je naam en functie hebt geroepen",
+          "feedback": "Onjuist. Legitimeren en het doel noemen (art. 1 Awbi) geven geen bevoegdheid. Zonder bevoegdheid en zonder toestemming ga je niet naar binnen."
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "Binnentreden in een woning zonder toestemming kan alleen met een wettelijke bevoegdheid en volgens de Awbi (art. 1 en 2 Awbi). Een boa heeft die bevoegdheid in de praktijk niet. Bij mogelijk gevaar is het de taak van de politie.",
+      "sourceRefs": [
+        {
+          "law": "Algemene wet op het binnentreden",
+          "article": "art. 1",
+          "verify": true
+        },
+        {
+          "law": "Algemene wet op het binnentreden",
+          "article": "art. 2"
+        },
+        {
+          "law": "Grondwet",
+          "article": "art. 12"
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "juridische_review_nodig",
+      "version": "1.0",
+      "lastModified": "2026-11-02",
+      "reviewNote": "Controleren of art. 1 Awbi de juiste vindplaats is voor legitimeren en mededeling doel, en of boa Domein I in de praktijk geen bevoegdheid tot binnentreden van een woning zonder toestemming heeft."
+    },
+    {
+      "id": "q-m02-l08-1",
+      "moduleId": "m02",
+      "lessonId": "m02-l08",
+      "termIds": [],
+      "topic": "Kinderen onder 12",
+      "level": "K",
+      "type": "mc",
+      "prompt": "Wat geldt voor een kind dat jonger dan 12 jaar was toen het een strafbaar feit pleegde?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Het kind krijgt altijd een Halt-afdoening",
+          "feedback": "Onjuist. Halt is bedoeld voor jongeren van 12 tot 18 jaar (art. 77e Sr), niet voor kinderen onder 12."
+        },
+        {
+          "id": "b",
+          "text": "Het kind wordt niet strafrechtelijk vervolgd",
+          "feedback": "Juist. Art. 486 Sv bepaalt dat een kind dat jonger dan 12 jaar was ten tijde van het feit niet strafrechtelijk wordt vervolgd."
+        },
+        {
+          "id": "c",
+          "text": "Het kind valt onder het strafrecht voor volwassenen",
+          "feedback": "Onjuist. Een kind onder 12 valt niet onder het strafrecht voor volwassenen en ook niet onder het jeugdstrafrecht."
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "Tegen een kind dat jonger dan 12 jaar was toen het feit werd gepleegd, vindt geen strafvervolging plaats (art. 486 Sv).",
+      "sourceRefs": [
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 486"
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "concept",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m02-l08-2",
+      "moduleId": "m02",
+      "lessonId": "m02-l08",
+      "termIds": [],
+      "topic": "Jeugdstrafrecht",
+      "level": "B",
+      "type": "mc",
+      "case": "Romy pleegde een strafbaar feit toen zij 17 jaar was. Als de zaak bij de rechter komt, is zij 18 jaar.",
+      "prompt": "Welk strafrecht geldt in beginsel voor Romy?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Het jeugdstrafrecht, want haar leeftijd bij het feit is bepalend",
+          "feedback": "Juist. Art. 77a Sr kijkt naar de leeftijd ten tijde van het feit: 12 jaar of ouder, maar nog geen 18."
+        },
+        {
+          "id": "b",
+          "text": "Het strafrecht voor volwassenen, want zij is 18 jaar als de zaak dient",
+          "feedback": "Onjuist. De leeftijd bij de zitting is niet bepalend. Art. 77a Sr kijkt naar de leeftijd op het moment van het feit."
+        },
+        {
+          "id": "c",
+          "text": "Geen strafrecht, omdat zij minderjarig was toen zij het feit pleegde",
+          "feedback": "Onjuist. Alleen kinderen onder 12 worden niet vervolgd (art. 486 Sv). Voor 12 tot 18 jaar geldt het jeugdstrafrecht."
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "Het jeugdstrafrecht geldt voor wie ten tijde van het feit 12 jaar of ouder was, maar nog geen 18 (art. 77a Sr).",
+      "sourceRefs": [
+        {
+          "law": "Wetboek van Strafrecht",
+          "article": "art. 77a"
+        },
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 486"
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "concept",
+      "version": "1.1",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m02-l08-3",
+      "moduleId": "m02",
+      "lessonId": "m02-l08",
+      "termIds": [],
+      "topic": "Halt-afdoening",
+      "level": "K",
+      "type": "mc",
+      "prompt": "Waar is bepaald voor welke strafbare feiten een Halt-afdoening mogelijk is?",
+      "options": [
+        {
+          "id": "a",
+          "text": "In de werkinstructie van je eigen organisatie of van Halt",
+          "feedback": "Onjuist. Een werkinstructie is beleid en kan niet bepalen welke feiten Halt-feiten zijn. Ook Halt bepaalt dat niet zelf. Dat regelt de wet via een AMvB."
+        },
+        {
+          "id": "b",
+          "text": "In de Algemene plaatselijke verordening (APV) van de gemeente",
+          "feedback": "Onjuist. De APV bepaalt niet welke feiten met Halt kunnen worden afgedaan. Dat staat in een algemene maatregel van bestuur."
+        },
+        {
+          "id": "c",
+          "text": "In een algemene maatregel van bestuur (art. 77e Sr)",
+          "feedback": "Juist. Art. 77e Sr bepaalt dat de feiten waarvoor Halt mogelijk is bij algemene maatregel van bestuur worden aangewezen."
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "De strafbare feiten waarvoor een Halt-afdoening mogelijk is, worden bij algemene maatregel van bestuur aangewezen (art. 77e Sr).",
+      "sourceRefs": [
+        {
+          "law": "Wetboek van Strafrecht",
+          "article": "art. 77e",
+          "verify": true
+        },
+        {
+          "law": "Besluit aanwijzing Halt-feiten",
+          "verify": true
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "juridische_review_nodig",
+      "reviewNote": "Controleren of art. 77e Sr de aanwijzing van Halt-feiten bij AMvB regelt en wat de actuele naam van die AMvB is.",
+      "version": "1.1",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m02-l08-4",
+      "moduleId": "m02",
+      "lessonId": "m02-l08",
+      "termIds": [],
+      "topic": "Ouders informeren",
+      "level": "T",
+      "type": "mc",
+      "case": "Je houdt de 15-jarige Noah aan en draagt hem over aan de politie.",
+      "prompt": "Wat is jouw belangrijkste taak met het oog op het informeren van zijn ouders?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Je belt zelf direct de ouders en vertelt welk feit Noah heeft gepleegd",
+          "feedback": "Onjuist. Het informeren van ouders bij ophouden voor onderzoek ligt bij de hulpofficier van justitie (art. 488b Sv). Jij zorgt dat de politie de leeftijd weet."
+        },
+        {
+          "id": "b",
+          "text": "Je meldt de politie direct dat Noah 15 jaar is",
+          "feedback": "Juist. Zo kan de politie de regels voor jongeren toepassen, zoals het zo snel mogelijk inlichten van de ouders of voogd (art. 488b Sv)."
+        },
+        {
+          "id": "c",
+          "text": "Je hoeft niets te doen, omdat ouders bij jongeren nooit worden ingelicht",
+          "feedback": "Onjuist. Bij ophouden voor onderzoek worden de ouders of voogd zo snel mogelijk ingelicht (art. 488b Sv)."
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "Wordt een jeugdige verdachte opgehouden voor onderzoek, dan licht de hulpofficier van justitie de ouders of voogd zo snel mogelijk in (art. 488b Sv). Jij zorgt dat de politie direct weet hoe oud de jongere is.",
+      "sourceRefs": [
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 488b",
+          "verify": true
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "juridische_review_nodig",
+      "reviewNote": "Controleren of art. 488b Sv de informatieplicht bij ophouden voor onderzoek bij de hulpofficier van justitie legt, en of een boa die aanhoudt een eigen informatieplicht heeft.",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m02-l08-5",
+      "moduleId": "m02",
+      "lessonId": "m02-l08",
+      "termIds": [],
+      "topic": "Halt-afdoening",
+      "level": "B",
+      "type": "truefalse",
+      "prompt": "Stelling: een Halt-afdoening is bedoeld voor jongeren van 12 tot 18 jaar die een licht strafbaar feit hebben gepleegd.",
+      "correctAnswer": true,
+      "feedbackTrue": "Juist. Halt is een snelle afdoening voor jongeren in de leeftijd van het jeugdstrafrecht, voor feiten die bij AMvB zijn aangewezen (art. 77e Sr).",
+      "feedbackFalse": "Onjuist. Halt is wel bedoeld voor jongeren van 12 tot 18 jaar en voor lichte feiten die bij AMvB zijn aangewezen (art. 77e Sr).",
+      "explanation": "Art. 77e Sr regelt de Halt-afdoening voor jongeren die onder het jeugdstrafrecht vallen (art. 77a Sr), voor feiten die bij AMvB zijn aangewezen.",
+      "sourceRefs": [
+        {
+          "law": "Wetboek van Strafrecht",
+          "article": "art. 77e",
+          "verify": true
+        },
+        {
+          "law": "Wetboek van Strafrecht",
+          "article": "art. 77a"
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "juridische_review_nodig",
+      "reviewNote": "Controleren of art. 77e Sr verwijst naar de leeftijdsgroep van art. 77a Sr (12 tot 18 jaar ten tijde van het feit).",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m02-l08-6",
+      "moduleId": "m02",
+      "lessonId": "m02-l08",
+      "termIds": [],
+      "topic": "Benadering jongeren",
+      "level": "T",
+      "type": "mc",
+      "case": "Je spreekt een groep van vier jongeren aan die bij een bushokje afval op de grond gooien. Eén jongen, Milan, reageert brutaal. Zijn vrienden lachen.",
+      "prompt": "Welke aanpak past het best bij een professionele benadering van jongeren?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Je zet Milan voor zijn vrienden op zijn plek, zodat de groep ziet wie de baas is",
+          "feedback": "Onjuist. Iemand voor schut zetten maakt de situatie vaak erger. Een rustige, respectvolle aanpak werkt beter. Dit is professionaliteit, geen bevoegdheidsvraag."
+        },
+        {
+          "id": "b",
+          "text": "Je laat het gaan, omdat jongeren onder 18 toch niet bestraft kunnen worden",
+          "feedback": "Onjuist. Jongeren van 12 tot 18 vallen onder het jeugdstrafrecht (art. 77a Sr). Je kunt dus wel optreden binnen je bevoegdheden."
+        },
+        {
+          "id": "c",
+          "text": "Je blijft rustig, spreekt Milan apart aan en legt uit wat er mis is",
+          "feedback": "Juist. Een rustige, duidelijke en respectvolle benadering helpt een jongere om te begrijpen wat er gebeurt en voorkomt escalatie."
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "Jongeren van 12 tot 18 vallen onder het jeugdstrafrecht (art. 77a Sr). Hoe je hen benadert is geen wettelijke bevoegdheid, maar professionaliteit: rustig, duidelijk en respectvol.",
+      "sourceRefs": [
+        {
+          "law": "Wetboek van Strafrecht",
+          "article": "art. 77a"
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "concept",
+      "version": "1.1",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m02-l09-1",
+      "moduleId": "m02",
+      "lessonId": "m02-l09",
+      "termIds": [],
+      "topic": "Plicht tot proces-verbaal",
+      "level": "K",
+      "type": "mc",
+      "prompt": "Wanneer moet je als opsporingsambtenaar volgens artikel 152 Sv een proces-verbaal opmaken?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Alleen als de officier van justitie er later om vraagt",
+          "feedback": "Onjuist. Art. 152 Sv legt de plicht direct bij de opsporingsambtenaar. Je wacht niet op een verzoek."
+        },
+        {
+          "id": "b",
+          "text": "Alleen als de verdachte het feit ontkent of niet meewerkt",
+          "feedback": "Onjuist. Of de verdachte bekent, ontkent of meewerkt, maakt niet uit. Je maakt altijd proces-verbaal op van wat je hebt opgespoord (art. 152 Sv)."
+        },
+        {
+          "id": "c",
+          "text": "Zo snel mogelijk nadat je een strafbaar feit opspoorde",
+          "feedback": "Juist. Art. 152 Sv bepaalt dat opsporingsambtenaren ten spoedigste proces-verbaal opmaken van het opgespoorde feit en van wat zij hebben verricht of bevonden."
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "Opsporingsambtenaren maken ten spoedigste proces-verbaal op van het strafbare feit dat zij hebben opgespoord en van wat zij voor de opsporing hebben gedaan of ontdekt (art. 152 Sv).",
+      "sourceRefs": [
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 152"
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "concept",
+      "version": "1.1",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m02-l09-2",
+      "moduleId": "m02",
+      "lessonId": "m02-l09",
+      "termIds": [],
+      "topic": "Vereisten proces-verbaal",
+      "level": "K",
+      "type": "mc",
+      "prompt": "Op welke manier maak je een proces-verbaal op volgens artikel 153 Sv?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Op ambtseed of ambtsbelofte, en je ondertekent het",
+          "feedback": "Juist. Art. 153 Sv bepaalt dat het proces-verbaal op ambtseed of ambtsbelofte wordt opgemaakt en ondertekend."
+        },
+        {
+          "id": "b",
+          "text": "Samen met de verdachte, die het proces-verbaal ook ondertekent",
+          "feedback": "Onjuist. De verdachte hoeft jouw proces-verbaal niet te ondertekenen. Jij maakt het op ambtseed of ambtsbelofte op."
+        },
+        {
+          "id": "c",
+          "text": "Na goedkeuring van de tekst door je leidinggevende",
+          "feedback": "Onjuist. Goedkeuring door een leidinggevende is geen wettelijke eis. Het proces-verbaal geeft jouw eigen waarneming weer, op ambtseed of ambtsbelofte."
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "Een proces-verbaal wordt opgemaakt op ambtseed of ambtsbelofte en ondertekend door de opsporingsambtenaar (art. 153 Sv).",
+      "sourceRefs": [
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 153",
+          "verify": true
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "juridische_review_nodig",
+      "reviewNote": "Controleren van de actuele formulering en ledenindeling van art. 153 Sv (ambtseed/ambtsbelofte, ondertekenen).",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m02-l09-3",
+      "moduleId": "m02",
+      "lessonId": "m02-l09",
+      "termIds": [],
+      "topic": "Bewijswaarde proces-verbaal",
+      "level": "B",
+      "type": "mc",
+      "prompt": "Waarom heeft het proces-verbaal van een opsporingsambtenaar bijzondere bewijswaarde?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Omdat de verdachte het proces-verbaal nooit mag tegenspreken",
+          "feedback": "Onjuist. De verdachte mag de inhoud altijd betwisten. De rechter beoordeelt het bewijs."
+        },
+        {
+          "id": "b",
+          "text": "Omdat de rechter het bewijs van het feit mag aannemen op alleen dat proces-verbaal",
+          "feedback": "Juist. Art. 344 lid 2 Sv bepaalt dat het bewijs dat de verdachte het feit heeft begaan kan worden aangenomen op het proces-verbaal van een opsporingsambtenaar alleen."
+        },
+        {
+          "id": "c",
+          "text": "Omdat de rechter verplicht is alles uit het proces-verbaal als waar aan te nemen",
+          "feedback": "Onjuist. De rechter mag het proces-verbaal als enig bewijs gebruiken, maar is daartoe niet verplicht. Hij weegt het bewijs zelf (art. 344 lid 2 Sv)."
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "Het proces-verbaal van een opsporingsambtenaar met eigen waarnemingen is een wettig bewijsmiddel (art. 344 lid 1 onder 2 Sv). De rechter mag het bewijs van het feit daarop alleen aannemen (art. 344 lid 2 Sv).",
+      "sourceRefs": [
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 344 lid 1 onder 2"
+        },
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 344 lid 2"
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "concept",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m02-l09-4",
+      "moduleId": "m02",
+      "lessonId": "m02-l09",
+      "termIds": [],
+      "topic": "Objectief schrijven",
+      "level": "T",
+      "type": "mc",
+      "prompt": "Welke zin is het best geschreven voor een proces-verbaal?",
+      "options": [
+        {
+          "id": "a",
+          "text": "\"De man was duidelijk dronken en gedroeg zich erg agressief tegen mij.\"",
+          "feedback": "Onjuist. \"Dronken\" en \"agressief\" zijn conclusies. De rechter kan niet controleren waarop je ze baseert. Beschrijf wat je zag en hoorde."
+        },
+        {
+          "id": "b",
+          "text": "\"Ik had sterk het gevoel dat de man iets vervelends van plan was.\"",
+          "feedback": "Onjuist. Een gevoel is geen waarneming. Een proces-verbaal bevat feiten en omstandigheden die je zelf hebt waargenomen (art. 344 lid 1 onder 2 Sv)."
+        },
+        {
+          "id": "c",
+          "text": "\"Ik zag dat de man wankelde. Ik rook een alcohollucht uit zijn mond.\"",
+          "feedback": "Juist. Dit zijn concrete eigen waarnemingen in de ik-vorm. Daarmee kan de rechter zelf een oordeel vormen (art. 344 lid 1 onder 2 Sv)."
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "Een proces-verbaal heeft bewijswaarde voor wat de opsporingsambtenaar zelf heeft waargenomen of ondervonden (art. 344 lid 1 onder 2 Sv). Schrijf daarom concreet en in de ik-vorm, zonder conclusies.",
+      "sourceRefs": [
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 344 lid 1 onder 2"
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "concept",
+      "version": "1.1",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m02-l09-5",
+      "moduleId": "m02",
+      "lessonId": "m02-l09",
+      "termIds": [],
+      "topic": "Eigen waarneming en verklaringen",
+      "level": "T",
+      "type": "mc",
+      "case": "Je komt aan bij een kapotte bank in het park. Je hebt de vernieling zelf niet gezien. Mevrouw De Groot vertelt je dat zij zag dat een jongen in een rode jas tegen de bank schopte.",
+      "prompt": "Hoe neem je dit op in je proces-verbaal?",
+      "options": [
+        {
+          "id": "a",
+          "text": "\"Ik zag dat een jongen in een rode jas tegen de bank in het park schopte.\"",
+          "feedback": "Onjuist. Dit heb je niet zelf gezien. Je mag de waarneming van een ander niet als je eigen waarneming opschrijven."
+        },
+        {
+          "id": "b",
+          "text": "\"Mevrouw De Groot verklaarde mij dat zij zag dat een jongen in een rode jas tegen de bank schopte.\"",
+          "feedback": "Juist. Je scheidt de verklaring van de getuige van je eigen waarneming en noemt wie het zei. Zo is de bron controleerbaar."
+        },
+        {
+          "id": "c",
+          "text": "\"Een jongen in een rode jas heeft de bank in het park opzettelijk vernield.\"",
+          "feedback": "Onjuist. Hier staat niet van wie de informatie komt. Ook trek je zelf een conclusie. Noem altijd de bron en scheid eigen waarneming van verklaringen."
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "Het proces-verbaal geeft bewijs voor wat je zelf hebt waargenomen (art. 344 lid 1 onder 2 Sv). Wat een ander je vertelt, schrijf je op als verklaring van die persoon, met de naam van de bron.",
+      "sourceRefs": [
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 344 lid 1 onder 2"
+        },
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 152"
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "concept",
+      "version": "1.1",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m02-l09-6",
+      "moduleId": "m02",
+      "lessonId": "m02-l09",
+      "termIds": [],
+      "topic": "Opbouw proces-verbaal",
+      "level": "B",
+      "type": "match",
+      "prompt": "Koppel elke W-vraag aan het juiste voorbeeld uit een proces-verbaal.",
+      "pairs": [
+        {
+          "left": "Wie",
+          "right": "De verdachte is Peter Jansen, geboren op 3 maart 1990."
+        },
+        {
+          "left": "Wanneer",
+          "right": "Op dinsdag 14 oktober omstreeks 10:15 uur."
+        },
+        {
+          "left": "Waar",
+          "right": "Op het Kerkplein, ter hoogte van huisnummer 12."
+        },
+        {
+          "left": "Waarom",
+          "right": "Naar aanleiding van een melding over afval naast de container."
+        },
+        {
+          "left": "Hoe",
+          "right": "Ik hield de verdachte staande en vroeg naar zijn identiteit."
+        }
+      ],
+      "explanation": "Een goed proces-verbaal (art. 152 Sv) beantwoordt de W-vragen: wie, wat, waar, wanneer, waarom en hoe. Zo is het volledig en controleerbaar.",
+      "sourceRefs": [
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 152"
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "concept",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Inbeslagneming",
+      "definition": "Het onder zich nemen of gaan houden van een voorwerp ten behoeve van de strafvordering.",
+      "moduleId": "m02",
+      "sourceRefs": [
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 134 lid 1"
+        },
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 94"
+        }
+      ],
+      "reviewStatus": "concept"
+    },
+    {
+      "term": "Machtiging tot binnentreden",
+      "definition": "Schriftelijke toestemming van een daartoe bevoegde autoriteit om een woning zonder toestemming van de bewoner binnen te gaan.",
+      "moduleId": "m02",
+      "sourceRefs": [
+        {
+          "law": "Algemene wet op het binnentreden",
+          "article": "art. 2"
+        },
+        {
+          "law": "Algemene wet op het binnentreden",
+          "article": "art. 3",
+          "verify": true
+        }
+      ],
+      "reviewStatus": "concept"
+    },
+    {
+      "term": "Halt-afdoening",
+      "definition": "Een buitengerechtelijke afdoening voor jongeren van 12 tot 18 jaar bij lichte strafbare feiten die bij AMvB zijn aangewezen; na goede afronding volgt geen strafzaak.",
+      "moduleId": "m02",
+      "sourceRefs": [
+        {
+          "law": "Wetboek van Strafrecht",
+          "article": "art. 77e",
+          "verify": true
+        }
+      ],
+      "reviewStatus": "concept"
+    },
+    {
+      "term": "Proces-verbaal",
+      "definition": "Een schriftelijk verslag dat een opsporingsambtenaar op ambtseed of ambtsbelofte opmaakt van een opgespoord strafbaar feit en van wat hij voor de opsporing heeft gedaan of ontdekt.",
+      "moduleId": "m02",
+      "sourceRefs": [
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 152"
+        },
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 153",
+          "verify": true
+        }
+      ],
+      "reviewStatus": "concept"
+    }
+  ]
+}

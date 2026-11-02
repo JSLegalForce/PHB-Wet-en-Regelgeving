@@ -1,0 +1,507 @@
+{
+  "moduleId": "m10",
+  "lessons": [
+    {
+      "id": "m10-l01",
+      "moduleId": "m10",
+      "order": 1,
+      "title": "Vissen en controle",
+      "minutes": 15,
+      "termIds": [],
+      "objectives": [
+        {
+          "text": "Je weet dat je in binnenwateren alleen mag vissen met een visrecht of schriftelijke toestemming van de visrechthebbende.",
+          "level": "K"
+        },
+        {
+          "text": "Je begrijpt de rol van de VISpas en de lijst van viswateren als schriftelijke toestemming.",
+          "level": "B"
+        },
+        {
+          "text": "Je weet dat overtreding van de Visserijwet 1963 via de WED strafbaar is.",
+          "level": "K"
+        },
+        {
+          "text": "Je kunt een viscontrole uitvoeren binnen je eigen bevoegdheden.",
+          "level": "T"
+        }
+      ],
+      "screens": [
+        {
+          "type": "objectives",
+          "title": "Leerdoelen"
+        },
+        {
+          "type": "law",
+          "title": "Artikel 21 Visserijwet 1963: vissen met toestemming",
+          "ref": {
+            "law": "Visserijwet 1963",
+            "article": "art. 21",
+            "verify": true
+          },
+          "body": "In binnenwateren mag je alleen vissen als je zelf het **visrecht** hebt, of als je **schriftelijke toestemming** hebt van degene die het visrecht heeft.\n\nWie heeft het visrecht? Dat is de eigenaar van het water, of iemand die het visrecht huurt. Vaak is dat een hengelsportvereniging.\n\nDe wet kent een paar uitzonderingen, bijvoorbeeld voor jonge kinderen die onder begeleiding vissen. Controleer in de wettekst welke uitzonderingen precies gelden voordat je een overtreding vaststelt.\n\nDe eisen aan een schriftelijke toestemming staan elders in de Visserijwet 1963."
+        },
+        {
+          "type": "text",
+          "title": "VISpas en lijst van viswateren",
+          "body": "In de praktijk krijgen de meeste sportvissers hun toestemming via een **VISpas**. Die krijg je als lid van een hengelsportvereniging.\n\nDe VISpas hoort bij een **lijst van viswateren**. Op die lijst staat waar de visser mag vissen en onder welke voorwaarden. Die lijst kan op papier zijn of in een app.\n\nLet op: de VISpas is geen overheidsvergunning. Het is een schriftelijke toestemming van de visrechthebbenden. Bij een controle kijk je dus:\n- heeft de visser een geldige toestemming?\n- geldt die toestemming voor dit water?\n- houdt de visser zich aan de voorwaarden?"
+        },
+        {
+          "type": "law",
+          "title": "Handhaving: WED en controlebevoegdheden",
+          "ref": {
+            "law": "Wet op de economische delicten",
+            "article": "art. 1a",
+            "verify": true
+          },
+          "body": "Een aantal artikelen van de Visserijwet 1963 staat in **artikel 1a WED**. Overtreding daarvan is dus een economisch delict. Daarmee gelden ook de WED-bevoegdheden en de medewerkingsplicht uit module 8.\n\nDe Visserijwet 1963 heeft daarnaast eigen controlebepalingen. Zo moet een visser op vordering van een opsporingsambtenaar zijn visdocumenten ter inzage geven. De wet geeft ook een bevoegdheid tot inbeslagneming.\n\nRegels over vistuigen, vistijden en gesloten tijden staan vooral in uitvoeringsregelingen, zoals het Reglement voor de binnenvisserij 1985.\n\nAls boa gebruik je deze bevoegdheden alleen als je **akte en domeinlijst** de Visserijwet 1963 noemen."
+        },
+        {
+          "type": "example",
+          "title": "Praktijk: controle aan de vijver",
+          "body": "Boa Sanne surveilleert in het park. Haar akte en domeinlijst geven haar bevoegdheid voor de Visserijwet 1963. Bij de vijver vist een man met twee hengels.\n\nSanne stelt zich voor en laat haar legitimatiebewijs zien. Zij vraagt de man om zijn visdocumenten. De man, meneer Bakker, laat een geldige VISpas zien. Sanne kijkt op de lijst van viswateren of de vijver erop staat. Dat is zo.\n\nZij controleert ook of hij zich houdt aan de voorwaarden op de lijst. Alles klopt. Sanne bedankt meneer Bakker en loopt verder."
+        },
+        {
+          "type": "exercise",
+          "title": "Oefening: koppel de regel",
+          "questionId": "q-m10-l01-6"
+        },
+        {
+          "type": "check",
+          "title": "Kennischeck",
+          "questionIds": [
+            "q-m10-l01-1",
+            "q-m10-l01-2",
+            "q-m10-l01-3",
+            "q-m10-l01-4",
+            "q-m10-l01-5"
+          ]
+        },
+        {
+          "type": "summary",
+          "title": "Samenvatting"
+        }
+      ],
+      "summary": [
+        "In binnenwateren mag je alleen vissen met een visrecht of met schriftelijke toestemming van de visrechthebbende (art. 21 Visserijwet 1963).",
+        "De VISpas met de lijst van viswateren is in de praktijk de schriftelijke toestemming voor de meeste sportvissers.",
+        "Een visser moet zijn visdocumenten op vordering van een opsporingsambtenaar ter inzage geven.",
+        "Een aantal artikelen van de Visserijwet 1963 is via artikel 1a WED een economisch delict.",
+        "Je gebruikt bevoegdheden uit de Visserijwet 1963 en de WED alleen als je akte en domeinlijst dat toelaten."
+      ],
+      "sourceRefs": [
+        {
+          "law": "Visserijwet 1963",
+          "article": "art. 21",
+          "verify": true
+        },
+        {
+          "law": "Visserijwet 1963",
+          "article": "art. 23",
+          "note": "eisen aan schriftelijke toestemming",
+          "verify": true
+        },
+        {
+          "law": "Visserijwet 1963",
+          "article": "art. 55",
+          "note": "medewerking en inzage visdocumenten",
+          "verify": true
+        },
+        {
+          "law": "Visserijwet 1963",
+          "article": "art. 62",
+          "note": "inbeslagneming",
+          "verify": true
+        },
+        {
+          "law": "Wet op de economische delicten",
+          "article": "art. 1a",
+          "verify": true
+        },
+        {
+          "law": "Reglement voor de binnenvisserij 1985",
+          "verify": true
+        }
+      ],
+      "reviewStatus": "juridische_review_nodig",
+      "reviewNote": "De wettekst van de Visserijwet 1963 kon niet rechtstreeks worden geraadpleegd; de artikelnummers komen uit een secundaire bron (veldgids controle visdocumenten 2026). Te controleren: (1) art. 21 lid 1 en de uitzonderingen in lid 2 (o.a. jeugd onder begeleiding). (2) Art. 23 als artikel met eisen aan de schriftelijke toestemming. (3) Art. 55: plicht om visdocumenten op eerste vordering ter inzage te geven, en of het niet bij zich hebben (lid 3) zelfstandig strafbaar is. (4) Art. 62 als grondslag voor inbeslagneming van vistuig. (5) Welke artikelen van de Visserijwet 1963 precies in art. 1a WED staan. (6) Of het Reglement voor de binnenvisserij 1985 de juiste regeling is voor vistuigen en vistijden. (7) Of de Visserijwet 1963 op de standaard domeinlijst Domein I staat of apart moet worden toegekend.",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    }
+  ],
+  "questions": [
+    {
+      "id": "q-m10-l01-1",
+      "moduleId": "m10",
+      "lessonId": "m10-l01",
+      "termIds": [],
+      "topic": "Vissen met toestemming",
+      "level": "K",
+      "type": "mc",
+      "prompt": "Wanneer mag iemand in een binnenwater vissen volgens de Visserijwet 1963?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Altijd, zolang hij met maximaal één hengel vist",
+          "feedback": "Onjuist. Het aantal hengels bepaalt niet of je mag vissen. Je hebt een visrecht of schriftelijke toestemming nodig (art. 21 Visserijwet 1963)."
+        },
+        {
+          "id": "b",
+          "text": "Als hij een vergunning van de gemeente heeft",
+          "feedback": "Onjuist. De toestemming komt niet van de gemeente als overheid, maar van degene die het visrecht heeft."
+        },
+        {
+          "id": "c",
+          "text": "Met een visrecht of schriftelijke toestemming van de rechthebbende",
+          "feedback": "Juist. Volgens artikel 21 Visserijwet 1963 mag je alleen vissen als je het visrecht hebt of schriftelijke toestemming van de visrechthebbende."
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "Artikel 21 Visserijwet 1963: vissen in binnenwateren mag alleen door wie het visrecht heeft of door wie schriftelijke toestemming heeft van de visrechthebbende. Er gelden enkele uitzonderingen.",
+      "sourceRefs": [
+        {
+          "law": "Visserijwet 1963",
+          "article": "art. 21",
+          "verify": true
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "juridische_review_nodig",
+      "reviewNote": "Artikel 21 lid 1 Visserijwet 1963 en de exacte formulering van de uitzonderingen in lid 2 controleren in de wettekst.",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m10-l01-2",
+      "moduleId": "m10",
+      "lessonId": "m10-l01",
+      "termIds": [],
+      "topic": "VISpas",
+      "level": "B",
+      "type": "mc",
+      "prompt": "Wat is de VISpas juridisch gezien?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Een schriftelijke toestemming van visrechthebbenden",
+          "feedback": "Juist. De VISpas, samen met de lijst van viswateren, is een schriftelijke toestemming van de visrechthebbenden, zoals bedoeld in artikel 21 Visserijwet 1963."
+        },
+        {
+          "id": "b",
+          "text": "Een overheidsvergunning op grond van de Omgevingswet",
+          "feedback": "Onjuist. De VISpas wordt niet door de overheid verleend en heeft niets met de Omgevingswet te maken."
+        },
+        {
+          "id": "c",
+          "text": "Een identiteitsbewijs volgens de Wet op de identificatieplicht",
+          "feedback": "Onjuist. De VISpas is geen identiteitsbewijs. Het is een document met toestemming om te vissen."
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "Vissen mag alleen met visrecht of schriftelijke toestemming van de rechthebbende (art. 21 Visserijwet 1963). Hengelsportverenigingen die het visrecht hebben, geven die toestemming via de VISpas en de lijst van viswateren.",
+      "sourceRefs": [
+        {
+          "law": "Visserijwet 1963",
+          "article": "art. 21",
+          "verify": true
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "juridische_review_nodig",
+      "reviewNote": "Controleren of de VISpas met lijst van viswateren juridisch correct wordt aangeduid als schriftelijke toestemming in de zin van art. 21 Visserijwet 1963.",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m10-l01-3",
+      "moduleId": "m10",
+      "lessonId": "m10-l01",
+      "termIds": [],
+      "topic": "Controle visdocumenten",
+      "level": "T",
+      "type": "mc",
+      "case": "Je bent boa en je akte en domeinlijst noemen de Visserijwet 1963. Je ziet mevrouw Yilmaz vissen in een vijver. Je vraagt haar om haar visdocumenten. Ze laat een VISpas zien, maar de vijver staat niet op de lijst van viswateren.",
+      "prompt": "Wat is de juiste conclusie?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Alles is in orde, want ze heeft een geldige VISpas",
+          "feedback": "Onjuist. De VISpas geeft alleen toestemming voor de wateren op de lijst. Voor deze vijver heeft zij geen toestemming."
+        },
+        {
+          "id": "b",
+          "text": "Ze vist zonder toestemming voor dit water",
+          "feedback": "Juist. Zonder toestemming voor dit water vist zij in strijd met artikel 21 Visserijwet 1963. Je stelt de overtreding vast volgens je instructies."
+        },
+        {
+          "id": "c",
+          "text": "Je moet eerst de politie bellen voordat je iets mag doen",
+          "feedback": "Onjuist. Je bent zelf bevoegd volgens je akte en domeinlijst. De politie is niet nodig om de overtreding vast te stellen."
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "Een schriftelijke toestemming geldt alleen voor de wateren en voorwaarden die erin staan. Vist iemand in een ander water, dan heeft zij daar geen toestemming (art. 21 Visserijwet 1963). Overtreding is via artikel 1a WED strafbaar.",
+      "sourceRefs": [
+        {
+          "law": "Visserijwet 1963",
+          "article": "art. 21",
+          "verify": true
+        },
+        {
+          "law": "Wet op de economische delicten",
+          "article": "art. 1a"
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "juridische_review_nodig",
+      "reviewNote": "Controleren of art. 21 Visserijwet 1963 (het juiste lid) in art. 1a WED is opgenomen, en of het juiste lid wordt genoemd.",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m10-l01-4",
+      "moduleId": "m10",
+      "lessonId": "m10-l01",
+      "termIds": [],
+      "topic": "Handhaving via de WED",
+      "level": "K",
+      "type": "mc",
+      "prompt": "Via welke wet zijn overtredingen van de Visserijwet 1963 strafbaar?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Via de Wet op de economische delicten",
+          "feedback": "Juist. Een aantal artikelen van de Visserijwet 1963 staat in artikel 1a WED. Overtreding daarvan is een economisch delict."
+        },
+        {
+          "id": "b",
+          "text": "Via de Algemene plaatselijke verordening",
+          "feedback": "Onjuist. De APV is een gemeentelijke regeling. De strafbaarheid van de Visserijwet 1963 loopt via de WED."
+        },
+        {
+          "id": "c",
+          "text": "Via de Wet Mulder",
+          "feedback": "Onjuist. De Wet Mulder gaat over verkeersovertredingen. Overtredingen van de Visserijwet 1963 lopen via de WED."
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "Artikel 1a WED noemt onder meer artikelen van de Visserijwet 1963. Overtreding daarvan is een economisch delict. Daardoor gelden ook de WED-bevoegdheden en de medewerkingsplicht.",
+      "sourceRefs": [
+        {
+          "law": "Wet op de economische delicten",
+          "article": "art. 1a",
+          "verify": true
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "juridische_review_nodig",
+      "version": "1.0",
+      "lastModified": "2026-11-02",
+      "reviewNote": "Controleer of de Visserijwet 1963 in art. 1a WED staat of (deels) in art. 1 onder 4° WED."
+    },
+    {
+      "id": "q-m10-l01-5",
+      "moduleId": "m10",
+      "lessonId": "m10-l01",
+      "termIds": [],
+      "topic": "Bevoegdheid boa",
+      "level": "B",
+      "type": "truefalse",
+      "prompt": "Stelling: iedere boa in Domein I mag automatisch vistuig in beslag nemen op grond van de Visserijwet 1963.",
+      "correctAnswer": false,
+      "feedbackTrue": "Niet juist. Je hebt alleen de bevoegdheden die je akte en domeinlijst je geven. Staat de Visserijwet 1963 daar niet op, dan mag je geen visserijbevoegdheden gebruiken.",
+      "feedbackFalse": "Goed. Een boa mag alleen optreden voor de wetten en bevoegdheden die in zijn akte en domeinlijst staan. Inbeslagneming moet bovendien redelijkerwijs nodig zijn.",
+      "explanation": "Een boa is alleen bevoegd voor de feiten en bevoegdheden in zijn akte en domeinlijst. De Visserijwet 1963 en de WED geven bevoegdheden tot inbeslagneming, maar alleen aan opsporingsambtenaren die voor deze feiten bevoegd zijn.",
+      "sourceRefs": [
+        {
+          "law": "Visserijwet 1963",
+          "article": "art. 62",
+          "verify": true
+        },
+        {
+          "law": "Wet op de economische delicten",
+          "article": "art. 18"
+        },
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 142"
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "juridische_review_nodig",
+      "reviewNote": "Controleren of art. 62 Visserijwet 1963 de inbeslagnemingsbevoegdheid bevat, en of de Visserijwet 1963 standaard op de domeinlijst Domein I staat.",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m10-l01-6",
+      "moduleId": "m10",
+      "lessonId": "m10-l01",
+      "termIds": [],
+      "topic": "Regels en bronnen",
+      "level": "K",
+      "type": "match",
+      "prompt": "Koppel elk onderwerp aan de regeling waar het staat.",
+      "pairs": [
+        {
+          "left": "Vissen alleen met visrecht of schriftelijke toestemming",
+          "right": "Art. 21 Visserijwet 1963"
+        },
+        {
+          "left": "Visserij-overtreding is een economisch delict",
+          "right": "Art. 1a WED"
+        },
+        {
+          "left": "Opzettelijk niet voldoen aan een WED-vordering",
+          "right": "Art. 26 WED"
+        },
+        {
+          "left": "Regels over vistuigen en vistijden",
+          "right": "Reglement voor de binnenvisserij 1985"
+        }
+      ],
+      "explanation": "De hoofdregel over toestemming staat in art. 21 Visserijwet 1963. De strafbaarheid loopt via art. 1a WED. Niet voldoen aan een WED-vordering is strafbaar via art. 26 WED. Details over vistuigen en vistijden staan in uitvoeringsregelingen, zoals het Reglement voor de binnenvisserij 1985.",
+      "sourceRefs": [
+        {
+          "law": "Visserijwet 1963",
+          "article": "art. 21",
+          "verify": true
+        },
+        {
+          "law": "Wet op de economische delicten",
+          "article": "art. 1a"
+        },
+        {
+          "law": "Wet op de economische delicten",
+          "article": "art. 26"
+        },
+        {
+          "law": "Reglement voor de binnenvisserij 1985",
+          "verify": true
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "juridische_review_nodig",
+      "reviewNote": "Controleren of het Reglement voor de binnenvisserij 1985 de juiste uitvoeringsregeling is voor vistuigen en vistijden, en art. 21 Visserijwet 1963.",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m10-l01-7",
+      "moduleId": "m10",
+      "lessonId": "m10-l01",
+      "termIds": [],
+      "topic": "Medewerking bij viscontrole",
+      "level": "T",
+      "type": "mc",
+      "case": "Je bent bevoegd voor de Visserijwet 1963. Je vordert van een visser, meneer De Vries, dat hij zijn visdocumenten laat zien. Hij weigert bewust en zegt: \"Dat gaat je niets aan.\"",
+      "prompt": "Wat klopt over de weigering van meneer De Vries?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Hij mag weigeren, want hij hoeft niet mee te werken aan zijn eigen veroordeling",
+          "feedback": "Onjuist. Het zwijgrecht gaat over het afleggen van een verklaring. Het laten zien van visdocumenten valt onder de medewerkingsplicht."
+        },
+        {
+          "id": "b",
+          "text": "Hij voldoet opzettelijk niet aan een vordering en dat is strafbaar",
+          "feedback": "Juist. Een visser moet zijn visdocumenten op vordering ter inzage geven. Opzettelijk niet voldoen aan een vordering is strafbaar."
+        },
+        {
+          "id": "c",
+          "text": "Je moet hem direct aanhouden voor visstroperij",
+          "feedback": "Onjuist. Je weet nog niet of hij zonder toestemming vist. Je stelt eerst het niet voldoen aan de vordering vast en handelt volgens je instructies."
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "De visser moet zijn visdocumenten op vordering van een opsporingsambtenaar ter inzage geven. Opzettelijk niet voldoen aan zo'n vordering is strafbaar. De juiste strafbepaling hangt af van de grondslag van de vordering: art. 26 WED bij een WED-vordering, of art. 184 Sr bij een vordering op grond van de Visserijwet 1963 zelf.",
+      "sourceRefs": [
+        {
+          "law": "Visserijwet 1963",
+          "article": "art. 55",
+          "verify": true
+        },
+        {
+          "law": "Wet op de economische delicten",
+          "article": "art. 26"
+        },
+        {
+          "law": "Wetboek van Strafrecht",
+          "article": "art. 184",
+          "verify": true
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "juridische_review_nodig",
+      "reviewNote": "Controleren: (1) of art. 55 Visserijwet 1963 de plicht bevat om visdocumenten op eerste vordering ter inzage te geven; (2) welke strafbepaling van toepassing is bij weigering: art. 26 WED of art. 184 Sr, afhankelijk van de grondslag van de vordering.",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Visrecht",
+      "definition": "Het recht om in een bepaald water te vissen. Dat recht heeft de eigenaar van het water of degene die het visrecht huurt.",
+      "moduleId": "m10",
+      "sourceRefs": [
+        {
+          "law": "Visserijwet 1963",
+          "article": "art. 21",
+          "verify": true
+        }
+      ],
+      "reviewStatus": "concept"
+    },
+    {
+      "term": "Schriftelijke toestemming",
+      "definition": "Toestemming op schrift van de visrechthebbende, waarmee iemand zonder eigen visrecht in een binnenwater mag vissen.",
+      "moduleId": "m10",
+      "sourceRefs": [
+        {
+          "law": "Visserijwet 1963",
+          "article": "art. 21 en art. 23",
+          "verify": true
+        }
+      ],
+      "reviewStatus": "concept"
+    },
+    {
+      "term": "VISpas",
+      "definition": "Document dat leden van een hengelsportvereniging krijgen. Samen met de lijst van viswateren geldt het als schriftelijke toestemming om te vissen.",
+      "moduleId": "m10",
+      "sourceRefs": [
+        {
+          "law": "Visserijwet 1963",
+          "article": "art. 21",
+          "verify": true
+        }
+      ],
+      "reviewStatus": "concept"
+    },
+    {
+      "term": "Lijst van viswateren",
+      "definition": "Lijst bij de VISpas met de wateren waar de visser mag vissen en de voorwaarden die daar gelden.",
+      "moduleId": "m10",
+      "sourceRefs": [
+        {
+          "law": "Visserijwet 1963",
+          "article": "art. 21",
+          "verify": true
+        }
+      ],
+      "reviewStatus": "concept"
+    },
+    {
+      "term": "Binnenwateren",
+      "definition": "Wateren zoals rivieren, kanalen, meren, vijvers en sloten waarop de regels van de Visserijwet 1963 voor de binnenvisserij gelden.",
+      "moduleId": "m10",
+      "sourceRefs": [
+        {
+          "law": "Visserijwet 1963",
+          "verify": true
+        }
+      ],
+      "reviewStatus": "concept"
+    }
+  ]
+}

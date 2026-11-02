@@ -1,0 +1,2548 @@
+{
+  "moduleId": "m04",
+  "lessons": [
+    {
+      "id": "m04-l01",
+      "moduleId": "m04",
+      "order": 1,
+      "title": "De APV en begripsbepalingen",
+      "minutes": 15,
+      "termIds": [],
+      "objectives": [
+        {
+          "text": "Je kunt uitleggen wat een APV is en waarom elke gemeente een eigen APV heeft.",
+          "level": "B"
+        },
+        {
+          "text": "Je kent de begrippen openbare plaats, weg en rechthebbende.",
+          "level": "K"
+        },
+        {
+          "text": "Je kunt een APV-artikel lezen: verbod, vergunning, ontheffing, uitzondering en aanwijzing.",
+          "level": "T"
+        }
+      ],
+      "screens": [
+        {
+          "type": "objectives",
+          "title": "Leerdoelen"
+        },
+        {
+          "type": "text",
+          "title": "Wat is een APV?",
+          "body": "APV staat voor Algemene plaatselijke verordening. Het is een regeling van de gemeenteraad. De raad mag verordeningen maken die hij in het belang van de gemeente nodig vindt (art. 149 Gemeentewet).\n\nIn de APV staan regels over openbare orde, veiligheid en overlast. Denk aan honden, alcohol op straat, collecteren en parkeeroverlast.\n\nDe VNG (Vereniging van Nederlandse Gemeenten) maakt een voorbeeld: de **Model-APV**. Veel gemeenten nemen die over, maar passen hem aan. Daarom verschillen APV's per gemeente.\n\n**Let op:** iedere gemeente heeft een eigen APV. De Model-APV van de VNG is alleen een voorbeeld. Nummers en tekst kunnen in jouw gemeente anders zijn. Controleer altijd de APV van jouw gemeente."
+        },
+        {
+          "type": "law",
+          "title": "Waarom is een APV-overtreding strafbaar?",
+          "ref": {
+            "law": "Gemeentewet",
+            "article": "art. 154"
+          },
+          "body": "Een APV is pas strafbaar als de verordening dat zelf regelt. Artikel 154 Gemeentewet geeft de raad die mogelijkheid. De straf mag niet hoger zijn dan hechtenis van ten hoogste drie maanden of een geldboete van de tweede categorie.\n\nIn de APV staat daarom een **strafbepaling**. Daarin staat welke artikelen strafbaar zijn. In de Model-APV is dat een artikel in het laatste hoofdstuk. Controleer het nummer in jouw APV.\n\nEen APV-overtreding is een **overtreding**, geen misdrijf. Jij mag de APV alleen handhaven als die in jouw akte en domein (Domein I Openbare ruimte) is opgenomen."
+        },
+        {
+          "type": "law",
+          "title": "Openbare plaats en weg",
+          "ref": {
+            "law": "Wet openbare manifestaties",
+            "article": "art. 1",
+            "verify": true,
+            "note": "Te controleren welk lid de definitie en de uitzondering voor gebouwen en besloten plaatsen bevat."
+          },
+          "body": "De Model-APV verwijst voor **openbare plaats** naar artikel 1 van de Wet openbare manifestaties. Kort gezegd: een plaats die door bestemming of vast gebruik openstaat voor publiek. Denk aan een plein, park of straat. Een gebouw of besloten plaats valt er niet onder.\n\nVoor **weg** verwijst de Model-APV naar de Wegenverkeerswet 1994. Daaronder vallen ook fietspaden, trottoirs en bermen.\n\n**Rechthebbende** is in APV-artikelen meestal de eigenaar of iemand anders met een recht op een zaak, bijvoorbeeld een huurder of gebruiker. Controleer de precieze omschrijving in de begripsbepalingen van jouw APV."
+        },
+        {
+          "type": "keypoints",
+          "title": "Zo lees je een APV-artikel",
+          "items": [
+            {
+              "term": "Verbod",
+              "text": "\"Het is verboden ...\": dit gedrag mag niet."
+            },
+            {
+              "term": "Vergunning",
+              "text": "\"... zonder vergunning van het college\": het mag alleen met toestemming vooraf."
+            },
+            {
+              "term": "Ontheffing",
+              "text": "\"Het college kan ontheffing verlenen\": het college geeft iemand in een bepaald geval toestemming om te doen wat het verbod verbiedt. Er is dan geen overtreding."
+            },
+            {
+              "term": "Uitzondering",
+              "text": "\"Het verbod is niet van toepassing op ...\": voor die situatie geldt het verbod niet."
+            },
+            {
+              "term": "Aanwijzing",
+              "text": "\"Op een door het college aangewezen plaats\": het verbod geldt alleen waar dat apart is besloten. Kijk in het aanwijzingsbesluit."
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": "Praktijk: welke APV geldt?",
+          "body": "Boa Lotte werkt voor twee gemeenten. In gemeente A heet het artikel over loslopende honden anders dan in gemeente B. Ook het nummer is anders.\n\nLotte ziet in gemeente B een losse hond op een grasveld. Ze controleert eerst de APV van gemeente B. Daarin staat dat het aanlijngebod alleen geldt op plaatsen die het college heeft aangewezen. Ze kijkt in het aanwijzingsbesluit. Het grasveld staat erin.\n\nPas dan weet Lotte dat er een overtreding is. In haar proces-verbaal noemt ze het juiste artikel uit de APV van gemeente B."
+        },
+        {
+          "type": "exercise",
+          "title": "Oefening",
+          "questionId": "q-m04-l01-1"
+        },
+        {
+          "type": "check",
+          "title": "Kennischeck",
+          "questionIds": [
+            "q-m04-l01-2",
+            "q-m04-l01-3",
+            "q-m04-l01-4",
+            "q-m04-l01-5",
+            "q-m04-l01-6"
+          ]
+        },
+        {
+          "type": "summary",
+          "title": "Samenvatting"
+        }
+      ],
+      "summary": [
+        "De APV is een verordening van de gemeenteraad (art. 149 Gemeentewet).",
+        "Iedere gemeente heeft een eigen APV; de Model-APV van de VNG is alleen een voorbeeld.",
+        "Een APV-overtreding is strafbaar door art. 154 Gemeentewet en de strafbepaling in de APV zelf.",
+        "Openbare plaats: plaats die door bestemming of vast gebruik openstaat voor publiek (art. 1 Wet openbare manifestaties).",
+        "Lees een APV-artikel op verbod, vergunning, ontheffing, uitzondering en aanwijzing."
+      ],
+      "sourceRefs": [
+        {
+          "law": "Gemeentewet",
+          "article": "art. 149"
+        },
+        {
+          "law": "Gemeentewet",
+          "article": "art. 154"
+        },
+        {
+          "law": "Wet openbare manifestaties",
+          "article": "art. 1",
+          "verify": true,
+          "note": "Te controleren welk lid de definitie en de uitzondering voor gebouwen en besloten plaatsen bevat."
+        },
+        {
+          "law": "Wegenverkeerswet 1994",
+          "article": "art. 1",
+          "verify": true,
+          "note": "Te controleren onderdeel met de definitie van 'weg'."
+        },
+        {
+          "law": "Model-APV (VNG)",
+          "article": "art. 1:1",
+          "note": "Nummering verschilt per gemeente; controleer de APV van jouw gemeente.",
+          "verify": true
+        },
+        {
+          "law": "Model-APV (VNG)",
+          "article": "art. 6:1",
+          "note": "Nummering verschilt per gemeente; controleer de APV van jouw gemeente.",
+          "verify": true
+        }
+      ],
+      "reviewStatus": "juridische_review_nodig",
+      "reviewNote": "Controleer: (1) Model-APV art. 1:1 (begripsbepalingen, verwijzingen naar art. 1 Wom en art. 1 WVW 1994) en art. 6:1 (strafbepaling) aan de actuele Model-APV; (2) welk lid van art. 1 Wom de definitie bevat; (3) of 'rechthebbende' in de Model-APV als algemeen begrip is gedefinieerd en zo ja met welke omschrijving; (4) of de APV in de domeinlijst Domein I staat zoals beschreven.",
+      "version": "1.1",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "m04-l02",
+      "moduleId": "m04",
+      "order": 2,
+      "title": "Ordeverstoring en overlast",
+      "minutes": 15,
+      "termIds": [],
+      "objectives": [
+        {
+          "text": "Je kent de APV-regels over samenscholing, wanordelijkheden, hinderlijk gedrag en het alcoholverbod.",
+          "level": "K"
+        },
+        {
+          "text": "Je begrijpt dat de APV-tekst bepaalt wie een bevel mag geven.",
+          "level": "B"
+        },
+        {
+          "text": "Je kunt bij overlast kiezen tussen zelf optreden en de politie inschakelen.",
+          "level": "T"
+        }
+      ],
+      "screens": [
+        {
+          "type": "objectives",
+          "title": "Leerdoelen"
+        },
+        {
+          "type": "law",
+          "title": "Samenscholing en wanordelijkheden",
+          "ref": {
+            "law": "Model-APV (VNG)",
+            "article": "art. 2:1",
+            "note": "Nummering verschilt per gemeente; controleer de APV van jouw gemeente.",
+            "verify": true
+          },
+          "body": "De Model-APV verbiedt deel te nemen aan een samenscholing of wanordelijkheden op een openbare plaats. Een samenscholing is een groep mensen die samen de openbare orde verstoort of dreigt te verstoren.\n\nBij ordeverstoring of ernstige vrees daarvoor moet je je verwijderen als een bevoegde ambtenaar dat beveelt. Wie dat bevel mag geven, staat in het artikel zelf. Vaak is dat de politie.\n\n**Let op:** iedere gemeente heeft een eigen APV. De Model-APV van de VNG is alleen een voorbeeld. Nummers en tekst kunnen in jouw gemeente anders zijn. Controleer altijd de APV van jouw gemeente."
+        },
+        {
+          "type": "law",
+          "title": "Hinderlijk gedrag",
+          "ref": {
+            "law": "Model-APV (VNG)",
+            "article": "art. 2:47",
+            "note": "Nummering verschilt per gemeente; controleer de APV van jouw gemeente.",
+            "verify": true
+          },
+          "body": "De Model-APV verbiedt hinderlijk gedrag op een openbare plaats. Bijvoorbeeld mensen lastigvallen of de doorgang hinderen.\n\nDe precieze tekst verschilt sterk per gemeente. Sommige APV's noemen ook gedrag in portieken of bij winkels. Lees het artikel in jouw APV goed. Kijk welke gedragingen er precies in staan.\n\nOok hier kan een bevel een rol spelen, bijvoorbeeld om je te verwijderen. Controleer wie dat bevel volgens jouw APV mag geven."
+        },
+        {
+          "type": "law",
+          "title": "Alcoholverbod op aangewezen plaatsen",
+          "ref": {
+            "law": "Model-APV (VNG)",
+            "article": "art. 2:48",
+            "note": "Nummering verschilt per gemeente; controleer de APV van jouw gemeente.",
+            "verify": true
+          },
+          "body": "De Model-APV verbiedt op aangewezen openbare plaatsen alcohol te drinken. Ook aangebroken flessen of blikjes met alcohol bij je hebben is daar verboden.\n\nHet verbod geldt alleen op plaatsen die zijn aangewezen. Kijk in het aanwijzingsbesluit en let op borden.\n\nDit verbod geldt voor iedereen, ook voor volwassenen. Het is iets anders dan art. 45 Alcoholwet. Dat artikel verbiedt jongeren onder de 18 om op voor publiek toegankelijke plaatsen alcohol bij zich te hebben. Zie module 6."
+        },
+        {
+          "type": "keypoints",
+          "title": "Wie geeft het bevel?",
+          "items": [
+            {
+              "term": "De APV-tekst bepaalt",
+              "text": "Lees wie in het artikel staat: bijvoorbeeld 'een ambtenaar van politie' of 'een toezichthouder'."
+            },
+            {
+              "term": "Alleen politie genoemd",
+              "text": "Dan mag jij dat bevel niet geven. Schakel de politie in."
+            },
+            {
+              "term": "Toezichthouder of boa genoemd",
+              "text": "Dan mag je het bevel alleen geven als je onder die omschrijving valt. Staat er 'toezichthouder', dan moet je daarvoor zijn aangewezen (art. 5:11 Awb). Proces-verbaal maak je alleen op als de APV in je akte en domein staat."
+            },
+            {
+              "term": "Veiligheid",
+              "text": "Bij geweld of een grote groep houd je afstand en roep je de politie in. De politie handhaaft de openbare orde (art. 3 Politiewet 2012)."
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": "Praktijk: bier op het plein",
+          "body": "Boa's Sanne en Mehmet lopen surveillance op het Stationsplein. Daar geldt een alcoholverbod. Er staat een bord bij de ingang van het plein.\n\nEen man van ongeveer 40 jaar zit op een bank met een geopend blikje bier. Sanne spreekt hem rustig aan. Ze legt uit dat hier een alcoholverbod geldt.\n\nZe houdt hem staande en vraagt naar zijn identiteitsbewijs. Mehmet let op de omgeving. Sanne maakt een proces-verbaal op voor het juiste APV-artikel van haar gemeente.\n\nEven later ontstaat verderop een vechtpartij tussen een groep. Sanne en Mehmet grijpen niet zelf in. Ze houden afstand en bellen de politie."
+        },
+        {
+          "type": "exercise",
+          "title": "Oefening",
+          "questionId": "q-m04-l02-1"
+        },
+        {
+          "type": "check",
+          "title": "Kennischeck",
+          "questionIds": [
+            "q-m04-l02-2",
+            "q-m04-l02-3",
+            "q-m04-l02-4",
+            "q-m04-l02-5",
+            "q-m04-l02-6"
+          ]
+        },
+        {
+          "type": "summary",
+          "title": "Samenvatting"
+        }
+      ],
+      "summary": [
+        "Samenscholing en wanordelijkheden op een openbare plaats zijn in de APV verboden.",
+        "Wie een bevel mag geven, staat in het APV-artikel zelf; vaak is dat alleen de politie.",
+        "Het alcoholverbod geldt alleen op aangewezen plaatsen en voor iedereen.",
+        "Art. 45 Alcoholwet (jongeren onder 18) is een andere regel dan het APV-alcoholverbod.",
+        "Bij geweld of grote groepen: afstand houden en de politie inschakelen."
+      ],
+      "sourceRefs": [
+        {
+          "law": "Model-APV (VNG)",
+          "article": "art. 2:1",
+          "note": "Nummering verschilt per gemeente; controleer de APV van jouw gemeente.",
+          "verify": true
+        },
+        {
+          "law": "Model-APV (VNG)",
+          "article": "art. 2:47",
+          "note": "Nummering verschilt per gemeente; controleer de APV van jouw gemeente.",
+          "verify": true
+        },
+        {
+          "law": "Model-APV (VNG)",
+          "article": "art. 2:48",
+          "note": "Nummering verschilt per gemeente; controleer de APV van jouw gemeente.",
+          "verify": true
+        },
+        {
+          "law": "Politiewet 2012",
+          "article": "art. 3"
+        },
+        {
+          "law": "Alcoholwet",
+          "article": "art. 45"
+        },
+        {
+          "law": "Gemeentewet",
+          "article": "art. 154"
+        },
+        {
+          "law": "Algemene wet bestuursrecht",
+          "article": "art. 5:11"
+        }
+      ],
+      "reviewStatus": "juridische_review_nodig",
+      "reviewNote": "Controleer aan de actuele Model-APV: (1) nummers en tekst van art. 2:1 (samenscholing), art. 2:47 (hinderlijk gedrag) en art. 2:48 (verboden drankgebruik); (2) wie in deze artikelen bevelen mag geven (alleen politie of ook toezichthouder/boa); (3) welk orgaan (college of burgemeester) plaatsen aanwijst voor het alcoholverbod.",
+      "version": "1.1",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "m04-l03",
+      "moduleId": "m04",
+      "order": 3,
+      "title": "Honden",
+      "minutes": 12,
+      "termIds": [],
+      "objectives": [
+        {
+          "text": "Je kent het aanlijngebod, de opruimplicht en de verboden plaatsen voor honden.",
+          "level": "K"
+        },
+        {
+          "text": "Je begrijpt wie verantwoordelijk is: de eigenaar of de houder.",
+          "level": "B"
+        },
+        {
+          "text": "Je kunt een hondenovertreding stap voor stap afhandelen.",
+          "level": "T"
+        }
+      ],
+      "screens": [
+        {
+          "type": "objectives",
+          "title": "Leerdoelen"
+        },
+        {
+          "type": "law",
+          "title": "Aanlijngebod en verboden plaatsen",
+          "ref": {
+            "law": "Model-APV (VNG)",
+            "article": "art. 2:57",
+            "note": "Nummering verschilt per gemeente; controleer de APV van jouw gemeente.",
+            "verify": true
+          },
+          "body": "De Model-APV verbiedt de eigenaar of houder van een hond om de hond los te laten lopen op aangewezen plaatsen. Daar moet de hond dus aan de lijn.\n\nOp plekken voor kinderen, zoals een kinderspeelplaats of zandbak, mag een hond vaak helemaal niet komen. Ook niet aangelijnd.\n\nWaar het aanlijngebod geldt, staat in een aanwijzingsbesluit. Vaak staan er borden.\n\n**Let op:** iedere gemeente heeft een eigen APV. De Model-APV van de VNG is alleen een voorbeeld. Nummers en tekst kunnen in jouw gemeente anders zijn. Controleer altijd de APV van jouw gemeente."
+        },
+        {
+          "type": "law",
+          "title": "Verontreiniging door honden",
+          "ref": {
+            "law": "Model-APV (VNG)",
+            "article": "art. 2:58",
+            "note": "Nummering verschilt per gemeente; controleer de APV van jouw gemeente.",
+            "verify": true
+          },
+          "body": "De Model-APV regelt de opruimplicht. Poept een hond op een plaats waar dat niet mag, dan moet de eigenaar of houder de uitwerpselen direct opruimen.\n\nVeel APV's verplichten de houder ook om een opruimmiddel bij zich te hebben, zoals een zakje. Ook kan de gemeente uitlaatplaatsen aanwijzen waar de hond wel mag poepen.\n\nKijk in jouw APV welke plaatsen onder de opruimplicht vallen en of het opruimmiddel verplicht is."
+        },
+        {
+          "type": "text",
+          "title": "Wie is verantwoordelijk?",
+          "body": "De APV richt zich tot de **eigenaar of houder** van de hond.\n\n- De **eigenaar** is degene van wie de hond is.\n- De **houder** is degene die op dat moment voor de hond zorgt, bijvoorbeeld een buurman of hondenuitlaatservice.\n\nLaat iemand anders de hond uit, dan spreek je dus degene aan die de hond op dat moment bij zich heeft.\n\nEen kind dat de hond uitlaat? Let op de leeftijd. Voor jongeren gelden aparte regels, zie module 2 (Jeugd en Halt)."
+        },
+        {
+          "type": "example",
+          "title": "Praktijk: hondenpoep op de stoep",
+          "body": "Boa Ingrid ziet in de Lindelaan een vrouw met een hond. De hond poept op het trottoir. De vrouw loopt door.\n\nIngrid weet dat haar APV de opruimplicht ook geldt op het trottoir. Ze spreekt de vrouw aan. De vrouw zegt: 'Het is niet mijn hond. Ik laat hem uit voor mijn zus.'\n\nIngrid legt uit dat de regel ook geldt voor wie de hond uitlaat. De vrouw is op dat moment houder. Ingrid houdt haar staande, vraagt naar haar identiteit en handelt de overtreding af volgens het APV-artikel van haar gemeente."
+        },
+        {
+          "type": "exercise",
+          "title": "Oefening",
+          "questionId": "q-m04-l03-1"
+        },
+        {
+          "type": "check",
+          "title": "Kennischeck",
+          "questionIds": [
+            "q-m04-l03-2",
+            "q-m04-l03-3",
+            "q-m04-l03-4",
+            "q-m04-l03-5",
+            "q-m04-l03-6"
+          ]
+        },
+        {
+          "type": "summary",
+          "title": "Samenvatting"
+        }
+      ],
+      "summary": [
+        "Het aanlijngebod geldt op plaatsen die de gemeente heeft aangewezen.",
+        "Op kinderspeelplaatsen en zandbakken mogen honden vaak helemaal niet komen.",
+        "De eigenaar of houder moet uitwerpselen direct opruimen waar dat in de APV staat.",
+        "De houder is degene die de hond op dat moment bij zich heeft.",
+        "Controleer altijd de APV en het aanwijzingsbesluit van jouw gemeente."
+      ],
+      "sourceRefs": [
+        {
+          "law": "Model-APV (VNG)",
+          "article": "art. 2:57",
+          "note": "Nummering verschilt per gemeente; controleer de APV van jouw gemeente.",
+          "verify": true
+        },
+        {
+          "law": "Model-APV (VNG)",
+          "article": "art. 2:58",
+          "note": "Nummering verschilt per gemeente; controleer de APV van jouw gemeente.",
+          "verify": true
+        },
+        {
+          "law": "Gemeentewet",
+          "article": "art. 154"
+        },
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 52"
+        },
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 27a"
+        }
+      ],
+      "reviewStatus": "juridische_review_nodig",
+      "reviewNote": "Controleer aan de actuele Model-APV: (1) nummers en tekst van art. 2:57 (loslopende honden, verbod op kinderspeelplaatsen en zandbakken, ook aangelijnd) en art. 2:58 (verontreiniging door honden, plicht opruimmiddel bij zich te hebben); (2) welk orgaan (college) de plaatsen aanwijst; (3) of de verwijzing naar module 2 (Jeugd en Halt) aansluit.",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "m04-l04",
+      "moduleId": "m04",
+      "order": 4,
+      "title": "Straatverkoop, collecteren en snuffelmarkten",
+      "minutes": 14,
+      "termIds": [],
+      "objectives": [
+        {
+          "text": "Je kent het verschil tussen collecteren, venten en een standplaats.",
+          "level": "K"
+        },
+        {
+          "text": "Je begrijpt wanneer een vergunning of ontheffing nodig is.",
+          "level": "B"
+        },
+        {
+          "text": "Je kunt een controle doen door naar de vergunning te vragen.",
+          "level": "T"
+        }
+      ],
+      "screens": [
+        {
+          "type": "objectives",
+          "title": "Leerdoelen"
+        },
+        {
+          "type": "law",
+          "title": "Collecteren",
+          "ref": {
+            "law": "Model-APV (VNG)",
+            "article": "art. 5:13",
+            "note": "Nummering verschilt per gemeente; controleer de APV van jouw gemeente.",
+            "verify": true
+          },
+          "body": "De Model-APV verbiedt zonder vergunning van het college geld of goederen in te zamelen op een openbare plaats of huis aan huis. Dat noemen we **collecteren**.\n\nBij een collecte krijgt de gever niets terug. Het geld of de spullen gaan naar een doel.\n\nGemeenten werken vaak met een collecterooster. Daarin staat welke instelling in welke week mag collecteren.\n\n**Let op:** iedere gemeente heeft een eigen APV. De Model-APV van de VNG is alleen een voorbeeld. Nummers en tekst kunnen in jouw gemeente anders zijn. Controleer altijd de APV van jouw gemeente."
+        },
+        {
+          "type": "law",
+          "title": "Venten en standplaatsen",
+          "ref": {
+            "law": "Model-APV (VNG)",
+            "article": "art. 5:14 en 5:17",
+            "note": "Nummering verschilt per gemeente; controleer de APV van jouw gemeente.",
+            "verify": true
+          },
+          "body": "Bij **venten** biedt iemand rondgaand goederen te koop aan, bijvoorbeeld langs de deuren of op straat. Bij een **standplaats** verkoopt iemand vanaf een vaste plek, zoals een kraam of wagen.\n\nVoor een standplaats is meestal een vergunning nodig. Voor venten verschilt het per gemeente. Veel gemeenten hebben de vergunningplicht voor venten afgeschaft of beperkt tot bepaalde tijden of plaatsen.\n\nEen weekmarkt valt meestal onder een aparte marktverordening, niet onder de APV."
+        },
+        {
+          "type": "law",
+          "title": "Snuffelmarkten",
+          "ref": {
+            "law": "Model-APV (VNG)",
+            "article": "art. 5:22",
+            "note": "Nummering verschilt per gemeente; controleer de APV van jouw gemeente.",
+            "verify": true
+          },
+          "body": "Een **snuffelmarkt** is een markt voor gebruikte spullen, curiosa of verzamelobjecten. Denk aan een rommelmarkt of vlooienmarkt. Het is geen gewone weekmarkt.\n\nDe Model-APV verbiedt een snuffelmarkt te organiseren zonder vergunning. De vergunning is voor de **organisator**, niet voor iedere verkoper.\n\nControleer in jouw APV welk bestuursorgaan de vergunning geeft en of er uitzonderingen zijn, bijvoorbeeld voor een kleine rommelmarkt van een school of vereniging."
+        },
+        {
+          "type": "keypoints",
+          "title": "Controle in de praktijk",
+          "items": [
+            {
+              "term": "Vraag naar de vergunning",
+              "text": "Vraag rustig of de persoon een vergunning of ontheffing heeft en laat die tonen."
+            },
+            {
+              "term": "Lees de voorwaarden",
+              "text": "Kijk naar datum, tijd, plaats en naam van de vergunninghouder."
+            },
+            {
+              "term": "Collecte of verkoop?",
+              "text": "Krijgt de gever iets terug? Dan is het verkoop. Zonder tegenprestatie is het een collecte."
+            },
+            {
+              "term": "Bevoegdheid",
+              "text": "Je treedt op als de APV in je akte en domein staat. Voor inzage in de vergunning kun je als toezichthouder ook de Awb gebruiken, zie module 3."
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": "Praktijk: collecte bij de supermarkt",
+          "body": "Boa Daan ziet twee mensen met een collectebus bij de ingang van een supermarkt. Ze vragen geld voor een dierenasiel.\n\nDaan vraagt vriendelijk naar de vergunning. Ze tonen een papier. Daan ziet dat de vergunning geldt voor de week van 12 tot en met 18 oktober. Vandaag is het 25 oktober.\n\nDaan legt uit dat de vergunning verlopen is. Hij vraagt hen te stoppen. Omdat ze direct meewerken, besluit hij volgens het handhavingsbeleid van zijn gemeente een waarschuwing te geven. Hij noteert de gegevens.\n\nLet op: het beleid bepaalt hier de keuze voor een waarschuwing. De bevoegdheid om op te treden komt uit de APV en zijn akte."
+        },
+        {
+          "type": "exercise",
+          "title": "Oefening",
+          "questionId": "q-m04-l04-1"
+        },
+        {
+          "type": "check",
+          "title": "Kennischeck",
+          "questionIds": [
+            "q-m04-l04-2",
+            "q-m04-l04-3",
+            "q-m04-l04-4",
+            "q-m04-l04-5",
+            "q-m04-l04-6"
+          ]
+        },
+        {
+          "type": "summary",
+          "title": "Samenvatting"
+        }
+      ],
+      "summary": [
+        "Collecteren is geld of goederen inzamelen zonder tegenprestatie; daarvoor is meestal een vergunning nodig.",
+        "Venten is rondgaand verkopen; een standplaats is verkopen vanaf een vaste plek.",
+        "Of venten vergunningplichtig is, verschilt per gemeente.",
+        "Wie een snuffelmarkt organiseert, heeft een vergunning nodig volgens de Model-APV.",
+        "Bij controle vraag je naar de vergunning en lees je de voorwaarden."
+      ],
+      "sourceRefs": [
+        {
+          "law": "Model-APV (VNG)",
+          "article": "art. 5:13",
+          "note": "Nummering verschilt per gemeente; controleer de APV van jouw gemeente.",
+          "verify": true
+        },
+        {
+          "law": "Model-APV (VNG)",
+          "article": "art. 5:14",
+          "note": "Nummering verschilt per gemeente; controleer de APV van jouw gemeente.",
+          "verify": true
+        },
+        {
+          "law": "Model-APV (VNG)",
+          "article": "art. 5:17",
+          "note": "Nummering verschilt per gemeente; controleer de APV van jouw gemeente.",
+          "verify": true
+        },
+        {
+          "law": "Model-APV (VNG)",
+          "article": "art. 5:22",
+          "note": "Nummering verschilt per gemeente; controleer de APV van jouw gemeente.",
+          "verify": true
+        },
+        {
+          "law": "Gemeentewet",
+          "article": "art. 154"
+        },
+        {
+          "law": "Algemene wet bestuursrecht",
+          "article": "art. 5:17"
+        }
+      ],
+      "reviewStatus": "juridische_review_nodig",
+      "reviewNote": "Controleer aan de actuele Model-APV: (1) nummers en tekst van art. 5:13 (collecteren), 5:14 (venten), 5:17 e.v. (standplaatsen) en 5:22 (snuffelmarkten); (2) welk orgaan (college of burgemeester) de snuffelmarktvergunning verleent en of de Model-APV uitzonderingen kent; (3) of de Model-APV voor venten nog een vergunningplicht bevat of dit aan de gemeente overlaat. Awb art. 5:17 (inzage zakelijke gegevens en bescheiden) is als verwijzing naar module 3 bedoeld. Redactie 2026-11-02: kernpunt 'Bevoegdheid' noemt inzage in de vergunning via de Awb (art. 5:17); controleren of de Model-APV zelf een plicht kent om de vergunning of ontheffing op eerste vordering te tonen, zodat de juiste grondslag wordt genoemd.",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "m04-l05",
+      "moduleId": "m04",
+      "order": 5,
+      "title": "Natuurlijke behoefte en vuur stoken",
+      "minutes": 13,
+      "termIds": [],
+      "objectives": [
+        {
+          "text": "Je kent het APV-verbod op wildplassen en het verbod op vuur stoken in de open lucht.",
+          "level": "K"
+        },
+        {
+          "text": "Je begrijpt het verschil tussen wildplassen en schennis (art. 239 Sr).",
+          "level": "B"
+        },
+        {
+          "text": "Je kunt bij een vuur in de open lucht handelen met oog voor brandgevaar.",
+          "level": "T"
+        }
+      ],
+      "screens": [
+        {
+          "type": "objectives",
+          "title": "Leerdoelen"
+        },
+        {
+          "type": "law",
+          "title": "Wildplassen",
+          "ref": {
+            "law": "Model-APV (VNG)",
+            "article": "artikel over het doen van natuurlijke behoeften op openbare plaatsen",
+            "note": "Artikelnummer in de Model-APV nog te controleren; nummering verschilt per gemeente.",
+            "verify": true
+          },
+          "body": "De APV verbiedt op een openbare plaats je behoefte te doen buiten een toilet of urinoir. In de volksmond heet dit **wildplassen**.\n\nHet verbod geldt op openbare plaatsen. Denk aan een straat, plein, park of steeg. Ook tegen een gevel of in een portiek.\n\nWildplassen is een APV-overtreding. Het is strafbaar via art. 154 Gemeentewet en de strafbepaling in de APV.\n\n**Let op:** iedere gemeente heeft een eigen APV. De Model-APV van de VNG is alleen een voorbeeld. Nummers en tekst kunnen in jouw gemeente anders zijn. Controleer altijd de APV van jouw gemeente."
+        },
+        {
+          "type": "law",
+          "title": "Niet verwarren met schennis",
+          "ref": {
+            "law": "Wetboek van Strafrecht",
+            "article": "art. 239",
+            "verify": true,
+            "note": "Controleren of nummer en omschrijving na de Wet seksuele misdrijven ongewijzigd zijn."
+          },
+          "body": "Art. 239 Wetboek van Strafrecht gaat over **schennis van de eerbaarheid**. Dat is een misdrijf. Het gaat om gedrag in het openbaar dat de eerbaarheid schendt, bijvoorbeeld iemand die zich bewust en aanstootgevend ontbloot.\n\nIemand die op straat plast, doet dat om een andere reden. Dat is meestal 'gewoon' wildplassen: een APV-overtreding.\n\nTwijfel je, bijvoorbeeld omdat iemand zich duidelijk naar anderen toe ontbloot? Schakel dan de politie in. Kies niet zelf het zwaardere feit zonder overleg."
+        },
+        {
+          "type": "law",
+          "title": "Vuur stoken in de open lucht",
+          "ref": {
+            "law": "Model-APV (VNG)",
+            "article": "art. 5:34",
+            "note": "Nummering verschilt per gemeente; controleer de APV van jouw gemeente.",
+            "verify": true
+          },
+          "body": "De Model-APV verbiedt in de open lucht vuur te stoken of te hebben. Er zijn uitzonderingen. Denk aan verlichting met kaarsen of fakkels, of koken op een barbecue. Voor bijvoorbeeld een paasvuur kan de gemeente een ontheffing geven.\n\nSinds de Omgevingswet kunnen regels over stoken ook in het omgevingsplan staan. Controleer dus de APV én het omgevingsplan van jouw gemeente.\n\nBij droogte is brandgevaar groot. Bij acuut gevaar bel je 112. Dat is een veiligheidskeuze, los van je bevoegdheid."
+        },
+        {
+          "type": "example",
+          "title": "Praktijk: vuur op het strand",
+          "body": "Boa Kevin loopt 's avonds over het strand. Het is al weken droog. Hij ziet een groep met een groot kampvuur van hout.\n\nKevin vraagt of ze een ontheffing hebben. Die hebben ze niet. Het vuur valt niet onder een uitzondering in de APV.\n\nKevin vraagt hen het vuur te doven. De wind trekt aan en vonken waaien naar het helmgras. Kevin belt meteen 112 voor de brandweer.\n\nDaarna handelt hij de overtreding af volgens het APV-artikel van zijn gemeente. Eerst kwam de veiligheid, daarna de handhaving."
+        },
+        {
+          "type": "exercise",
+          "title": "Oefening",
+          "questionId": "q-m04-l05-1"
+        },
+        {
+          "type": "check",
+          "title": "Kennischeck",
+          "questionIds": [
+            "q-m04-l05-2",
+            "q-m04-l05-3",
+            "q-m04-l05-4",
+            "q-m04-l05-5",
+            "q-m04-l05-6"
+          ]
+        },
+        {
+          "type": "summary",
+          "title": "Samenvatting"
+        }
+      ],
+      "summary": [
+        "Wildplassen op een openbare plaats is een APV-overtreding.",
+        "Schennis van de eerbaarheid (art. 239 Sr) is een misdrijf en iets anders dan wildplassen.",
+        "Vuur stoken in de open lucht is verboden, met uitzonderingen en de mogelijkheid van een ontheffing.",
+        "Stookregels kunnen ook in het omgevingsplan staan; controleer de regels van jouw gemeente.",
+        "Bij brandgevaar gaat veiligheid voor: bel 112."
+      ],
+      "sourceRefs": [
+        {
+          "law": "Model-APV (VNG)",
+          "article": "artikel over natuurlijke behoeften",
+          "note": "Nummering verschilt per gemeente; controleer de APV van jouw gemeente.",
+          "verify": true
+        },
+        {
+          "law": "Wetboek van Strafrecht",
+          "article": "art. 239",
+          "verify": true,
+          "note": "Controleren of nummer en omschrijving na de Wet seksuele misdrijven ongewijzigd zijn."
+        },
+        {
+          "law": "Model-APV (VNG)",
+          "article": "art. 5:34",
+          "note": "Nummering verschilt per gemeente; controleer de APV van jouw gemeente.",
+          "verify": true
+        },
+        {
+          "law": "Gemeentewet",
+          "article": "art. 154"
+        },
+        {
+          "law": "Omgevingswet",
+          "article": "art. 4.1",
+          "verify": true,
+          "note": "Grondslag omgevingsplan; te controleren of stookregels in de gemeente in het omgevingsplan staan."
+        }
+      ],
+      "reviewStatus": "juridische_review_nodig",
+      "reviewNote": "Controleer: (1) het nummer van het Model-APV-artikel over het doen van natuurlijke behoeften (wildplassen); (2) nummer, tekst en uitzonderingen van Model-APV art. 5:34 (vuur stoken) na de invoering van de Omgevingswet, en of (delen van) stookregels naar het omgevingsplan zijn verplaatst; (3) of art. 239 Sr (schennis van de eerbaarheid) na de Wet seksuele misdrijven ongewijzigd is en of de omschrijving in eigen woorden klopt; (4) art. 4.1 Omgevingswet als grondslag voor regels in het omgevingsplan.",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "m04-l06",
+      "moduleId": "m04",
+      "order": 6,
+      "title": "Parkeeroverlast",
+      "minutes": 15,
+      "termIds": [],
+      "objectives": [
+        {
+          "text": "Je kent de APV-regels over grote voertuigen, kampeermiddelen, voertuigwrakken, reclamevoertuigen en te koop aangeboden voertuigen.",
+          "level": "K"
+        },
+        {
+          "text": "Je begrijpt het verschil tussen parkeerregels in de APV en in het RVV 1990.",
+          "level": "B"
+        },
+        {
+          "text": "Je kunt bij parkeeroverlast bepalen of de APV of het RVV van toepassing is.",
+          "level": "T"
+        }
+      ],
+      "screens": [
+        {
+          "type": "objectives",
+          "title": "Leerdoelen"
+        },
+        {
+          "type": "text",
+          "title": "APV of RVV?",
+          "body": "Het **RVV 1990** is een landelijke regeling voor het verkeer. Het bevat de verkeersregels en verkeersborden, zoals een parkeerverbod met bord E1.\n\nDe **APV** regelt parkeren dat overlast geeft of veel ruimte inneemt. Bijvoorbeeld een caravan die weken in de straat staat. Dat staat niet in het RVV.\n\nDe APV vult het RVV aan. Een APV mag niet in strijd zijn met een hogere regeling.\n\nVoor 'parkeren' verwijst de APV meestal naar het RVV 1990: een voertuig laten stilstaan langer dan nodig is voor in- of uitstappen of laden en lossen.\n\n**Let op:** iedere gemeente heeft een eigen APV. De Model-APV van de VNG is alleen een voorbeeld. Nummers en tekst kunnen in jouw gemeente anders zijn. Controleer altijd de APV van jouw gemeente."
+        },
+        {
+          "type": "law",
+          "title": "Grote voertuigen en kampeermiddelen",
+          "ref": {
+            "law": "Model-APV (VNG)",
+            "article": "art. 5:6 en 5:8",
+            "note": "Nummering verschilt per gemeente; controleer de APV van jouw gemeente.",
+            "verify": true
+          },
+          "body": "De Model-APV beperkt het parkeren van **kampeermiddelen** (zoals caravans en campers) en aanhangwagens op de weg. Ze mogen er niet langer staan dan de APV toestaat.\n\nOok **grote voertuigen** mogen niet overal parkeren. Het gaat om voertuigen die langer of hoger zijn dan de maat in de APV. Het verbod geldt vaak op aangewezen plaatsen of binnen de bebouwde kom.\n\nHet aantal dagen, de maten en de plaatsen verschillen per gemeente. Zoek ze op in jouw APV en in het aanwijzingsbesluit."
+        },
+        {
+          "type": "law",
+          "title": "Wrakken, reclame en te koop",
+          "ref": {
+            "law": "Model-APV (VNG)",
+            "article": "art. 5:3, 5:4 en 5:5",
+            "note": "Nummering verschilt per gemeente; controleer de APV van jouw gemeente.",
+            "verify": true
+          },
+          "body": "De Model-APV kent ook deze verboden:\n\n- **Voertuigwrak:** een voertuig in zo'n slechte staat dat het niet meer kan rijden, mag niet op de weg staan.\n- **Te koop aanbieden:** het is verboden een voertuig op de weg te parkeren met het kennelijke doel het te koop aan te bieden. Denk aan een auto met een bord 'te koop' en een telefoonnummer.\n- **Reclamevoertuig:** het is verboden een voertuig te parkeren dat vooral bedoeld is om reclame te maken.\n\nControleer per artikel de uitzonderingen en de precieze tekst in jouw APV."
+        },
+        {
+          "type": "example",
+          "title": "Praktijk: de camper in de Berkenstraat",
+          "body": "Bewoners klagen over een camper in de Berkenstraat. Boa Priya gaat kijken. Ze ziet dat de camper er al ruim een week staat.\n\nIn het RVV staat geen maximum aantal dagen voor parkeren. Priya kijkt daarom in de APV van haar gemeente. Daar staat hoe lang een kampeermiddel op de weg mag staan. Die termijn is ruim overschreden.\n\nTwee huizen verder staat een auto bij een bord E1 (parkeerverbod). Dat is geen APV-zaak, maar een overtreding van het RVV 1990.\n\nPriya handelt beide zaken af. Voor elke zaak gebruikt ze de juiste regeling."
+        },
+        {
+          "type": "exercise",
+          "title": "Oefening",
+          "questionId": "q-m04-l06-1"
+        },
+        {
+          "type": "check",
+          "title": "Kennischeck",
+          "questionIds": [
+            "q-m04-l06-2",
+            "q-m04-l06-3",
+            "q-m04-l06-4",
+            "q-m04-l06-5",
+            "q-m04-l06-6"
+          ]
+        },
+        {
+          "type": "summary",
+          "title": "Samenvatting"
+        }
+      ],
+      "summary": [
+        "Het RVV 1990 bevat landelijke verkeersregels en verkeersborden; de APV vult aan voor parkeeroverlast.",
+        "De APV regelt onder meer kampeermiddelen, grote voertuigen, voertuigwrakken, reclamevoertuigen en te koop aangeboden voertuigen.",
+        "Termijnen, maten en aangewezen plaatsen verschillen per gemeente.",
+        "Parkeren betekent: een voertuig laten stilstaan langer dan nodig voor in- of uitstappen of laden en lossen (art. 1 RVV 1990).",
+        "Bepaal bij elke zaak eerst of de APV of het RVV van toepassing is."
+      ],
+      "sourceRefs": [
+        {
+          "law": "Reglement verkeersregels en verkeerstekens 1990 (RVV 1990)",
+          "article": "art. 1",
+          "note": "Definitie van parkeren."
+        },
+        {
+          "law": "Reglement verkeersregels en verkeerstekens 1990 (RVV 1990)",
+          "article": "art. 62",
+          "note": "Verkeerstekens opvolgen; bord E1 staat in bijlage 1."
+        },
+        {
+          "law": "Model-APV (VNG)",
+          "article": "art. 5:1",
+          "note": "Nummering verschilt per gemeente; controleer de APV van jouw gemeente.",
+          "verify": true
+        },
+        {
+          "law": "Model-APV (VNG)",
+          "article": "art. 5:3",
+          "note": "Nummering verschilt per gemeente; controleer de APV van jouw gemeente.",
+          "verify": true
+        },
+        {
+          "law": "Model-APV (VNG)",
+          "article": "art. 5:4",
+          "note": "Nummering verschilt per gemeente; controleer de APV van jouw gemeente.",
+          "verify": true
+        },
+        {
+          "law": "Model-APV (VNG)",
+          "article": "art. 5:5",
+          "note": "Nummering verschilt per gemeente; controleer de APV van jouw gemeente.",
+          "verify": true
+        },
+        {
+          "law": "Model-APV (VNG)",
+          "article": "art. 5:6",
+          "note": "Nummering verschilt per gemeente; controleer de APV van jouw gemeente.",
+          "verify": true
+        },
+        {
+          "law": "Model-APV (VNG)",
+          "article": "art. 5:8",
+          "note": "Nummering verschilt per gemeente; controleer de APV van jouw gemeente.",
+          "verify": true
+        },
+        {
+          "law": "Gemeentewet",
+          "article": "art. 154"
+        },
+        {
+          "law": "Gemeentewet",
+          "article": "art. 121",
+          "verify": true,
+          "note": "Aanvullende verordeningen; te controleren of art. 121 of art. 122 Gemeentewet hier de juiste grondslag is."
+        }
+      ],
+      "reviewStatus": "juridische_review_nodig",
+      "reviewNote": "Controleer aan de actuele Model-APV: (1) nummers en tekst van art. 5:1 (begripsbepalingen, verwijzing naar 'parkeren' in art. 1 RVV 1990, omschrijving voertuigwrak), 5:3 (voertuigwrakken), 5:4 (te koop aanbieden), 5:5 (reclamevoertuigen), 5:6 (kampeermiddelen en andere voertuigen) en 5:8 (grote voertuigen); (2) de verhouding APV-RVV via art. 121/122 Gemeentewet; (3) art. 62 RVV 1990 en bord E1 bijlage 1. In de les zijn bewust geen termijnen of maten genoemd.",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    }
+  ],
+  "questions": [
+    {
+      "id": "q-m04-l01-1",
+      "moduleId": "m04",
+      "lessonId": "m04-l01",
+      "termIds": [],
+      "topic": "APV-artikel lezen",
+      "level": "B",
+      "type": "match",
+      "prompt": "Koppel de formulering uit een APV-artikel aan de soort bepaling.",
+      "pairs": [
+        {
+          "left": "\"Het is verboden ...\"",
+          "right": "Verbod"
+        },
+        {
+          "left": "\"... zonder vergunning van het college\"",
+          "right": "Vergunningplicht"
+        },
+        {
+          "left": "\"Het college kan ontheffing verlenen van het verbod\"",
+          "right": "Ontheffing"
+        },
+        {
+          "left": "\"Het verbod is niet van toepassing op ...\"",
+          "right": "Uitzondering"
+        },
+        {
+          "left": "\"... op een door het college aangewezen plaats\"",
+          "right": "Aanwijzing"
+        }
+      ],
+      "explanation": "Een APV-artikel bestaat vaak uit een verbod met daarnaast een vergunningplicht, ontheffing, uitzondering of aanwijzing. Wie het artikel goed leest, weet of er echt een overtreding is. Controleer altijd de tekst in de APV van jouw gemeente.",
+      "sourceRefs": [
+        {
+          "law": "Model-APV (VNG)",
+          "article": "algemeen (opbouw van artikelen)",
+          "note": "Nummering verschilt per gemeente; controleer de APV van jouw gemeente.",
+          "verify": true
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "juridische_review_nodig",
+      "reviewNote": "Opbouw en formuleringen zijn gebaseerd op de Model-APV; controleer of de voorbeeldformuleringen overeenkomen met de actuele Model-APV.",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m04-l01-2",
+      "moduleId": "m04",
+      "lessonId": "m04-l01",
+      "termIds": [],
+      "topic": "Strafbaarheid APV",
+      "level": "K",
+      "type": "mc",
+      "prompt": "Waardoor is het overtreden van een APV-artikel strafbaar?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Door de Model-APV die de VNG voor alle gemeenten heeft gemaakt",
+          "feedback": "Onjuist. De Model-APV is een voorbeeld van de VNG en geldt nergens rechtstreeks."
+        },
+        {
+          "id": "b",
+          "text": "Door art. 154 Gemeentewet en de strafbepaling in de APV",
+          "feedback": "Juist. Art. 154 Gemeentewet laat de raad straf stellen op overtreding; de APV zegt zelf in de strafbepaling welke artikelen strafbaar zijn."
+        },
+        {
+          "id": "c",
+          "text": "Door het Wetboek van Strafrecht, boek 3 (overtredingen)",
+          "feedback": "Onjuist. Boek 3 Sr bevat landelijke overtredingen. APV-overtredingen zijn strafbaar via de Gemeentewet en de APV zelf."
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "Art. 154 Gemeentewet geeft de gemeenteraad de bevoegdheid om in een verordening straf te stellen op overtreding: ten hoogste hechtenis van drie maanden of een geldboete van de tweede categorie. De APV bevat zelf een strafbepaling die de strafbare artikelen noemt.",
+      "sourceRefs": [
+        {
+          "law": "Gemeentewet",
+          "article": "art. 154"
+        },
+        {
+          "law": "Model-APV (VNG)",
+          "article": "art. 6:1",
+          "note": "Nummering verschilt per gemeente; controleer de APV van jouw gemeente.",
+          "verify": true
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "juridische_review_nodig",
+      "reviewNote": "Controleer het Model-APV-artikelnummer en de inhoud aan de actuele Model-APV van de VNG.",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m04-l01-3",
+      "moduleId": "m04",
+      "lessonId": "m04-l01",
+      "termIds": [],
+      "topic": "Openbare plaats",
+      "level": "K",
+      "type": "mc",
+      "prompt": "Wat is een openbare plaats volgens de begripsbepaling die de Model-APV gebruikt?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Een plaats die door bestemming of vast gebruik openstaat voor publiek",
+          "feedback": "Juist. Dit is in eigen woorden de omschrijving uit art. 1 Wet openbare manifestaties, waar de Model-APV naar verwijst."
+        },
+        {
+          "id": "b",
+          "text": "Iedere plaats die eigendom is van de gemeente, ook als die is afgesloten",
+          "feedback": "Onjuist. Eigendom is niet beslissend. Het gaat erom of de plaats openstaat voor publiek."
+        },
+        {
+          "id": "c",
+          "text": "Iedere plaats buiten een woning, dus ook een besloten erf of tuin",
+          "feedback": "Onjuist. Een besloten plaats valt juist niet onder het begrip openbare plaats."
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "De Model-APV verwijst voor 'openbare plaats' naar art. 1 Wet openbare manifestaties: een plaats die krachtens bestemming of vast gebruik openstaat voor het publiek. Gebouwen en besloten plaatsen vallen er niet onder.",
+      "sourceRefs": [
+        {
+          "law": "Wet openbare manifestaties",
+          "article": "art. 1",
+          "verify": true,
+          "note": "Te controleren welk lid de definitie en de uitzondering voor gebouwen en besloten plaatsen bevat."
+        },
+        {
+          "law": "Model-APV (VNG)",
+          "article": "art. 1:1",
+          "note": "Nummering verschilt per gemeente; controleer de APV van jouw gemeente.",
+          "verify": true
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "juridische_review_nodig",
+      "reviewNote": "Controleer het Model-APV-artikelnummer en de inhoud aan de actuele Model-APV van de VNG.",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m04-l01-4",
+      "moduleId": "m04",
+      "lessonId": "m04-l01",
+      "termIds": [],
+      "topic": "APV per gemeente",
+      "level": "T",
+      "type": "mc",
+      "prompt": "Je werkt als boa voor de gemeenten Noorddorp en Zuidstad. In Noorddorp ken je het artikel over hondenpoep goed. Je ziet een overtreding in Zuidstad. Wat doe je voor je proces-verbaal?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Je gebruikt het artikelnummer uit de APV van Noorddorp",
+          "feedback": "Onjuist. Elke gemeente heeft een eigen APV. Het nummer en de tekst kunnen anders zijn."
+        },
+        {
+          "id": "b",
+          "text": "Je gebruikt het nummer uit de Model-APV van de VNG",
+          "feedback": "Onjuist. De Model-APV is geen geldende regel. Alleen de APV van de gemeente geldt."
+        },
+        {
+          "id": "c",
+          "text": "Je zoekt het juiste artikel op in de APV van Zuidstad",
+          "feedback": "Juist. Het feit is in Zuidstad gepleegd. Dan geldt de APV van Zuidstad, met het nummer en de tekst van die gemeente."
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "Iedere gemeenteraad stelt een eigen APV vast (art. 149 Gemeentewet). Nummering en tekst kunnen afwijken van de Model-APV en van andere gemeenten. Je gebruikt altijd de APV van de gemeente waar het feit plaatsvond.",
+      "sourceRefs": [
+        {
+          "law": "Gemeentewet",
+          "article": "art. 149"
+        },
+        {
+          "law": "Model-APV (VNG)",
+          "article": "algemeen",
+          "note": "Nummering verschilt per gemeente; controleer de APV van jouw gemeente.",
+          "verify": true
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "juridische_review_nodig",
+      "reviewNote": "Vraag is gebaseerd op het algemene uitgangspunt dat elke gemeente een eigen APV heeft; controleer alleen de verwijzing naar de Model-APV.",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m04-l01-5",
+      "moduleId": "m04",
+      "lessonId": "m04-l01",
+      "termIds": [],
+      "topic": "Model-APV",
+      "level": "K",
+      "type": "truefalse",
+      "prompt": "Stelling: de Model-APV van de VNG geldt rechtstreeks in elke gemeente.",
+      "correctAnswer": false,
+      "feedbackTrue": "Onjuist. De Model-APV is een voorbeeld van de VNG. Een gemeenteraad moet zelf een APV vaststellen; alleen die geldt.",
+      "feedbackFalse": "Juist. De Model-APV geldt nergens rechtstreeks. Elke gemeenteraad stelt een eigen APV vast en mag afwijken van het model.",
+      "explanation": "De Model-APV is een voorbeeld. Alleen de APV die de gemeenteraad zelf vaststelt, geldt in die gemeente (art. 149 Gemeentewet).",
+      "sourceRefs": [
+        {
+          "law": "Gemeentewet",
+          "article": "art. 149"
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "concept",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m04-l01-6",
+      "moduleId": "m04",
+      "lessonId": "m04-l01",
+      "termIds": [],
+      "topic": "Aanwijzing",
+      "level": "T",
+      "type": "mc",
+      "prompt": "In jouw APV staat: 'Het is verboden op een door het college aangewezen openbare plaats ...'. Je ziet dit gedrag in een park. Wat moet je eerst nagaan?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Of het park is aangewezen in een besluit van het college",
+          "feedback": "Juist. Het verbod geldt alleen op aangewezen plaatsen. Staat het park niet in het aanwijzingsbesluit, dan is er geen overtreding."
+        },
+        {
+          "id": "b",
+          "text": "Of het park eigendom is van de gemeente of van een particulier",
+          "feedback": "Onjuist. Eigendom is niet beslissend. Het artikel vraagt om een aanwijzing door het college."
+        },
+        {
+          "id": "c",
+          "text": "Of er in de buurt klachten over dit gedrag zijn gemeld",
+          "feedback": "Onjuist. Klachten zeggen iets over beleid en prioriteit, maar maken een gedraging niet strafbaar."
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "Bij een APV-artikel met een aanwijzing geldt het verbod alleen op de plaatsen die in het aanwijzingsbesluit staan. Controleer daarom altijd het besluit en eventuele borden. Beleid of klachten zijn geen grondslag voor een overtreding.",
+      "sourceRefs": [
+        {
+          "law": "Model-APV (VNG)",
+          "article": "algemeen (aanwijzingsbevoegdheid)",
+          "note": "Nummering verschilt per gemeente; controleer de APV van jouw gemeente.",
+          "verify": true
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "juridische_review_nodig",
+      "reviewNote": "Controleer of in de Model-APV het college of de burgemeester het bevoegde orgaan voor aanwijzingen is; dit verschilt per artikel.",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m04-l02-1",
+      "moduleId": "m04",
+      "lessonId": "m04-l02",
+      "termIds": [],
+      "topic": "Alcoholverbod",
+      "level": "T",
+      "type": "mc",
+      "case": "Je ziet in het Julianapark een vrouw van ongeveer 30 jaar wijn drinken uit een geopende fles. Je weet dat de gemeente voor sommige parken een alcoholverbod heeft.",
+      "prompt": "Hoe handel je deze situatie juist af?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Je laat haar gaan, want zij is ouder dan 18",
+          "feedback": "Onjuist. Het APV-alcoholverbod geldt voor iedereen. Leeftijd speelt alleen een rol bij art. 45 Alcoholwet."
+        },
+        {
+          "id": "b",
+          "text": "Je controleert of het park aangewezen is en treedt dan op",
+          "feedback": "Juist. Het verbod geldt alleen op aangewezen plaatsen. Is het park aangewezen, dan houd je haar staande en handel je de APV-overtreding af."
+        },
+        {
+          "id": "c",
+          "text": "Je belt de politie, want alleen zij handhaaft alcoholregels",
+          "feedback": "Onjuist. Je mag de APV handhaven als die in je akte en domein staat. De politie is hier niet nodig."
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "Het alcoholverbod uit de APV geldt op aangewezen openbare plaatsen en voor iedereen. Een boa met de APV in zijn domein kan optreden. Controleer eerst de aanwijzing en de tekst van jouw APV.",
+      "sourceRefs": [
+        {
+          "law": "Model-APV (VNG)",
+          "article": "art. 2:48",
+          "note": "Nummering verschilt per gemeente; controleer de APV van jouw gemeente.",
+          "verify": true
+        },
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 52"
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "juridische_review_nodig",
+      "reviewNote": "Controleer het Model-APV-artikelnummer en de inhoud aan de actuele Model-APV van de VNG.",
+      "version": "1.1",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m04-l02-2",
+      "moduleId": "m04",
+      "lessonId": "m04-l02",
+      "termIds": [],
+      "topic": "Alcoholverbod",
+      "level": "K",
+      "type": "mc",
+      "prompt": "Wat verbiedt het APV-alcoholverbod volgens de Model-APV op een aangewezen plaats?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Alcohol drinken en aangebroken drank met alcohol bij je hebben",
+          "feedback": "Juist. Op een aangewezen plaats is drinken verboden en ook het bij je hebben van aangebroken verpakkingen met alcohol."
+        },
+        {
+          "id": "b",
+          "text": "Alleen zichtbaar dronken zijn of overlast geven op straat",
+          "feedback": "Onjuist. Het verbod gaat over drinken en aangebroken verpakkingen, niet over dronkenschap of overlast."
+        },
+        {
+          "id": "c",
+          "text": "Alcohol kopen in een winkel en dicht in je tas meenemen",
+          "feedback": "Onjuist. Kopen valt niet onder dit verbod, en dichte verpakkingen bij je hebben ook niet. Het verbod gaat over drinken en aangebroken verpakkingen."
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "De Model-APV verbiedt op aangewezen openbare plaatsen alcoholhoudende drank te nuttigen of aangebroken verpakkingen met alcohol bij zich te hebben. Controleer de exacte tekst in jouw APV.",
+      "sourceRefs": [
+        {
+          "law": "Model-APV (VNG)",
+          "article": "art. 2:48",
+          "note": "Nummering verschilt per gemeente; controleer de APV van jouw gemeente.",
+          "verify": true
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "juridische_review_nodig",
+      "reviewNote": "Controleer het Model-APV-artikelnummer en de inhoud aan de actuele Model-APV van de VNG.",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m04-l02-3",
+      "moduleId": "m04",
+      "lessonId": "m04-l02",
+      "termIds": [],
+      "topic": "Bevel",
+      "level": "B",
+      "type": "mc",
+      "prompt": "Bij een ordeverstoring wil je een groep bevelen weg te gaan. Hoe weet je of jij dat bevel mag geven?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Iedere boa mag in de openbare ruimte altijd bevelen geven",
+          "feedback": "Onjuist. Een boa heeft alleen de bevoegdheden die wet, APV, akte en domein geven."
+        },
+        {
+          "id": "b",
+          "text": "Dat staat in het beleidsplan van de gemeente",
+          "feedback": "Onjuist. Beleid is nooit een grondslag voor een bevoegdheid."
+        },
+        {
+          "id": "c",
+          "text": "Je leest wie het APV-artikel noemt en of jij daaronder valt",
+          "feedback": "Juist. Het APV-artikel bepaalt wie het bevel mag geven. Noemt het alleen de politie, dan mag jij het niet. Noemt het een toezichthouder, dan moet je daarvoor zijn aangewezen."
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "Wie een bevel mag geven, staat in de tekst van het APV-artikel. In veel APV's is dat bij samenscholing de politie. Noemt het artikel een toezichthouder, dan moet je daarvoor zijn aangewezen (art. 5:11 Awb). Proces-verbaal maak je alleen op als de APV in je akte en domein staat.",
+      "sourceRefs": [
+        {
+          "law": "Model-APV (VNG)",
+          "article": "art. 2:1",
+          "note": "Nummering verschilt per gemeente; controleer de APV van jouw gemeente.",
+          "verify": true
+        },
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 142"
+        },
+        {
+          "law": "Algemene wet bestuursrecht",
+          "article": "art. 5:11"
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "juridische_review_nodig",
+      "reviewNote": "Controleer het Model-APV-artikelnummer en de inhoud aan de actuele Model-APV van de VNG.",
+      "version": "1.1",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m04-l02-4",
+      "moduleId": "m04",
+      "lessonId": "m04-l02",
+      "termIds": [],
+      "topic": "Veiligheid",
+      "level": "T",
+      "type": "mc",
+      "prompt": "Wat is in deze situatie de juiste aanpak?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Je houdt afstand, observeert en belt meteen de politie",
+          "feedback": "Juist. Bij geweld en een grote groep gaat veiligheid voor. De politie handhaaft de openbare orde."
+        },
+        {
+          "id": "b",
+          "text": "Je gaat tussen de groep staan en beveelt hen te stoppen",
+          "feedback": "Onjuist. Dat is onveilig en je hebt meestal geen bevoegdheid voor dit bevel."
+        },
+        {
+          "id": "c",
+          "text": "Je schrijft de groep op voor samenscholing en loopt door",
+          "feedback": "Onjuist. Bij geweld moet de politie worden ingeschakeld. Doorlopen is geen goede keuze."
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "Het handhaven van de openbare orde bij geweld is een taak van de politie (art. 3 Politiewet 2012). Jij zorgt voor je eigen veiligheid, observeert en meldt. Dit is een veiligheidskeuze, geen bevoegdheidsvraag.",
+      "sourceRefs": [
+        {
+          "law": "Politiewet 2012",
+          "article": "art. 3"
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "concept",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m04-l02-5",
+      "moduleId": "m04",
+      "lessonId": "m04-l02",
+      "termIds": [],
+      "topic": "Alcoholverbod en Alcoholwet",
+      "level": "B",
+      "type": "mc",
+      "prompt": "Wat is het verschil tussen het APV-alcoholverbod en art. 45 Alcoholwet?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Er is geen verschil; beide verboden gelden voor iedereen op elke openbare plaats",
+          "feedback": "Onjuist. Beide regels hebben een eigen bereik."
+        },
+        {
+          "id": "b",
+          "text": "APV: iedereen op aangewezen plaatsen; art. 45: jongeren onder 18",
+          "feedback": "Juist. Het APV-verbod geldt voor iedereen, maar alleen op aangewezen plaatsen. Art. 45 Alcoholwet gaat over jongeren onder 18."
+        },
+        {
+          "id": "c",
+          "text": "APV: jongeren onder 18; art. 45: iedereen op straat",
+          "feedback": "Onjuist. Het is precies andersom."
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "Het APV-alcoholverbod geldt op aangewezen openbare plaatsen voor iedereen. Art. 45 Alcoholwet verbiedt personen onder de 18 alcoholhoudende drank aanwezig te hebben op voor publiek toegankelijke plaatsen.",
+      "sourceRefs": [
+        {
+          "law": "Model-APV (VNG)",
+          "article": "art. 2:48",
+          "note": "Nummering verschilt per gemeente; controleer de APV van jouw gemeente.",
+          "verify": true
+        },
+        {
+          "law": "Alcoholwet",
+          "article": "art. 45"
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "juridische_review_nodig",
+      "reviewNote": "Controleer het Model-APV-artikelnummer en de inhoud aan de actuele Model-APV van de VNG.",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m04-l02-6",
+      "moduleId": "m04",
+      "lessonId": "m04-l02",
+      "termIds": [],
+      "topic": "Aanwijzing alcoholverbod",
+      "level": "B",
+      "type": "mc",
+      "prompt": "Waarom moet je bij het alcoholverbod nagaan of de plaats is aangewezen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Omdat de boete dan hoger wordt",
+          "feedback": "Onjuist. De aanwijzing gaat over de vraag óf er een overtreding is, niet over de hoogte van de straf."
+        },
+        {
+          "id": "b",
+          "text": "Omdat je anders eerst toestemming van de politie nodig hebt",
+          "feedback": "Onjuist. Toestemming van de politie is geen voorwaarde. Het gaat om de aanwijzing door de gemeente."
+        },
+        {
+          "id": "c",
+          "text": "Omdat het verbod alleen op aangewezen plaatsen geldt",
+          "feedback": "Juist. Zonder aanwijzing is drinken op die plaats geen APV-overtreding."
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "Het APV-alcoholverbod geldt alleen op plaatsen die het bevoegde bestuursorgaan heeft aangewezen. Controleer het aanwijzingsbesluit en de borden ter plaatse.",
+      "sourceRefs": [
+        {
+          "law": "Model-APV (VNG)",
+          "article": "art. 2:48",
+          "note": "Nummering verschilt per gemeente; controleer de APV van jouw gemeente.",
+          "verify": true
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "juridische_review_nodig",
+      "reviewNote": "Controleer het Model-APV-artikelnummer en de inhoud aan de actuele Model-APV van de VNG.",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m04-l03-1",
+      "moduleId": "m04",
+      "lessonId": "m04-l03",
+      "termIds": [],
+      "topic": "Afhandeling hondenovertreding",
+      "level": "T",
+      "type": "order",
+      "prompt": "Zet de stappen bij een overtreding van het aanlijngebod in de juiste volgorde.",
+      "items": [
+        "Je ziet een hond los lopen op een grasveld",
+        "Je controleert in de APV en het aanwijzingsbesluit of het aanlijngebod hier geldt",
+        "Je houdt de eigenaar of houder staande",
+        "Je vraagt naar naam, geboortedatum en adres en een identiteitsbewijs",
+        "Je handelt de overtreding af volgens het juiste APV-artikel"
+      ],
+      "explanation": "Je stelt eerst vast dat er een overtreding is: geldt het aanlijngebod hier volgens APV en aanwijzingsbesluit? Daarna houd je de verdachte staande (art. 52 Sv), stel je de identiteit vast (art. 27a Sv) en handel je de overtreding af.",
+      "sourceRefs": [
+        {
+          "law": "Model-APV (VNG)",
+          "article": "art. 2:57",
+          "note": "Nummering verschilt per gemeente; controleer de APV van jouw gemeente.",
+          "verify": true
+        },
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 52"
+        },
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 27a"
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "juridische_review_nodig",
+      "reviewNote": "Controleer het Model-APV-artikelnummer en de inhoud aan de actuele Model-APV van de VNG. Redactie 2026-11-02: stap 'vraagt naar ... een identiteitsbewijs' - grondslag voor de vordering tot inzage van een identiteitsbewijs (art. 2 Wid i.v.m. de boa-bevoegdheid / art. 447e Sr) ontbreekt in sourceRefs; nagaan welke bron moet worden toegevoegd.",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m04-l03-2",
+      "moduleId": "m04",
+      "lessonId": "m04-l03",
+      "termIds": [],
+      "topic": "Verantwoordelijke",
+      "level": "K",
+      "type": "mc",
+      "prompt": "Tot wie richt de Model-APV het aanlijngebod en de opruimplicht?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Alleen tot de geregistreerde eigenaar van de hond",
+          "feedback": "Onjuist. Ook de houder, degene die de hond op dat moment bij zich heeft, is verantwoordelijk."
+        },
+        {
+          "id": "b",
+          "text": "Tot de gemeente die de hondenbelasting int",
+          "feedback": "Onjuist. De APV richt zich tot burgers met een hond, niet tot de gemeente."
+        },
+        {
+          "id": "c",
+          "text": "Tot de eigenaar of de houder van de hond",
+          "feedback": "Juist. De regels gelden voor de eigenaar of houder, dus ook voor wie de hond uitlaat."
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "De Model-APV richt de hondenregels tot de eigenaar of houder van de hond. Ook iemand die de hond voor een ander uitlaat, valt daaronder.",
+      "sourceRefs": [
+        {
+          "law": "Model-APV (VNG)",
+          "article": "art. 2:57",
+          "note": "Nummering verschilt per gemeente; controleer de APV van jouw gemeente.",
+          "verify": true
+        },
+        {
+          "law": "Model-APV (VNG)",
+          "article": "art. 2:58",
+          "note": "Nummering verschilt per gemeente; controleer de APV van jouw gemeente.",
+          "verify": true
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "juridische_review_nodig",
+      "reviewNote": "Controleer het Model-APV-artikelnummer en de inhoud aan de actuele Model-APV van de VNG.",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m04-l03-3",
+      "moduleId": "m04",
+      "lessonId": "m04-l03",
+      "termIds": [],
+      "topic": "Houder",
+      "level": "T",
+      "type": "mc",
+      "case": "Joris werkt voor een hondenuitlaatservice. Hij laat vier honden los lopen in een park waar volgens het aanwijzingsbesluit een aanlijngebod geldt.",
+      "prompt": "Wie spreek je aan?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Joris, want hij heeft de honden op dat moment bij zich",
+          "feedback": "Juist. Joris is op dat moment de houder van de honden. De APV-regel geldt ook voor hem."
+        },
+        {
+          "id": "b",
+          "text": "De eigenaars, want alleen zij zijn verantwoordelijk",
+          "feedback": "Onjuist. De APV richt zich ook tot de houder. Je hoeft de eigenaar niet op te sporen."
+        },
+        {
+          "id": "c",
+          "text": "Niemand, want Joris is niet de eigenaar van deze honden",
+          "feedback": "Onjuist. Ook de houder kan de overtreding begaan."
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "De APV richt zich tot eigenaar of houder. Iemand van een hondenuitlaatservice heeft de hond op dat moment onder zich en is dus houder.",
+      "sourceRefs": [
+        {
+          "law": "Model-APV (VNG)",
+          "article": "art. 2:57",
+          "note": "Nummering verschilt per gemeente; controleer de APV van jouw gemeente.",
+          "verify": true
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "juridische_review_nodig",
+      "reviewNote": "Controleer het Model-APV-artikelnummer en de inhoud aan de actuele Model-APV van de VNG.",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m04-l03-4",
+      "moduleId": "m04",
+      "lessonId": "m04-l03",
+      "termIds": [],
+      "topic": "Opruimplicht",
+      "level": "T",
+      "type": "mc",
+      "prompt": "Is hier sprake van een overtreding?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Er is geen overtreding, zolang hij het later opruimt",
+          "feedback": "Onjuist. De APV vraagt om direct opruimen, niet later."
+        },
+        {
+          "id": "b",
+          "text": "Er is een overtreding, want hij moet het direct opruimen",
+          "feedback": "Juist. De opruimplicht houdt in dat de uitwerpselen direct worden verwijderd."
+        },
+        {
+          "id": "c",
+          "text": "Alleen de gemeentereiniging moet het trottoir schoonmaken",
+          "feedback": "Onjuist. De APV legt de plicht bij de eigenaar of houder van de hond."
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "Volgens de Model-APV moet de eigenaar of houder de uitwerpselen direct verwijderen op de plaatsen die de APV noemt. Controleer de precieze tekst in de APV van jouw gemeente.",
+      "sourceRefs": [
+        {
+          "law": "Model-APV (VNG)",
+          "article": "art. 2:58",
+          "note": "Nummering verschilt per gemeente; controleer de APV van jouw gemeente.",
+          "verify": true
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "juridische_review_nodig",
+      "reviewNote": "Controleer of de Model-APV 'onmiddellijk' of een vergelijkbare formulering gebruikt voor de opruimplicht en op welke plaatsen die geldt.",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m04-l03-5",
+      "moduleId": "m04",
+      "lessonId": "m04-l03",
+      "termIds": [],
+      "topic": "Aanwijzing honden",
+      "level": "K",
+      "type": "mc",
+      "prompt": "Waar vind je op welke plaatsen in jouw gemeente het aanlijngebod geldt?",
+      "options": [
+        {
+          "id": "a",
+          "text": "In het Wetboek van Strafrecht, bij de landelijke overtredingen",
+          "feedback": "Onjuist. Het aanlijngebod is een gemeentelijke regel, geen landelijke strafwet."
+        },
+        {
+          "id": "b",
+          "text": "In de Model-APV van de VNG, in het hoofdstuk over honden",
+          "feedback": "Onjuist. De Model-APV is een voorbeeld en bevat geen plaatsen in jouw gemeente."
+        },
+        {
+          "id": "c",
+          "text": "In de APV en het aanwijzingsbesluit van je gemeente",
+          "feedback": "Juist. De APV geeft de regel; het aanwijzingsbesluit noemt de plaatsen."
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "Het aanlijngebod geldt op plaatsen die de gemeente aanwijst op grond van de APV. Die plaatsen staan in een aanwijzingsbesluit, vaak met borden ter plaatse.",
+      "sourceRefs": [
+        {
+          "law": "Model-APV (VNG)",
+          "article": "art. 2:57",
+          "note": "Nummering verschilt per gemeente; controleer de APV van jouw gemeente.",
+          "verify": true
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "juridische_review_nodig",
+      "reviewNote": "Controleer het Model-APV-artikelnummer en de inhoud aan de actuele Model-APV van de VNG.",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m04-l03-6",
+      "moduleId": "m04",
+      "lessonId": "m04-l03",
+      "termIds": [],
+      "topic": "Speelplaats",
+      "level": "T",
+      "type": "mc",
+      "prompt": "Mag dit volgens de Model-APV?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Dit mag, want de hond is aangelijnd en loopt rustig mee",
+          "feedback": "Onjuist. Op een kinderspeelplaats of in een zandbak mag een hond volgens de Model-APV ook aangelijnd niet komen."
+        },
+        {
+          "id": "b",
+          "text": "Dit mag niet, want een hond mag daar ook aangelijnd niet komen",
+          "feedback": "Juist. Het verbod voor speelplaatsen en zandbakken geldt ongeacht of de hond is aangelijnd."
+        },
+        {
+          "id": "c",
+          "text": "Het is alleen een overtreding als de hond daar ook poept of plast",
+          "feedback": "Onjuist. Het verbod gaat over de aanwezigheid van de hond, niet alleen over poepen."
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "De Model-APV verbiedt de eigenaar of houder een hond te laten komen op een kinderspeelplaats, zandbak of vergelijkbare plaats, ook aangelijnd. Controleer of jouw APV dit ook zo regelt.",
+      "sourceRefs": [
+        {
+          "law": "Model-APV (VNG)",
+          "article": "art. 2:57",
+          "note": "Nummering verschilt per gemeente; controleer de APV van jouw gemeente.",
+          "verify": true
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "juridische_review_nodig",
+      "reviewNote": "Controleer in de Model-APV of het verbod voor kinderspeelplaatsen en zandbakken ook geldt voor aangelijnde honden en in welk lid het staat.",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m04-l04-1",
+      "moduleId": "m04",
+      "lessonId": "m04-l04",
+      "termIds": [],
+      "topic": "Collecteren",
+      "level": "T",
+      "type": "mc",
+      "case": "Op zaterdag ziet boa Fatima twee jongeren met een collectebus huis aan huis aanbellen. Ze zeggen dat ze geld inzamelen voor hun sportvereniging.",
+      "prompt": "Wat is je eerste stap?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Je vraagt of ze een vergunning hebben en laat die tonen",
+          "feedback": "Juist. Collecteren is meestal vergunningplichtig. Je controleert eerst of er een geldige vergunning is."
+        },
+        {
+          "id": "b",
+          "text": "Je houdt ze direct aan op verdenking van oplichting",
+          "feedback": "Onjuist. Er is geen aanwijzing voor oplichting. Je controleert eerst de vergunning."
+        },
+        {
+          "id": "c",
+          "text": "Je laat ze doorgaan, want het geld is voor een goed doel",
+          "feedback": "Onjuist. Ook voor een goed doel geldt de vergunningplicht uit de APV."
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "De Model-APV verbiedt collecteren zonder vergunning van het college. Bij controle vraag je eerst naar de vergunning en kijk je naar datum, plaats en vergunninghouder.",
+      "sourceRefs": [
+        {
+          "law": "Model-APV (VNG)",
+          "article": "art. 5:13",
+          "note": "Nummering verschilt per gemeente; controleer de APV van jouw gemeente.",
+          "verify": true
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "juridische_review_nodig",
+      "reviewNote": "Controleer het Model-APV-artikelnummer en de inhoud aan de actuele Model-APV van de VNG.",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m04-l04-2",
+      "moduleId": "m04",
+      "lessonId": "m04-l04",
+      "termIds": [],
+      "topic": "Collecte of verkoop",
+      "level": "B",
+      "type": "mc",
+      "prompt": "Iemand verkoopt op straat loten voor 2 euro per stuk voor een goed doel. Wat is dit?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Een collecte, omdat het geld naar een goed doel gaat",
+          "feedback": "Onjuist. Bij een collecte krijgt de gever niets terug. Hier krijgt de koper een lot."
+        },
+        {
+          "id": "b",
+          "text": "Een standplaats, omdat het op straat gebeurt",
+          "feedback": "Onjuist. Een standplaats is verkoop vanaf een vaste plek, zoals een kraam."
+        },
+        {
+          "id": "c",
+          "text": "Verkoop, omdat de koper iets terugkrijgt",
+          "feedback": "Juist. Er is een tegenprestatie: het lot. Daarom is het verkoop en geen collecte."
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "Het verschil tussen collecteren en verkopen is de tegenprestatie. Bij een collecte geeft iemand geld of goederen zonder iets terug te krijgen. Krijgt hij wel iets, dan is het verkoop. Let op: voor loterijen kunnen ook andere wetten gelden.",
+      "sourceRefs": [
+        {
+          "law": "Model-APV (VNG)",
+          "article": "art. 5:13",
+          "note": "Nummering verschilt per gemeente; controleer de APV van jouw gemeente.",
+          "verify": true
+        },
+        {
+          "law": "Model-APV (VNG)",
+          "article": "art. 5:14",
+          "note": "Nummering verschilt per gemeente; controleer de APV van jouw gemeente.",
+          "verify": true
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "juridische_review_nodig",
+      "reviewNote": "Controleer of de Model-APV het begrip collecte of venten zo omschrijft dat dit onderscheid (tegenprestatie) klopt. Loten kunnen ook onder de Wet op de kansspelen vallen; die wet valt buiten deze les.",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m04-l04-3",
+      "moduleId": "m04",
+      "lessonId": "m04-l04",
+      "termIds": [],
+      "topic": "Snuffelmarkt",
+      "level": "K",
+      "type": "mc",
+      "prompt": "Wie heeft volgens de Model-APV een vergunning nodig voor een snuffelmarkt?",
+      "options": [
+        {
+          "id": "a",
+          "text": "De organisator van de snuffelmarkt",
+          "feedback": "Juist. Het verbod richt zich tot degene die de snuffelmarkt organiseert."
+        },
+        {
+          "id": "b",
+          "text": "Iedere verkoper met een eigen tafel",
+          "feedback": "Onjuist. De vergunning is voor de organisator, niet voor iedere verkoper."
+        },
+        {
+          "id": "c",
+          "text": "Alleen de eigenaar van de grond",
+          "feedback": "Onjuist. De Model-APV richt de vergunningplicht tot de organisator."
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "De Model-APV verbiedt een snuffelmarkt te organiseren zonder vergunning. De vergunningplicht ligt bij de organisator. Controleer in jouw APV welk bestuursorgaan de vergunning verleent.",
+      "sourceRefs": [
+        {
+          "law": "Model-APV (VNG)",
+          "article": "art. 5:22",
+          "note": "Nummering verschilt per gemeente; controleer de APV van jouw gemeente.",
+          "verify": true
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "juridische_review_nodig",
+      "reviewNote": "Controleer het Model-APV-artikelnummer en de inhoud aan de actuele Model-APV van de VNG.",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m04-l04-4",
+      "moduleId": "m04",
+      "lessonId": "m04-l04",
+      "termIds": [],
+      "topic": "Venten",
+      "level": "T",
+      "type": "mc",
+      "prompt": "Hoe ga je om met wat hij zegt?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Je schrijft hem direct op, want venten is overal vergunningplichtig",
+          "feedback": "Onjuist. Veel gemeenten hebben de vergunningplicht voor venten afgeschaft of beperkt."
+        },
+        {
+          "id": "b",
+          "text": "Je controleert wat de APV van jouw gemeente over venten zegt",
+          "feedback": "Juist. De regels voor venten verschillen per gemeente. De APV van jouw gemeente bepaalt of hij een vergunning nodig heeft."
+        },
+        {
+          "id": "c",
+          "text": "Je gelooft hem, want hij kent de regels het best",
+          "feedback": "Onjuist. Je moet het zelf controleren in de APV van de gemeente."
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "De regels voor venten verschillen sterk per gemeente. Sommige APV's hebben geen vergunningplicht meer, andere wel of alleen voor bepaalde tijden of plaatsen. Controleer altijd de APV van jouw gemeente.",
+      "sourceRefs": [
+        {
+          "law": "Model-APV (VNG)",
+          "article": "art. 5:14",
+          "note": "Nummering verschilt per gemeente; controleer de APV van jouw gemeente.",
+          "verify": true
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "juridische_review_nodig",
+      "reviewNote": "Controleer het Model-APV-artikelnummer en de inhoud aan de actuele Model-APV van de VNG.",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m04-l04-5",
+      "moduleId": "m04",
+      "lessonId": "m04-l04",
+      "termIds": [],
+      "topic": "Standplaats",
+      "level": "B",
+      "type": "mc",
+      "prompt": "Een vrouw staat de hele dag met een viskraam op dezelfde plek op een plein. Er is geen weekmarkt. Wat is dit?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Venten",
+          "feedback": "Onjuist. Venten is rondgaand verkopen. Zij staat op een vaste plek."
+        },
+        {
+          "id": "b",
+          "text": "Een snuffelmarkt",
+          "feedback": "Onjuist. Een snuffelmarkt is een markt voor gebruikte spullen of curiosa met meerdere verkopers."
+        },
+        {
+          "id": "c",
+          "text": "Een standplaats",
+          "feedback": "Juist. Verkopen vanaf een vaste plek op een openbare plaats is een standplaats; daarvoor is meestal een vergunning nodig."
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "Een standplaats is het verkopen van goederen vanaf een vaste plek op een openbare plaats, zoals een kraam of wagen. De Model-APV vraagt daarvoor een vergunning.",
+      "sourceRefs": [
+        {
+          "law": "Model-APV (VNG)",
+          "article": "art. 5:17",
+          "note": "Nummering verschilt per gemeente; controleer de APV van jouw gemeente.",
+          "verify": true
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "juridische_review_nodig",
+      "reviewNote": "Controleer het Model-APV-artikelnummer en de inhoud aan de actuele Model-APV van de VNG.",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m04-l04-6",
+      "moduleId": "m04",
+      "lessonId": "m04-l04",
+      "termIds": [],
+      "topic": "Snuffelmarkt",
+      "level": "K",
+      "type": "mc",
+      "prompt": "Wat is een snuffelmarkt?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Een wekelijkse markt met groente, fruit, vis en kaas",
+          "feedback": "Onjuist. Een weekmarkt valt meestal onder een marktverordening."
+        },
+        {
+          "id": "b",
+          "text": "Een markt voor gebruikte spullen, curiosa of verzamelobjecten",
+          "feedback": "Juist. Denk aan een rommelmarkt of vlooienmarkt."
+        },
+        {
+          "id": "c",
+          "text": "Een kraam van één verkoper die op een vaste plek nieuwe spullen verkoopt",
+          "feedback": "Onjuist. Dat is een standplaats."
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "Een snuffelmarkt is een markt voor gebruikte goederen, curiosa of verzamelobjecten. De Model-APV omschrijft het begrip in het artikel over snuffelmarkten. Controleer de omschrijving in jouw APV.",
+      "sourceRefs": [
+        {
+          "law": "Model-APV (VNG)",
+          "article": "art. 5:22",
+          "note": "Nummering verschilt per gemeente; controleer de APV van jouw gemeente.",
+          "verify": true
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "juridische_review_nodig",
+      "reviewNote": "Controleer het Model-APV-artikelnummer en de inhoud aan de actuele Model-APV van de VNG.",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m04-l05-1",
+      "moduleId": "m04",
+      "lessonId": "m04-l05",
+      "termIds": [],
+      "topic": "Wildplassen",
+      "level": "T",
+      "type": "mc",
+      "case": "Om 02.00 uur ziet boa Noor in het uitgaansgebied een man tegen de gevel van een winkel plassen. Hij staat met zijn rug naar de straat.",
+      "prompt": "Welk feit stel je vast?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Schennis van de eerbaarheid (art. 239 Sr)",
+          "feedback": "Onjuist. Er is geen aanwijzing dat hij de eerbaarheid wil schenden. Hij plast gewoon tegen de gevel."
+        },
+        {
+          "id": "b",
+          "text": "Wildplassen: een overtreding van de APV",
+          "feedback": "Juist. Je behoefte doen op een openbare plaats buiten een toilet is een APV-overtreding."
+        },
+        {
+          "id": "c",
+          "text": "Geen strafbaar feit, want het is midden in de nacht",
+          "feedback": "Onjuist. Het APV-verbod geldt ook 's nachts."
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "Wildplassen is een overtreding van de APV, strafbaar via art. 154 Gemeentewet en de strafbepaling in de APV. Schennis (art. 239 Sr) is een misdrijf met een andere strekking.",
+      "sourceRefs": [
+        {
+          "law": "Model-APV (VNG)",
+          "article": "artikel over natuurlijke behoeften",
+          "note": "Artikelnummer in de Model-APV nog te controleren; nummering verschilt per gemeente.",
+          "verify": true
+        },
+        {
+          "law": "Gemeentewet",
+          "article": "art. 154"
+        },
+        {
+          "law": "Wetboek van Strafrecht",
+          "article": "art. 239",
+          "verify": true,
+          "note": "Controleren of nummer en omschrijving na de Wet seksuele misdrijven ongewijzigd zijn."
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "juridische_review_nodig",
+      "reviewNote": "Controleer het Model-APV-artikelnummer voor wildplassen en de omschrijving van art. 239 Sr na de Wet seksuele misdrijven.",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m04-l05-2",
+      "moduleId": "m04",
+      "lessonId": "m04-l05",
+      "termIds": [],
+      "topic": "Verschil wildplassen en schennis",
+      "level": "B",
+      "type": "mc",
+      "prompt": "Wat is het belangrijkste verschil tussen wildplassen en schennis van de eerbaarheid?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Wildplassen is een APV-overtreding; schennis is een misdrijf (Sr)",
+          "feedback": "Juist. Wildplassen staat in de APV. Schennis is een misdrijf uit art. 239 Sr."
+        },
+        {
+          "id": "b",
+          "text": "Wildplassen is een misdrijf in het Sr; schennis is een APV-overtreding",
+          "feedback": "Onjuist. Het is precies andersom."
+        },
+        {
+          "id": "c",
+          "text": "Er is geen verschil; beide zijn overtredingen die in de APV staan",
+          "feedback": "Onjuist. Schennis staat in het Wetboek van Strafrecht, niet in de APV."
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "Wildplassen is een overtreding van de APV. Schennis van de eerbaarheid is een misdrijf (art. 239 Sr). Verwar ze niet; bij twijfel over schennis schakel je de politie in.",
+      "sourceRefs": [
+        {
+          "law": "Model-APV (VNG)",
+          "article": "artikel over natuurlijke behoeften",
+          "note": "Artikelnummer in de Model-APV nog te controleren; nummering verschilt per gemeente.",
+          "verify": true
+        },
+        {
+          "law": "Wetboek van Strafrecht",
+          "article": "art. 239",
+          "verify": true,
+          "note": "Controleren of nummer en omschrijving na de Wet seksuele misdrijven ongewijzigd zijn."
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "juridische_review_nodig",
+      "reviewNote": "Controleer het Model-APV-artikelnummer voor wildplassen en art. 239 Sr na de Wet seksuele misdrijven.",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m04-l05-3",
+      "moduleId": "m04",
+      "lessonId": "m04-l05",
+      "termIds": [],
+      "topic": "Vuur stoken",
+      "level": "K",
+      "type": "mc",
+      "prompt": "Wat regelt de Model-APV over vuur stoken in de open lucht?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Het is altijd toegestaan, behalve bij harde wind of droogte",
+          "feedback": "Onjuist. De Model-APV kent juist een verbod, met uitzonderingen."
+        },
+        {
+          "id": "b",
+          "text": "Het is alleen verboden in natuurgebieden, bossen en op het strand",
+          "feedback": "Onjuist. Het verbod geldt in de open lucht in de hele gemeente, tenzij de APV anders zegt."
+        },
+        {
+          "id": "c",
+          "text": "Het is verboden, met uitzonderingen en een mogelijke ontheffing",
+          "feedback": "Juist. Het verbod heeft uitzonderingen, zoals voor verlichting of koken, en de gemeente kan ontheffing geven."
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "De Model-APV verbiedt vuur te stoken of te hebben in de open lucht. Er zijn uitzonderingen en de gemeente kan ontheffing verlenen. Controleer de regels in jouw APV en omgevingsplan.",
+      "sourceRefs": [
+        {
+          "law": "Model-APV (VNG)",
+          "article": "art. 5:34",
+          "note": "Nummering verschilt per gemeente; controleer de APV van jouw gemeente.",
+          "verify": true
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "juridische_review_nodig",
+      "reviewNote": "Controleer de uitzonderingen in Model-APV art. 5:34 en of het artikel na de Omgevingswet nog zo in de Model-APV staat.",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m04-l05-4",
+      "moduleId": "m04",
+      "lessonId": "m04-l05",
+      "termIds": [],
+      "topic": "Brandgevaar",
+      "level": "T",
+      "type": "mc",
+      "prompt": "Bij grote droogte zie je in een bos een vuurtje dat zich snel uitbreidt. Er is niemand in de buurt. Wat doe je eerst?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Je zoekt eerst uit wie het vuur heeft gestookt en waarom",
+          "feedback": "Onjuist. Opsporing komt later. Eerst moet het gevaar worden aangepakt."
+        },
+        {
+          "id": "b",
+          "text": "Je belt direct 112 en zorgt voor je eigen veiligheid",
+          "feedback": "Juist. Bij acuut brandgevaar gaat veiligheid voor. De brandweer moet zo snel mogelijk komen."
+        },
+        {
+          "id": "c",
+          "text": "Je maakt eerst foto's voor het proces-verbaal",
+          "feedback": "Onjuist. Eerst de veiligheid. Bewijs vastleggen kan daarna."
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "Bij acuut brandgevaar is veiligheid de eerste keuze: bel 112 en breng jezelf en anderen niet in gevaar. Dit is een veiligheidsafweging, geen bevoegdheidsvraag. Handhaving van het stookverbod komt daarna.",
+      "sourceRefs": [
+        {
+          "law": "Model-APV (VNG)",
+          "article": "art. 5:34",
+          "note": "Nummering verschilt per gemeente; controleer de APV van jouw gemeente.",
+          "verify": true
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "juridische_review_nodig",
+      "reviewNote": "Vraag gaat over veiligheid; controleer alleen de verwijzing naar Model-APV art. 5:34.",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m04-l05-5",
+      "moduleId": "m04",
+      "lessonId": "m04-l05",
+      "termIds": [],
+      "topic": "Wildplassen",
+      "level": "K",
+      "type": "truefalse",
+      "prompt": "Stelling: wildplassen op een openbare plaats is een overtreding van de APV.",
+      "correctAnswer": true,
+      "feedbackTrue": "Juist. Wildplassen staat als verbod in de APV en is strafbaar via art. 154 Gemeentewet en de strafbepaling in de APV.",
+      "feedbackFalse": "Onjuist. Wildplassen is wel degelijk een APV-overtreding. Het is geen misdrijf uit het Wetboek van Strafrecht.",
+      "explanation": "Het doen van je behoefte op een openbare plaats buiten een toilet is in de APV verboden en strafbaar via art. 154 Gemeentewet en de strafbepaling in de APV.",
+      "sourceRefs": [
+        {
+          "law": "Model-APV (VNG)",
+          "article": "artikel over natuurlijke behoeften",
+          "note": "Artikelnummer in de Model-APV nog te controleren; nummering verschilt per gemeente.",
+          "verify": true
+        },
+        {
+          "law": "Gemeentewet",
+          "article": "art. 154"
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "juridische_review_nodig",
+      "reviewNote": "Controleer het Model-APV-artikelnummer voor wildplassen.",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m04-l05-6",
+      "moduleId": "m04",
+      "lessonId": "m04-l05",
+      "termIds": [],
+      "topic": "Strafbaarheid wildplassen",
+      "level": "K",
+      "type": "mc",
+      "prompt": "Op welke grond is wildplassen strafbaar?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Art. 154 Gemeentewet en de strafbepaling in de APV",
+          "feedback": "Juist. De APV verbiedt wildplassen; via art. 154 Gemeentewet en de strafbepaling is het strafbaar."
+        },
+        {
+          "id": "b",
+          "text": "Art. 239 Wetboek van Strafrecht (schennis van de eerbaarheid)",
+          "feedback": "Onjuist. Art. 239 Sr gaat over schennis van de eerbaarheid, niet over gewoon wildplassen."
+        },
+        {
+          "id": "c",
+          "text": "Het handhavingsbeleid van de gemeente",
+          "feedback": "Onjuist. Beleid maakt gedrag niet strafbaar. Daarvoor is een wettelijke regel nodig."
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "Een APV-verbod is strafbaar omdat art. 154 Gemeentewet de raad toestaat straf te stellen en de APV zelf een strafbepaling bevat. Beleid is nooit een grondslag.",
+      "sourceRefs": [
+        {
+          "law": "Gemeentewet",
+          "article": "art. 154"
+        },
+        {
+          "law": "Model-APV (VNG)",
+          "article": "artikel over natuurlijke behoeften",
+          "note": "Artikelnummer in de Model-APV nog te controleren; nummering verschilt per gemeente.",
+          "verify": true
+        },
+        {
+          "law": "Model-APV (VNG)",
+          "article": "art. 6:1",
+          "note": "Nummering verschilt per gemeente; controleer de APV van jouw gemeente.",
+          "verify": true
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "juridische_review_nodig",
+      "reviewNote": "Controleer het Model-APV-artikelnummer en de inhoud aan de actuele Model-APV van de VNG.",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m04-l06-1",
+      "moduleId": "m04",
+      "lessonId": "m04-l06",
+      "termIds": [],
+      "topic": "Te koop aanbieden",
+      "level": "T",
+      "type": "mc",
+      "case": "In de Esdoornlaan staat al vijf dagen een auto met achter de voorruit een bord 'Te koop' en een telefoonnummer. De auto staat in een gewoon parkeervak.",
+      "prompt": "Welke regel is van toepassing?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Het RVV 1990, want het gaat om een auto die op de weg geparkeerd staat",
+          "feedback": "Onjuist. Het RVV verbiedt niet het te koop aanbieden van een voertuig op de weg. Dat regelt de APV."
+        },
+        {
+          "id": "b",
+          "text": "Geen enkele, want parkeren op een gewone plek mag",
+          "feedback": "Onjuist. Parkeren mag, maar niet met het kennelijke doel het voertuig te koop aan te bieden."
+        },
+        {
+          "id": "c",
+          "text": "De APV, het verbod om een voertuig te koop aan te bieden op de weg",
+          "feedback": "Juist. Het bord, het telefoonnummer en de duur laten zien dat het kennelijke doel verkoop is."
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "De Model-APV verbiedt een voertuig op de weg te parkeren met het kennelijke doel het te koop aan te bieden. Het RVV 1990 regelt dit niet. Controleer het artikel in jouw APV.",
+      "sourceRefs": [
+        {
+          "law": "Model-APV (VNG)",
+          "article": "art. 5:4",
+          "note": "Nummering verschilt per gemeente; controleer de APV van jouw gemeente.",
+          "verify": true
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "juridische_review_nodig",
+      "reviewNote": "Controleer het Model-APV-artikelnummer en de inhoud aan de actuele Model-APV van de VNG.",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m04-l06-2",
+      "moduleId": "m04",
+      "lessonId": "m04-l06",
+      "termIds": [],
+      "topic": "APV en RVV",
+      "level": "B",
+      "type": "mc",
+      "prompt": "Wat is het verschil tussen de APV en het RVV 1990 bij parkeren?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Het RVV geeft landelijke verkeersregels; de APV vult aan bij overlast",
+          "feedback": "Juist. Het RVV regelt het verkeer landelijk. De APV regelt aanvullend parkeren dat overlast of ruimtebeslag geeft."
+        },
+        {
+          "id": "b",
+          "text": "De APV geldt alleen voor vrachtauto's en bussen; het RVV voor personenauto's",
+          "feedback": "Onjuist. Het verschil zit in het onderwerp, niet in het soort voertuig."
+        },
+        {
+          "id": "c",
+          "text": "Het RVV is een gemeentelijke regeling; de APV is landelijk",
+          "feedback": "Onjuist. Het is andersom: het RVV is landelijk, de APV gemeentelijk."
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "Het RVV 1990 bevat landelijke verkeersregels en verkeerstekens. De APV mag aanvullende regels geven over parkeren dat overlast geeft, zolang die niet in strijd zijn met hogere regelingen.",
+      "sourceRefs": [
+        {
+          "law": "Reglement verkeersregels en verkeerstekens 1990 (RVV 1990)",
+          "article": "art. 1",
+          "note": "Definitie van parkeren."
+        },
+        {
+          "law": "Gemeentewet",
+          "article": "art. 154"
+        },
+        {
+          "law": "Gemeentewet",
+          "article": "art. 121",
+          "verify": true,
+          "note": "Te controleren of art. 121 of 122 Gemeentewet de juiste grondslag is."
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "juridische_review_nodig",
+      "reviewNote": "Controleer of art. 121 Gemeentewet (aanvullende verordening) of art. 122 Gemeentewet de juiste verwijzing is voor de verhouding APV-RVV.",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m04-l06-3",
+      "moduleId": "m04",
+      "lessonId": "m04-l06",
+      "termIds": [],
+      "topic": "Voertuigwrak",
+      "level": "K",
+      "type": "mc",
+      "prompt": "Wat is een voertuigwrak in de zin van de APV?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Een auto die langer dan een maand niet is gewassen",
+          "feedback": "Onjuist. Vuil maakt een auto geen wrak. Het gaat om de staat waarin het voertuig verkeert."
+        },
+        {
+          "id": "b",
+          "text": "Een voertuig in zo'n staat dat het niet meer kan rijden",
+          "feedback": "Juist. Een voertuigwrak is door zijn staat niet meer geschikt om op de weg te rijden."
+        },
+        {
+          "id": "c",
+          "text": "Iedere auto die geen geldige APK meer heeft en daarom niet mag rijden",
+          "feedback": "Onjuist. Zonder geldige APK mag je niet met de auto rijden, maar dat maakt de auto nog geen wrak. Het gaat om de staat van het voertuig."
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "De Model-APV verbiedt een voertuigwrak op de weg te hebben. Een voertuigwrak is een voertuig dat door zijn staat niet meer kan rijden. Controleer de omschrijving in jouw APV.",
+      "sourceRefs": [
+        {
+          "law": "Model-APV (VNG)",
+          "article": "art. 5:3",
+          "note": "Nummering verschilt per gemeente; controleer de APV van jouw gemeente.",
+          "verify": true
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "juridische_review_nodig",
+      "reviewNote": "Controleer de exacte omschrijving van voertuigwrak in de Model-APV (art. 5:1 of 5:3).",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m04-l06-4",
+      "moduleId": "m04",
+      "lessonId": "m04-l06",
+      "termIds": [],
+      "topic": "Kampeermiddelen",
+      "level": "T",
+      "type": "mc",
+      "prompt": "Een caravan staat al tien dagen voor een woning op de openbare weg. Hoe stel je vast of dit een overtreding is?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Je kijkt in de APV hoe lang een kampeermiddel op de weg mag staan",
+          "feedback": "Juist. De APV bepaalt de termijn. Die verschilt per gemeente."
+        },
+        {
+          "id": "b",
+          "text": "Je kijkt in het RVV 1990 naar het maximum aantal dagen voor caravans",
+          "feedback": "Onjuist. Het RVV bevat geen termijn voor caravans. Die regel staat in de APV."
+        },
+        {
+          "id": "c",
+          "text": "Je vraagt de buren of de caravan hen hindert of overlast geeft",
+          "feedback": "Onjuist. Hinder bij buren is geen voorwaarde. De APV-tekst is beslissend."
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "De Model-APV beperkt hoe lang een kampeermiddel of aanhangwagen op de weg mag staan. De termijn en uitzonderingen staan in de APV van jouw gemeente.",
+      "sourceRefs": [
+        {
+          "law": "Model-APV (VNG)",
+          "article": "art. 5:6",
+          "note": "Nummering verschilt per gemeente; controleer de APV van jouw gemeente.",
+          "verify": true
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "juridische_review_nodig",
+      "reviewNote": "Controleer het Model-APV-artikelnummer en de inhoud aan de actuele Model-APV van de VNG.",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m04-l06-5",
+      "moduleId": "m04",
+      "lessonId": "m04-l06",
+      "termIds": [],
+      "topic": "Reclamevoertuig",
+      "level": "K",
+      "type": "mc",
+      "prompt": "Wanneer is een geparkeerd voertuig volgens de Model-APV een verboden reclamevoertuig?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Als er een klein bedrijfslogo op de deur van de auto staat",
+          "feedback": "Onjuist. Een logo op een bedrijfsauto maakt het nog geen reclamevoertuig. Het gaat om het hoofddoel."
+        },
+        {
+          "id": "b",
+          "text": "Als het voertuig is geparkeerd vooral om reclame te maken",
+          "feedback": "Juist. Het verbod richt zich op voertuigen die vooral zijn neergezet om reclame te maken."
+        },
+        {
+          "id": "c",
+          "text": "Als de eigenaar een eigen bedrijf heeft en daarvoor rijdt",
+          "feedback": "Onjuist. Het hebben van een bedrijf zegt niets over het doel van het parkeren."
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "De Model-APV verbiedt een voertuig op de weg te parkeren dat hoofdzakelijk bedoeld is om reclame te maken. Controleer de tekst en uitzonderingen in jouw APV.",
+      "sourceRefs": [
+        {
+          "law": "Model-APV (VNG)",
+          "article": "art. 5:5",
+          "note": "Nummering verschilt per gemeente; controleer de APV van jouw gemeente.",
+          "verify": true
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "juridische_review_nodig",
+      "reviewNote": "Controleer het Model-APV-artikelnummer en de inhoud aan de actuele Model-APV van de VNG.",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m04-l06-6",
+      "moduleId": "m04",
+      "lessonId": "m04-l06",
+      "termIds": [],
+      "topic": "RVV-bord",
+      "level": "T",
+      "type": "mc",
+      "prompt": "Een auto staat geparkeerd naast bord E1 (parkeerverbod). Welke regeling is van toepassing?",
+      "options": [
+        {
+          "id": "a",
+          "text": "De APV, want het gaat om parkeeroverlast",
+          "feedback": "Onjuist. Een verkeersbord is een verkeersteken uit het RVV 1990."
+        },
+        {
+          "id": "b",
+          "text": "Het RVV 1990, want het gaat om een verkeersbord",
+          "feedback": "Juist. Het niet opvolgen van een verkeersteken, zoals bord E1, is een overtreding van het RVV 1990."
+        },
+        {
+          "id": "c",
+          "text": "Geen regeling, want parkeren is in Nederland vrij",
+          "feedback": "Onjuist. Bij bord E1 geldt een parkeerverbod."
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "Bord E1 is een verkeersteken uit bijlage 1 van het RVV 1990. Weggebruikers moeten verkeerstekens opvolgen (art. 62 RVV 1990). Dit is dus een RVV-overtreding, geen APV-zaak.",
+      "sourceRefs": [
+        {
+          "law": "Reglement verkeersregels en verkeerstekens 1990 (RVV 1990)",
+          "article": "art. 62",
+          "note": "Verkeerstekens opvolgen; bord E1 staat in bijlage 1."
+        },
+        {
+          "law": "Reglement verkeersregels en verkeerstekens 1990 (RVV 1990)",
+          "article": "art. 1",
+          "note": "Definitie van parkeren."
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "concept",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "APV",
+      "definition": "Algemene plaatselijke verordening: een verordening van de gemeenteraad met regels over openbare orde, veiligheid en overlast. Iedere gemeente heeft een eigen APV.",
+      "moduleId": "m04",
+      "sourceRefs": [
+        {
+          "law": "Gemeentewet",
+          "article": "art. 149"
+        }
+      ],
+      "reviewStatus": "concept"
+    },
+    {
+      "term": "Model-APV",
+      "definition": "Voorbeeld-APV van de Vereniging van Nederlandse Gemeenten (VNG). Geldt niet rechtstreeks; gemeenten nemen hem over en passen hem aan.",
+      "moduleId": "m04",
+      "sourceRefs": [
+        {
+          "law": "Model-APV (VNG)",
+          "article": "algemeen",
+          "note": "Nummering verschilt per gemeente; controleer de APV van jouw gemeente.",
+          "verify": true
+        }
+      ],
+      "reviewStatus": "concept"
+    },
+    {
+      "term": "Openbare plaats",
+      "definition": "Plaats die door bestemming of vast gebruik openstaat voor publiek, zoals een straat, plein of park. Gebouwen en besloten plaatsen vallen er niet onder.",
+      "moduleId": "m04",
+      "sourceRefs": [
+        {
+          "law": "Wet openbare manifestaties",
+          "article": "art. 1",
+          "verify": true,
+          "note": "Te controleren welk lid de definitie en de uitzondering voor gebouwen en besloten plaatsen bevat."
+        }
+      ],
+      "reviewStatus": "concept"
+    },
+    {
+      "term": "Ontheffing",
+      "definition": "Toestemming van het bestuursorgaan om in een bepaald geval van een verbod af te wijken.",
+      "moduleId": "m04",
+      "sourceRefs": [
+        {
+          "law": "Model-APV (VNG)",
+          "article": "algemeen",
+          "note": "Nummering verschilt per gemeente; controleer de APV van jouw gemeente.",
+          "verify": true
+        }
+      ],
+      "reviewStatus": "concept"
+    },
+    {
+      "term": "Aanwijzingsbesluit",
+      "definition": "Besluit waarin het bestuursorgaan de plaatsen of tijden aanwijst waar een APV-regel geldt, bijvoorbeeld een aanlijngebod of alcoholverbod.",
+      "moduleId": "m04",
+      "sourceRefs": [
+        {
+          "law": "Model-APV (VNG)",
+          "article": "algemeen",
+          "note": "Nummering verschilt per gemeente; controleer de APV van jouw gemeente.",
+          "verify": true
+        }
+      ],
+      "reviewStatus": "concept"
+    },
+    {
+      "term": "Houder (van een hond)",
+      "definition": "Degene die de hond op dat moment onder zich heeft, bijvoorbeeld iemand die de hond uitlaat. De APV-hondenregels gelden voor eigenaar en houder.",
+      "moduleId": "m04",
+      "sourceRefs": [
+        {
+          "law": "Model-APV (VNG)",
+          "article": "art. 2:57",
+          "note": "Nummering verschilt per gemeente; controleer de APV van jouw gemeente.",
+          "verify": true
+        }
+      ],
+      "reviewStatus": "concept"
+    },
+    {
+      "term": "Collecteren",
+      "definition": "Geld of goederen inzamelen zonder dat de gever iets terugkrijgt. Volgens de Model-APV is hiervoor een vergunning nodig.",
+      "moduleId": "m04",
+      "sourceRefs": [
+        {
+          "law": "Model-APV (VNG)",
+          "article": "art. 5:13",
+          "note": "Nummering verschilt per gemeente; controleer de APV van jouw gemeente.",
+          "verify": true
+        }
+      ],
+      "reviewStatus": "concept"
+    },
+    {
+      "term": "Snuffelmarkt",
+      "definition": "Markt voor gebruikte goederen, curiosa of verzamelobjecten, zoals een rommelmarkt. De organisator heeft volgens de Model-APV een vergunning nodig.",
+      "moduleId": "m04",
+      "sourceRefs": [
+        {
+          "law": "Model-APV (VNG)",
+          "article": "art. 5:22",
+          "note": "Nummering verschilt per gemeente; controleer de APV van jouw gemeente.",
+          "verify": true
+        }
+      ],
+      "reviewStatus": "concept"
+    },
+    {
+      "term": "Parkeren",
+      "definition": "Een voertuig laten stilstaan langer dan nodig is voor in- of uitstappen of het laden en lossen van goederen. De APV verwijst hiervoor naar het RVV 1990.",
+      "moduleId": "m04",
+      "sourceRefs": [
+        {
+          "law": "Reglement verkeersregels en verkeerstekens 1990 (RVV 1990)",
+          "article": "art. 1",
+          "note": "Definitie van parkeren."
+        }
+      ],
+      "reviewStatus": "concept"
+    }
+  ]
+}

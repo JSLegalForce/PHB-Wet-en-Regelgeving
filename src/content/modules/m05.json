@@ -1,0 +1,1352 @@
+{
+  "moduleId": "m05",
+  "lessons": [
+    {
+      "id": "m05-l01",
+      "moduleId": "m05",
+      "order": 1,
+      "title": "Stilstaan, stoppen en parkeren",
+      "minutes": 15,
+      "termIds": [],
+      "objectives": [
+        {
+          "text": "Je kunt uitleggen wat parkeren is volgens art. 1 RVV 1990 en wat niet onder parkeren valt.",
+          "level": "K"
+        },
+        {
+          "text": "Je kent de betekenis van bord E1, bord E2 en de gele markering langs de rand van de rijbaan.",
+          "level": "K"
+        },
+        {
+          "text": "Je kunt in een situatie op straat beoordelen of iemand parkeert of alleen stilstaat.",
+          "level": "T"
+        },
+        {
+          "text": "Je kunt op hoofdlijnen uitleggen hoe een parkeerovertreding via de Wahv wordt afgedaan.",
+          "level": "B"
+        }
+      ],
+      "screens": [
+        {
+          "type": "objectives",
+          "title": "Leerdoelen"
+        },
+        {
+          "type": "law",
+          "title": "Wat is parkeren?",
+          "ref": {
+            "law": "Reglement verkeersregels en verkeerstekens 1990 (RVV 1990)",
+            "article": "art. 1",
+            "note": "begripsbepaling parkeren"
+          },
+          "body": "Art. 1 RVV 1990 omschrijft wat **parkeren** is. In eigen woorden: je laat een voertuig stilstaan, maar niet alleen om direct iemand te laten in- of uitstappen en niet alleen om direct goederen te laden of te lossen.\n\nDaaruit volgt:\n\n- **Stilstaan** is het ruimere begrip. Ook kort stoppen voor in- en uitstappen is stilstaan.\n- **Parkeren** is stilstaan voor een andere reden, bijvoorbeeld boodschappen doen of wachten.\n- Er is geen vaste tijdsgrens. Het gaat om de reden van het stilstaan.\n- Of de bestuurder in de auto zit, maakt niet uit. Wie in een stilstaande auto op iemand wacht, parkeert ook."
+        },
+        {
+          "type": "law",
+          "title": "Waar mag je niet stilstaan of parkeren?",
+          "ref": {
+            "law": "Reglement verkeersregels en verkeerstekens 1990 (RVV 1990)",
+            "article": "art. 23 en art. 24",
+            "note": "verbod stilstaan (art. 23) en verbod parkeren (art. 24)",
+            "verify": true
+          },
+          "body": "Hoofdstuk II van het RVV 1990 bevat de gedragsregels. Daarin staan twee belangrijke artikelen:\n\n- **Art. 23 RVV 1990** noemt plaatsen waar je **niet mag stilstaan**. Denk aan plekken waar een stilstaand voertuig snel gevaar geeft, zoals op een overweg of in een tunnel, en langs een gele doorgetrokken streep.\n- **Art. 24 RVV 1990** noemt plaatsen waar je **niet mag parkeren**. Bijvoorbeeld dicht bij een kruispunt, voor een uitrit en langs een gele onderbroken streep.\n\nKijk voor de precieze opsomming altijd in de actuele tekst van de artikelen. Deze regels gelden ook als er geen bord staat."
+        },
+        {
+          "type": "keypoints",
+          "title": "Borden en markering",
+          "items": [
+            {
+              "term": "Bord E1",
+              "text": "Parkeerverbod. Kort stoppen voor direct in- en uitstappen of laden en lossen mag wel (Bijlage 1 RVV 1990)."
+            },
+            {
+              "term": "Bord E2",
+              "text": "Verbod stil te staan. Ook kort stoppen mag niet (Bijlage 1 RVV 1990)."
+            },
+            {
+              "term": "Gele doorgetrokken streep",
+              "text": "Langs de rand van de rijbaan: niet stilstaan (art. 23 RVV 1990)."
+            },
+            {
+              "term": "Gele onderbroken streep",
+              "text": "Langs de rand van de rijbaan: niet parkeren (art. 24 RVV 1990)."
+            },
+            {
+              "term": "Onderborden",
+              "text": "Een onderbord kan het verbod beperken, bijvoorbeeld tot bepaalde tijden. Lees het onderbord altijd mee."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "title": "Afdoening via de Wet Mulder",
+          "body": "Veel parkeer- en stilstaanovertredingen vallen onder de **Wahv** (Wet Mulder). Dan volgt geen strafzaak, maar een **administratieve sanctie** (art. 2 Wahv). De bijlage bij de Wahv noemt welke gedragingen eronder vallen.\n\nOp hoofdlijnen:\n\n- Een daartoe aangewezen ambtenaar stelt de gedraging vast en legt de sanctie op (art. 3 Wahv). Je moet daarvoor als boa zijn aangewezen; dat moet blijken uit je akte en je domein.\n- Is de bestuurder er niet, dan kan de sanctie naar de kentekenhouder gaan (art. 5 Wahv).\n- Het CJIB int het bedrag. Wie het niet eens is, kan eerst beroep instellen bij de officier van justitie en daarna bij de kantonrechter (art. 6 en art. 9 Wahv).\n\nLet op: een gemeentelijke **naheffingsaanslag parkeerbelasting** is iets anders. Die is fiscaal en valt niet onder de Wahv."
+        },
+        {
+          "type": "example",
+          "title": "Praktijk: wachten of parkeren?",
+          "body": "Boa Fatima loopt in het centrum. Bij een bord E1 staat een auto met de motor aan. Bestuurder Daan zit achter het stuur. Hij zegt: \"Ik parkeer niet, ik zit er toch in? Ik wacht op mijn vriendin die in de apotheek is.\"\n\nFatima legt uit dat dit wel parkeren is. Daan wacht op iemand. Dat is geen direct in- of uitstappen. Of hij in de auto zit, maakt niet uit (art. 1 RVV 1990).\n\nFatima vraagt Daan om door te rijden. Hij rijdt weg. Ze maakt een korte notitie. Of zij een sanctie oplegt, hangt af van haar aanwijzing en de werkafspraken. Een gesprek en een waarschuwing passen hier vaak goed."
+        },
+        {
+          "type": "exercise",
+          "title": "Oefening: borden en begrippen",
+          "questionId": "q-m05-l01-5"
+        },
+        {
+          "type": "check",
+          "title": "Kennischeck",
+          "questionIds": [
+            "q-m05-l01-1",
+            "q-m05-l01-2",
+            "q-m05-l01-3",
+            "q-m05-l01-4",
+            "q-m05-l01-6"
+          ]
+        },
+        {
+          "type": "summary",
+          "title": "Samenvatting"
+        }
+      ],
+      "summary": [
+        "Parkeren is een voertuig laten stilstaan, behalve voor direct in- en uitstappen of direct laden en lossen (art. 1 RVV 1990).",
+        "Of de bestuurder in de auto zit, maakt niet uit; het gaat om de reden van het stilstaan.",
+        "Art. 23 RVV 1990 noemt plaatsen waar je niet mag stilstaan, art. 24 RVV 1990 plaatsen waar je niet mag parkeren.",
+        "Bord E1 is een parkeerverbod, bord E2 een verbod stil te staan; gele doorgetrokken streep = niet stilstaan, gele onderbroken streep = niet parkeren.",
+        "Veel parkeerovertredingen worden afgedaan met een administratieve sanctie via de Wahv; dat kan ook op naam van de kentekenhouder."
+      ],
+      "sourceRefs": [
+        {
+          "law": "Reglement verkeersregels en verkeerstekens 1990 (RVV 1990)",
+          "article": "art. 1"
+        },
+        {
+          "law": "Reglement verkeersregels en verkeerstekens 1990 (RVV 1990)",
+          "article": "art. 23",
+          "note": "plaatsen verbod stilstaan",
+          "verify": true
+        },
+        {
+          "law": "Reglement verkeersregels en verkeerstekens 1990 (RVV 1990)",
+          "article": "art. 24",
+          "note": "plaatsen verbod parkeren",
+          "verify": true
+        },
+        {
+          "law": "Reglement verkeersregels en verkeerstekens 1990 (RVV 1990)",
+          "article": "Bijlage 1, borden E1 en E2"
+        },
+        {
+          "law": "Wet administratiefrechtelijke handhaving verkeersvoorschriften (Wahv)",
+          "article": "art. 2"
+        },
+        {
+          "law": "Wet administratiefrechtelijke handhaving verkeersvoorschriften (Wahv)",
+          "article": "art. 3",
+          "note": "aanwijzing bevoegde ambtenaren",
+          "verify": true
+        },
+        {
+          "law": "Wet administratiefrechtelijke handhaving verkeersvoorschriften (Wahv)",
+          "article": "art. 5"
+        },
+        {
+          "law": "Wet administratiefrechtelijke handhaving verkeersvoorschriften (Wahv)",
+          "article": "art. 6 en art. 9",
+          "note": "beroep bij officier van justitie en kantonrechter",
+          "verify": true
+        },
+        {
+          "law": "Besluit buitengewoon opsporingsambtenaar / Beleidsregels boa (domeinlijst Domein I)",
+          "note": "WVW 1994/RVV 1990 en Wahv moeten in akte en domein zijn opgenomen",
+          "verify": true
+        }
+      ],
+      "reviewStatus": "juridische_review_nodig",
+      "reviewNote": "Controleer: (1) of 'stilstaan' in art. 1 RVV 1990 zelf is gedefinieerd of alleen 'parkeren' (in de les is aangenomen: alleen parkeren is gedefinieerd, met in- en uitstappen en laden en lossen als uitzondering); (2) de exacte opsomming en lettering van de plaatsen in art. 23 (verbod stilstaan) en art. 24 (verbod parkeren) RVV 1990, en of de gele doorgetrokken streep in art. 23 en de gele onderbroken streep in art. 24 staat; (3) welk lid van art. 3 Wahv de bevoegde ambtenaren aanwijst en of boa's Domein I daarvoor per categorie zijn aangewezen; (4) of de domeinlijst Domein I de genoemde RVV-artikelen omvat; (5) of beroep bij de officier van justitie in art. 6 Wahv en beroep bij de kantonrechter in art. 9 Wahv staat.",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "m05-l02",
+      "moduleId": "m05",
+      "order": 2,
+      "title": "Wegslepen van voertuigen",
+      "minutes": 15,
+      "termIds": [],
+      "objectives": [
+        {
+          "text": "Je kent de wettelijke grondslag voor wegslepen (art. 170 e.v. WVW 1994).",
+          "level": "K"
+        },
+        {
+          "text": "Je kunt uitleggen waarom het aanwijzingsbesluit van de gemeente bepaalt wanneer wegslepen kan.",
+          "level": "B"
+        },
+        {
+          "text": "Je weet wie de kosten van wegslepen betaalt en dat de eigenaar wordt geïnformeerd.",
+          "level": "K"
+        },
+        {
+          "text": "Je kunt bij wegslepen zorgvuldig werken en alles goed vastleggen.",
+          "level": "T"
+        }
+      ],
+      "screens": [
+        {
+          "type": "objectives",
+          "title": "Leerdoelen"
+        },
+        {
+          "type": "law",
+          "title": "Art. 170 WVW 1994: overbrengen en bewaren",
+          "ref": {
+            "law": "Wegenverkeerswet 1994",
+            "article": "art. 170",
+            "note": "overbrengen en in bewaring stellen",
+            "verify": true
+          },
+          "body": "Art. 170 WVW 1994 regelt dat een voertuig in bepaalde gevallen kan worden **overgebracht** naar een bewaarplaats en daar **in bewaring** wordt gesteld. In de praktijk heet dit wegslepen.\n\nIn eigen woorden:\n\n- Het gaat om voertuigen die in strijd met de verkeersregels staan, bijvoorbeeld fout geparkeerd.\n- Alleen ambtenaren die daarvoor bij of krachtens een algemene maatregel van bestuur zijn aangewezen, mogen tot wegslepen beslissen.\n- Het kan alleen in de gevallen die het bevoegd gezag heeft aangewezen.\n\nWegslepen is een bestuursrechtelijke maatregel. Het is geen straf en geen inbeslagneming."
+        },
+        {
+          "type": "text",
+          "title": "Het aanwijzingsbesluit van de gemeente",
+          "body": "De wet geeft de bevoegdheid. Maar je mag niet bij iedere overtreding laten slepen. De gemeente legt in een **aanwijzingsbesluit** vast bij welke overtredingen wegslepen mogelijk is.\n\nVoorbeelden die gemeenten vaak opnemen:\n\n- parkeren op een gehandicaptenparkeerplaats zonder geldige kaart;\n- parkeren op een plaats voor laden en lossen;\n- parkeren voor een uitrit of in een brandweergebied.\n\nWelke gevallen precies zijn aangewezen, verschilt per gemeente. Ken dus het besluit van jouw gemeente.\n\nDaarnaast moet jij zelf bevoegd zijn. Dat volgt uit je akte en je domein. Beleid van de gemeente geeft je die bevoegdheid niet."
+        },
+        {
+          "type": "keypoints",
+          "title": "Kosten en kennisgeving",
+          "items": [
+            {
+              "term": "Kosten",
+              "text": "Overbrengen en bewaren komen voor rekening van de eigenaar of houder (art. 170 e.v. WVW 1994)."
+            },
+            {
+              "term": "Teruggave",
+              "text": "De eigenaar krijgt het voertuig meestal pas terug nadat de kosten zijn betaald."
+            },
+            {
+              "term": "Kennisgeving",
+              "text": "De eigenaar of houder moet kunnen weten dat en waarheen het voertuig is overgebracht. Zorg dat de gegevens direct geregistreerd zijn."
+            },
+            {
+              "term": "Niet opgehaald",
+              "text": "Wordt het voertuig na de wettelijke termijn niet opgehaald, dan kan het worden verkocht, overgedragen of vernietigd (art. 170 e.v. WVW 1994)."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "title": "Zorgvuldig werken en vastleggen",
+          "body": "Wegslepen raakt iemands eigendom en kost de eigenaar veel geld. Werk daarom zorgvuldig. Dat is goed vakmanschap en het helpt als de eigenaar bezwaar maakt.\n\n- Maak foto's van het voertuig, de borden en de situatie.\n- Noteer tijd, plaats, kenteken en de overtreding.\n- Kijk of de bestuurder in de buurt is. Soms lost een gesprek het probleem sneller op.\n- Leg schade die al aanwezig is vast, voordat de sleepdienst begint.\n- Maak een rapport of proces-verbaal op volgens de werkafspraken.\n\nDeze stappen zijn werkafspraken en veiligheid, geen bevoegdheid. De bevoegdheid komt uit de wet."
+        },
+        {
+          "type": "example",
+          "title": "Praktijk: auto op de laad- en losplaats",
+          "body": "Boa Noor ziet om 10.00 uur een personenauto op een laad- en losplaats in de winkelstraat. Er wordt niet geladen of gelost. Een vrachtwagen kan daardoor niet lossen.\n\nNoor controleert eerst het aanwijzingsbesluit: parkeren op de laad- en losplaats staat erin. Haar akte en domein geven haar de bevoegdheid. Ze maakt foto's, noteert tijd en kenteken en kijkt of de bestuurder in een winkel is. Na tien minuten is niemand gekomen.\n\nNoor besluit de auto te laten overbrengen. Ze legt de bestaande kras op het portier vast. Daarna registreert ze alles, zodat de eigenaar weet waar de auto staat."
+        },
+        {
+          "type": "exercise",
+          "title": "Oefening: stappen bij wegslepen",
+          "questionId": "q-m05-l02-5"
+        },
+        {
+          "type": "check",
+          "title": "Kennischeck",
+          "questionIds": [
+            "q-m05-l02-1",
+            "q-m05-l02-2",
+            "q-m05-l02-3",
+            "q-m05-l02-4",
+            "q-m05-l02-6"
+          ]
+        },
+        {
+          "type": "summary",
+          "title": "Samenvatting"
+        }
+      ],
+      "summary": [
+        "De bevoegdheid om een voertuig te laten overbrengen en bewaren staat in art. 170 e.v. WVW 1994.",
+        "Wegslepen kan alleen in de gevallen die de gemeente in een aanwijzingsbesluit heeft aangewezen.",
+        "Je moet zelf bevoegd zijn via je akte en domein; beleid geeft geen bevoegdheid.",
+        "De kosten zijn voor de eigenaar of houder, die moet kunnen weten waar het voertuig is.",
+        "Werk zorgvuldig: foto's, tijd, plaats, kenteken, bestaande schade en een rapport of proces-verbaal."
+      ],
+      "sourceRefs": [
+        {
+          "law": "Wegenverkeerswet 1994",
+          "article": "art. 170",
+          "verify": true
+        },
+        {
+          "law": "Wegenverkeerswet 1994",
+          "article": "art. 171 e.v.",
+          "note": "kennisgeving, teruggave, kosten en termijn",
+          "verify": true
+        },
+        {
+          "law": "Besluit wegslepen van voertuigen",
+          "note": "aanwijzing bevoegde ambtenaren",
+          "verify": true
+        },
+        {
+          "law": "Aanwijzingsbesluit wegslepen van de gemeente",
+          "note": "inhoud verschilt per gemeente",
+          "verify": true
+        },
+        {
+          "law": "Besluit buitengewoon opsporingsambtenaar / Beleidsregels boa (domeinlijst Domein I)",
+          "note": "bevoegdheid moet in akte en domein zijn toegekend",
+          "verify": true
+        }
+      ],
+      "reviewStatus": "juridische_review_nodig",
+      "reviewNote": "Controleer: (1) de precieze leden en onderdelen van art. 170 WVW 1994 (bij welke overtredingen overbrengen mogelijk is, wie bevoegd is, 'voor rekening van de eigenaar of houder'); (2) welk orgaan van de gemeente het aanwijzingsbesluit neemt (raad of college) en hoe dit in art. 170 WVW 1994 is geregeld; (3) welke AMvB de bevoegde ambtenaren aanwijst (Besluit wegslepen van voertuigen) en of boa's Domein I daaronder vallen; (4) welk artikel (art. 171 e.v. WVW 1994) de kennisgeving aan de eigenaar, de teruggave, de kosten en de verkoop of vernietiging na de termijn regelt.",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "m05-l03",
+      "moduleId": "m05",
+      "order": 3,
+      "title": "Aanwijzingen in het verkeer",
+      "minutes": 15,
+      "termIds": [],
+      "objectives": [
+        {
+          "text": "Je weet dat weggebruikers aanwijzingen van bevoegde personen moeten opvolgen (art. 82 RVV 1990).",
+          "level": "K"
+        },
+        {
+          "text": "Je kunt de rangorde uitleggen: aanwijzingen, verkeerslichten, verkeersborden, verkeersregels (art. 63 RVV 1990).",
+          "level": "B"
+        },
+        {
+          "text": "Je kent het verbod op gevaar en hinder op de weg (art. 5 WVW 1994).",
+          "level": "K"
+        },
+        {
+          "text": "Je kunt beoordelen of je bevoegd bent om een aanwijzing te geven en dat veilig doen.",
+          "level": "T"
+        }
+      ],
+      "screens": [
+        {
+          "type": "objectives",
+          "title": "Leerdoelen"
+        },
+        {
+          "type": "law",
+          "title": "Art. 82 RVV 1990: aanwijzingen opvolgen",
+          "ref": {
+            "law": "Reglement verkeersregels en verkeerstekens 1990 (RVV 1990)",
+            "article": "art. 82",
+            "note": "opvolgen van aanwijzingen en bevoegde personen",
+            "verify": true
+          },
+          "body": "Volgens art. 82 RVV 1990 moeten weggebruikers de **aanwijzingen** opvolgen van **bevoegde personen**. Een aanwijzing is een teken of opdracht, bijvoorbeeld met de arm of een stopteken.\n\nWie bevoegd is, volgt uit het artikel en de regeling die erop is gebaseerd. Denk aan politieambtenaren en andere aangewezen categorieën, zoals verkeersregelaars die daarvoor zijn aangesteld.\n\nVoor jou als boa geldt: je aanwijzing is alleen verplichtend als jij een bevoegd persoon bent in de zin van dit artikel. Dat moet blijken uit de regeling, je akte en je domein. Een werkopdracht van de gemeente is daarvoor niet genoeg."
+        },
+        {
+          "type": "law",
+          "title": "Art. 63 RVV 1990: wat gaat voor?",
+          "ref": {
+            "law": "Reglement verkeersregels en verkeerstekens 1990 (RVV 1990)",
+            "article": "art. 63",
+            "note": "rangorde",
+            "verify": true
+          },
+          "body": "Soms geven een bord, een verkeerslicht en een persoon tegelijk verschillende tekens. Art. 63 RVV 1990 regelt dan wat voorgaat:\n\n- **Aanwijzingen** van bevoegde personen gaan voor verkeerslichten, verkeersborden en verkeersregels.\n- **Verkeerslichten** gaan voor verkeersborden en verkeersregels.\n- **Verkeersborden** gaan voor verkeersregels.\n\nVoorbeeld: een bevoegd persoon wenkt je door bij rood licht. Dan rijd je door, want de aanwijzing gaat voor. Andersom: geeft een bevoegd persoon een stopteken bij groen, dan stop je."
+        },
+        {
+          "type": "law",
+          "title": "Art. 5 WVW 1994: gevaar en hinder",
+          "ref": {
+            "law": "Wegenverkeerswet 1994",
+            "article": "art. 5"
+          },
+          "body": "Art. 5 WVW 1994 is een algemene regel voor iedereen op de weg. In eigen woorden: je mag je niet zo gedragen dat er gevaar op de weg ontstaat of kan ontstaan. Ook mag je het verkeer niet hinderen of kunnen hinderen.\n\nDit geldt voor automobilisten, fietsers en voetgangers. Het gaat om **gevaar of hinder**; het hoeft nog niet mis te zijn gegaan. \"Kan worden veroorzaakt\" is al genoeg.\n\nArt. 5 geldt ook voor jou. Als je in het verkeer werkt, moet je zelf geen gevaar of onnodige hinder veroorzaken."
+        },
+        {
+          "type": "keypoints",
+          "title": "Veilig aanwijzingen geven",
+          "items": [
+            {
+              "term": "Bevoegdheid eerst",
+              "text": "Ga na of je een bevoegd persoon bent (art. 82 RVV 1990, akte en domein). Zo niet: vraag de politie of een verkeersregelaar."
+            },
+            {
+              "term": "Zichtbaar zijn",
+              "text": "Draag een veiligheidsvest en werk bij donker met verlichting. Dit is een werkafspraak voor veiligheid, geen bevoegdheid."
+            },
+            {
+              "term": "Veilige plek",
+              "text": "Ga niet midden op de weg staan als het niet hoeft. Houd een vluchtweg vrij."
+            },
+            {
+              "term": "Duidelijke tekens",
+              "text": "Geef rustige, duidelijke tekens. Maak oogcontact met de bestuurder."
+            },
+            {
+              "term": "Politie",
+              "text": "Bij een ongeval of groot gevaar heeft de politie de leiding. Jij ondersteunt waar dat kan."
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": "Praktijk: de afgesloten straat",
+          "body": "Boa Jesse staat bij een afgesloten straat tijdens de weekmarkt. Er staat een bord C1 (gesloten in beide richtingen). Automobilist Mirjam wil toch de straat in, want ze woont er.\n\nJesse weet dat het bord geldt (Bijlage 1 RVV 1990). Hij is in deze gemeente niet aangewezen als bevoegd persoon om verkeersaanwijzingen te geven. Hij kan Mirjam dus wel uitleggen dat de straat dicht is, maar hij kan haar geen verplichtende aanwijzing geven.\n\nMirjam wordt boos en blijft staan. Ze hindert nu het verkeer. Jesse blijft rustig en meldt het via de meldkamer. De politie komt en lost het op."
+        },
+        {
+          "type": "exercise",
+          "title": "Oefening: de rangorde",
+          "questionId": "q-m05-l03-5"
+        },
+        {
+          "type": "check",
+          "title": "Kennischeck",
+          "questionIds": [
+            "q-m05-l03-1",
+            "q-m05-l03-2",
+            "q-m05-l03-3",
+            "q-m05-l03-4",
+            "q-m05-l03-6"
+          ]
+        },
+        {
+          "type": "summary",
+          "title": "Samenvatting"
+        }
+      ],
+      "summary": [
+        "Weggebruikers moeten aanwijzingen van bevoegde personen opvolgen (art. 82 RVV 1990).",
+        "Een boa geeft alleen een verplichtende aanwijzing als hij een bevoegd persoon is volgens regeling, akte en domein.",
+        "De rangorde is: aanwijzingen, dan verkeerslichten, dan verkeersborden, dan verkeersregels (art. 63 RVV 1990).",
+        "Art. 5 WVW 1994 verbiedt gedrag dat gevaar of hinder op de weg veroorzaakt of kan veroorzaken.",
+        "Werk veilig en zichtbaar; dat is een werkafspraak, geen bevoegdheid. Bij groot gevaar heeft de politie de leiding."
+      ],
+      "sourceRefs": [
+        {
+          "law": "Reglement verkeersregels en verkeerstekens 1990 (RVV 1990)",
+          "article": "art. 82",
+          "note": "opvolgplicht en bevoegde personen",
+          "verify": true
+        },
+        {
+          "law": "Reglement verkeersregels en verkeerstekens 1990 (RVV 1990)",
+          "article": "art. 63",
+          "note": "rangorde",
+          "verify": true
+        },
+        {
+          "law": "Wegenverkeerswet 1994",
+          "article": "art. 5"
+        },
+        {
+          "law": "Reglement verkeersregels en verkeerstekens 1990 (RVV 1990)",
+          "article": "Bijlage 1, bord C1"
+        },
+        {
+          "law": "Besluit buitengewoon opsporingsambtenaar / Beleidsregels boa (domeinlijst Domein I)",
+          "note": "bevoegdheid moet in akte en domein zijn toegekend",
+          "verify": true
+        }
+      ],
+      "reviewStatus": "juridische_review_nodig",
+      "reviewNote": "Controleer: (1) welk lid van art. 82 RVV 1990 de opvolgplicht bevat en welk lid (en welke ministeriële regeling) de bevoegde personen aanwijst, en of en onder welke voorwaarden boa's Domein I daaronder vallen; (2) in welk lid van art. 63 RVV 1990 de rangorde aanwijzingen > verkeerslichten > verkeersborden > verkeersregels staat; (3) of de genoemde veiligheidsmaatregelen (zichtbaarheid, positie) als werkafspraak juist zijn weergegeven en niet als wettelijke eis.",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    }
+  ],
+  "questions": [
+    {
+      "id": "q-m05-l01-1",
+      "moduleId": "m05",
+      "lessonId": "m05-l01",
+      "termIds": [],
+      "topic": "Begrip parkeren",
+      "level": "K",
+      "type": "mc",
+      "prompt": "Wat is volgens art. 1 RVV 1990 parkeren?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Een voertuig laten stilstaan, behalve voor direct in- en uitstappen of laden en lossen",
+          "feedback": "Juist. Zo omschrijft art. 1 RVV 1990 parkeren. Wie alleen even iemand laat uitstappen of direct goederen laadt of lost, parkeert niet."
+        },
+        {
+          "id": "b",
+          "text": "Een voertuig laten staan terwijl de bestuurder er niet bij is",
+          "feedback": "Onjuist. Of de bestuurder in of bij het voertuig is, doet niet ter zake. Volgens art. 1 RVV 1990 gaat het om de reden van het stilstaan."
+        },
+        {
+          "id": "c",
+          "text": "Een voertuig langer dan vijf minuten op dezelfde plek laten stilstaan, met of zonder bestuurder",
+          "feedback": "Onjuist. Art. 1 RVV 1990 noemt geen vaste tijdsduur. Het gaat erom of het stilstaan nodig is voor direct in- of uitstappen of laden en lossen."
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "Art. 1 RVV 1990 omschrijft parkeren als het laten stilstaan van een voertuig, anders dan voor de tijd die nodig is om direct personen te laten in- of uitstappen of direct goederen te laden of te lossen. Er is geen vaste tijdsgrens en de aanwezigheid van de bestuurder is niet beslissend.",
+      "sourceRefs": [
+        {
+          "law": "Reglement verkeersregels en verkeerstekens 1990 (RVV 1990)",
+          "article": "art. 1",
+          "note": "begripsbepaling parkeren"
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "concept",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m05-l01-2",
+      "moduleId": "m05",
+      "lessonId": "m05-l01",
+      "termIds": [],
+      "topic": "Laden en lossen",
+      "level": "T",
+      "type": "mc",
+      "case": "Bij een bord E1 staat een bestelbus. Bezorger Ruben loopt heen en weer en zet dozen direct in een winkel. Na drie minuten is hij klaar en rijdt hij weg.",
+      "prompt": "Is hier sprake van parkeren in strijd met bord E1?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ja, want bij bord E1 mag een voertuig helemaal niet stilstaan",
+          "feedback": "Onjuist. Dat geldt voor bord E2 (verbod stil te staan). Bord E1 is een parkeerverbod; direct laden en lossen valt niet onder parkeren (art. 1 RVV 1990)."
+        },
+        {
+          "id": "b",
+          "text": "Ja, want een bestelbus mag nooit voor een winkeldeur stoppen",
+          "feedback": "Onjuist. Zo'n algemeen verbod bestaat niet. Je kijkt naar het bord en naar de definitie van parkeren in art. 1 RVV 1990."
+        },
+        {
+          "id": "c",
+          "text": "Nee, want hij lost direct goederen en dat is geen parkeren",
+          "feedback": "Juist. Hij is direct bezig met lossen. Volgens art. 1 RVV 1990 is dat geen parkeren, dus overtreedt hij het parkeerverbod van bord E1 niet."
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "Bord E1 (Bijlage 1 RVV 1990) is een parkeerverbod. Art. 1 RVV 1990 zondert het direct laden en lossen uit van het begrip parkeren. Zolang de bestuurder direct bezig is met lossen, parkeert hij niet.",
+      "sourceRefs": [
+        {
+          "law": "Reglement verkeersregels en verkeerstekens 1990 (RVV 1990)",
+          "article": "art. 1",
+          "note": "begripsbepaling parkeren"
+        },
+        {
+          "law": "Reglement verkeersregels en verkeerstekens 1990 (RVV 1990)",
+          "article": "Bijlage 1, bord E1",
+          "note": "parkeerverbod"
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "concept",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m05-l01-3",
+      "moduleId": "m05",
+      "lessonId": "m05-l01",
+      "termIds": [],
+      "topic": "Bord E2",
+      "level": "K",
+      "type": "mc",
+      "prompt": "Wat betekent bord E2 (rood kruis op blauwe ondergrond met rode rand)?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Parkeerverbod, maar laden en lossen mag",
+          "feedback": "Onjuist. Dat is de betekenis van bord E1. Bord E2 is strenger (Bijlage 1 RVV 1990)."
+        },
+        {
+          "id": "b",
+          "text": "Verbod stil te staan",
+          "feedback": "Juist. Bord E2 betekent een verbod om stil te staan (Bijlage 1 RVV 1990). Ook kort stoppen om iemand te laten uitstappen mag daar dus niet."
+        },
+        {
+          "id": "c",
+          "text": "Parkeren alleen voor vergunninghouders",
+          "feedback": "Onjuist. Een parkeergelegenheid alleen voor vergunninghouders wordt aangegeven met bord E9, niet met bord E2 (Bijlage 1 RVV 1990)."
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "Bijlage 1 RVV 1990 geeft de betekenis van de verkeersborden. Bord E1 is een parkeerverbod, bord E2 een verbod stil te staan. Bij E2 mag je dus ook niet stoppen om in of uit te stappen of te laden en lossen.",
+      "sourceRefs": [
+        {
+          "law": "Reglement verkeersregels en verkeerstekens 1990 (RVV 1990)",
+          "article": "Bijlage 1, bord E2",
+          "note": "verbod stil te staan"
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "concept",
+      "version": "1.1",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m05-l01-4",
+      "moduleId": "m05",
+      "lessonId": "m05-l01",
+      "termIds": [],
+      "topic": "Gele markering",
+      "level": "B",
+      "type": "mc",
+      "prompt": "Langs de stoeprand zie je een gele doorgetrokken streep. Wat geldt daar?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Er geldt een verbod om stil te staan",
+          "feedback": "Juist. Een gele doorgetrokken streep langs de rand van de rijbaan betekent een verbod om stil te staan (RVV 1990, art. 23)."
+        },
+        {
+          "id": "b",
+          "text": "Er geldt alleen een verbod om te parkeren",
+          "feedback": "Onjuist. Dat geldt bij een gele onderbroken streep (RVV 1990, art. 24). De doorgetrokken streep is strenger."
+        },
+        {
+          "id": "c",
+          "text": "Er mag alleen worden geladen en gelost",
+          "feedback": "Onjuist. De gele doorgetrokken streep is geen laad- en losplaats. Je mag er helemaal niet stilstaan (RVV 1990, art. 23)."
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "Gele markering langs de rand van de rijbaan werkt als een verbod. Doorgetrokken geel: niet stilstaan (art. 23 RVV 1990). Onderbroken geel: niet parkeren (art. 24 RVV 1990).",
+      "sourceRefs": [
+        {
+          "law": "Reglement verkeersregels en verkeerstekens 1990 (RVV 1990)",
+          "article": "art. 23",
+          "note": "gele doorgetrokken streep: verbod stilstaan",
+          "verify": true
+        },
+        {
+          "law": "Reglement verkeersregels en verkeerstekens 1990 (RVV 1990)",
+          "article": "art. 24",
+          "note": "gele onderbroken streep: verbod parkeren",
+          "verify": true
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "juridische_review_nodig",
+      "reviewNote": "Controleer of de gele doorgetrokken streep in art. 23 RVV 1990 en de gele onderbroken streep in art. 24 RVV 1990 staat, en in welk lid en onderdeel.",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m05-l01-5",
+      "moduleId": "m05",
+      "lessonId": "m05-l01",
+      "termIds": [],
+      "topic": "Borden en begrippen",
+      "level": "B",
+      "type": "match",
+      "prompt": "Koppel het bord, de markering of het begrip aan de juiste betekenis.",
+      "pairs": [
+        {
+          "left": "Bord E1",
+          "right": "Parkeerverbod"
+        },
+        {
+          "left": "Bord E2",
+          "right": "Verbod stil te staan"
+        },
+        {
+          "left": "Gele onderbroken streep langs de rand",
+          "right": "Niet parkeren"
+        },
+        {
+          "left": "Gele doorgetrokken streep langs de rand",
+          "right": "Niet stilstaan"
+        },
+        {
+          "left": "Direct laden en lossen",
+          "right": "Valt niet onder parkeren"
+        }
+      ],
+      "explanation": "Bijlage 1 RVV 1990 geeft de betekenis van de borden E1 en E2. Art. 23 en 24 RVV 1990 regelen het verbod op stilstaan en parkeren, ook bij gele markering. Art. 1 RVV 1990 zondert direct laden en lossen uit van parkeren.",
+      "sourceRefs": [
+        {
+          "law": "Reglement verkeersregels en verkeerstekens 1990 (RVV 1990)",
+          "article": "art. 1"
+        },
+        {
+          "law": "Reglement verkeersregels en verkeerstekens 1990 (RVV 1990)",
+          "article": "Bijlage 1, borden E1 en E2"
+        },
+        {
+          "law": "Reglement verkeersregels en verkeerstekens 1990 (RVV 1990)",
+          "article": "art. 23",
+          "verify": true
+        },
+        {
+          "law": "Reglement verkeersregels en verkeerstekens 1990 (RVV 1990)",
+          "article": "art. 24",
+          "verify": true
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "juridische_review_nodig",
+      "reviewNote": "Controleer of de gele markering in art. 23 (doorgetrokken) en art. 24 (onderbroken) RVV 1990 staat.",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m05-l01-6",
+      "moduleId": "m05",
+      "lessonId": "m05-l01",
+      "termIds": [],
+      "topic": "Afdoening Wet Mulder",
+      "level": "K",
+      "type": "truefalse",
+      "prompt": "Stelling: een parkeerovertreding volgens de Wahv wordt meestal afgedaan met een administratieve sanctie, die op naam van de kentekenhouder kan komen.",
+      "correctAnswer": true,
+      "feedbackTrue": "Juist. Lichte verkeersovertredingen uit de bijlage bij de Wahv worden afgedaan met een administratieve sanctie (art. 2 Wahv). Is de bestuurder niet bekend, dan kan de sanctie aan de kentekenhouder worden opgelegd (art. 5 Wahv).",
+      "feedbackFalse": "Onjuist gekozen. De stelling klopt. De Wahv (Wet Mulder) regelt een administratieve sanctie voor lichte verkeersovertredingen (art. 2 Wahv), ook op naam van de kentekenhouder (art. 5 Wahv).",
+      "explanation": "De Wahv maakt het mogelijk lichte verkeersovertredingen buiten het strafrecht af te doen met een administratieve sanctie (art. 2 Wahv). Als de bestuurder niet direct bekend is, kan de sanctie worden opgelegd aan degene op wiens naam het kenteken staat (art. 5 Wahv).",
+      "sourceRefs": [
+        {
+          "law": "Wet administratiefrechtelijke handhaving verkeersvoorschriften (Wahv)",
+          "article": "art. 2"
+        },
+        {
+          "law": "Wet administratiefrechtelijke handhaving verkeersvoorschriften (Wahv)",
+          "article": "art. 5"
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "concept",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m05-l02-1",
+      "moduleId": "m05",
+      "lessonId": "m05-l02",
+      "termIds": [],
+      "topic": "Grondslag wegslepen",
+      "level": "K",
+      "type": "mc",
+      "prompt": "In welke wet staat de bevoegdheid om een fout geparkeerd voertuig te laten wegslepen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "In het RVV 1990, bij de regels over parkeren",
+          "feedback": "Onjuist. Het RVV 1990 bevat de verkeersregels, zoals het parkeerverbod. De bevoegdheid om te laten wegslepen staat in de Wegenverkeerswet 1994 (art. 170 e.v.)."
+        },
+        {
+          "id": "b",
+          "text": "In de Wegenverkeerswet 1994, art. 170 en verder",
+          "feedback": "Juist. Art. 170 WVW 1994 en de artikelen daarna regelen het overbrengen en in bewaring stellen van voertuigen, en de kosten daarvan."
+        },
+        {
+          "id": "c",
+          "text": "In de Algemene plaatselijke verordening van de gemeente",
+          "feedback": "Onjuist. De gemeente bepaalt wel in een aanwijzingsbesluit in welke gevallen wordt gesleept. Maar de bevoegdheid zelf komt uit art. 170 WVW 1994."
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "De wettelijke grondslag voor wegslepen is art. 170 WVW 1994 en verder. De gemeente wijst aan bij welke overtredingen dit gebeurt. Het RVV 1990 bevat alleen de verkeersregel die wordt overtreden.",
+      "sourceRefs": [
+        {
+          "law": "Wegenverkeerswet 1994",
+          "article": "art. 170",
+          "note": "overbrengen en in bewaring stellen van voertuigen",
+          "verify": true
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "juridische_review_nodig",
+      "reviewNote": "Controleer of art. 170 WVW 1994 de bevoegdheid geeft en of de gemeente de gevallen aanwijst (welk lid).",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m05-l02-2",
+      "moduleId": "m05",
+      "lessonId": "m05-l02",
+      "termIds": [],
+      "topic": "Aanwijzingsbesluit",
+      "level": "B",
+      "type": "mc",
+      "prompt": "Waarom moet je bij wegslepen ook het aanwijzingsbesluit van je gemeente kennen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Omdat daarin staat welke sleepdienst je moet bellen en wat die kost",
+          "feedback": "Onjuist. Welke sleepdienst je belt, is een werkafspraak. Het aanwijzingsbesluit gaat over de vraag in welke gevallen wegslepen mag (art. 170 WVW 1994)."
+        },
+        {
+          "id": "b",
+          "text": "Omdat je door dat besluit persoonlijk tot boa wordt benoemd in de gemeente",
+          "feedback": "Onjuist. Je wordt boa via een akte van beëdiging. Het aanwijzingsbesluit bepaalt bij welke overtredingen een voertuig kan worden weggesleept."
+        },
+        {
+          "id": "c",
+          "text": "Omdat daarin staat bij welke overtredingen wegslepen mogelijk is",
+          "feedback": "Juist. Art. 170 WVW 1994 geeft de bevoegdheid. De gemeente wijst in een besluit de gevallen aan waarin het kan. Valt de overtreding er niet onder, dan mag je niet laten slepen."
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "Wegslepen kan alleen in de gevallen die het bevoegd gezag heeft aangewezen (art. 170 WVW 1994). Dat staat in het aanwijzingsbesluit van de gemeente. Je kent dus de wet én het besluit van jouw gemeente.",
+      "sourceRefs": [
+        {
+          "law": "Wegenverkeerswet 1994",
+          "article": "art. 170",
+          "note": "aanwijzing van gevallen door het bevoegd gezag",
+          "verify": true
+        },
+        {
+          "law": "Aanwijzingsbesluit wegslepen van de gemeente",
+          "note": "inhoud en bevoegd orgaan verschillen per gemeente",
+          "verify": true
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "juridische_review_nodig",
+      "reviewNote": "Controleer welk lid van art. 170 WVW 1994 de aanwijzing van gevallen regelt en welk gemeentelijk orgaan het besluit neemt.",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m05-l02-3",
+      "moduleId": "m05",
+      "lessonId": "m05-l02",
+      "termIds": [],
+      "topic": "Beslissing tot wegslepen",
+      "level": "T",
+      "type": "mc",
+      "case": "Boa Kevin ziet een auto zonder gehandicaptenparkeerkaart op een gehandicaptenparkeerplaats op kenteken. De bestuurder is nergens te zien.",
+      "prompt": "Wat controleer je eerst, voordat je opdracht geeft tot wegslepen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Of dit geval in het aanwijzingsbesluit staat en of jij zelf bevoegd bent",
+          "feedback": "Juist. Zonder aanwijzing van het geval (art. 170 WVW 1994) en zonder eigen bevoegdheid via akte en domein mag je niet laten slepen."
+        },
+        {
+          "id": "b",
+          "text": "Niets: je belt meteen de sleepdienst, want een gehandicaptenparkeerplaats gaat altijd voor",
+          "feedback": "Onjuist. Ook bij een gehandicaptenparkeerplaats moet het geval zijn aangewezen en moet jij bevoegd zijn. Eerst controleren, dan beslissen."
+        },
+        {
+          "id": "c",
+          "text": "Niets: je vraagt de politie het voertuig in beslag te nemen",
+          "feedback": "Onjuist. Wegslepen is overbrengen en in bewaring stellen op grond van art. 170 WVW 1994. Dat is geen inbeslagneming in het strafrecht."
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "Wegslepen is alleen mogelijk in de door de gemeente aangewezen gevallen en door een daartoe bevoegde ambtenaar (art. 170 WVW 1994). Check dus eerst het aanwijzingsbesluit en je eigen bevoegdheid. Leg daarna de situatie goed vast.",
+      "sourceRefs": [
+        {
+          "law": "Wegenverkeerswet 1994",
+          "article": "art. 170",
+          "verify": true
+        },
+        {
+          "law": "Aanwijzingsbesluit wegslepen van de gemeente",
+          "verify": true
+        },
+        {
+          "law": "Besluit buitengewoon opsporingsambtenaar / Beleidsregels boa (domeinlijst Domein I)",
+          "note": "bevoegdheid moet in akte en domein zijn toegekend",
+          "verify": true
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "juridische_review_nodig",
+      "reviewNote": "Controleer of boa's Domein I via het Besluit wegslepen van voertuigen en hun akte bevoegd kunnen zijn tot het laten overbrengen.",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m05-l02-4",
+      "moduleId": "m05",
+      "lessonId": "m05-l02",
+      "termIds": [],
+      "topic": "Kosten wegslepen",
+      "level": "K",
+      "type": "mc",
+      "prompt": "Wie betaalt volgens de WVW 1994 de kosten van het wegslepen en de bewaring?",
+      "options": [
+        {
+          "id": "a",
+          "text": "De gemeente die opdracht gaf",
+          "feedback": "Onjuist. De gemeente schiet de kosten soms voor, maar volgens art. 170 e.v. WVW 1994 komen ze voor rekening van de eigenaar of houder."
+        },
+        {
+          "id": "b",
+          "text": "De eigenaar of houder van het voertuig",
+          "feedback": "Juist. Het overbrengen en de bewaring komen voor rekening van de eigenaar of houder (art. 170 e.v. WVW 1994). Pas na betaling krijgt hij het voertuig terug."
+        },
+        {
+          "id": "c",
+          "text": "De boa die de beslissing nam",
+          "feedback": "Onjuist. Een boa die bevoegd en zorgvuldig handelt, betaalt geen kosten. De kosten zijn voor de eigenaar of houder (art. 170 e.v. WVW 1994)."
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "De WVW 1994 bepaalt dat de kosten van overbrengen en bewaren voor rekening komen van de eigenaar of houder van het voertuig (art. 170 e.v.). Het voertuig wordt meestal pas teruggegeven als de kosten zijn betaald.",
+      "sourceRefs": [
+        {
+          "law": "Wegenverkeerswet 1994",
+          "article": "art. 170 e.v.",
+          "note": "kosten voor rekening van eigenaar of houder",
+          "verify": true
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "juridische_review_nodig",
+      "reviewNote": "Controleer in welk artikel/lid (art. 170 of art. 172 WVW 1994) de kosten voor rekening van eigenaar of houder komen en hoe de teruggave na betaling is geregeld.",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m05-l02-5",
+      "moduleId": "m05",
+      "lessonId": "m05-l02",
+      "termIds": [],
+      "topic": "Werkwijze wegslepen",
+      "level": "T",
+      "type": "order",
+      "prompt": "Zet de stappen bij het laten wegslepen van een voertuig in de juiste volgorde.",
+      "items": [
+        "Overtreding vaststellen en controleren of het geval in het aanwijzingsbesluit staat",
+        "Nagaan of je zelf bevoegd bent via akte en domein",
+        "De situatie vastleggen met foto's, tijd, plaats en kenteken",
+        "Besluiten tot overbrengen en de sleepdienst inschakelen",
+        "Rapport of proces-verbaal opmaken en de gegevens registreren voor de eigenaar"
+      ],
+      "explanation": "Wegslepen is een zware maatregel. Je stelt eerst vast of het geval is aangewezen (art. 170 WVW 1994) en of jij bevoegd bent. Dan leg je alles vast, besluit je en registreer je de gegevens, zodat de eigenaar kan worden geïnformeerd. De precieze werkwijze volgt verder uit de werkafspraken van je organisatie.",
+      "sourceRefs": [
+        {
+          "law": "Wegenverkeerswet 1994",
+          "article": "art. 170 e.v.",
+          "verify": true
+        },
+        {
+          "law": "Aanwijzingsbesluit wegslepen van de gemeente",
+          "verify": true
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "juridische_review_nodig",
+      "reviewNote": "Volgorde is een didactische werkvolgorde; controleer of de registratie- en kennisgevingsplicht in art. 170 e.v. WVW 1994 zo klopt.",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m05-l02-6",
+      "moduleId": "m05",
+      "lessonId": "m05-l02",
+      "termIds": [],
+      "topic": "Bevoegdheid en beleid",
+      "level": "B",
+      "type": "truefalse",
+      "prompt": "Stelling: als het gemeentelijk handhavingsbeleid zegt dat foutparkeerders worden weggesleept, mag iedere boa op basis van dat beleid een auto laten wegslepen.",
+      "correctAnswer": false,
+      "feedbackTrue": "Onjuist gekozen. Beleid is nooit een bevoegdheidsgrondslag. De bevoegdheid komt uit art. 170 WVW 1994, alleen in de aangewezen gevallen en alleen voor ambtenaren die daartoe bevoegd zijn.",
+      "feedbackFalse": "Juist. Beleid geeft geen bevoegdheid. Wegslepen kan alleen op grond van art. 170 WVW 1994, in de gevallen uit het aanwijzingsbesluit, door een daartoe bevoegde ambtenaar.",
+      "explanation": "Beleid bepaalt hoe een gemeente haar bevoegdheden inzet, maar schept zelf geen bevoegdheid. De grondslag voor wegslepen is art. 170 WVW 1994. Daarbij moet het geval zijn aangewezen en moet jij als boa bevoegd zijn volgens je akte en domein.",
+      "sourceRefs": [
+        {
+          "law": "Wegenverkeerswet 1994",
+          "article": "art. 170",
+          "verify": true
+        },
+        {
+          "law": "Besluit buitengewoon opsporingsambtenaar / Beleidsregels boa (domeinlijst Domein I)",
+          "note": "bevoegdheid moet in akte en domein zijn toegekend",
+          "verify": true
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "juridische_review_nodig",
+      "reviewNote": "Controleer welke AMvB de tot wegslepen bevoegde ambtenaren aanwijst.",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m05-l03-1",
+      "moduleId": "m05",
+      "lessonId": "m05-l03",
+      "termIds": [],
+      "topic": "Opvolgen aanwijzingen",
+      "level": "K",
+      "type": "mc",
+      "prompt": "Welk artikel verplicht weggebruikers om aanwijzingen van bevoegde personen op te volgen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Art. 5 WVW 1994",
+          "feedback": "Onjuist. Art. 5 WVW 1994 verbiedt gevaar en hinder op de weg. De plicht om aanwijzingen op te volgen staat in art. 82 RVV 1990."
+        },
+        {
+          "id": "b",
+          "text": "Art. 63 RVV 1990",
+          "feedback": "Onjuist. Art. 63 RVV 1990 regelt de rangorde tussen aanwijzingen, verkeerstekens en regels. De opvolgplicht staat in art. 82 RVV 1990."
+        },
+        {
+          "id": "c",
+          "text": "Art. 82 RVV 1990",
+          "feedback": "Juist. Art. 82 RVV 1990 verplicht weggebruikers de aanwijzingen op te volgen die bevoegde personen geven."
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "Art. 82 RVV 1990 bepaalt dat weggebruikers aanwijzingen van bevoegde personen moeten opvolgen. Het artikel en de regeling die erop is gebaseerd, bepalen ook wie die bevoegde personen zijn.",
+      "sourceRefs": [
+        {
+          "law": "Reglement verkeersregels en verkeerstekens 1990 (RVV 1990)",
+          "article": "art. 82",
+          "note": "opvolgen van aanwijzingen",
+          "verify": true
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "juridische_review_nodig",
+      "reviewNote": "Controleer in welk lid van art. 82 RVV 1990 de opvolgplicht staat.",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m05-l03-2",
+      "moduleId": "m05",
+      "lessonId": "m05-l03",
+      "termIds": [],
+      "topic": "Rangorde",
+      "level": "B",
+      "type": "mc",
+      "prompt": "Een bevoegde persoon geeft een automobilist een teken om door te rijden, terwijl het verkeerslicht op rood staat. Wat moet de automobilist doen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Doorrijden, want de aanwijzing gaat voor het verkeerslicht",
+          "feedback": "Juist. Aanwijzingen van bevoegde personen gaan voor verkeerslichten, verkeersborden en verkeersregels (art. 63 RVV 1990)."
+        },
+        {
+          "id": "b",
+          "text": "Wachten, want een rood verkeerslicht gaat altijd voor een aanwijzing",
+          "feedback": "Onjuist. Volgens art. 63 RVV 1990 gaat een aanwijzing van een bevoegd persoon juist voor het verkeerslicht."
+        },
+        {
+          "id": "c",
+          "text": "Zelf kiezen of hij het licht of de aanwijzing volgt",
+          "feedback": "Onjuist. Er is een vaste rangorde in art. 63 RVV 1990. De aanwijzing van een bevoegd persoon staat bovenaan."
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "Art. 63 RVV 1990 geeft een rangorde: aanwijzingen van bevoegde personen gaan voor verkeerslichten; verkeerslichten gaan voor verkeersborden; verkeersborden gaan voor verkeersregels. Zo is in de praktijk altijd duidelijk wat geldt.",
+      "sourceRefs": [
+        {
+          "law": "Reglement verkeersregels en verkeerstekens 1990 (RVV 1990)",
+          "article": "art. 63",
+          "note": "rangorde aanwijzingen, verkeerstekens en verkeersregels",
+          "verify": true
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "juridische_review_nodig",
+      "reviewNote": "Controleer in welk lid van art. 63 RVV 1990 deze rangorde staat.",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m05-l03-3",
+      "moduleId": "m05",
+      "lessonId": "m05-l03",
+      "termIds": [],
+      "topic": "Wie mag aanwijzingen geven",
+      "level": "T",
+      "type": "mc",
+      "case": "Bij een braderie stuurt de gemeente boa Sem naar een afgesloten straat. Een automobilist wil de straat in rijden.",
+      "prompt": "Mag Sem als boa deze automobilist een verplichtende aanwijzing geven?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ja, want iedere boa mag in de openbare ruimte verkeersaanwijzingen geven",
+          "feedback": "Onjuist. Alleen personen die art. 82 RVV 1990 en de regeling daarbij aanwijzen, zijn bevoegd. Dat geldt niet automatisch voor iedere boa."
+        },
+        {
+          "id": "b",
+          "text": "Alleen als hij een bevoegd persoon is volgens art. 82 RVV 1990, akte en domein",
+          "feedback": "Juist. Een aanwijzing is alleen verplichtend als jij een bevoegd persoon bent in de zin van art. 82 RVV 1990. Dat moet blijken uit regeling, akte en domein."
+        },
+        {
+          "id": "c",
+          "text": "Ja, omdat de gemeente hem voor dit evenement bij de afgesloten straat heeft ingezet",
+          "feedback": "Onjuist. Een inzet door de gemeente is een werkopdracht en geen bevoegdheid. De bevoegdheid volgt uit art. 82 RVV 1990 en je akte."
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "Weggebruikers moeten alleen aanwijzingen van bevoegde personen opvolgen (art. 82 RVV 1990). Wie bevoegd is, volgt uit het artikel en de regeling daarbij. Voor een boa moet de bevoegdheid ook blijken uit de akte en het domein. Een werkopdracht of beleid is geen grondslag.",
+      "sourceRefs": [
+        {
+          "law": "Reglement verkeersregels en verkeerstekens 1990 (RVV 1990)",
+          "article": "art. 82",
+          "note": "bevoegde personen",
+          "verify": true
+        },
+        {
+          "law": "Besluit buitengewoon opsporingsambtenaar / Beleidsregels boa (domeinlijst Domein I)",
+          "note": "bevoegdheid moet in akte en domein zijn toegekend",
+          "verify": true
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "juridische_review_nodig",
+      "reviewNote": "Controleer welke categorieën art. 82 RVV 1990 en de ministeriële regeling daarbij als bevoegde personen aanwijzen, en of en wanneer boa's Domein I daaronder vallen.",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m05-l03-4",
+      "moduleId": "m05",
+      "lessonId": "m05-l03",
+      "termIds": [],
+      "topic": "Gevaar en hinder",
+      "level": "K",
+      "type": "mc",
+      "prompt": "Wat verbiedt art. 5 WVW 1994?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Rijden zonder geldig rijbewijs",
+          "feedback": "Onjuist. Dat is een ander artikel van de WVW 1994. Art. 5 gaat over gevaar en hinder op de weg."
+        },
+        {
+          "id": "b",
+          "text": "Gedrag waardoor gevaar of hinder op de weg ontstaat of kan ontstaan",
+          "feedback": "Juist. Art. 5 WVW 1994 verbiedt iedereen om zich zo te gedragen dat gevaar op de weg wordt of kan worden veroorzaakt, of dat het verkeer wordt of kan worden gehinderd."
+        },
+        {
+          "id": "c",
+          "text": "Het niet opvolgen van een aanwijzing van een bevoegd persoon in het verkeer",
+          "feedback": "Onjuist. Die plicht staat in art. 82 RVV 1990. Art. 5 WVW 1994 is de algemene bepaling over gevaar en hinder."
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "Art. 5 WVW 1994 is een algemene bepaling. Iedereen moet zich zo gedragen dat er geen gevaar of hinder op de weg ontstaat of kan ontstaan. Het geldt voor alle weggebruikers, ook voetgangers.",
+      "sourceRefs": [
+        {
+          "law": "Wegenverkeerswet 1994",
+          "article": "art. 5"
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "concept",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m05-l03-5",
+      "moduleId": "m05",
+      "lessonId": "m05-l03",
+      "termIds": [],
+      "topic": "Rangorde",
+      "level": "K",
+      "type": "order",
+      "prompt": "Zet in de juiste rangorde: wat gaat het eerst voor? Begin met wat het zwaarst weegt.",
+      "items": [
+        "Aanwijzingen van bevoegde personen",
+        "Verkeerslichten",
+        "Verkeersborden",
+        "Verkeersregels"
+      ],
+      "explanation": "Art. 63 RVV 1990 bepaalt de rangorde. Een aanwijzing van een bevoegd persoon gaat voor alles. Daarna komen verkeerslichten, dan verkeersborden en als laatste de algemene verkeersregels.",
+      "sourceRefs": [
+        {
+          "law": "Reglement verkeersregels en verkeerstekens 1990 (RVV 1990)",
+          "article": "art. 63",
+          "verify": true
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "juridische_review_nodig",
+      "reviewNote": "Controleer in welk lid van art. 63 RVV 1990 deze rangorde staat.",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m05-l03-6",
+      "moduleId": "m05",
+      "lessonId": "m05-l03",
+      "termIds": [],
+      "topic": "Veilig aanwijzingen geven",
+      "level": "T",
+      "type": "mc",
+      "case": "Na een aanrijding ligt er glas op de weg. Boa Lisa moet het verkeer even langs de plek leiden tot de politie er is. Het is schemerig.",
+      "prompt": "Wat is de beste manier om hier veilig te werken?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Midden op de kruising gaan staan zodat iedereen je ziet",
+          "feedback": "Onjuist. Zo breng je jezelf in gevaar. Veiligheid gaat voor. Kies een zichtbare, veilige plek buiten de rijbaan als dat kan."
+        },
+        {
+          "id": "b",
+          "text": "Zichtbaar zijn met een veiligheidsvest en een veilige plek kiezen",
+          "feedback": "Juist. Goed zichtbaar zijn en een veilige positie kiezen zijn belangrijke werkafspraken. Ze geven geen bevoegdheid, maar beschermen jou en de weggebruikers."
+        },
+        {
+          "id": "c",
+          "text": "Alleen mondeling roepen zodat je je handen vrij houdt",
+          "feedback": "Onjuist. Roepen is in het verkeer vaak niet te horen. Duidelijke, zichtbare tekens werken beter en zijn veiliger."
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "Veilig werken in het verkeer is een kwestie van werkafspraken en veiligheid, geen bevoegdheid. Zorg dat je goed zichtbaar bent en kies een veilige positie. Zelf geen gevaar veroorzaken past ook bij art. 5 WVW 1994.",
+      "sourceRefs": [
+        {
+          "law": "Wegenverkeerswet 1994",
+          "article": "art. 5"
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "juridische_review_nodig",
+      "reviewNote": "Controleer of Lisa in deze situatie een bevoegd persoon is in de zin van art. 82 RVV 1990; de vraag gaat alleen over veilig werken.",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    },
+    {
+      "id": "q-m05-l03-7",
+      "moduleId": "m05",
+      "lessonId": "m05-l03",
+      "termIds": [],
+      "topic": "Werkopdracht en bevoegdheid",
+      "level": "B",
+      "type": "truefalse",
+      "prompt": "Stelling: een aanwijzing van een boa is voor de weggebruiker alleen verplichtend als die boa een bevoegd persoon is in de zin van art. 82 RVV 1990.",
+      "correctAnswer": true,
+      "feedbackTrue": "Juist. De opvolgplicht geldt alleen voor aanwijzingen van bevoegde personen (art. 82 RVV 1990). Of een boa dat is, volgt uit de regeling, de akte en het domein.",
+      "feedbackFalse": "Onjuist gekozen. De stelling klopt. Art. 82 RVV 1990 verplicht alleen tot het opvolgen van aanwijzingen van bevoegde personen.",
+      "explanation": "Art. 82 RVV 1990 verplicht weggebruikers alleen aanwijzingen van bevoegde personen op te volgen. Een werkopdracht of beleid maakt iemand niet bevoegd. Voor een boa moet de bevoegdheid blijken uit regeling, akte en domein.",
+      "sourceRefs": [
+        {
+          "law": "Reglement verkeersregels en verkeerstekens 1990 (RVV 1990)",
+          "article": "art. 82",
+          "verify": true
+        },
+        {
+          "law": "Besluit buitengewoon opsporingsambtenaar / Beleidsregels boa (domeinlijst Domein I)",
+          "note": "bevoegdheid moet in akte en domein zijn toegekend",
+          "verify": true
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "juridische_review_nodig",
+      "reviewNote": "Controleer welke categorieën art. 82 RVV 1990 en de regeling daarbij als bevoegde personen aanwijzen.",
+      "version": "1.0",
+      "lastModified": "2026-11-02"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Parkeren",
+      "definition": "Een voertuig laten stilstaan, anders dan voor direct in- of uitstappen van personen of direct laden of lossen van goederen.",
+      "moduleId": "m05",
+      "sourceRefs": [
+        {
+          "law": "Reglement verkeersregels en verkeerstekens 1990 (RVV 1990)",
+          "article": "art. 1"
+        }
+      ],
+      "reviewStatus": "concept"
+    },
+    {
+      "term": "Stilstaan",
+      "definition": "Een voertuig tot stilstand brengen en laten staan, ook kort, bijvoorbeeld voor in- en uitstappen. Parkeren is een vorm van stilstaan.",
+      "moduleId": "m05",
+      "sourceRefs": [
+        {
+          "law": "Reglement verkeersregels en verkeerstekens 1990 (RVV 1990)",
+          "article": "art. 1 en art. 23",
+          "note": "stilstaan is ruimer dan parkeren",
+          "verify": true
+        }
+      ],
+      "reviewStatus": "concept"
+    },
+    {
+      "term": "Bord E1",
+      "definition": "Verkeersbord dat een parkeerverbod aangeeft. Direct in- en uitstappen en direct laden en lossen mogen wel.",
+      "moduleId": "m05",
+      "sourceRefs": [
+        {
+          "law": "Reglement verkeersregels en verkeerstekens 1990 (RVV 1990)",
+          "article": "Bijlage 1, bord E1"
+        }
+      ],
+      "reviewStatus": "concept"
+    },
+    {
+      "term": "Bord E2",
+      "definition": "Verkeersbord dat een verbod om stil te staan aangeeft. Ook kort stoppen mag niet.",
+      "moduleId": "m05",
+      "sourceRefs": [
+        {
+          "law": "Reglement verkeersregels en verkeerstekens 1990 (RVV 1990)",
+          "article": "Bijlage 1, bord E2"
+        }
+      ],
+      "reviewStatus": "concept"
+    },
+    {
+      "term": "Wahv (Wet Mulder)",
+      "definition": "Wet die het mogelijk maakt lichte verkeersovertredingen af te doen met een administratieve sanctie in plaats van via het strafrecht.",
+      "moduleId": "m05",
+      "sourceRefs": [
+        {
+          "law": "Wet administratiefrechtelijke handhaving verkeersvoorschriften (Wahv)",
+          "article": "art. 2"
+        }
+      ],
+      "reviewStatus": "concept"
+    },
+    {
+      "term": "Wegslepen",
+      "definition": "Het overbrengen van een voertuig naar een bewaarplaats en het daar in bewaring stellen, in de gevallen die de gemeente heeft aangewezen, voor rekening van de eigenaar of houder.",
+      "moduleId": "m05",
+      "sourceRefs": [
+        {
+          "law": "Wegenverkeerswet 1994",
+          "article": "art. 170 e.v.",
+          "verify": true
+        }
+      ],
+      "reviewStatus": "concept"
+    },
+    {
+      "term": "Aanwijzingsbesluit wegslepen",
+      "definition": "Besluit van de gemeente waarin staat bij welke overtredingen een voertuig kan worden weggesleept.",
+      "moduleId": "m05",
+      "sourceRefs": [
+        {
+          "law": "Wegenverkeerswet 1994",
+          "article": "art. 170",
+          "verify": true
+        }
+      ],
+      "reviewStatus": "concept"
+    },
+    {
+      "term": "Aanwijzing",
+      "definition": "Teken of opdracht van een bevoegd persoon in het verkeer, die weggebruikers moeten opvolgen en die voorgaat op verkeerslichten, borden en regels.",
+      "moduleId": "m05",
+      "sourceRefs": [
+        {
+          "law": "Reglement verkeersregels en verkeerstekens 1990 (RVV 1990)",
+          "article": "art. 82",
+          "verify": true
+        },
+        {
+          "law": "Reglement verkeersregels en verkeerstekens 1990 (RVV 1990)",
+          "article": "art. 63",
+          "verify": true
+        }
+      ],
+      "reviewStatus": "concept"
+    }
+  ]
+}
