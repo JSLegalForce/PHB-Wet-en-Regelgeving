@@ -1,0 +1,31 @@
+{
+  "title": "PHB Wet- en Regelgeving Domein I",
+  "version": "0.9",
+  "peildatum": "2026-11-02",
+  "matrix": {
+    "name": "Toetsmatrijs Wet- en Regelgeving Domein I, 1 december 2024, versie 1.2",
+    "status": "bron_ontbreekt",
+    "note": "De PHB-toetsmatrijs was bij deze bouw niet beschikbaar (ZIP met bronnen ontbrak). De officiële examentermen, taxonomie per term en aantallen per groep zijn daarom nog NIET ingelezen. Vul 'terms' en 'examGroups' uit de matrix; de dekkingscontrole meldt dan automatisch welke termen nog geen les of vragen hebben."
+  },
+  "exam": {
+    "totalQuestions": 50,
+    "durationMinutes": 90,
+    "passPercentage": 70,
+    "source": "Opdrachtdocument §2, overgenomen uit de PHB-toetsmatrijs; nog te verifiëren aan de matrix zelf."
+  },
+  "modules": [
+    { "id": "m01", "number": 1, "title": "Organisatie, regelgeving en samenwerking", "short": "Organisatie", "termRange": "1.1.1 – 1.3.2", "topics": ["Gemeentelijke organisatie", "AMvB en verordeningen", "AVG en Wpg", "Samenwerking met politie en ketenpartners"] },
+    { "id": "m02", "number": 2, "title": "Strafrecht en strafvordering", "short": "Strafrecht", "termRange": "2.1.1 – 2.6.2", "topics": ["Verdachte en strafbaar feit", "Staande houden en identificatie", "Aanhouden", "Rechten van de verdachte", "Fouillering", "Inbeslagneming", "Binnentreden", "Jeugd en Halt", "Proces-verbaal"] },
+    { "id": "m03", "number": 3, "title": "Algemene wet bestuursrecht", "short": "Awb", "termRange": "3.1.1 – 3.2.2", "topics": ["Bestuursrecht", "Toezichthouder", "Toezichtsbevoegdheden", "Bestuurlijke sancties"] },
+    { "id": "m04", "number": 4, "title": "Algemene plaatselijke verordening", "short": "APV", "termRange": "4.1.1 – 4.1.9", "topics": ["Begripsbepalingen", "Ordeverstoring", "Overlast", "Honden", "Straatverkoop en collecteren", "Natuurlijke behoefte", "Parkeeroverlast", "Snuffelmarkten", "Vuur stoken"] },
+    { "id": "m05", "number": 5, "title": "Wegenverkeerswet 1994 en RVV 1990", "short": "WVW / RVV", "termRange": "5.1.1 – 5.2.2", "topics": ["Wegslepen", "Stop- en parkeerverboden", "Aanwijzingen"] },
+    { "id": "m06", "number": 6, "title": "Alcoholwet", "short": "Alcoholwet", "termRange": "5.3.1", "topics": ["Artikel 45 en 45a"] },
+    { "id": "m07", "number": 7, "title": "Winkeltijdenwet", "short": "Winkeltijden", "termRange": "5.4.1", "topics": ["Openingstijden en toezicht"] },
+    { "id": "m08", "number": 8, "title": "Wet op de economische delicten", "short": "WED", "termRange": "5.5.1 – 5.5.2", "topics": ["Bevoegdheden", "Medewerkingsplicht"] },
+    { "id": "m09", "number": 9, "title": "Omgevingswet", "short": "Omgevingswet", "termRange": "5.6.1 – 5.6.3", "topics": ["Stelsel", "Omgevingsplan en vergunning", "Handhaving"] },
+    { "id": "m10", "number": 10, "title": "Visserijwet 1963", "short": "Visserijwet", "termRange": "5.7.1", "topics": ["Vissen met toestemming", "Controle"] },
+    { "id": "m11", "number": 11, "title": "Wet milieubeheer", "short": "Wet milieubeheer", "termRange": "5.8.1", "topics": ["Afvalstoffen", "Zorgplicht en stortverbod"] }
+  ],
+  "terms": [],
+  "examGroups": []
+}
