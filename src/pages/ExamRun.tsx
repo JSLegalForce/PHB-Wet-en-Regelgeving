@@ -15,10 +15,12 @@ export function ExamRun() {
   const [confirm, setConfirm] = useState(false)
   const headingRef = useRef<HTMLHeadingElement>(null)
   const dialogRef = useRef<HTMLDialogElement>(null)
+  const submittedRef = useRef(false)
 
   const submit = useCallback(() => {
     const ex = getProgress().activeExam
-    if (!ex) return
+    if (!ex || submittedRef.current) return
+    submittedRef.current = true
     const qs = ex.questionIds.map((id) => getQuestion(id)!).filter(Boolean)
     const r = scoreExam(qs, ex.answers, curriculum.exam.passPercentage)
     for (const q of qs) if (q.type === 'mc' && ex.answers[q.id] !== undefined) recordAnswer(q.id, ex.answers[q.id] === q.correctAnswer)
@@ -47,7 +49,7 @@ export function ExamRun() {
     headingRef.current?.focus()
   }, [exam?.current])
 
-  if (!exam) return <Navigate to="/proefexamen" replace />
+  if (!exam) return submittedRef.current ? null : <Navigate to="/proefexamen" replace />
 
   const q = getQuestion(exam.questionIds[exam.current]) as McQuestion | undefined
   const total = exam.questionIds.length

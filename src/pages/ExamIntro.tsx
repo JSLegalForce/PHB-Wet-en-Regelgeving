@@ -97,7 +97,7 @@ export function ExamIntro() {
             <span className="rounded-full bg-accent-50 px-2.5 py-0.5 text-xs font-semibold text-accent-700">Concept</span>
           </div>
           <p className="text-sm text-steel-600">
-            Zelfde vorm en tijd, met {totalQuestions} unieke meerkeuzevragen verdeeld over alle modules. Let op: de vragen zijn nog niet allemaal juridisch gecontroleerd en de verdeling volgt nog niet de officiële toetsmatrijs.
+            Zelfde vorm en tijd, met {totalQuestions} unieke meerkeuzevragen uit alle modules, naar rato van de omvang per module. Let op: de vragen zijn nog niet allemaal juridisch gecontroleerd en de verdeling volgt nog niet de officiële toetsmatrijs.
           </p>
           {!concept.ok && (
             <div className="mt-3 rounded-xl bg-navy-50 px-4 py-3 text-sm" role="status">

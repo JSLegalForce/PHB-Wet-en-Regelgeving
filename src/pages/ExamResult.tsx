@@ -46,8 +46,8 @@ export function ExamResultPage() {
                 const v = r.byModule[m.id]
                 return (
                   <li key={m.id} className="grid grid-cols-[minmax(0,1fr)_120px_48px] items-center gap-3 text-sm">
-                    <span className="truncate">
-                      {m.number}. {m.title}
+                    <span className="truncate" title={m.title}>
+                      {m.number}. {m.short}
                     </span>
                     <ProgressBar value={(v.correct / v.total) * 100} label={`Score module ${m.number}`} />
                     <span className="text-right font-bold">

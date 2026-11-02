@@ -55,21 +55,27 @@ export function buildConceptExam(c: Curriculum, questions: Question[], rng: Rng 
   if (pool.length < total) {
     return { ok: false, mode: 'concept', reasons: [`Er zijn ${pool.length} bruikbare meerkeuzevragen; voor een proefexamen zijn ${total} unieke vragen nodig.`] }
   }
-  const byModule = c.modules.map((m) => shuffle(pool.filter((q) => q.moduleId === m.id), rng))
-  const picked: string[] = []
-  // Round-robin over modules tot 50 vragen; kleine modules raken eerder op.
-  while (picked.length < total) {
+  // Verdeling naar rato van het aantal beschikbare vragen per module (grootste-restmethode),
+  // met minimaal één vraag per module die vragen heeft.
+  const lists = c.modules.map((m) => shuffle(pool.filter((q) => q.moduleId === m.id), rng)).filter((l) => l.length > 0)
+  const quota = lists.map(() => 1)
+  let rest = total - quota.length
+  const raw = lists.map((l) => (l.length / pool.length) * rest)
+  lists.forEach((l, i) => (quota[i] += Math.min(Math.floor(raw[i]), l.length - 1)))
+  rest = total - quota.reduce((a, b) => a + b, 0)
+  const order = lists.map((_, i) => i).sort((a, b) => raw[b] - Math.floor(raw[b]) - (raw[a] - Math.floor(raw[a])))
+  while (rest > 0) {
     let progressed = false
-    for (const list of byModule) {
-      if (picked.length >= total) break
-      const q = list.shift()
-      if (q) {
-        picked.push(q.id)
+    for (const i of order) {
+      if (rest > 0 && quota[i] < lists[i].length) {
+        quota[i]++
+        rest--
         progressed = true
       }
     }
     if (!progressed) break
   }
+  const picked = lists.flatMap((l, i) => l.slice(0, quota[i]).map((q) => q.id))
   return { ok: true, mode: 'concept', questionIds: shuffle(picked, rng) }
 }
 
