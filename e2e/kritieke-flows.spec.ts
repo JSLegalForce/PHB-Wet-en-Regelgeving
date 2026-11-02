@@ -53,7 +53,7 @@ test('officieel proefexamen is geblokkeerd; conceptproefexamen werkt met 50 vrag
 test('kennisbank zoekt begrippen', async ({ page }) => {
   await page.goto('./#/kennisbank')
   await page.getByRole('searchbox').fill('toezichthouder')
-  await expect(page.locator('dt', { hasText: /Toezichthouder/i }).first()).toBeVisible()
+  await expect(page.getByRole('heading', { name: /Toezichthouder/i }).first()).toBeVisible()
 })
 
 test('toetsenbord: skiplink en focus zichtbaar', async ({ page, isMobile }) => {

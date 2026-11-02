@@ -141,7 +141,7 @@ function QuickLink({ to, title, text, icon, disabled }: { to: string; title: str
       </span>
     </>
   )
-  if (disabled) return <div className="card flex items-center gap-3 p-4 opacity-70">{inner}</div>
+  if (disabled) return <div className="card flex items-center gap-3 bg-navy-50/40 p-4" aria-disabled="true">{inner}</div>
   return (
     <Link to={to} className="card flex items-center gap-3 p-4 transition hover:-translate-y-0.5 hover:border-navy-500">
       {inner}

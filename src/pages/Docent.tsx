@@ -43,7 +43,7 @@ export function Docent() {
         <h2 id="per-module" className="mb-3 text-lg font-bold text-navy-900">
           Per module
         </h2>
-        <div className="overflow-x-auto">
+        <div className="overflow-x-auto" tabIndex={0} role="region" aria-label="Tabel per module, horizontaal scrollbaar">
           <table className="w-full min-w-[640px] text-left text-sm">
             <thead className="text-xs text-steel-600 uppercase">
               <tr>

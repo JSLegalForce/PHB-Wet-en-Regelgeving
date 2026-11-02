@@ -91,23 +91,23 @@ export function Kennisbank() {
           {terms.length === 0 ? (
             <p className="text-steel-600">Geen begrippen gevonden.</p>
           ) : (
-            <dl className="grid gap-3 md:grid-cols-2">
+            <ul className="grid gap-3 md:grid-cols-2">
               {terms.map((g) => (
-                <div key={g.moduleId + g.term} className="card p-4">
+                <li key={g.moduleId + g.term} className="card p-4">
                   <div className="flex flex-wrap items-start justify-between gap-2">
-                    <dt className="text-lg font-bold text-navy-900">{g.term}</dt>
+                    <h2 className="text-lg font-bold text-navy-900">{g.term}</h2>
                     <StatusBadge status={g.reviewStatus} compact />
                   </div>
-                  <dd className="mt-1 space-y-2">
+                  <div className="mt-1 space-y-2">
                     <p className="leading-relaxed">{g.definition}</p>
                     <p className="text-xs text-steel-600">
                       Module {getModule(g.moduleId)?.number} · {getModule(g.moduleId)?.short}
                       {g.sourceRefs.length > 0 && ` · ${g.sourceRefs.map(formatRef).join('; ')}`}
                     </p>
-                  </dd>
-                </div>
+                  </div>
+                </li>
               ))}
-            </dl>
+            </ul>
           )}
         </div>
       ) : (
