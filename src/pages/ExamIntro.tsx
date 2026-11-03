@@ -77,7 +77,7 @@ export function ExamIntro() {
           {!official.ok && (
             <div className="mt-3 rounded-xl bg-navy-50 px-4 py-3 text-sm" role="status">
               <p className="font-semibold text-navy-900">Waarom is dit examen nog niet vrijgegeven?</p>
-              <ul className="mt-1 max-h-48 space-y-1 overflow-y-auto">
+              <ul className="mt-1 max-h-48 space-y-1 overflow-y-auto" tabIndex={0} aria-label="Ontbrekende vragen per examengroep">
                 {official.reasons.map((r) => (
                   <li key={r}>· {r}</li>
                 ))}
@@ -114,7 +114,7 @@ export function ExamIntro() {
           )}
           {!concept.ok && (
             <div className="mt-3 rounded-xl bg-navy-50 px-4 py-3 text-sm" role="status">
-              <ul className="max-h-48 space-y-1 overflow-y-auto">
+              <ul className="max-h-48 space-y-1 overflow-y-auto" tabIndex={0} aria-label="Ontbrekende vragen per examengroep">
                 {concept.reasons.map((r) => (
                   <li key={r}>· {r}</li>
                 ))}

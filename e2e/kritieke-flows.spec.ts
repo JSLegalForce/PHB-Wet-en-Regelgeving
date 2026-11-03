@@ -62,3 +62,18 @@ test('toetsenbord: skiplink en focus zichtbaar', async ({ page, isMobile }) => {
   await page.keyboard.press('Tab')
   await expect(page.getByRole('link', { name: 'Naar de inhoud' })).toBeFocused()
 })
+
+test('verkeersvraag (term 5.2.1) toont een eigen tekening met beschrijving', async ({ page }) => {
+  await page.goto('./#/les/m05-l04?scherm=4')
+  const img = page.locator('figure img').first()
+  await expect(img).toBeVisible()
+  expect((await img.getAttribute('alt'))?.length ?? 0).toBeGreaterThan(30)
+  expect(await img.evaluate((el: HTMLImageElement) => el.complete && el.naturalWidth > 0)).toBe(true)
+  await expect(page.getByText(/Toetsterm 5\.2\.1/)).toBeVisible()
+})
+
+test('docentpagina toont de examengroepen uit de toetsmatrijs', async ({ page }) => {
+  await page.goto('./#/docent')
+  await expect(page.getByRole('heading', { name: 'Examengroepen volgens toetsmatrijs' })).toBeVisible()
+  await expect(page.getByRole('cell', { name: 'Term 2.2.4' })).toBeVisible()
+})

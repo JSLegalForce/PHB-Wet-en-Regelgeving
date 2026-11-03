@@ -43,7 +43,7 @@ for (const f of readdirSync(dir).filter((x) => x.endsWith('.json'))) {
     }
     const [maj, min] = String(item.version).split('.').map(Number)
     Object.assign(item, { reviewStatus: 'goedgekeurd', reviewedBy: door, reviewedOn: today, lastModified: today, version: `${maj}.${min + 1}` })
-    appendFileSync(csv, [q(`src/content/modules/${f}`), q(item.id), q('inhoudelijk_gecontroleerd'), q('goedgekeurd'), q(`juridische aftekening door ${door}`), q((item.termIds ?? []).join(' ')), q(''), q(today), q('goedgekeurd')].join(',') + '\n')
+    appendFileSync(csv, [q(`src/content/modules/${f}`), q(item.id), q('inhoudelijk_gecontroleerd'), q('goedgekeurd'), q(`juridische aftekening door ${door}`), q((item.termIds ?? []).join(' ')), q(''), q(today), q('goedgekeurd'), q(door)].join(',') + '\n')
     changed = true
     ok++
   }
