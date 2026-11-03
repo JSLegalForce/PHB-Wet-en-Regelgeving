@@ -1,6 +1,6 @@
 # TODO juridische review
 
-_Automatisch bijgewerkt door `npm run check:content` op 2026-11-02. Wijzig de inhoud in src/content/modules/*.json; dit bestand wordt dan opnieuw opgebouwd._
+_Automatisch bijgewerkt door `npm run check:content` op 2026-11-03. Wijzig de inhoud in src/content/modules/*.json; dit bestand wordt dan opnieuw opgebouwd._
 
 ## Algemeen (geldt voor alles)
 
@@ -8,7 +8,7 @@ _Automatisch bijgewerkt door `npm run check:content` op 2026-11-02. Wijzig de in
 - [ ] Officiële examentermen 1.1.1 t/m 5.8.1 (omschrijving, K/B/T, bronpagina) en de aantallen per groep invullen in `src/content/curriculum.json`; daarna lessen en vragen koppelen via `termIds`.
 - [ ] Examenvoorwaarden (50 vragen, 90 minuten, cesuur 70%) verifiëren aan de matrix.
 - [ ] De 33 bestaande oefenvragen (Oefentoets H1: 13, H2: 8, H3: 12) importeren, per vraag controleren en `origin` vullen.
-- [ ] Per les en vraag juridisch controleren en daarna `reviewStatus: goedgekeurd` zetten (zie docs/CONTENT_HANDLEIDING.md). Pas dan telt een vraag mee voor het officiële proefexamen.
+- [ ] Per les en vraag juridisch controleren en daarna `reviewStatus: goedgekeurd` zetten (zie documentatie/CONTENT_HANDLEIDING.md). Pas dan telt een vraag mee voor het officiële proefexamen.
 - [ ] Per gemeente: APV-artikelnummers in module 4 zijn die van de Model-APV en kunnen afwijken.
 
 ## Specifieke reviewpunten per module

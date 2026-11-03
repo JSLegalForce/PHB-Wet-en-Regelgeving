@@ -1,6 +1,6 @@
 # Toetsmatrijs-dekking
 
-_Automatisch gegenereerd door `npm run check:content` op 2026-11-02. Niet met de hand bewerken._
+_Automatisch gegenereerd door `npm run check:content` op 2026-11-03. Niet met de hand bewerken._
 
 ## Status toetsmatrijs
 

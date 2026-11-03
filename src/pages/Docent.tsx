@@ -19,7 +19,7 @@ export function Docent() {
   return (
     <div className="space-y-6">
       <PageHeader eyebrow="Docent en redactie" title="Inhoudsstatus en beheer">
-        Overzicht van wat juridisch is goedgekeurd en wat nog gecontroleerd moet worden. Inhoud wijzigen gaat via de JSON-bestanden in <code className="rounded bg-navy-50 px-1">src/content/</code> (zie docs/CONTENT_HANDLEIDING.md); er hoeft geen code te worden aangepast.
+        Overzicht van wat juridisch is goedgekeurd en wat nog gecontroleerd moet worden. Inhoud wijzigen gaat via de JSON-bestanden in <code className="rounded bg-navy-50 px-1">src/content/</code> (zie documentatie/CONTENT_HANDLEIDING.md); er hoeft geen code te worden aangepast.
       </PageHeader>
 
       <div className="grid gap-4 md:grid-cols-3">

@@ -1,5 +1,5 @@
 /**
- * Contentcontrole: valideert alle JSON-inhoud en schrijft docs/toetsmatrijs-dekking.md.
+ * Contentcontrole: valideert alle JSON-inhoud en schrijft documentatie/toetsmatrijs-dekking.md.
  * Gebruik: npm run check:content   (exit-code 1 bij fouten)
  */
 import { readFileSync, readdirSync, writeFileSync } from 'node:fs'
@@ -51,7 +51,7 @@ lines.push(`| **Totaal** | **${tot.l}** | **${tot.q} (${tot.qa})** | **${tot.ea}
 lines.push('', '## Meldingen', '')
 if (r.issues.length === 0) lines.push('Geen meldingen.')
 for (const i of r.issues) lines.push(`- **${i.level}** — ${i.where}: ${i.message}`)
-writeFileSync(join(root, 'docs', 'toetsmatrijs-dekking.md'), lines.join('\n') + '\n')
+writeFileSync(join(root, 'documentatie', 'toetsmatrijs-dekking.md'), lines.join('\n') + '\n')
 
 // ---------- TODO_JURIDISCHE_REVIEW.md ----------
 type Item = { kind: string; id: string; title: string; status: string; note?: string; verify: string[] }
@@ -82,7 +82,7 @@ t.push('- [ ] **Bronnen-ZIP ontbrak bij de bouw.** PHB-toetsmatrijs v1.2, de vie
 t.push('- [ ] Officiële examentermen 1.1.1 t/m 5.8.1 (omschrijving, K/B/T, bronpagina) en de aantallen per groep invullen in `src/content/curriculum.json`; daarna lessen en vragen koppelen via `termIds`.')
 t.push('- [ ] Examenvoorwaarden (50 vragen, 90 minuten, cesuur 70%) verifiëren aan de matrix.')
 t.push('- [ ] De 33 bestaande oefenvragen (Oefentoets H1: 13, H2: 8, H3: 12) importeren, per vraag controleren en `origin` vullen.')
-t.push('- [ ] Per les en vraag juridisch controleren en daarna `reviewStatus: goedgekeurd` zetten (zie docs/CONTENT_HANDLEIDING.md). Pas dan telt een vraag mee voor het officiële proefexamen.')
+t.push('- [ ] Per les en vraag juridisch controleren en daarna `reviewStatus: goedgekeurd` zetten (zie documentatie/CONTENT_HANDLEIDING.md). Pas dan telt een vraag mee voor het officiële proefexamen.')
 t.push('- [ ] Per gemeente: APV-artikelnummers in module 4 zijn die van de Model-APV en kunnen afwijken.', '')
 t.push('## Specifieke reviewpunten per module', '')
 for (const mod of curriculum.modules) {
@@ -101,5 +101,5 @@ writeFileSync(join(root, 'TODO_JURIDISCHE_REVIEW.md'), t.join('\n'))
 console.log(`Modules: ${r.modules.map((m) => `${m.moduleId}:${m.lessons}L/${m.questions}V`).join(' ')}`)
 console.log(`Totaal: ${tot.l} lessen, ${tot.q} vragen (${tot.qa} goedgekeurd), ${tot.ec} examengeschikte conceptvragen`)
 for (const i of errors) console.error(`FOUT ${i.where}: ${i.message}`)
-console.log(`${errors.length} fouten, ${warnings.length} waarschuwingen. Rapport: docs/toetsmatrijs-dekking.md`)
+console.log(`${errors.length} fouten, ${warnings.length} waarschuwingen. Rapport: documentatie/toetsmatrijs-dekking.md`)
 process.exit(errors.length ? 1 : 0)

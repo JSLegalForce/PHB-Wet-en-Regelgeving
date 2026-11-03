@@ -1,0 +1,24 @@
+name: Controle (tests en build)
+
+# De site wordt gepubliceerd vanuit de map docs/ op de branch main
+# (Settings → Pages → Deploy from a branch → main → /docs).
+# Deze workflow controleert alleen of alles nog werkt na een wijziging.
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  controle:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - run: npm test
+      - run: npm run check:content

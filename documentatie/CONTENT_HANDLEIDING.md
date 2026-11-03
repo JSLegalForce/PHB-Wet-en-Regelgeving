@@ -11,7 +11,7 @@ src/content/
   schema.ts              het schema waar alle bestanden aan moeten voldoen
 ```
 
-Na elke wijziging: `npm run check:content`. Dit controleert schema, verwijzingen en dubbele ID's en schrijft `docs/toetsmatrijs-dekking.md`. Bij fouten start de build niet (`npm run build` draait de controle eerst).
+Na elke wijziging: `npm run check:content`. Dit controleert schema, verwijzingen en dubbele ID's en schrijft `documentatie/toetsmatrijs-dekking.md`. Bij fouten start de build niet (`npm run build` draait de controle eerst).
 
 ## Reviewstatus
 

@@ -16,7 +16,7 @@ E-learning voor boa's in Domein I ter voorbereiding op het PHB-examen Wet- en Re
 | Officieel proefexamen | geblokkeerd tot matrix ingelezen en genoeg vragen goedgekeurd |
 | Conceptproefexamen | beschikbaar, duidelijk gelabeld als concept |
 
-Actuele aantallen per module: `docs/toetsmatrijs-dekking.md`. Alle open juridische punten: `TODO_JURIDISCHE_REVIEW.md`. Bronnen: `docs/bronregister.md`.
+Actuele aantallen per module: `documentatie/toetsmatrijs-dekking.md`. Alle open juridische punten: `TODO_JURIDISCHE_REVIEW.md`. Bronnen: `documentatie/bronregister.md`.
 
 ## Lokaal starten
 
@@ -26,20 +26,22 @@ Vereist: Node.js 20 of hoger.
 npm install
 npm run dev          # ontwikkelserver, open de getoonde link
 npm test             # unit- en componenttests (Vitest)
-npm run build        # contentcontrole + typecheck + productiebuild in dist/
+npm run build        # contentcontrole + typecheck + productiebuild in docs/
 npm run check:content  # alleen de inhoud valideren en rapporten bijwerken
 npm run test:e2e     # end-to-end (Playwright), na npm run build; eenmalig: npx playwright install chromium
 ```
 
 ## Publiceren op GitHub Pages
 
-1. Maak de repository `JSLegalForce/PHB-Wet-en-Regelgeving` aan en upload de inhoud van deze map (zonder `node_modules` en `dist`).
-2. Ga naar **Settings → Pages** en kies bij *Source* **GitHub Actions**.
-3. Iedere push naar `main` draait `.github/workflows/deploy.yml`: tests, build en publicatie. De base path wordt automatisch op de reponaam gezet.
+De gebouwde site staat in de map `docs/` (die zit gewoon in de repository).
 
-Andere reponaam? Dan werkt het vanzelf via de workflow. Lokaal bouwen voor een andere naam: `VITE_BASE=/AndereNaam/ npm run build`.
+1. Zet de inhoud van deze map in de repository `JSLegalForce/PHB-Wet-en-Regelgeving` (branch `main`).
+2. Ga naar **Settings → Pages**. Kies bij *Source* **Deploy from a branch**, branch **main**, map **/docs**, en klik **Save**.
+3. Na ongeveer een minuut staat de cursus op https://jslegalforce.github.io/PHB-Wet-en-Regelgeving/.
 
-Zonder Actions publiceren kan ook: `npm run build` en de inhoud van `dist/` naar een `gh-pages`-branch of de Pages-map uploaden.
+Na een wijziging in de inhoud: `npm run build` en de bijgewerkte map `docs/` mee committen. De workflow in `.github/workflows/controle.yml` draait bij elke push de tests en de contentcontrole.
+
+Andere reponaam? Bouw dan met `VITE_BASE=/AndereNaam/ npm run build`.
 
 ## Structuur
 
@@ -52,13 +54,14 @@ src/
   lib/                examenlogica, voortgang (localStorage), contentcontrole
   components/         vraagkaart (meerkeuze, juist/onjuist, koppelen, volgorde), layout, UI
   pages/              Dashboard, Leren, Les, Oefenen, Proefexamen, Kennisbank, Docent, Over
-scripts/check-content.ts   validatie + docs/toetsmatrijs-dekking.md + TODO_JURIDISCHE_REVIEW.md
+scripts/check-content.ts   validatie + documentatie/toetsmatrijs-dekking.md + TODO_JURIDISCHE_REVIEW.md
 e2e/                  Playwright-tests van de kritieke flows
 launcher/             startscherm voor de leeromgeving
-docs/                 handleiding inhoud, bronregister, dekkingsrapport
+documentatie/         handleiding inhoud, bronregister, dekkingsrapport
+docs/                 gebouwde site voor GitHub Pages (niet met de hand wijzigen)
 ```
 
-Inhoud aanpassen zonder code: zie **docs/CONTENT_HANDLEIDING.md**. De build stopt bij ongeldige inhoud.
+Inhoud aanpassen zonder code: zie **documentatie/CONTENT_HANDLEIDING.md**. De build stopt bij ongeldige inhoud.
 
 ## Proefexamen: regels in de code
 

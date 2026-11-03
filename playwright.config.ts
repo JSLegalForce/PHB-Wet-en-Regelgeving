@@ -10,5 +10,5 @@ export default defineConfig({
     { name: 'desktop', use: { ...devices['Desktop Chrome'] } },
     { name: 'mobiel', use: { ...devices['Pixel 7'] } },
   ],
-  webServer: { command: 'npx vite preview --port 4173 --strictPort', port: 4173, reuseExistingServer: true },
+  webServer: { command: 'npx vite preview --outDir docs --port 4173 --strictPort', port: 4173, reuseExistingServer: true },
 })

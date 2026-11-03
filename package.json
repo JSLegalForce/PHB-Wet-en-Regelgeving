@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "vite",
     "check:content": "tsx scripts/check-content.ts",
-    "build": "npm run check:content && tsc -b && vite build",
+    "build": "npm run check:content && tsc -b && vite build && node -e \"require('fs').writeFileSync('docs/.nojekyll','')\"",
     "preview": "vite preview",
     "test": "vitest run",
     "test:e2e": "playwright test",

@@ -9,6 +9,7 @@ const base = process.env.VITE_BASE ?? '/PHB-Wet-en-Regelgeving/'
 
 export default defineConfig({
   base,
+  build: { outDir: 'docs', emptyOutDir: true },
   plugins: [react(), tailwindcss()],
   test: {
     environment: 'jsdom',
