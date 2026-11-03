@@ -1106,7 +1106,7 @@
             "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=77e&g=2026-11-03",
             "geldigOp": "2026-11-03"
           },
-          "body": "Bij een Halt-afdoening stelt een opsporingsambtenaar een jongere voor om mee te doen aan een **project** (art. 77e lid 1 Sr). Denk aan een leeropdracht, een gesprek of excuses aanbieden aan het slachtoffer. Het **doel**: het proces-verbaal hoeft dan niet naar de officier van justitie, en de jongere leert van zijn fout.\n\nHalt hoort bij het **jeugdstrafrecht**: het is bedoeld voor jongeren die ten tijde van het feit **12 jaar of ouder, maar nog geen 18** waren (art. 77a Sr).\n\nNiet iedere opsporingsambtenaar mag Halt voorstellen. Het moet een opsporingsambtenaar zijn die daarvoor is **aangewezen door de officier van justitie**, en er moet toestemming van de officier van justitie zijn (art. 77e lid 1 Sr). Ook boa's kunnen zijn aangewezen. Welke boa's, verschilt per gemeente en regio (nota van toelichting bij het besluit)."
+          "body": "Bij een Halt-afdoening stelt een opsporingsambtenaar een jongere voor om mee te doen aan een **project** (art. 77e lid 1 Sr). Denk aan een leeropdracht, een gesprek of excuses aanbieden aan het slachtoffer. Het **doel**: het proces-verbaal hoeft dan niet naar de officier van justitie, en de jongere leert van zijn fout.\n\nHalt hoort bij het **jeugdstrafrecht**: het is bedoeld voor jongeren die ten tijde van het feit **12 jaar of ouder, maar nog geen 18** waren (art. 77a Sr).\n\nNiet iedere opsporingsambtenaar mag Halt voorstellen. Het moet een opsporingsambtenaar zijn die daarvoor is **aangewezen door de officier van justitie**, en er moet toestemming van de officier van justitie zijn (art. 77e lid 1 Sr). Ook boa's kunnen zijn aangewezen, want een boa is opsporingsambtenaar (art. 142 Sv). Welke boa's dat zijn, verschilt per gemeente en regio."
         },
         {
           "type": "law",
@@ -1243,12 +1243,6 @@
           "geldigOp": "2026-11-03"
         },
         {
-          "law": "Nota van toelichting bij het Besluit aanwijzing Halt-feiten 2024 (Stcrt. 2024, 18756)",
-          "note": "toelichting: projecten (leeropdrachten, excuses), welke opsporingsambtenaren (ook boa's) verwijzen",
-          "url": "https://zoek.officielebekendmakingen.nl/stcrt-2024-18756.pdf",
-          "geldigOp": "2026-11-03"
-        },
-        {
           "law": "Besluit van 6 november 2025 (Stb. 2025, 356), art. II",
           "note": "wijziging art. 3 onder k Besluit aanwijzing Halt-feiten 2024: art. 453 Sr vervangen door art. 430b Sr, per 2026-01-01",
           "url": "https://zoek.officielebekendmakingen.nl/stb-2025-356.html",
@@ -1276,7 +1270,7 @@
       "reviewStatus": "inhoudelijk_gecontroleerd",
       "reviewedBy": "Claude (AI-controle tegen wettekst geldig op 2026-11-03)",
       "reviewedOn": "2026-11-03",
-      "version": "1.0",
+      "version": "1.2",
       "lastModified": "2026-11-03"
     },
     {
@@ -1794,7 +1788,7 @@
         {
           "id": "a",
           "text": "Aan een getuige die het voorwerp vermoedelijk in handen heeft",
-          "feedback": "Onjuist. Bij verdenking van een misdrijf waarvoor voorlopige hechtenis is toegelaten, kan een getuige die vermoedelijk het voorwerp heeft wel een bevel krijgen (art. 96a lid 1 Sv)."
+          "feedback": "Onjuist. Bij verdenking van een misdrijf als omschreven in art. 67 lid 1 Sv, kan een getuige die vermoedelijk het voorwerp heeft wel een bevel krijgen (art. 96a lid 1 Sv)."
         },
         {
           "id": "b",
@@ -1833,7 +1827,7 @@
       "reviewStatus": "inhoudelijk_gecontroleerd",
       "reviewedBy": "Claude (AI-controle tegen wettekst geldig op 2026-11-03)",
       "reviewedOn": "2026-11-03",
-      "version": "1.1",
+      "version": "1.2",
       "lastModified": "2026-11-03"
     },
     {
@@ -2188,7 +2182,7 @@
         {
           "id": "d",
           "text": "De woning van de eigenaar binnentreden en daar alvast gaan zoeken",
-          "feedback": "Onjuist. Een woning doorzoeken is voorbehouden aan de rechter-commissaris en de officier van justitie (art. 97 en 110 Sv). Bevriezen betekent juist wachten op hun komst."
+          "feedback": "Onjuist. Een woning ter inbeslagneming doorzoeken mag een opsporingsambtenaar niet zelf. Dat doet de rechter-commissaris (art. 110 Sv), of bij dringende noodzakelijkheid de officier van justitie of de hulpofficier van justitie met machtiging van de rechter-commissaris (art. 97 Sv). Bevriezen betekent juist wachten op hun komst."
         }
       ],
       "correctAnswer": "a",
@@ -2202,8 +2196,14 @@
         },
         {
           "law": "Wetboek van Strafvordering",
-          "article": "art. 97 lid 1",
+          "article": "art. 97",
           "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=97&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        },
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 110",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=110&g=2026-11-03",
           "geldigOp": "2026-11-03"
         }
       ],
@@ -2211,7 +2211,7 @@
       "reviewStatus": "inhoudelijk_gecontroleerd",
       "reviewedBy": "Claude (AI-controle tegen wettekst geldig op 2026-11-03)",
       "reviewedOn": "2026-11-03",
-      "version": "1.0",
+      "version": "1.1",
       "lastModified": "2026-11-03"
     },
     {
@@ -4162,18 +4162,12 @@
         }
       ],
       "correctAnswer": "c",
-      "explanation": "De opsporingsambtenaar die daartoe door de officier van justitie is aangewezen, kan na verkregen toestemming van de officier van justitie aan de verdachte voorstellen deel te nemen aan een project (art. 77e lid 1 Sr). Volgens de nota van toelichting bij het Besluit kunnen dat ook boa's zijn; welke boa's, verschilt per gemeente en regio.",
+      "explanation": "De opsporingsambtenaar die daartoe door de officier van justitie is aangewezen, kan na verkregen toestemming van de officier van justitie aan de verdachte voorstellen deel te nemen aan een project (art. 77e lid 1 Sr). Dat kan ook een boa zijn, want een boa is opsporingsambtenaar (art. 142 Sv); welke boa's, verschilt per gemeente en regio.",
       "sourceRefs": [
         {
           "law": "Wetboek van Strafrecht",
           "article": "art. 77e lid 1",
           "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=77e&g=2026-11-03",
-          "geldigOp": "2026-11-03"
-        },
-        {
-          "law": "Nota van toelichting bij het Besluit aanwijzing Halt-feiten 2024 (Stcrt. 2024, 18756)",
-          "note": "toelichting: projecten (leeropdrachten, excuses), welke opsporingsambtenaren (ook boa's) verwijzen",
-          "url": "https://zoek.officielebekendmakingen.nl/stcrt-2024-18756.pdf",
           "geldigOp": "2026-11-03"
         }
       ],
@@ -4181,7 +4175,7 @@
       "reviewStatus": "inhoudelijk_gecontroleerd",
       "reviewedBy": "Claude (AI-controle tegen wettekst geldig op 2026-11-03)",
       "reviewedOn": "2026-11-03",
-      "version": "1.0",
+      "version": "1.2",
       "lastModified": "2026-11-03"
     },
     {
