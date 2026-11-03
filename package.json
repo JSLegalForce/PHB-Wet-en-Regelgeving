@@ -1,7 +1,7 @@
 {
   "name": "phb-wet-en-regelgeving",
   "private": true,
-  "version": "0.9.0",
+  "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -10,7 +10,8 @@
     "preview": "vite preview",
     "test": "vitest run",
     "test:e2e": "playwright test",
-    "lint": "oxlint"
+    "lint": "oxlint",
+    "review:approve": "tsx scripts/approve.ts"
   },
   "dependencies": {
     "react": "^19.3.1",

@@ -5,16 +5,17 @@ E-learning voor boa's in Domein I ter voorbereiding op het PHB-examen Wet- en Re
 - Live (na publicatie): https://jslegalforce.github.io/PHB-Wet-en-Regelgeving/
 - Launcher (donker startscherm met "Open e-learning op groot scherm", zelfde werking als de Vuurwerk-launcher): https://jslegalforce.github.io/PHB-Wet-en-Regelgeving/launcher/ (bron: `launcher/index.html`, wordt bij `npm run build` naar `docs/launcher/` gekopieerd).
 
-## Status (versie 0.9)
+## Status (versie 1.0 — juridische herziening 3 november 2026)
 
 | Onderdeel | Status |
 |---|---|
-| App: dashboard, leren, oefenen, proefexamen, kennisbank, docentpagina | klaar en getest |
-| Leerinhoud alle 11 modules | geschreven, **concept – juridische review nodig** |
-| Officiële examentermen en aantallen (toetsmatrijs) | **nog niet ingelezen** – bronnen-ZIP ontbrak |
-| 33 bestaande oefenvragen (Oefentoets H1–H3) | **nog niet geïmporteerd** – bronnen-ZIP ontbrak |
-| Officieel proefexamen | geblokkeerd tot matrix ingelezen en genoeg vragen goedgekeurd |
-| Conceptproefexamen | beschikbaar, duidelijk gelabeld als concept |
+| Toetsmatrijs | **ExTH Wet- en Regelgeving Domein I v1.3 (04.03.2025)** volledig ingelezen: 49 toetstermen, 39 quotagroepen, som 50 |
+| Leerinhoud | 11 modules, alle lessen en vragen gekoppeld aan toetstermen en regel voor regel gecontroleerd tegen de wettekst geldig op 3-11-2026 |
+| Juridische status | `inhoudelijk_gecontroleerd` (AI-controle) of `juridische_review_nodig` met concreet reviewpunt; **aftekening door een jurist volgt** (`npm run review:approve`) |
+| Verplichte strafbare feiten/bevoegdheden | alle onderdelen uit de matrix gedekt en getest (o.a. art. 184, 185, 266/267/269, 285 en 231 lid 2 Sr; art. 45 en 45a Alcoholwet) |
+| Proefexamen volgens toetsmatrijs | exact de quota per toetsterm, alleen jurist-goedgekeurde vragen; **geblokkeerd tot aftekening** |
+| Conceptproefexamen | zelfde quota en vorm, met inhoudelijk gecontroleerde vragen; beschikbaar |
+| PowerPoints en Oefentoets H1–H3 | **niet aangeleverd** – niet verwerkt |
 
 Actuele aantallen per module: `documentatie/toetsmatrijs-dekking.md`. Alle open juridische punten: `TODO_JURIDISCHE_REVIEW.md`. Bronnen: `documentatie/bronregister.md`.
 
@@ -28,6 +29,7 @@ npm run dev          # ontwikkelserver, open de getoonde link
 npm test             # unit- en componenttests (Vitest)
 npm run build        # contentcontrole + typecheck + productiebuild in docs/
 npm run check:content  # alleen de inhoud valideren en rapporten bijwerken
+npm run review:approve -- --door "<naam jurist>" --module m06   # juridische aftekening
 npm run test:e2e     # end-to-end (Playwright), na npm run build; eenmalig: npx playwright install chromium
 ```
 
@@ -65,14 +67,14 @@ Inhoud aanpassen zonder code: zie **documentatie/CONTENT_HANDLEIDING.md**. De bu
 
 ## Proefexamen: regels in de code
 
-- **Officieel**: alleen goedgekeurde meerkeuzevragen, exact de aantallen per examengroep uit `curriculum.json`, geen herhaling of aanvulling. Ontbreekt iets, dan ziet de cursist waarom het examen nog niet beschikbaar is.
-- **Concept**: 50 unieke meerkeuzevragen (concept of goedgekeurd), verdeeld over de modules naar rato van de omvang van de vragenbank. Altijd zichtbaar als concept gelabeld.
+- **Proefexamen volgens toetsmatrijs** (`officieel`): exact de aantallen per examengroep uit de ExTH-matrix, alleen door een jurist goedgekeurde meerkeuzevragen op het niveau van de toetsterm, verdeeld over de termen en onderwerpen binnen een groep; geen herhaling of aanvulling. Ontbreekt iets, dan ziet de cursist per groep wat er ontbreekt.
+- **Conceptproefexamen**: dezelfde verdeling met inhoudelijk gecontroleerde vragen; alleen bij een tekort aangevuld met reviewvragen, met melding. Beide zijn uitdrukkelijk geen ExTH-examen.
 - Klok op basis van een vaste eindtijd (loopt door bij herladen), automatisch inleveren bij 0:00, waarschuwing bij onbeantwoorde vragen, markeren en vrij navigeren, uitslag met analyse per module en onderwerp en nakijken met uitleg.
 
 ## Privacy en bekende beperkingen
 
 - Voortgang staat alleen in de browser (localStorage). Geen accounts, geen persoonsgegevens, geen centrale registratie. Echte leerlingresultaten vereisen een backend met authenticatie, autorisatie en een AVG-beoordeling; die is bewust niet gebouwd.
-- Alle juridische inhoud is nieuw geschreven en nog niet gecontroleerd. Lessen en vragen tonen dat zichtbaar.
-- Model-APV-artikelnummers (module 4) kunnen per gemeente afwijken.
-- Geen afbeeldingen; beelden kunnen later via de vaste JS Legal Force-beeldworkflow worden toegevoegd.
+- Alle juridische inhoud is tegen de geldende wettekst gecontroleerd, maar nog niet door een jurist afgetekend. Lessen en vragen tonen hun status zichtbaar. Open punten: `TODO_JURIDISCHE_REVIEW.md`; alle wijzigingen: `documentatie/juridische_wijzigingen.csv`.
+- Model-APV-artikelnummers (module 4) volgen de VNG Model-APV (toelichting zomer 2024) en kunnen per gemeente afwijken; de VNG werkt aan een herziene Model-APV.
+- Module 5 bevat eigen SVG-tekeningen van verkeerssituaties (`public/afbeeldingen/rvv/`).
 - De JavaScript-bundel is ca. 750 kB (≈ 200 kB gzip), inclusief alle inhoud.

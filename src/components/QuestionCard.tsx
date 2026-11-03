@@ -1,5 +1,5 @@
 import { useId, useMemo, useState } from 'react'
-import type { Question } from '../content/schema'
+import type { Figure, Question } from '../content/schema'
 import { getModule } from '../content'
 import { shuffle } from '../lib/random'
 import { recordAnswer } from '../lib/progress'
@@ -48,6 +48,7 @@ export function QuestionCard({ question: q, onAnswered, showModule, index }: Pro
             <RichText text={q.case} />
           </div>
         )}
+        {q.figure && <QuestionFigure figure={q.figure} />}
         <h3 id={`${q.id}-prompt`} className="text-lg font-bold leading-snug text-navy-900">
           {q.type === 'truefalse' ? <><span className="sr-only">Stelling: </span>{q.prompt}</> : q.prompt}
         </h3>
@@ -268,5 +269,21 @@ function Arrow({ up = false }: { up?: boolean }) {
     <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true" style={{ transform: up ? 'rotate(180deg)' : undefined }}>
       <path d="m6 9 6 6 6-6" />
     </svg>
+  )
+}
+
+/** Afbeelding bij een vraag. De alt-tekst bevat alle informatie die nodig is om de vraag zonder afbeelding te beantwoorden. */
+export function QuestionFigure({ figure }: { figure: Figure }) {
+  return (
+    <figure className="overflow-hidden rounded-xl border border-line bg-white">
+      <img src={`${import.meta.env.BASE_URL}${figure.src}`} alt={figure.alt} className="mx-auto block h-auto max-h-[420px] w-full object-contain" loading="lazy" />
+      {(figure.caption || figure.credit) && (
+        <figcaption className="border-t border-line bg-navy-50/60 px-4 py-2 text-xs text-steel-600">
+          {figure.caption}
+          {figure.caption && figure.credit ? ' · ' : ''}
+          {figure.credit}
+        </figcaption>
+      )}
+    </figure>
   )
 }

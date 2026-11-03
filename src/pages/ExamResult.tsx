@@ -4,6 +4,7 @@ import { curriculum, getModule, getQuestion } from '../content'
 import { passMarkFor, scoreExam } from '../lib/exam'
 import { useProgress } from '../lib/progress'
 import { ProgressBar, ReviewNotice, RichText, SourceList } from '../components/ui'
+import { QuestionFigure } from '../components/QuestionCard'
 
 export function ExamResultPage() {
   const p = useProgress()
@@ -22,7 +23,7 @@ export function ExamResultPage() {
       <section className={`relative overflow-hidden rounded-3xl px-6 py-8 text-white sm:px-10 ${r.passed ? 'bg-gradient-to-br from-navy-900 to-navy-600' : 'bg-ink'}`}>
         <div className="bg-grid pointer-events-none absolute inset-0 opacity-40" aria-hidden="true" />
         <div className="relative">
-          <p className="text-xs font-bold tracking-[0.2em] text-steel uppercase">{rec.mode === 'concept' ? 'Uitslag conceptproefexamen' : 'Uitslag proefexamen'}</p>
+          <p className="text-xs font-bold tracking-[0.2em] text-steel uppercase">{rec.mode === 'concept' ? 'Uitslag conceptproefexamen' : 'Uitslag proefexamen volgens toetsmatrijs'}</p>
           <h1 className="mt-2 text-4xl font-extrabold">
             {r.correct} van {r.total} goed
           </h1>
@@ -30,7 +31,7 @@ export function ExamResultPage() {
           <p className="mt-3 text-white/80">
             Cesuur: {passMark} van {r.total} goed ({curriculum.exam.passPercentage}%). {r.unanswered > 0 && `${r.unanswered} vragen niet beantwoord.`}
           </p>
-          {rec.mode === 'concept' && <p className="mt-2 max-w-2xl text-sm text-white/70">Dit was een conceptproefexamen: de vragen zijn nog niet allemaal juridisch gecontroleerd en de verdeling volgt nog niet de officiële toetsmatrijs.</p>}
+          {rec.mode === 'concept' && <p className="mt-2 max-w-2xl text-sm text-white/70">Dit was een conceptproefexamen: de vragenverdeling volgt de ExTH-toetsmatrijs, maar de vragen zijn (nog) niet allemaal door een jurist afgetekend. Dit is geen ExTH-examen en geeft geen garantie op het echte examen.</p>}
         </div>
       </section>
 
@@ -117,6 +118,7 @@ export function ExamResultPage() {
                   </summary>
                   <div className="space-y-3 border-t border-line p-4 text-sm">
                     {q.case && <RichText text={q.case} className="text-steel-600" />}
+                    {q.figure && <QuestionFigure figure={q.figure} />}
                     {chosen && !ok && (
                       <p className="rounded-lg bg-bad-50 px-3 py-2">
                         <strong>Jouw antwoord ({chosen.id.toUpperCase()}):</strong> {chosen.text} — {chosen.feedback}

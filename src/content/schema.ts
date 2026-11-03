@@ -10,7 +10,8 @@ export const reviewStatus = z.enum([
   'wacht_op_bron', // er is (nog) geen betrouwbare bron; geen inhoud tonen
   'concept', // nieuw geschreven, nog niet gecontroleerd
   'juridische_review_nodig', // inhoud aanwezig, er is een specifiek juridisch punt te controleren
-  'goedgekeurd', // juridisch gecontroleerd en vrijgegeven
+  'inhoudelijk_gecontroleerd', // regel voor regel gecontroleerd tegen de geldende wettekst (peildatum); wacht op aftekening door een jurist
+  'goedgekeurd', // juridisch afgetekend door een inhoudsdeskundige en vrijgegeven (alleen handmatig zetten)
   'afgekeurd', // niet gebruiken
 ])
 export type ReviewStatus = z.infer<typeof reviewStatus>
@@ -27,6 +28,10 @@ export const sourceRef = z.object({
   note: z.string().optional(),
   /** true = artikelnummer/inhoud moet nog extra worden gecontroleerd */
   verify: z.boolean().optional(),
+  /** Officiële vindplaats (wetten.overheid.nl, officielebekendmakingen.nl, exth.nl) */
+  url: z.string().url().optional(),
+  /** Datum van de geraadpleegde geldende versie (JJJJ-MM-DD) */
+  geldigOp: z.string().regex(/^\d{4}-\d{2}-\d{2}$/).optional(),
 })
 export type SourceRef = z.infer<typeof sourceRef>
 
@@ -36,7 +41,21 @@ const meta = {
   reviewNote: z.string().optional(),
   version: z.string().regex(/^\d+\.\d+$/),
   lastModified: z.string().regex(/^\d{4}-\d{2}-\d{2}$/),
+  /** Wie de inhoudelijke controle of aftekening deed (verplicht bij goedgekeurd) */
+  reviewedBy: z.string().optional(),
+  reviewedOn: z.string().regex(/^\d{4}-\d{2}-\d{2}$/).optional(),
 }
+
+/** Afbeelding bij een vraag (bv. verkeerssituatie). Pad relatief aan /public. */
+export const figure = z.object({
+  src: z.string().regex(/^afbeeldingen\/[a-z0-9-/]+\.(svg|png|jpg|webp)$/),
+  /** Volledige tekstuele beschrijving; moet alle informatie bevatten die nodig is om de vraag te beantwoorden */
+  alt: z.string().min(30),
+  caption: z.string().optional(),
+  /** Herkomst/rechten, bv. "eigen tekening JS Legal Force" */
+  credit: z.string().min(3),
+})
+export type Figure = z.infer<typeof figure>
 
 // ---------- Vragen ----------
 
@@ -51,6 +70,8 @@ const questionBase = z.object({
   level: level,
   /** Optionele casus die boven de vraag staat */
   case: z.string().optional(),
+  /** Optionele afbeelding (foto/tekening) bij de casus */
+  figure: figure.optional(),
   prompt: z.string().min(5),
   /** Algemene waarom-uitleg, getoond na beantwoorden */
   explanation: z.string().min(20),
@@ -165,11 +186,22 @@ export type ModuleContent = z.infer<typeof moduleContent>
 export const term = z.object({
   id: z.string().regex(/^\d\.\d\.\d$/),
   moduleId: z.string(),
+  /** Code/begrip uit de eerste kolom van de matrix */
+  title: z.string(),
+  /** Taxonomie zoals in de matrix, bv. "K/T" */
+  taxonomy: z.string().regex(/^[KBT](\/[KBT])*$/),
+  /** Toegestane niveaus voor examenvragen bij deze term */
+  levels: z.array(level).min(1),
+  /** Letterlijke toetsterm */
   description: z.string(),
-  level: level,
+  /** Wetsverwijzingen uit de matrix */
+  articles: z.array(z.string()).default([]),
+  /** Opsommingspunten uit de matrix */
+  elements: z.array(z.string()).default([]),
   sourcePage: z.string().optional(),
-  groupId: z.string().optional(),
+  groupId: z.string(),
 })
+export type Term = z.infer<typeof term>
 
 export const curriculum = z.object({
   title: z.string(),
@@ -177,6 +209,10 @@ export const curriculum = z.object({
   peildatum: z.string(),
   matrix: z.object({
     name: z.string(),
+    version: z.string().optional(),
+    date: z.string().optional(),
+    url: z.string().optional(),
+    retrieved: z.string().optional(),
     status: z.enum(['ingelezen', 'bron_ontbreekt']),
     note: z.string(),
   }),
@@ -200,5 +236,24 @@ export const curriculum = z.object({
   terms: z.array(term),
   /** Officiële aantallen per examenterm of groep */
   examGroups: z.array(z.object({ id: z.string(), label: z.string(), termIds: z.array(z.string()), questionCount: z.number().int() })),
+  /**
+   * Verplichte onderdelen uit de matrix (strafbare feiten, bevoegdheden) die nooit stil mogen verdwijnen.
+   * Een onderdeel is gedekt als er ten minste één les en `minQuestions` niet-afgekeurde meerkeuzevragen zijn
+   * met de term in termIds én een bronverwijzing die past bij `law` + `article` (reguliere expressie).
+   */
+  mandatoryItems: z
+    .array(
+      z.object({
+        id: z.string(),
+        termId: z.string(),
+        label: z.string(),
+        law: z.string(),
+        article: z.string(),
+        minQuestions: z.number().int().min(1),
+        /** Vereist niveau van de vragen (bv. T bij 2.2.4) */
+        level: level.optional(),
+      }),
+    )
+    .default([]),
 })
 export type Curriculum = z.infer<typeof curriculum>

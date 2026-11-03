@@ -17,15 +17,30 @@ Na elke wijziging: `npm run check:content`. Dit controleert schema, verwijzingen
 
 Iedere les, vraag en elk begrip heeft een `reviewStatus`:
 
-| Status | Betekenis | Wat ziet de cursist? |
-|---|---|---|
-| `wacht_op_bron` | geen betrouwbare bron, nog geen inhoud | melding "Inhoud in juridische review", geen uitleg |
-| `concept` | geschreven, nog niet gecontroleerd | inhoud + zichtbare conceptbanner |
-| `juridische_review_nodig` | er is een specifiek punt te controleren (zie `reviewNote`) | inhoud + zichtbare reviewbanner |
-| `goedgekeurd` | juridisch gecontroleerd | inhoud zonder banner; vraag telt mee voor het officiële proefexamen |
-| `afgekeurd` | niet gebruiken | niet zichtbaar |
+| Status | Betekenis | Wat ziet de cursist? | Examen |
+|---|---|---|---|
+| `wacht_op_bron` | geen betrouwbare bron, nog geen inhoud | melding, geen uitleg | nee |
+| `concept` | geschreven, nog niet gecontroleerd | inhoud + conceptbanner | nee |
+| `juridische_review_nodig` | er staat een concreet juridisch punt open (`reviewNote` verplicht) | inhoud + reviewbanner met reviewpunt | alleen als aanvulling in het conceptproefexamen, met melding |
+| `inhoudelijk_gecontroleerd` | regel voor regel gecontroleerd tegen de geldende wettekst (peildatum), wacht op aftekening door een jurist | inhoud + banner ‘gecontroleerd tegen wettekst’ | conceptproefexamen |
+| `goedgekeurd` | afgetekend door een menselijke jurist (`reviewedBy`, `reviewedOn` verplicht) | inhoud zonder banner | proefexamen volgens toetsmatrijs én conceptproefexamen |
+| `afgekeurd` | niet gebruiken | niet zichtbaar | nee |
 
-Een vraag goedkeuren: zet `reviewStatus` op `goedgekeurd`, verhoog `version` (bv. 1.0 → 1.1), zet `lastModified` op de datum van vandaag en haal eventuele `"verify": true` uit de bronverwijzingen weg. De contentcontrole weigert een goedgekeurde vraag of les met `verify: true`.
+### Aftekenen door een jurist
+
+Alleen een mens mag `goedgekeurd` zetten. Gebruik het script, dan wordt ook het wijzigingslog bijgewerkt:
+
+```bash
+npm run review:approve -- --door "mr. A. Jansen" --ids q-m06-l01-2,q-m06-l01-3
+npm run review:approve -- --door "mr. A. Jansen" --module m06
+npm run check:content && npm run build
+```
+
+Het script tekent alleen items af met status `inhoudelijk_gecontroleerd` en zonder bron met `verify: true`. Items met een open reviewpunt worden overgeslagen: los eerst het reviewpunt op (tekst aanpassen of bevestigen), zet de status op `inhoudelijk_gecontroleerd` en teken dan af. De contentcontrole weigert `goedgekeurd` zonder `reviewedBy`/`reviewedOn` en weigert ‘Claude’/‘AI’ als aftekenaar.
+
+### Wijzigingslog
+
+Iedere inhoudelijke wijziging komt in `documentatie/juridische_wijzigingen.csv` met de kolommen `bestand, itemId, oud, nieuw, reden, PHB-term, bronURL, geldigOp, reviewStatus`.
 
 ## Vaste regels voor inhoud
 
@@ -55,12 +70,22 @@ Teksten (`body`): alinea's scheiden met een lege regel (`\n\n`). `**vet**` mag. 
 
 ## Vraagtypen
 
-- `mc` – meerkeuze (2–4 opties `a`–`d`). Alleen dit type telt mee in het proefexamen (gesloten vragen).
+- `mc` – meerkeuze (2–4 opties `a`–`d`). Alleen dit type telt mee in het proefexamen (gesloten vragen), en alleen als `level` past bij de taxonomie van de gekoppelde toetsterm (bv. term 2.2.4 is T → alleen T-vragen).
 - `truefalse` – stelling juist/onjuist.
 - `match` – koppelen (3–6 paren, in de JUISTE combinatie invoeren; de app schudt).
 - `order` – volgorde (items in de JUISTE volgorde invoeren; de app schudt).
 
 Een casusvraag is een `mc`-vraag met een `case`-tekst.
+
+### Afbeeldingen bij vragen
+
+Voor termen als 5.2.1 (‘aan de hand van een foto’) kan een vraag een `figure` hebben:
+
+```json
+"figure": { "src": "afbeeldingen/rvv/gele-streep-onderbroken.svg", "alt": "Bovenaanzicht: ... (alle informatie die nodig is om de vraag zonder afbeelding te beantwoorden)", "caption": "Situatie 1", "credit": "Eigen tekening JS Legal Force" }
+```
+
+Het bestand staat in `public/afbeeldingen/…`. Gebruik alleen eigen of rechtenvrije afbeeldingen en vermeld de herkomst in `credit`. De `alt`-tekst is verplicht volledig (toegankelijkheid).
 
 ## Voorbeeld
 
@@ -69,7 +94,7 @@ Een casusvraag is een `mc`-vraag met een `case`-tekst.
   "id": "q-m02-l02-1",
   "moduleId": "m02",
   "lessonId": "m02-l02",
-  "termIds": [],
+  "termIds": ["2.1.3"],
   "topic": "Staande houden",
   "level": "T",
   "type": "mc",
@@ -90,14 +115,18 @@ Een casusvraag is een `mc`-vraag met een `case`-tekst.
 }
 ```
 
-## Officiële examentermen toevoegen
+## Toetsmatrijs en examen
 
-Zodra de PHB-toetsmatrijs is ingelezen:
+`curriculum.json` bevat de ExTH-toetsmatrijs Wet- en Regelgeving Domein I **v1.3 (04.03.2025)**:
 
-1. Zet in `curriculum.json` alle termen in `terms` (id, moduleId, omschrijving, niveau, bronpagina).
-2. Zet de officiële aantallen in `examGroups`. Groepeer termen zoals de matrix dat doet; verzin geen aantallen per subterm.
-3. Zet `matrix.status` op `ingelezen`.
-4. Koppel lessen en vragen via `termIds`.
-5. Draai `npm run check:content`: het rapport toont welke termen nog geen les of vragen hebben.
+- `terms`: alle 49 toetstermen met letterlijke toetsterm, begrip, taxonomie (`taxonomy`, `levels`), wetsverwijzingen (`articles`), opsommingspunten (`elements`), bronpagina en `groupId`.
+- `examGroups`: 39 groepen met het aantal examenvragen uit de kolom ‘# vragen’. Samengevoegde cellen in de matrix zijn één groep (bv. 2.5.1–2.5.4 samen 2 vragen; 4.1.8 + 4.1.9 samen 1). De som is precies 50.
+- `mandatoryItems`: strafbare feiten en bevoegdheden die nooit stil mogen verdwijnen (o.a. art. 184, 185, 266/267/269, 285 en 231 lid 2 Sr, art. 45 en 45a Alcoholwet). De tests falen als een onderdeel geen les of te weinig vragen heeft.
 
-Het officiële proefexamen gaat pas open als er per examengroep genoeg **goedgekeurde** meerkeuzevragen zijn.
+Bij een nieuwe matrixversie: pas `terms`, `examGroups` en `matrix` aan, draai `npm run check:content` en los alle meldingen op.
+
+Proefexamens (`src/lib/exam.ts`):
+
+- **Proefexamen volgens toetsmatrijs**: exact de quota per groep, uitsluitend `goedgekeurd`, passend niveau, geen herhaling of aanvulling. Bij een tekort is het geblokkeerd en toont het per groep wat ontbreekt.
+- **Conceptproefexamen**: dezelfde verdeling met `inhoudelijk_gecontroleerd` of `goedgekeurd`; alleen bij een tekort in een groep aangevuld met `juridische_review_nodig`, met melding.
+- Beide zijn eigen oefenmateriaal, geen ExTH-examen.

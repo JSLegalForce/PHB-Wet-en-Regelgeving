@@ -17,7 +17,7 @@ export function Over() {
       <section className="card space-y-3 p-5 sm:p-6">
         <h2 className="text-lg font-bold text-navy-900">Status van de inhoud</h2>
         <p>
-          Bij elke les en vraag staat of de inhoud juridisch is goedgekeurd. Onderdelen met de aanduiding <em>concept</em> of <em>juridische review</em> zijn nieuw geschreven en worden nog gecontroleerd. Gebruik ze als studiemateriaal, niet als juridisch advies. Raadpleeg voor de officiële tekst altijd wetten.overheid.nl en de APV van je gemeente.
+          Bij elke les en vraag staat de juridische status. <em>Gecontroleerd tegen wettekst</em> betekent dat de inhoud regel voor regel is vergeleken met de geldende wettekst (peildatum {curriculum.peildatum}) en wacht op aftekening door een jurist; <em>juridische review</em> betekent dat er nog een concreet controlepunt open staat; <em>juridisch goedgekeurd</em> is afgetekend. De leerstof volgt de ExTH-toetsmatrijs Wet- en Regelgeving Domein I {curriculum.matrix.version ? `v${curriculum.matrix.version}` : ''}. Gebruik ze als studiemateriaal, niet als juridisch advies. Raadpleeg voor de officiële tekst altijd wetten.overheid.nl en de APV van je gemeente.
         </p>
         <p>De oefenvragen en proefexamens zijn eigen oefenmateriaal van JS Legal Force. Het zijn geen officiële examenvragen.</p>
       </section>

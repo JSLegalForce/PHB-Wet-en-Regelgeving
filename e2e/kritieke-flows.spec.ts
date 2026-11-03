@@ -11,7 +11,7 @@ test('dashboard toont 11 modules en start een les', async ({ page }) => {
   await expect(page.getByRole('heading', { name: /De 11 modules/ })).toBeVisible()
   await page.getByRole('link', { name: /Begin met leren/ }).click()
   await expect(page.getByRole('heading', { name: 'Leerdoelen' })).toBeVisible()
-  await expect(page.getByText(/Concept – juridische review|Juridische review nodig/).first()).toBeVisible()
+  await expect(page.getByText(/Gecontroleerd tegen wettekst|Juridische review nodig|Juridisch goedgekeurd/).first()).toBeVisible()
   await page.getByRole('button', { name: 'Volgende' }).click()
   await page.goto('./')
   await expect(page.getByRole('link', { name: /Verder leren/ })).toBeVisible()
@@ -31,10 +31,11 @@ test('kennischeck geeft directe uitleg en voortgang blijft na herladen bewaard',
   await expect(page.getByText(/1\/\d+ gemaakt/).first()).toBeVisible()
 })
 
-test('officieel proefexamen is geblokkeerd; conceptproefexamen werkt met 50 vragen, klok en waarschuwing', async ({ page }) => {
+test('proefexamen volgens toetsmatrijs is geblokkeerd zonder afgetekende vragen; conceptproefexamen werkt met 50 vragen, klok en waarschuwing', async ({ page }) => {
   await page.goto('./#/proefexamen')
-  await expect(page.getByRole('button', { name: 'Start officieel proefexamen' })).toBeDisabled()
-  await expect(page.getByText(/toetsmatrijs zijn nog niet ingelezen/)).toBeVisible()
+  await expect(page.getByRole('button', { name: 'Start proefexamen', exact: true })).toBeDisabled()
+  await expect(page.getByText(/juridisch goedgekeurde vragen beschikbaar/).first()).toBeVisible()
+  await expect(page.getByText(/geen examens van ExTH/)).toBeVisible()
   await page.getByRole('button', { name: /Start conceptproefexamen/ }).click()
   await expect(page.getByText(/Vraag 1 van 50/)).toBeVisible()
   await expect(page.getByRole('timer')).toContainText(/1:29:\d\d|1:30:00/)
@@ -60,4 +61,19 @@ test('toetsenbord: skiplink en focus zichtbaar', async ({ page, isMobile }) => {
   test.skip(isMobile, 'alleen desktop')
   await page.keyboard.press('Tab')
   await expect(page.getByRole('link', { name: 'Naar de inhoud' })).toBeFocused()
+})
+
+test('verkeersvraag (term 5.2.1) toont een eigen tekening met beschrijving', async ({ page }) => {
+  await page.goto('./#/les/m05-l04?scherm=4')
+  const img = page.locator('figure img').first()
+  await expect(img).toBeVisible()
+  expect((await img.getAttribute('alt'))?.length ?? 0).toBeGreaterThan(30)
+  expect(await img.evaluate((el: HTMLImageElement) => el.complete && el.naturalWidth > 0)).toBe(true)
+  await expect(page.getByText(/Toetsterm 5\.2\.1/)).toBeVisible()
+})
+
+test('docentpagina toont de examengroepen uit de toetsmatrijs', async ({ page }) => {
+  await page.goto('./#/docent')
+  await expect(page.getByRole('heading', { name: 'Examengroepen volgens toetsmatrijs' })).toBeVisible()
+  await expect(page.getByRole('cell', { name: 'Term 2.2.4' })).toBeVisible()
 })

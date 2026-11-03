@@ -5,21 +5,21 @@
       "id": "m09-l01",
       "moduleId": "m09",
       "order": 1,
-      "title": "Het stelsel van de Omgevingswet",
-      "minutes": 15,
-      "termIds": [],
+      "title": "Omgevingswet: korte inleiding voor de boa",
+      "minutes": 10,
+      "termIds": [
+        "5.6.1",
+        "5.6.2",
+        "5.6.3"
+      ],
       "objectives": [
         {
-          "text": "Je weet sinds wanneer de Omgevingswet geldt en welke oude regels erin zijn opgegaan.",
+          "text": "Je weet waar de regels over activiteiten in de fysieke leefomgeving staan: wet, Bal en omgevingsplan.",
           "level": "K"
         },
         {
-          "text": "Je begrijpt de rol van het omgevingsplan, algemene regels en de omgevingsvergunning.",
+          "text": "Je begrijpt het verschil tussen bestuursrechtelijke en strafrechtelijke handhaving onder de Omgevingswet.",
           "level": "B"
-        },
-        {
-          "text": "Je herkent in de openbare ruimte activiteiten waarvoor mogelijk een vergunning nodig is.",
-          "level": "T"
         }
       ],
       "screens": [
@@ -29,69 +29,43 @@
         },
         {
           "type": "text",
-          "title": "Eén wet voor de fysieke leefomgeving",
-          "body": "De Omgevingswet is op **1 januari 2024** in werking getreden. Die datum is belangrijk: voor situaties vanaf die dag gelden de nieuwe regels.\n\nDe wet bundelt veel oude wetten en regels over de fysieke leefomgeving. Denk aan de Wet algemene bepalingen omgevingsrecht (Wabo) met de oude omgevingsvergunning, en aan de bestemmingsplannen van de gemeente.\n\nDe fysieke leefomgeving is breed. Het gaat onder meer over:\n- bouwwerken en wegen\n- bomen, groen en natuur\n- water, bodem en lucht\n- het gebruik van gebouwen en grond\n\nDe gedachte is: minder losse regels, en per gebied één samenhangend overzicht."
+          "title": "Activiteiten en regels",
+          "body": "De Omgevingswet geldt sinds 1 januari 2024. De wet werkt met **activiteiten**: iets wat iemand doet en wat gevolgen kan hebben voor de fysieke leefomgeving.\n\nDe regels over activiteiten staan op drie plaatsen:\n- in de **Omgevingswet** zelf, bijvoorbeeld de vergunningplicht van artikel 5.1 voor gevallen die bij AMvB zijn aangewezen;\n- in het **Besluit activiteiten leefomgeving (Bal)**: rijksregels, bijvoorbeeld over het op of in de bodem brengen van bedrijfsafvalstoffen;\n- in het **omgevingsplan** van de gemeente. Daarin staat ook de **bruidsschat**: regels die het Rijk bij de invoering tijdelijk in elk omgevingsplan heeft gezet (art. 22.2 Ow). De gemeente kan die regels wijzigen.\n\nDe begrippen van de wet staan in de **bijlage bij artikel 1.1 Ow**."
         },
         {
-          "type": "law",
-          "title": "Het omgevingsplan van de gemeente",
-          "ref": {
-            "law": "Omgevingswet",
-            "article": "art. 2.4"
-          },
-          "body": "Volgens de Omgevingswet stelt de gemeenteraad voor het hele grondgebied van de gemeente één omgevingsplan vast.\n\nIn het omgevingsplan staan de regels over de fysieke leefomgeving in die gemeente. Bijvoorbeeld wat je op een plek mag bouwen, hoe je een gebouw mag gebruiken en wanneer je een boom mag kappen.\n\nDe oude bestemmingsplannen zijn niet zomaar verdwenen. Ze zijn bij de invoering onderdeel geworden van het tijdelijke deel van het omgevingsplan. Gemeenten zetten die regels stap voor stap om naar het nieuwe deel.\n\nVoor jou betekent dit: wil je weten wat op een plek mag, dan kijk je in het omgevingsplan van die gemeente."
-        },
-        {
-          "type": "law",
-          "title": "Verbod zonder omgevingsvergunning",
-          "ref": {
-            "law": "Omgevingswet",
-            "article": "art. 5.1",
-            "verify": true
-          },
-          "body": "De Omgevingswet werkt met **activiteiten**. Een activiteit is iets wat iemand doet, zoals bouwen, slopen, kappen of het gebruik van een pand of terrein veranderen.\n\nVoor veel activiteiten gelden **algemene regels**. Die gelden voor iedereen; je hoeft vooraf niets aan te vragen.\n\nVoor sommige activiteiten is een **omgevingsvergunning** nodig. Artikel 5.1 Omgevingswet verbiedt dan om de activiteit zonder vergunning te verrichten. Of een vergunning nodig is, volgt uit de wet, de rijksregels of het omgevingsplan.\n\nLet op: wat in de ene gemeente vergunningplichtig is, kan in een andere gemeente vrij zijn."
+          "type": "text",
+          "title": "Handhaving in het kort",
+          "body": "**Bestuursrechtelijk**: het **bevoegd gezag** zorgt dat een overtreding stopt of wordt hersteld, bijvoorbeeld met een last onder bestuursdwang of dwangsom (Awb). Wie bevoegd gezag is, hangt af van de activiteit (art. 18.2 Ow). Bij regels in het omgevingsplan is dat het college van burgemeester en wethouders.\n\n**Strafrechtelijk**: veel overtredingen van de Omgevingswet en de regels die daarop berusten, zijn **economische delicten** (art. 1a WED).\n\n**Jouw rol als boa**: je signaleert, legt vast en rapporteert. Een proces-verbaal maak je alleen op als het feit in je akte of domeinlijst staat. Een last legt het bestuursorgaan op, niet jij. Ben je aangewezen als toezichthouder, dan heb je de toezichtsbevoegdheden uit titel 5.2 Awb, zoals inlichtingen vorderen (art. 5:16 Awb)."
         },
         {
           "type": "keypoints",
-          "title": "Wat kom je tegen in de openbare ruimte?",
+          "title": "De drie examenonderwerpen",
           "items": [
             {
-              "term": "Kappen",
-              "text": "Een boom wordt gekapt terwijl het omgevingsplan (of in sommige gemeenten nog de APV) daarvoor een vergunning eist."
+              "term": "Lozingsactiviteit op een oppervlaktewaterlichaam",
+              "text": "Een begrip uit de bijlage bij art. 1.1 Ow. Je moet het kunnen omschrijven (les 2)."
             },
             {
-              "term": "Bouwen en slopen",
-              "text": "Er wordt gebouwd of gesloopt zonder dat duidelijk is of daarvoor toestemming is."
+              "term": "Op of in de bodem brengen van bedrijfsafvalstoffen of gevaarlijke afvalstoffen",
+              "text": "Paragraaf 3.2.14 Bal. Je moet het in een situatie herkennen (les 3)."
             },
             {
-              "term": "Opslag",
-              "text": "Materialen, bouwafval of voertuigen worden opgeslagen op grond waar dat volgens het omgevingsplan niet mag."
-            },
-            {
-              "term": "Gebruik wijzigen",
-              "text": "Een pand of terrein wordt anders gebruikt dan is toegestaan, bijvoorbeeld een schuur als woning."
+              "term": "Zwerfafval rond de locatie van een activiteit",
+              "text": "Artikel 22.53 van de bruidsschat in het omgevingsplan. Je moet bepalen wanneer afval moet worden opgeruimd (les 4)."
             }
           ]
         },
         {
-          "type": "example",
-          "title": "Praktijk: de gekapte bomen",
-          "body": "Boa Fenna loopt surveillance in een woonwijk. Ze ziet dat in een voortuin twee grote bomen zijn omgezaagd. De stammen liggen deels op de stoep.\n\nFenna weet dat de gemeente in het omgevingsplan regels heeft over kappen. Ze weet niet of de bewoner een vergunning heeft. Ze spreekt de bewoner, meneer Ouali, vriendelijk aan en vraagt of hij een vergunning heeft. Hij zegt dat hij die heeft aangevraagd.\n\nFenna noteert wat ze ziet, maakt foto's en noteert de gegevens. Ze geeft de situatie door aan de afdeling vergunningen en handhaving. Die kan nagaan of er een vergunning is verleend. Over de stammen op de stoep let ze apart op de regels voor de openbare weg."
-        },
-        {
           "type": "exercise",
-          "title": "Oefening: begrippen koppelen",
-          "questionId": "q-m09-l01-5"
+          "title": "Oefening: waar staat het?",
+          "questionId": "q-m09-l01-2"
         },
         {
           "type": "check",
           "title": "Kennischeck",
           "questionIds": [
             "q-m09-l01-1",
-            "q-m09-l01-2",
-            "q-m09-l01-3",
-            "q-m09-l01-4",
-            "q-m09-l01-6"
+            "q-m09-l01-3"
           ]
         },
         {
@@ -100,53 +74,76 @@
         }
       ],
       "summary": [
-        "De Omgevingswet is op 1 januari 2024 in werking getreden en bundelt onder meer de regels van de Wabo en de bestemmingsplannen.",
-        "De gemeenteraad stelt voor de hele gemeente één omgevingsplan vast (art. 2.4 Ow).",
-        "Voor veel activiteiten gelden algemene regels; voor sommige is een omgevingsvergunning nodig (art. 5.1 Ow).",
-        "Of een vergunning nodig is, verschilt per activiteit en per gemeente; kijk in het omgevingsplan.",
-        "Voorbeelden in de openbare ruimte zijn illegale kap, opslag en illegaal gebruik van grond of gebouwen."
+        "De Omgevingswet geldt sinds 1 januari 2024 en werkt met activiteiten.",
+        "Regels over activiteiten staan in de wet, in het Bal en in het omgevingsplan (met de bruidsschat).",
+        "Het bevoegd gezag handhaaft bestuursrechtelijk; veel overtredingen zijn economische delicten (art. 1a WED).",
+        "Als boa maak je alleen proces-verbaal op voor feiten in je akte of domeinlijst; een last onder dwangsom of bestuursdwang legt het bestuursorgaan op."
       ],
       "sourceRefs": [
         {
           "law": "Omgevingswet",
-          "article": "art. 2.4"
-        },
-        {
-          "law": "Omgevingswet",
           "article": "art. 5.1",
-          "verify": true
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.1&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         },
         {
           "law": "Omgevingswet",
-          "article": "art. 22.1",
-          "note": "tijdelijk deel omgevingsplan (overgangsrecht)",
-          "verify": true
+          "article": "art. 22.2",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=22.2&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        },
+        {
+          "law": "Omgevingswet",
+          "article": "bijlage bij art. 1.1",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=1.1&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        },
+        {
+          "law": "Omgevingswet",
+          "article": "art. 18.2",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=18.2&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        },
+        {
+          "law": "Wet op de economische delicten",
+          "article": "art. 1a",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=1a&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        },
+        {
+          "law": "Algemene wet bestuursrecht",
+          "article": "art. 5:16",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:16&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         }
       ],
-      "reviewStatus": "juridische_review_nodig",
-      "reviewNote": "Controleer: (1) welk lid van art. 5.1 Ow het verbod voor de omgevingsplanactiviteit bevat (lid 1) en welke activiteiten in lid 2 staan; (2) of het tijdelijk deel van het omgevingsplan juist is verwoord en art. 22.1 Ow de juiste vindplaats is; (3) of de opmerking klopt dat kapregels in sommige gemeenten tijdens de overgangsperiode nog in de APV kunnen staan.",
-      "version": "1.0",
-      "lastModified": "2026-11-02"
+      "version": "1.1",
+      "lastModified": "2026-11-03",
+      "reviewStatus": "inhoudelijk_gecontroleerd",
+      "reviewedBy": "Claude (AI-controle tegen wettekst geldig op 2026-11-03)",
+      "reviewedOn": "2026-11-03"
     },
     {
       "id": "m09-l02",
       "moduleId": "m09",
       "order": 2,
-      "title": "Handhaving onder de Omgevingswet",
+      "title": "Lozingsactiviteit op een oppervlaktewaterlichaam",
       "minutes": 15,
-      "termIds": [],
+      "termIds": [
+        "5.6.1"
+      ],
       "objectives": [
         {
-          "text": "Je weet wie bestuursrechtelijk handhaaft en welke middelen daarvoor bestaan.",
+          "text": "Je kunt het begrip lozingsactiviteit op een oppervlaktewaterlichaam omschrijven.",
           "level": "K"
         },
         {
-          "text": "Je begrijpt het verschil tussen bestuursrechtelijke en strafrechtelijke handhaving.",
-          "level": "B"
+          "text": "Je kunt de begrippen oppervlaktewaterlichaam en watersysteem omschrijven.",
+          "level": "K"
         },
         {
-          "text": "Je weet wat je als boa doet als je een mogelijke overtreding van de Omgevingswet ziet.",
-          "level": "T"
+          "text": "Je weet waar je een mogelijke lozing meldt.",
+          "level": "K"
         }
       ],
       "screens": [
@@ -155,59 +152,45 @@
           "title": "Leerdoelen"
         },
         {
+          "type": "law",
+          "title": "Het begrip (bijlage bij art. 1.1 Ow)",
+          "ref": {
+            "law": "Omgevingswet",
+            "article": "bijlage bij art. 1.1",
+            "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=1.1&g=2026-11-03",
+            "geldigOp": "2026-11-03"
+          },
+          "body": "Een **lozingsactiviteit op een oppervlaktewaterlichaam** is een activiteit die bestaat uit:\n- het **brengen** van **stoffen, warmte of water**,\n- **direct op een oppervlaktewaterlichaam**,\n- **voor zover het gaat om de gevolgen** daarvan **voor het watersysteem**.\n\nEen **stortingsactiviteit op zee** valt er niet onder; dat is een apart begrip.\n\nVoorbeelden: verfwater uit een emmer in een sloot gieten, opgepompt grondwater in een vijver laten lopen of warm koelwater in een kanaal brengen."
+        },
+        {
+          "type": "law",
+          "title": "Oppervlaktewaterlichaam en watersysteem",
+          "ref": {
+            "law": "Omgevingswet",
+            "article": "bijlage bij art. 1.1",
+            "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=1.1&g=2026-11-03",
+            "geldigOp": "2026-11-03"
+          },
+          "body": "Een **oppervlaktewaterlichaam** is een samenhangend geheel van **vrij aan het aardoppervlak voorkomend water**, met de stoffen die daarin zitten, en de **bijbehorende bodem en oevers** en de **flora en fauna**. Denk aan een sloot, vijver, gracht, kanaal, rivier of meer.\n\nEen **watersysteem** is een samenhangend geheel van een of meer oppervlaktewaterlichamen en grondwaterlichamen, met de bijbehorende bergingsgebieden, waterkeringen en ondersteunende kunstwerken.\n\nGrondwater is dus geen oppervlaktewaterlichaam: het komt niet vrij aan het aardoppervlak voor."
+        },
+        {
           "type": "text",
-          "title": "Twee sporen: bestuursrecht en strafrecht",
-          "body": "Overtredingen van de Omgevingswet kunnen op twee manieren worden aangepakt.\n\n**Bestuursrechtelijk**: de overheid zorgt dat de overtreding stopt of wordt hersteld. Dat doet het **bevoegd gezag**. Bij gemeentelijke regels is dat meestal het college van burgemeester en wethouders. De regels hierover staan in hoofdstuk 18 Omgevingswet en in de Algemene wet bestuursrecht (Awb).\n\n**Strafrechtelijk**: de overtreder wordt gestraft. Veel overtredingen van de Omgevingswet zijn economische delicten volgens de Wet op de economische delicten (WED).\n\nBeide sporen kunnen naast elkaar lopen. Het ene spoor gaat over herstel, het andere over straf."
+          "title": "Wat valt er niet onder?",
+          "body": "Het woord **direct** is belangrijk. Niet elke lozing is een lozingsactiviteit op een oppervlaktewaterlichaam:\n- lozen in het **openbare vuilwaterriool** (bijvoorbeeld via de gootsteen) is geen lozing direct op oppervlaktewater; daarvoor gelden vooral regels in het omgevingsplan;\n- het brengen van stoffen met een werk in een **zuiveringtechnisch werk** (rioolwaterzuivering) is een ander begrip: lozingsactiviteit op een zuiveringtechnisch werk;\n- lozen **op of in de bodem**, bijvoorbeeld op het gras, is ook geen lozing op een oppervlaktewaterlichaam."
         },
         {
-          "type": "law",
-          "title": "Herstelsancties uit de Awb",
-          "ref": {
-            "law": "Algemene wet bestuursrecht",
-            "article": "art. 5:21 en art. 5:31d"
-          },
-          "body": "Het bevoegd gezag kan twee herstelsancties opleggen.\n\n- **Last onder bestuursdwang** (art. 5:21 Awb): de overtreder moet de overtreding binnen een termijn ongedaan maken. Doet hij dat niet, dan doet de overheid het zelf, op kosten van de overtreder.\n- **Last onder dwangsom** (art. 5:31d Awb): de overtreder moet de overtreding ongedaan maken. Doet hij dat niet, dan moet hij een geldbedrag betalen.\n\nDeze lasten zijn besluiten van het bestuursorgaan. Een boa legt ze niet zelf op. Jouw waarneming en rapport kunnen wel de basis zijn voor zo'n besluit."
-        },
-        {
-          "type": "law",
-          "title": "Strafrecht via de WED",
-          "ref": {
-            "law": "Wet op de economische delicten",
-            "article": "art. 1a",
-            "verify": true
-          },
-          "body": "In artikel 1a WED staan wetten en artikelen waarvan overtreding een economisch delict is. Daar worden ook voorschriften uit of op grond van de Omgevingswet genoemd. Bijvoorbeeld een activiteit verrichten zonder de vereiste omgevingsvergunning.\n\nIs het feit opzettelijk gepleegd, dan is het in de regel een misdrijf. Anders is het een overtreding (art. 2 WED).\n\nOf jij als boa een proces-verbaal mag opmaken voor zo'n feit, hangt af van je akte en de domeinlijst van Domein I. Controleer dus altijd of het feit binnen jouw bevoegdheid valt."
-        },
-        {
-          "type": "keypoints",
-          "title": "Jouw rol als boa",
-          "items": [
-            {
-              "term": "Constateren",
-              "text": "Je ziet en legt vast wat er gebeurt: wie, wat, waar, wanneer. Foto's helpen."
-            },
-            {
-              "term": "Vragen naar vergunning",
-              "text": "Je vraagt of er een omgevingsvergunning is en noteert het antwoord."
-            },
-            {
-              "term": "Rapporteren",
-              "text": "Je geeft je bevindingen door aan de vergunningverlener of handhaver van het bevoegd gezag."
-            },
-            {
-              "term": "Toezichthouder",
-              "text": "Ben je aangewezen als toezichthouder, dan heb je de bevoegdheden uit titel 5.2 Awb, zoals inlichtingen vorderen (art. 5:16 Awb)."
-            }
-          ]
+          "type": "text",
+          "title": "Regels en handhaving",
+          "body": "Voor lozingsactiviteiten op een oppervlaktewaterlichaam gelden rijksregels in het Bal (art. 4.3 lid 1 onder c Ow). In bij AMvB aangewezen gevallen is een **omgevingsvergunning** nodig (art. 5.1 lid 2 onder c Ow).\n\n**Bevoegd gezag** is meestal het **waterschap** (art. 2.4 Bal). Bij rijkswateren is dat de **minister van Infrastructuur en Waterstaat** (art. 2.6 Bal).\n\nOvertreding van deze regels is een economisch delict (art. 1a onder 1° WED).\n\nAls boa in Domein I leg je vast wat je ziet (wie, wat, waar, wanneer, foto's) en meld je het aan het bevoegd gezag of je eigen organisatie. Optreden als opsporingsambtenaar kan alleen als het feit in je akte of domeinlijst staat."
         },
         {
           "type": "example",
-          "title": "Praktijk: opslag op een braakliggend terrein",
-          "body": "Boa Daan ziet op een braakliggend terrein aan de rand van het dorp steeds meer bouwmaterialen en oude aanhangers staan. Volgens het omgevingsplan is het terrein bestemd als groen.\n\nDaan spreekt een vrouw aan die materialen uitlaadt. Mevrouw Kramer blijkt de eigenaar van het bedrijf. Daan vraagt of er toestemming is voor de opslag. Zij weet het niet zeker.\n\nDaan maakt foto's, noteert gegevens en tijden en schrijft een rapport. Dat stuurt hij naar de afdeling handhaving van de gemeente. Die beoordeelt of er een overtreding is en of het college een last onder dwangsom oplegt. Daan legt zelf geen last op en belooft ook niets over de afloop."
+          "title": "Praktijk: kwasten uitspoelen in de gracht",
+          "body": "Boa Lisa ziet een schilder op de kade zijn kwasten en verfemmer uitspoelen in de gracht. Het water kleurt wit.\n\nDe schilder brengt stoffen (verfresten) direct in een oppervlaktewaterlichaam. Dat is een lozingsactiviteit op een oppervlaktewaterlichaam. Lisa legt vast wat ze ziet, noteert de gegevens van de schilder en zijn bedrijfsbus en meldt het aan het waterschap via haar meldkamer. Zelf maakt ze geen proces-verbaal op, want dit feit staat niet in haar akte."
         },
         {
           "type": "exercise",
-          "title": "Oefening: zet de stappen in volgorde",
+          "title": "Oefening: begrippen koppelen",
           "questionId": "q-m09-l02-5"
         },
         {
@@ -216,9 +199,9 @@
           "questionIds": [
             "q-m09-l02-1",
             "q-m09-l02-2",
+            "q-m09-l02-3",
             "q-m09-l02-4",
-            "q-m09-l02-6",
-            "q-m09-l02-7"
+            "q-m09-l02-6"
           ]
         },
         {
@@ -227,44 +210,391 @@
         }
       ],
       "summary": [
-        "Het bevoegd gezag, bij gemeentelijke regels meestal het college van B en W, handhaaft bestuursrechtelijk (hoofdstuk 18 Ow).",
-        "Herstelsancties zijn de last onder bestuursdwang (art. 5:21 Awb) en de last onder dwangsom (art. 5:31d Awb).",
-        "Strafrechtelijke handhaving loopt via de WED (art. 1a WED).",
-        "Als boa constateer je, vraag je naar de vergunning en rapporteer je aan de vergunningverlener of handhaver.",
-        "Of je een proces-verbaal mag opmaken, hangt af van je akte en de domeinlijst; als toezichthouder heb je de Awb-bevoegdheden."
+        "Lozingsactiviteit op een oppervlaktewaterlichaam: het brengen van stoffen, warmte of water direct op een oppervlaktewaterlichaam, voor zover het gaat om de gevolgen voor het watersysteem (bijlage bij art. 1.1 Ow).",
+        "Een stortingsactiviteit op zee valt er niet onder.",
+        "Oppervlaktewaterlichaam: vrij aan het aardoppervlak voorkomend water met de stoffen daarin, bodem, oevers, flora en fauna.",
+        "Lozen in het vuilwaterriool of op de bodem is geen lozing direct op een oppervlaktewaterlichaam.",
+        "Bevoegd gezag is meestal het waterschap; bij rijkswateren de minister van IenW."
       ],
       "sourceRefs": [
         {
           "law": "Omgevingswet",
-          "article": "hoofdstuk 18",
-          "verify": true
+          "article": "bijlage bij art. 1.1",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=1.1&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         },
         {
-          "law": "Algemene wet bestuursrecht",
-          "article": "art. 5:21"
+          "law": "Omgevingswet",
+          "article": "art. 4.3",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=4.3&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         },
         {
-          "law": "Algemene wet bestuursrecht",
-          "article": "art. 5:31d"
+          "law": "Omgevingswet",
+          "article": "art. 5.1",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.1&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         },
         {
-          "law": "Algemene wet bestuursrecht",
-          "article": "art. 5:11 en art. 5:16"
+          "law": "Besluit activiteiten leefomgeving",
+          "article": "art. 2.4",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=2.4&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        },
+        {
+          "law": "Besluit activiteiten leefomgeving",
+          "article": "art. 2.6",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=2.6&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         },
         {
           "law": "Wet op de economische delicten",
           "article": "art. 1a",
-          "verify": true
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=1a&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        }
+      ],
+      "version": "1.0",
+      "lastModified": "2026-11-03",
+      "reviewStatus": "inhoudelijk_gecontroleerd",
+      "reviewedBy": "Claude (AI-controle tegen wettekst geldig op 2026-11-03)",
+      "reviewedOn": "2026-11-03"
+    },
+    {
+      "id": "m09-l03",
+      "moduleId": "m09",
+      "order": 3,
+      "title": "Bedrijfsafvalstoffen of gevaarlijke afvalstoffen op of in de bodem",
+      "minutes": 20,
+      "termIds": [
+        "5.6.2"
+      ],
+      "objectives": [
+        {
+          "text": "Je kunt de activiteit van paragraaf 3.2.14 Bal en de uitzonderingen benoemen.",
+          "level": "K"
+        },
+        {
+          "text": "Je begrijpt het verschil tussen bedrijfsafvalstoffen, gevaarlijke afvalstoffen en huishoudelijke afvalstoffen.",
+          "level": "B"
+        },
+        {
+          "text": "Je kunt in een situatie bepalen of sprake is van het storten of in de bodem brengen van bedrijfsafvalstoffen of gevaarlijke afvalstoffen.",
+          "level": "T"
+        }
+      ],
+      "screens": [
+        {
+          "type": "objectives",
+          "title": "Leerdoelen"
+        },
+        {
+          "type": "law",
+          "title": "Artikel 3.40b Bal: welke activiteit?",
+          "ref": {
+            "law": "Besluit activiteiten leefomgeving",
+            "article": "art. 3.40b",
+            "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.40b&g=2026-11-03",
+            "geldigOp": "2026-11-03"
+          },
+          "body": "Paragraaf 3.2.14 Bal heet: *Op of in de bodem brengen van bedrijfsafvalstoffen of gevaarlijke afvalstoffen buiten stortplaatsen*.\n\nArtikel 3.40b lid 1 wijst als **milieubelastende activiteit** aan: het **op of in de bodem brengen** van **bedrijfsafvalstoffen of gevaarlijke afvalstoffen**. Dat is dus storten, dumpen, uitstrooien, uitgieten of begraven.\n\nIn de toetsmatrijs staat 'gevaarlijke stoffen'. Het Bal spreekt van **gevaarlijke afvalstoffen**. Het gaat dus om afval."
+        },
+        {
+          "type": "law",
+          "title": "Artikel 3.40b lid 2: wat valt er niet onder?",
+          "ref": {
+            "law": "Besluit activiteiten leefomgeving",
+            "article": "art. 3.40b",
+            "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.40b&g=2026-11-03",
+            "geldigOp": "2026-11-03"
+          },
+          "body": "Niet onder de aanwijzing vallen onder meer:\n- meststoffen, bouwstoffen, grond of baggerspecie en mijnsteen, **voor zover** het een **nuttige toepassing** is volgens de eigen paragrafen van het Bal (onder a tot en met d);\n- een **stortplaats** of winningsafvalvoorziening (onder e);\n- het **lozen van afvalwater** op of in de bodem (onder f);\n- **huishoudelijke afvalstoffen** die nog niet zijn ingezameld of afgegeven (onder g);\n- het permanent opslaan van CO2 in de bodem (onder h).\n\nVoor die gevallen gelden andere regels. Wie zijn eigen huisvuil begraaft, overtreedt bijvoorbeeld artikel 10.2 lid 1 Wet milieubeheer."
+        },
+        {
+          "type": "law",
+          "title": "Artikel 3.40c Bal: vergunningplicht",
+          "ref": {
+            "law": "Besluit activiteiten leefomgeving",
+            "article": "art. 3.40c",
+            "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.40c&g=2026-11-03",
+            "geldigOp": "2026-11-03"
+          },
+          "body": "Voor de activiteit van artikel 3.40b geldt het verbod van artikel 5.1 lid 2 Ow: je mag haar **niet verrichten zonder omgevingsvergunning** (art. 3.40c lid 1).\n\nHet verbod geldt niet voor het op of in de bodem brengen van plantenresten die daarvoor zijn aangewezen in het Besluit stortplaatsen en stortverboden afvalstoffen (lid 2).\n\nKomen er bij de activiteit stoffen of afvalwater in een oppervlaktewaterlichaam terecht, dan geldt ook daarvoor een vergunningplicht (lid 3)."
+        },
+        {
+          "type": "keypoints",
+          "title": "Begrippen en strafbaarheid",
+          "items": [
+            {
+              "term": "Afvalstoffen",
+              "text": "Stoffen, mengsels of voorwerpen waarvan de houder zich ontdoet, wil ontdoen of moet ontdoen (art. 1.1 Wm)."
+            },
+            {
+              "term": "Huishoudelijke afvalstoffen",
+              "text": "Afvalstoffen afkomstig uit particuliere huishoudens (art. 1.1 Wm)."
+            },
+            {
+              "term": "Gevaarlijke afvalstof",
+              "text": "Afvalstof met een of meer gevaarlijke eigenschappen uit bijlage III bij de kaderrichtlijn afvalstoffen, bijvoorbeeld afgewerkte olie of oplosmiddelen (art. 1.1 Wm)."
+            },
+            {
+              "term": "Bedrijfsafvalstoffen",
+              "text": "Alle afvalstoffen die geen huishoudelijke of gevaarlijke afvalstoffen zijn, zoals bouw- en sloopafval van een aannemer (art. 1.1 Wm)."
+            },
+            {
+              "term": "Strafbaar",
+              "text": "Zonder vergunning handelen is in strijd met art. 5.1 lid 2 Ow. Dat is een economisch delict (art. 1a onder 1° WED): opzettelijk een misdrijf, anders een overtreding (art. 2 lid 1 WED)."
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": "Praktijk: puin onder het zand",
+          "body": "Boa Tim ziet op een braakliggend terrein een minikraan van een sloopbedrijf. De machinist schuift stukken beton, isolatiemateriaal en plastic in een kuil en dekt die af met zand.\n\nHet afval komt van een sloopklus van het bedrijf: het zijn bedrijfsafvalstoffen. Ze worden in de bodem gebracht, buiten een stortplaats. Dat is de activiteit van artikel 3.40b Bal. Zonder omgevingsvergunning is dat verboden.\n\nTim legt alles vast met foto's, noteert het kenteken en de bedrijfsnaam en meldt het direct aan de omgevingsdienst of afdeling handhaving. Hij maakt alleen zelf proces-verbaal op als dit feit in zijn akte staat."
+        },
+        {
+          "type": "exercise",
+          "title": "Oefening",
+          "questionId": "q-m09-l03-1"
+        },
+        {
+          "type": "check",
+          "title": "Kennischeck",
+          "questionIds": [
+            "q-m09-l03-2",
+            "q-m09-l03-3",
+            "q-m09-l03-4",
+            "q-m09-l03-5"
+          ]
+        },
+        {
+          "type": "summary",
+          "title": "Samenvatting"
+        }
+      ],
+      "summary": [
+        "Het op of in de bodem brengen van bedrijfsafvalstoffen of gevaarlijke afvalstoffen buiten een stortplaats is een milieubelastende activiteit (art. 3.40b lid 1 Bal).",
+        "Uitgezonderd zijn onder meer nuttige toepassing van meststoffen, bouwstoffen en grond, stortplaatsen, het lozen van afvalwater en huishoudelijk afval dat nog niet is ingezameld (art. 3.40b lid 2 Bal).",
+        "Voor de activiteit is een omgevingsvergunning nodig (art. 3.40c Bal jo. art. 5.1 lid 2 Ow).",
+        "Zonder vergunning handelen is een economisch delict (art. 1a onder 1° WED); opzettelijk is het een misdrijf.",
+        "Huishoudelijk afval in de bodem brengen valt onder artikel 10.2 Wet milieubeheer."
+      ],
+      "sourceRefs": [
+        {
+          "law": "Besluit activiteiten leefomgeving",
+          "article": "art. 3.40b",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.40b&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        },
+        {
+          "law": "Besluit activiteiten leefomgeving",
+          "article": "art. 3.40c",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.40c&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        },
+        {
+          "law": "Omgevingswet",
+          "article": "art. 5.1",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.1&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        },
+        {
+          "law": "Wet milieubeheer",
+          "article": "art. 1.1",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=1.1&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        },
+        {
+          "law": "Wet milieubeheer",
+          "article": "art. 10.2",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.2&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         },
         {
           "law": "Wet op de economische delicten",
-          "article": "art. 2"
+          "article": "art. 1a",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=1a&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        },
+        {
+          "law": "Wet op de economische delicten",
+          "article": "art. 2",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=2&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         }
       ],
-      "reviewStatus": "juridische_review_nodig",
-      "reviewNote": "Controleer: (1) welke artikelen in hoofdstuk 18 Ow de taak en het bevoegd gezag voor bestuursrechtelijke handhaving regelen (art. 18.1 en 18.2 Ow?); (2) onder welke categorie van art. 1a WED de Omgevingswet en de regels op grond daarvan (omgevingsplan) zijn opgenomen; (3) welke Ow-feiten op de domeinlijst Domein I staan, zodat de passage over proces-verbaal klopt.",
-      "version": "1.1",
-      "lastModified": "2026-11-02"
+      "version": "1.0",
+      "lastModified": "2026-11-03",
+      "reviewStatus": "inhoudelijk_gecontroleerd",
+      "reviewedBy": "Claude (AI-controle tegen wettekst geldig op 2026-11-03)",
+      "reviewedOn": "2026-11-03"
+    },
+    {
+      "id": "m09-l04",
+      "moduleId": "m09",
+      "order": 4,
+      "title": "Zwerfafval rond een activiteit (art. 22.53 bruidsschat)",
+      "minutes": 20,
+      "termIds": [
+        "5.6.3"
+      ],
+      "objectives": [
+        {
+          "text": "Je kunt de voorwaarden van artikel 22.53 van de bruidsschat benoemen.",
+          "level": "K"
+        },
+        {
+          "text": "Je begrijpt voor welke activiteiten en voor wie de regel geldt.",
+          "level": "B"
+        },
+        {
+          "text": "Je kunt in een situatie vaststellen of afval rond de locatie van een activiteit moet worden verwijderd.",
+          "level": "T"
+        }
+      ],
+      "screens": [
+        {
+          "type": "objectives",
+          "title": "Leerdoelen"
+        },
+        {
+          "type": "law",
+          "title": "Artikel 22.53: zwerfvuil",
+          "ref": {
+            "law": "Bruidsschat omgevingsplan (Invoeringsbesluit Omgevingswet, Stb. 2020, 400)",
+            "article": "art. 22.53",
+            "url": "https://zoek.officielebekendmakingen.nl/stb-2020-400.html",
+            "geldigOp": "2026-11-03"
+          },
+          "body": "Artikel 22.53 staat in de bruidsschat, het tijdelijke deel van het omgevingsplan. De regel houdt in:\n- **binnen een straal van 25 meter** rond de **begrenzing van de locatie** waar de activiteit wordt verricht,\n- worden **zo vaak als nodig**,\n- **etenswaren, verpakkingen, sport- of spelmaterialen of andere materialen** verwijderd,\n- **die van de activiteit afkomstig zijn**.\n\nHet doel is een doelmatig beheer van afvalstoffen. De wet noemt geen vaste frequentie: 'zo vaak als nodig' hangt af van hoeveel afval er ontstaat."
+        },
+        {
+          "type": "law",
+          "title": "Voor welke activiteiten en voor wie?",
+          "ref": {
+            "law": "Bruidsschat omgevingsplan (Invoeringsbesluit Omgevingswet, Stb. 2020, 400)",
+            "article": "art. 22.41 en 22.43",
+            "url": "https://zoek.officielebekendmakingen.nl/stb-2020-400.html",
+            "geldigOp": "2026-11-03"
+          },
+          "body": "Artikel 22.53 staat in afdeling 22.3. Die afdeling geldt voor **milieubelastende activiteiten** (art. 22.41 lid 1): activiteiten die nadelige gevolgen voor het milieu kunnen veroorzaken, zoals een snackbar, supermarkt, sportpark of bedrijf.\n\nDe afdeling geldt **niet** voor onder meer (art. 22.41 lid 2):\n- **wonen**;\n- bouw-, sloop- en onderhoudswerkzaamheden;\n- een activiteit die **in hoofdzaak in de openbare buitenruimte** wordt verricht;\n- doorgaand verkeer;\n- bepaalde evenementen.\n\n**Wie moet opruimen?** Degene die de activiteit verricht, bijvoorbeeld de exploitant (art. 22.43)."
+        },
+        {
+          "type": "text",
+          "title": "Let op de regels van jouw gemeente",
+          "body": "De bruidsschat bestaat uit regels die het Rijk bij de invoering van de Omgevingswet in elk omgevingsplan heeft gezet (art. 22.2 Ow, Invoeringsbesluit Omgevingswet). De gemeente kan die regels **wijzigen of schrappen** (art. 22.2 lid 2 Ow). Kijk daarom altijd in het omgevingsplan van jouw gemeente.\n\nVerder geldt:\n- regels in afdeling 22.3 gelden niet voor zover ze in strijd zijn met regels in het tijdelijke deel van het omgevingsplan, zoals oude bestemmingsplannen (art. 22.1 lid 1 bruidsschat);\n- het college kan een **maatwerkvoorschrift** stellen (art. 22.45 bruidsschat);\n- voor sommige vergunningplichtige bedrijven met een oude milieuvergunning gelden de voorschriften uit die vergunning (art. 22.1 lid 2 bruidsschat)."
+        },
+        {
+          "type": "text",
+          "title": "Handhaving",
+          "body": "**Bestuursrechtelijk** handhaaft het **college van burgemeester en wethouders**, want het gaat om een regel in het omgevingsplan (art. 18.2 lid 1 en art. 4.8 Ow).\n\n**Strafrechtelijk** is overtreding van regels in het omgevingsplan een economisch delict via de WED (art. 1a onder 3° WED, regels op grond van art. 4.1 Ow). Zo'n feit is een overtreding (art. 2 lid 4 WED).\n\nArtikel 22.53 richt zich tot degene die de activiteit verricht, niet tot de klant die afval laat vallen. Voor die klant gelden andere regels, bijvoorbeeld in de APV.\n\nStaat het feit niet in je akte of domeinlijst? Dan leg je vast en rapporteer je aan de afdeling handhaving."
+        },
+        {
+          "type": "example",
+          "title": "Praktijk: patatbakjes bij de snackbar",
+          "body": "Boa Noah ziet dat de stoep en het plantsoen naast cafetaria 'De Hoek' elke avond vol liggen met patatbakjes, servetjes en blikjes van de cafetaria. Het afval ligt tot ongeveer 15 meter van de gevel.\n\nDe cafetaria is een milieubelastende activiteit. Het afval komt van die activiteit en ligt binnen 25 meter van de grens van de locatie. De exploitant moet het zo vaak als nodig verwijderen. Noah controleert in het omgevingsplan dat de gemeente artikel 22.53 niet heeft gewijzigd.\n\nHij spreekt de exploitant aan, maakt foto's en rapporteert aan de afdeling handhaving. Die kan een last onder dwangsom opleggen."
+        },
+        {
+          "type": "exercise",
+          "title": "Oefening",
+          "questionId": "q-m09-l04-1"
+        },
+        {
+          "type": "check",
+          "title": "Kennischeck",
+          "questionIds": [
+            "q-m09-l04-2",
+            "q-m09-l04-3",
+            "q-m09-l04-4",
+            "q-m09-l04-5",
+            "q-m09-l04-6"
+          ]
+        },
+        {
+          "type": "summary",
+          "title": "Samenvatting"
+        }
+      ],
+      "summary": [
+        "Art. 22.53 bruidsschat: binnen 25 meter rond de grens van de locatie van de activiteit worden zo vaak als nodig etenswaren, verpakkingen, sport- of spelmaterialen en andere materialen verwijderd die van de activiteit afkomstig zijn.",
+        "De regel geldt voor milieubelastende activiteiten, niet voor wonen, bouw- en sloopwerk of activiteiten die in hoofdzaak in de openbare buitenruimte plaatsvinden (art. 22.41).",
+        "Degene die de activiteit verricht, moet de regel naleven (art. 22.43).",
+        "De gemeente kan de bruidsschat wijzigen: kijk altijd in het omgevingsplan van jouw gemeente.",
+        "Het college van B&W handhaaft bestuursrechtelijk; strafrechtelijk is het een economisch delict (overtreding) via de WED."
+      ],
+      "sourceRefs": [
+        {
+          "law": "Bruidsschat omgevingsplan (Invoeringsbesluit Omgevingswet, Stb. 2020, 400)",
+          "article": "art. 22.53",
+          "url": "https://zoek.officielebekendmakingen.nl/stb-2020-400.html",
+          "geldigOp": "2026-11-03"
+        },
+        {
+          "law": "Bruidsschat omgevingsplan (Invoeringsbesluit Omgevingswet, Stb. 2020, 400)",
+          "article": "art. 22.41",
+          "url": "https://zoek.officielebekendmakingen.nl/stb-2020-400.html",
+          "geldigOp": "2026-11-03"
+        },
+        {
+          "law": "Bruidsschat omgevingsplan (Invoeringsbesluit Omgevingswet, Stb. 2020, 400)",
+          "article": "art. 22.43",
+          "url": "https://zoek.officielebekendmakingen.nl/stb-2020-400.html",
+          "geldigOp": "2026-11-03"
+        },
+        {
+          "law": "Bruidsschat omgevingsplan (Invoeringsbesluit Omgevingswet, Stb. 2020, 400)",
+          "article": "art. 22.1",
+          "url": "https://zoek.officielebekendmakingen.nl/stb-2020-400.html",
+          "geldigOp": "2026-11-03"
+        },
+        {
+          "law": "Bruidsschat omgevingsplan (Invoeringsbesluit Omgevingswet, Stb. 2020, 400)",
+          "article": "art. 22.45",
+          "url": "https://zoek.officielebekendmakingen.nl/stb-2020-400.html",
+          "geldigOp": "2026-11-03"
+        },
+        {
+          "law": "Omgevingswet",
+          "article": "art. 22.2",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=22.2&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        },
+        {
+          "law": "Omgevingswet",
+          "article": "art. 18.2",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=18.2&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        },
+        {
+          "law": "Omgevingswet",
+          "article": "art. 4.8",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=4.8&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        },
+        {
+          "law": "Omgevingswet",
+          "article": "art. 4.1",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=4.1&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        },
+        {
+          "law": "Wet op de economische delicten",
+          "article": "art. 1a",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=1a&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        },
+        {
+          "law": "Wet op de economische delicten",
+          "article": "art. 2",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=2&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        }
+      ],
+      "version": "1.0",
+      "lastModified": "2026-11-03",
+      "reviewStatus": "inhoudelijk_gecontroleerd",
+      "reviewedBy": "Claude (AI-controle tegen wettekst geldig op 2026-11-03)",
+      "reviewedOn": "2026-11-03"
     }
   ],
   "questions": [
@@ -272,620 +602,1170 @@
       "id": "q-m09-l01-1",
       "moduleId": "m09",
       "lessonId": "m09-l01",
-      "termIds": [],
-      "topic": "Stelsel Omgevingswet",
-      "level": "K",
-      "type": "mc",
-      "prompt": "Sinds wanneer is de Omgevingswet in werking?",
-      "options": [
-        {
-          "id": "a",
-          "text": "Sinds 1 januari 2022",
-          "feedback": "Onjuist. De invoering is meerdere keren uitgesteld. De wet is pas op 1 januari 2024 in werking getreden."
-        },
-        {
-          "id": "b",
-          "text": "Sinds 1 januari 2024",
-          "feedback": "Juist. De Omgevingswet is op 1 januari 2024 in werking getreden en verving onder meer de Wabo."
-        },
-        {
-          "id": "c",
-          "text": "Sinds 1 januari 2026",
-          "feedback": "Onjuist. De wet geldt al langer: sinds 1 januari 2024."
-        }
+      "termIds": [
+        "5.6.1",
+        "5.6.2",
+        "5.6.3"
       ],
-      "correctAnswer": "b",
-      "explanation": "De Omgevingswet is op 1 januari 2024 in werking getreden. Daarmee gingen onder meer de Wabo en de bestemmingsplannen op in het nieuwe stelsel.",
+      "topic": "Rol boa bij herstelsancties",
+      "level": "B",
+      "type": "truefalse",
+      "prompt": "Stelling: als boa mag je zelf een last onder dwangsom opleggen als je een overtreding van het omgevingsplan ziet.",
+      "correctAnswer": false,
+      "feedbackTrue": "Onjuist. Een last onder dwangsom is een besluit van het bestuursorgaan (bevoegd gezag). Jij signaleert, legt vast en rapporteert.",
+      "feedbackFalse": "Juist. Een last onder dwangsom legt het bevoegd gezag op, bij het omgevingsplan het college van B&W. Jouw rapport kan de basis zijn voor dat besluit.",
+      "explanation": "Herstelsancties zoals de last onder dwangsom (art. 5:31d Awb) worden opgelegd door het bestuursorgaan dat bevoegd is tot handhaving (art. 18.2 Ow). Een boa legt die niet zelf op.",
       "sourceRefs": [
         {
+          "law": "Algemene wet bestuursrecht",
+          "article": "art. 5:31d",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:31d&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        },
+        {
           "law": "Omgevingswet",
-          "note": "inwerkingtreding 1 januari 2024"
+          "article": "art. 18.2",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=18.2&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         }
       ],
       "origin": "nieuw",
-      "reviewStatus": "concept",
-      "version": "1.0",
-      "lastModified": "2026-11-02"
+      "version": "1.1",
+      "lastModified": "2026-11-03",
+      "reviewStatus": "inhoudelijk_gecontroleerd",
+      "reviewedBy": "Claude (AI-controle tegen wettekst geldig op 2026-11-03)",
+      "reviewedOn": "2026-11-03"
     },
     {
       "id": "q-m09-l01-2",
       "moduleId": "m09",
       "lessonId": "m09-l01",
-      "termIds": [],
-      "topic": "Omgevingsplan",
+      "termIds": [
+        "5.6.1",
+        "5.6.2",
+        "5.6.3"
+      ],
+      "topic": "Vindplaats regels",
       "level": "K",
-      "type": "mc",
-      "prompt": "Wie stelt het omgevingsplan van een gemeente vast?",
-      "options": [
+      "type": "match",
+      "prompt": "Koppel elk onderwerp aan de plaats waar het geregeld is.",
+      "pairs": [
         {
-          "id": "a",
-          "text": "De gemeenteraad",
-          "feedback": "Juist. Volgens art. 2.4 Ow stelt de gemeenteraad voor het hele grondgebied één omgevingsplan vast."
+          "left": "Omschrijving van het begrip lozingsactiviteit op een oppervlaktewaterlichaam",
+          "right": "Bijlage bij art. 1.1 Omgevingswet"
         },
         {
-          "id": "b",
-          "text": "De burgemeester",
-          "feedback": "Onjuist. De burgemeester stelt het omgevingsplan niet vast. Dat doet de gemeenteraad (art. 2.4 Ow)."
+          "left": "Op of in de bodem brengen van bedrijfsafvalstoffen",
+          "right": "Paragraaf 3.2.14 Bal"
         },
         {
-          "id": "c",
-          "text": "De provincie",
-          "feedback": "Onjuist. De provincie heeft een eigen omgevingsverordening. Het omgevingsplan is van de gemeente en wordt vastgesteld door de gemeenteraad (art. 2.4 Ow)."
+          "left": "Zwerfafval binnen 25 meter rond een activiteit opruimen",
+          "right": "Art. 22.53 bruidsschat (omgevingsplan)"
+        },
+        {
+          "left": "Overtreding is een economisch delict",
+          "right": "Art. 1a WED"
         }
       ],
-      "correctAnswer": "a",
-      "explanation": "Art. 2.4 Omgevingswet bepaalt dat de gemeenteraad voor het hele grondgebied van de gemeente één omgevingsplan vaststelt.",
+      "explanation": "De begrippen staan in de bijlage bij art. 1.1 Ow. De bodemregels voor bedrijfsafvalstoffen staan in § 3.2.14 Bal. De zwerfafvalregel staat in art. 22.53 van de bruidsschat, die deel is van het omgevingsplan. De strafbaarheid loopt via art. 1a WED.",
       "sourceRefs": [
         {
           "law": "Omgevingswet",
-          "article": "art. 2.4"
+          "article": "bijlage bij art. 1.1",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=1.1&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        },
+        {
+          "law": "Besluit activiteiten leefomgeving",
+          "article": "art. 3.40b",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.40b&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        },
+        {
+          "law": "Bruidsschat omgevingsplan (Invoeringsbesluit Omgevingswet, Stb. 2020, 400)",
+          "article": "art. 22.53",
+          "url": "https://zoek.officielebekendmakingen.nl/stb-2020-400.html",
+          "geldigOp": "2026-11-03"
+        },
+        {
+          "law": "Wet op de economische delicten",
+          "article": "art. 1a",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=1a&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         }
       ],
       "origin": "nieuw",
-      "reviewStatus": "concept",
       "version": "1.0",
-      "lastModified": "2026-11-02"
+      "lastModified": "2026-11-03",
+      "reviewStatus": "inhoudelijk_gecontroleerd",
+      "reviewedBy": "Claude (AI-controle tegen wettekst geldig op 2026-11-03)",
+      "reviewedOn": "2026-11-03"
     },
     {
       "id": "q-m09-l01-3",
       "moduleId": "m09",
       "lessonId": "m09-l01",
-      "termIds": [],
-      "topic": "Omgevingsvergunning",
-      "level": "B",
-      "type": "mc",
-      "prompt": "Wat regelt artikel 5.1 van de Omgevingswet in de kern?",
-      "options": [
-        {
-          "id": "a",
-          "text": "Dat iedere activiteit in de openbare ruimte vergunningplichtig is",
-          "feedback": "Onjuist. Voor veel activiteiten gelden alleen algemene regels. Alleen waar dat is bepaald, is een vergunning nodig."
-        },
-        {
-          "id": "b",
-          "text": "Dat de boa een omgevingsvergunning mag intrekken als die wordt overtreden",
-          "feedback": "Onjuist. Art. 5.1 Ow gaat niet over bevoegdheden van de boa. Het bevat een verbod voor de burger of het bedrijf."
-        },
-        {
-          "id": "c",
-          "text": "Dat het verboden is een activiteit zonder vereiste vergunning te doen",
-          "feedback": "Juist. Art. 5.1 Ow verbiedt om zonder omgevingsvergunning een activiteit te verrichten als daarvoor een vergunning is vereist."
-        }
+      "termIds": [
+        "5.6.1",
+        "5.6.2",
+        "5.6.3"
       ],
-      "correctAnswer": "c",
-      "explanation": "Art. 5.1 Ow bevat het verbod om zonder omgevingsvergunning bepaalde activiteiten te verrichten. Welke activiteiten vergunningplichtig zijn, volgt uit de wet, de rijksregels en het omgevingsplan.",
-      "sourceRefs": [
-        {
-          "law": "Omgevingswet",
-          "article": "art. 5.1",
-          "verify": true
-        }
-      ],
-      "origin": "nieuw",
-      "reviewStatus": "juridische_review_nodig",
-      "reviewNote": "Controleer of de samenvatting van art. 5.1 Ow (lid 1 en lid 2) juist en volledig genoeg is voor deze vraag.",
-      "version": "1.0",
-      "lastModified": "2026-11-02"
-    },
-    {
-      "id": "q-m09-l01-4",
-      "moduleId": "m09",
-      "lessonId": "m09-l01",
-      "termIds": [],
-      "topic": "Vergunningplicht in de praktijk",
-      "level": "T",
-      "type": "mc",
-      "case": "Tijdens je dienst zie je dat iemand in een plantsoen naast zijn woning een grote boom omzaagt. Je weet niet of hiervoor een vergunning nodig is.",
-      "prompt": "Wat is het beste dat je nu doet?",
-      "options": [
-        {
-          "id": "a",
-          "text": "Je laat het gaan, want kappen is sinds de Omgevingswet altijd vrij",
-          "feedback": "Onjuist. Kappen is niet altijd vrij. De gemeente kan in het omgevingsplan een vergunningplicht voor kappen opnemen."
-        },
-        {
-          "id": "b",
-          "text": "Je vraagt naar een vergunning, legt vast wat je ziet en meldt het",
-          "feedback": "Juist. Je vraagt of er een vergunning is, legt de feiten vast en geeft het door aan de vergunningverlener of handhaver. Die kan nagaan of art. 5.1 Ow is overtreden."
-        },
-        {
-          "id": "c",
-          "text": "Je legt direct een last onder dwangsom op om herplant te eisen",
-          "feedback": "Onjuist. Een last onder dwangsom is een besluit van het bevoegd gezag, niet van de boa (art. 5:31d Awb)."
-        }
-      ],
-      "correctAnswer": "b",
-      "explanation": "Of kappen vergunningplichtig is, volgt uit het omgevingsplan van de gemeente. Je constateert, vraagt naar een vergunning en rapporteert. Een herstelsanctie legt alleen het bevoegd gezag op.",
-      "sourceRefs": [
-        {
-          "law": "Omgevingswet",
-          "article": "art. 5.1",
-          "verify": true
-        },
-        {
-          "law": "Omgevingswet",
-          "article": "art. 2.4"
-        },
-        {
-          "law": "Algemene wet bestuursrecht",
-          "article": "art. 5:31d"
-        }
-      ],
-      "origin": "nieuw",
-      "reviewStatus": "juridische_review_nodig",
-      "reviewNote": "Controleer art. 5.1 Ow als grondslag voor het kapverbod via het omgevingsplan, en of in de overgangsperiode kapregels nog in de APV kunnen staan.",
-      "version": "1.0",
-      "lastModified": "2026-11-02"
-    },
-    {
-      "id": "q-m09-l01-5",
-      "moduleId": "m09",
-      "lessonId": "m09-l01",
-      "termIds": [],
-      "topic": "Begrippen Omgevingswet",
-      "level": "B",
-      "type": "match",
-      "prompt": "Koppel elk begrip aan de juiste omschrijving.",
-      "pairs": [
-        {
-          "left": "Omgevingsplan",
-          "right": "Eén plan per gemeente met regels over de fysieke leefomgeving"
-        },
-        {
-          "left": "Omgevingsvergunning",
-          "right": "Toestemming vooraf voor een activiteit waarvoor dat is vereist"
-        },
-        {
-          "left": "Algemene regel",
-          "right": "Regel die voor iedereen geldt, zonder aanvraag vooraf"
-        },
-        {
-          "left": "Activiteit",
-          "right": "Iets wat iemand doet, zoals bouwen, slopen of kappen"
-        }
-      ],
-      "explanation": "De gemeenteraad stelt één omgevingsplan vast (art. 2.4 Ow). Voor activiteiten gelden algemene regels; soms is daarnaast een omgevingsvergunning vereist (art. 5.1 Ow).",
-      "sourceRefs": [
-        {
-          "law": "Omgevingswet",
-          "article": "art. 2.4"
-        },
-        {
-          "law": "Omgevingswet",
-          "article": "art. 5.1",
-          "verify": true
-        }
-      ],
-      "origin": "nieuw",
-      "reviewStatus": "juridische_review_nodig",
-      "reviewNote": "Controleer de verwijzing naar art. 5.1 Ow (welk lid).",
-      "version": "1.0",
-      "lastModified": "2026-11-02"
-    },
-    {
-      "id": "q-m09-l01-6",
-      "moduleId": "m09",
-      "lessonId": "m09-l01",
-      "termIds": [],
-      "topic": "Bestemmingsplannen en omgevingsplan",
-      "level": "B",
+      "topic": "Bruidsschat",
+      "level": "K",
       "type": "truefalse",
-      "prompt": "Stelling: de oude bestemmingsplannen van een gemeente zijn bij de invoering van de Omgevingswet onderdeel geworden van het tijdelijke deel van het omgevingsplan.",
-      "correctAnswer": true,
-      "feedbackTrue": "Juist. Bij de invoering zijn de bestemmingsplannen opgegaan in het tijdelijke deel van het omgevingsplan. Gemeenten zetten die regels geleidelijk om.",
-      "feedbackFalse": "Onjuist. De bestemmingsplannen zijn niet verdwenen. Ze zijn onderdeel geworden van het tijdelijke deel van het omgevingsplan.",
-      "explanation": "Volgens het overgangsrecht van de Omgevingswet hebben gemeenten van rechtswege een omgevingsplan met een tijdelijk deel, waarin onder meer de oude bestemmingsplannen zitten.",
+      "prompt": "Stelling: de regels van de bruidsschat zijn in elke gemeente altijd precies gelijk, omdat het Rijk ze heeft vastgesteld.",
+      "correctAnswer": false,
+      "feedbackTrue": "Onjuist. Het Rijk heeft de bruidsschat in elk omgevingsplan gezet, maar de gemeente kan die regels wijzigen (art. 22.2 lid 2 Ow). Kijk dus in het omgevingsplan van jouw gemeente.",
+      "feedbackFalse": "Juist. De gemeenteraad kan de bruidsschatregels bij een wijziging van het omgevingsplan aanpassen (art. 22.2 lid 2 Ow).",
+      "explanation": "Art. 22.2 Ow: bij AMvB (Invoeringsbesluit Omgevingswet) is bepaald dat regels tijdelijk deel uitmaken van het omgevingsplan. Bij een besluit tot vaststelling of wijziging van het omgevingsplan kunnen die regels worden gewijzigd.",
       "sourceRefs": [
         {
           "law": "Omgevingswet",
-          "article": "art. 22.1",
-          "verify": true
+          "article": "art. 22.2",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=22.2&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        },
+        {
+          "law": "Bruidsschat omgevingsplan (Invoeringsbesluit Omgevingswet, Stb. 2020, 400)",
+          "article": "hoofdstuk 22",
+          "url": "https://zoek.officielebekendmakingen.nl/stb-2020-400.html",
+          "geldigOp": "2026-11-03"
         }
       ],
       "origin": "nieuw",
-      "reviewStatus": "juridische_review_nodig",
-      "reviewNote": "Controleer of art. 22.1 Ow de juiste vindplaats is voor het tijdelijk deel van het omgevingsplan.",
       "version": "1.0",
-      "lastModified": "2026-11-02"
+      "lastModified": "2026-11-03",
+      "reviewStatus": "inhoudelijk_gecontroleerd",
+      "reviewedBy": "Claude (AI-controle tegen wettekst geldig op 2026-11-03)",
+      "reviewedOn": "2026-11-03"
     },
     {
       "id": "q-m09-l02-1",
       "moduleId": "m09",
       "lessonId": "m09-l02",
-      "termIds": [],
-      "topic": "Bevoegd gezag",
+      "termIds": [
+        "5.6.1"
+      ],
+      "topic": "Begrip lozingsactiviteit",
       "level": "K",
       "type": "mc",
-      "prompt": "Wie handhaaft meestal bestuursrechtelijk bij overtreding van de regels in het omgevingsplan?",
+      "prompt": "Welke omschrijving past bij een lozingsactiviteit op een oppervlaktewaterlichaam?",
       "options": [
         {
           "id": "a",
-          "text": "De officier van justitie",
-          "feedback": "Onjuist. De officier van justitie gaat over strafrechtelijke handhaving, niet over bestuursrechtelijke herstelsancties."
+          "text": "Het afvoeren van huishoudelijk afvalwater via de gootsteen naar het openbare vuilwaterriool",
+          "feedback": "Onjuist. Lozen in het vuilwaterriool is geen lozing direct op een oppervlaktewaterlichaam."
         },
         {
           "id": "b",
-          "text": "De boa die de overtreding ziet",
-          "feedback": "Onjuist. De boa constateert en rapporteert. Het opleggen van een herstelsanctie is aan het bevoegd gezag."
+          "text": "Het brengen van stoffen, warmte of water direct op een oppervlaktewaterlichaam, voor de gevolgen voor het watersysteem",
+          "feedback": "Juist. Dit is de omschrijving uit de bijlage bij artikel 1.1 Omgevingswet."
         },
         {
           "id": "c",
-          "text": "Het college van burgemeester en wethouders",
-          "feedback": "Juist. Bij gemeentelijke regels is het college meestal het bevoegd gezag dat bestuursrechtelijk handhaaft (hoofdstuk 18 Ow)."
+          "text": "Het storten van stoffen vanaf een schip in zee om zich ervan te ontdoen",
+          "feedback": "Onjuist. Dat is een stortingsactiviteit op zee. Die is uitdrukkelijk uitgezonderd."
+        },
+        {
+          "id": "d",
+          "text": "Het op of in de bodem brengen van stoffen waardoor het grondwater verontreinigd kan raken",
+          "feedback": "Onjuist. Lozen op of in de bodem is geen lozing op een oppervlaktewaterlichaam."
         }
       ],
-      "correctAnswer": "c",
-      "explanation": "Bestuursrechtelijke handhaving is een taak van het bevoegd gezag (hoofdstuk 18 Ow). Bij het omgevingsplan is dat in de regel het college van burgemeester en wethouders.",
+      "correctAnswer": "b",
+      "explanation": "Bijlage bij art. 1.1 Ow: lozingsactiviteit op een oppervlaktewaterlichaam is een activiteit, niet zijnde een stortingsactiviteit op zee, inhoudende het brengen van stoffen, warmte of water direct op een oppervlaktewaterlichaam, voor zover het gaat om de gevolgen voor het watersysteem.",
       "sourceRefs": [
         {
           "law": "Omgevingswet",
-          "article": "hoofdstuk 18",
-          "verify": true
+          "article": "bijlage bij art. 1.1",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=1.1&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         }
       ],
       "origin": "nieuw",
-      "reviewStatus": "juridische_review_nodig",
-      "reviewNote": "Controleer welk artikel in hoofdstuk 18 Ow het bevoegd gezag voor handhaving aanwijst (art. 18.2 Ow?).",
       "version": "1.0",
-      "lastModified": "2026-11-02"
+      "lastModified": "2026-11-03",
+      "reviewStatus": "inhoudelijk_gecontroleerd",
+      "reviewedBy": "Claude (AI-controle tegen wettekst geldig op 2026-11-03)",
+      "reviewedOn": "2026-11-03"
     },
     {
       "id": "q-m09-l02-2",
       "moduleId": "m09",
       "lessonId": "m09-l02",
-      "termIds": [],
-      "topic": "Herstelsancties",
-      "level": "B",
+      "termIds": [
+        "5.6.1"
+      ],
+      "topic": "Begrip oppervlaktewaterlichaam",
+      "level": "K",
       "type": "mc",
-      "prompt": "Wat is het verschil tussen een last onder bestuursdwang en een last onder dwangsom?",
+      "prompt": "Wat hoort volgens de Omgevingswet bij een oppervlaktewaterlichaam?",
       "options": [
         {
           "id": "a",
-          "text": "Bij bestuursdwang herstelt de overheid op kosten van de overtreder; bij dwangsom betaalt hij geld",
-          "feedback": "Juist. Bij bestuursdwang treedt de overheid zelf op als de overtreder niet herstelt (art. 5:21 Awb). Bij een dwangsom moet hij een geldsom betalen (art. 5:31d Awb)."
+          "text": "Alleen het water zelf, zonder bodem of oevers",
+          "feedback": "Onjuist. Ook de bijbehorende bodem en oevers en de flora en fauna horen erbij."
         },
         {
           "id": "b",
-          "text": "Bestuursdwang is een straf die de rechter oplegt; een dwangsom is een boete die de boa uitschrijft",
-          "feedback": "Onjuist. Beide zijn herstelsancties van het bestuursorgaan. Ze zijn geen straf en worden niet door de boa opgelegd."
+          "text": "Alleen water dat in beheer is bij het Rijk, zoals grote rivieren",
+          "feedback": "Onjuist. Ook een sloot of vijver in beheer van een waterschap is een oppervlaktewaterlichaam."
         },
         {
           "id": "c",
-          "text": "Er is geen verschil; het zijn twee namen voor dezelfde maatregel",
-          "feedback": "Onjuist. De Awb kent ze als twee verschillende herstelsancties (art. 5:21 en art. 5:31d Awb)."
-        }
-      ],
-      "correctAnswer": "a",
-      "explanation": "Beide lasten zijn bedoeld om de overtreding te laten stoppen of te herstellen. Bij bestuursdwang grijpt de overheid zelf in (art. 5:21 Awb); bij een dwangsom moet de overtreder betalen als hij niet herstelt (art. 5:31d Awb).",
-      "sourceRefs": [
-        {
-          "law": "Algemene wet bestuursrecht",
-          "article": "art. 5:21"
+          "text": "Het grondwater onder een perceel en de waterleiding",
+          "feedback": "Onjuist. Grondwater komt niet vrij aan het aardoppervlak voor en is dus geen oppervlaktewaterlichaam."
         },
         {
-          "law": "Algemene wet bestuursrecht",
-          "article": "art. 5:31d"
+          "id": "d",
+          "text": "Vrij aan het aardoppervlak voorkomend water met de stoffen daarin, bodem, oevers, flora en fauna",
+          "feedback": "Juist. Dit is de omschrijving uit de bijlage bij artikel 1.1 Omgevingswet."
+        }
+      ],
+      "correctAnswer": "d",
+      "explanation": "Bijlage bij art. 1.1 Ow: oppervlaktewaterlichaam is een samenhangend geheel van vrij aan het aardoppervlak voorkomend water, met de daarin aanwezige stoffen, en de bijbehorende bodem en oevers, alsmede flora en fauna.",
+      "sourceRefs": [
+        {
+          "law": "Omgevingswet",
+          "article": "bijlage bij art. 1.1",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=1.1&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         }
       ],
       "origin": "nieuw",
-      "reviewStatus": "concept",
       "version": "1.0",
-      "lastModified": "2026-11-02"
+      "lastModified": "2026-11-03",
+      "reviewStatus": "inhoudelijk_gecontroleerd",
+      "reviewedBy": "Claude (AI-controle tegen wettekst geldig op 2026-11-03)",
+      "reviewedOn": "2026-11-03"
     },
     {
       "id": "q-m09-l02-3",
       "moduleId": "m09",
       "lessonId": "m09-l02",
-      "termIds": [],
-      "topic": "Strafrechtelijke handhaving",
+      "termIds": [
+        "5.6.1"
+      ],
+      "topic": "Wat wordt geloosd?",
       "level": "K",
       "type": "mc",
-      "prompt": "Via welke wet worden overtredingen van de Omgevingswet strafrechtelijk aangepakt?",
+      "prompt": "Wat kan volgens de begripsomschrijving bij een lozingsactiviteit op een oppervlaktewaterlichaam worden gebracht?",
       "options": [
         {
           "id": "a",
-          "text": "Via de Algemene wet bestuursrecht",
-          "feedback": "Onjuist. De Awb regelt de bestuursrechtelijke handhaving, zoals bestuursdwang en dwangsom, niet de strafbaarheid."
+          "text": "Alleen afvalwater van bedrijven",
+          "feedback": "Onjuist. De omschrijving is breder en maakt geen onderscheid tussen bedrijven en particulieren."
         },
         {
           "id": "b",
-          "text": "Via de Wet op de economische delicten",
-          "feedback": "Juist. Art. 1a WED noemt voorschriften uit of op grond van de Omgevingswet. Overtreding daarvan is een economisch delict."
+          "text": "Alleen gevaarlijke stoffen",
+          "feedback": "Onjuist. Het gaat om alle stoffen, en ook om warmte of water."
         },
         {
           "id": "c",
-          "text": "Via de Gemeentewet",
-          "feedback": "Onjuist. De Gemeentewet regelt onder meer de APV. De strafbaarheid van Omgevingswetfeiten loopt via de WED."
+          "text": "Stoffen, warmte of water",
+          "feedback": "Juist. De omschrijving noemt het brengen van stoffen, warmte of water."
         }
       ],
-      "correctAnswer": "b",
-      "explanation": "Overtredingen van de Omgevingswet en de regels op grond daarvan zijn economische delicten volgens art. 1a WED. Of het een misdrijf of overtreding is, volgt uit art. 2 WED.",
+      "correctAnswer": "c",
+      "explanation": "Volgens de bijlage bij art. 1.1 Ow gaat het om het brengen van stoffen, warmte of water direct op een oppervlaktewaterlichaam. Ook warm koelwater of opgepompt grondwater kan dus een lozing zijn.",
       "sourceRefs": [
         {
-          "law": "Wet op de economische delicten",
-          "article": "art. 1a",
-          "verify": true
-        },
-        {
-          "law": "Wet op de economische delicten",
-          "article": "art. 2"
+          "law": "Omgevingswet",
+          "article": "bijlage bij art. 1.1",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=1.1&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         }
       ],
       "origin": "nieuw",
-      "reviewStatus": "juridische_review_nodig",
-      "reviewNote": "Controleer onder welke onderdelen van art. 1a WED de Omgevingswet is opgenomen en of dit ook geldt voor regels in het omgevingsplan.",
       "version": "1.0",
-      "lastModified": "2026-11-02"
+      "lastModified": "2026-11-03",
+      "reviewStatus": "inhoudelijk_gecontroleerd",
+      "reviewedBy": "Claude (AI-controle tegen wettekst geldig op 2026-11-03)",
+      "reviewedOn": "2026-11-03"
     },
     {
       "id": "q-m09-l02-4",
       "moduleId": "m09",
       "lessonId": "m09-l02",
-      "termIds": [],
-      "topic": "Rol boa bij Omgevingswet",
-      "level": "T",
+      "termIds": [
+        "5.6.1"
+      ],
+      "topic": "Direct lozen",
+      "level": "K",
       "type": "mc",
-      "case": "Je ziet dat een schuur achter een woning wordt omgebouwd tot woonruimte. Er staat een bouwbord zonder vergunningnummer. De eigenaar, mevrouw Yildiz, zegt dat ze 'niets nodig heeft'.",
-      "prompt": "Wat is jouw taak als boa in deze situatie?",
+      "prompt": "Wat betekent het woord 'direct' in de omschrijving van een lozingsactiviteit op een oppervlaktewaterlichaam?",
       "options": [
         {
           "id": "a",
-          "text": "De bouw stilleggen en de schuur laten verzegelen",
-          "feedback": "Onjuist. Stilleggen en verzegelen zijn bestuursrechtelijke maatregelen van het bevoegd gezag, niet van de boa."
+          "text": "Dat de stoffen rechtstreeks in het oppervlaktewater worden gebracht, niet via het vuilwaterriool",
+          "feedback": "Juist. Lozen via het vuilwaterriool of naar een zuivering valt onder andere begrippen en regels."
         },
         {
           "id": "b",
-          "text": "Niets doen, omdat het om een privéterrein gaat",
-          "feedback": "Onjuist. Ook op privéterrein gelden de regels van de Omgevingswet en het omgevingsplan. Je kunt constateren en melden."
+          "text": "Dat de lozing direct na het ontstaan van het afvalwater plaatsvindt",
+          "feedback": "Onjuist. Het gaat niet om tijd, maar om de plaats waar de stoffen terechtkomen."
         },
         {
           "id": "c",
-          "text": "Vastleggen wat je ziet en rapporteren aan de handhaver",
-          "feedback": "Juist. Je constateert, noteert het antwoord van de eigenaar en rapporteert aan de vergunningverlener of handhaver. Die beoordeelt of er een overtreding is."
+          "text": "Dat de lozing alleen telt als er direct schade aan het water ontstaat",
+          "feedback": "Onjuist. Schade is geen bestanddeel van het begrip. Het gaat om gevolgen voor het watersysteem."
         }
       ],
-      "correctAnswer": "c",
-      "explanation": "Het gebruik van een bouwwerk wijzigen kan vergunningplichtig zijn (art. 5.1 Ow en omgevingsplan). De boa constateert en rapporteert; het bevoegd gezag besluit over handhaving.",
+      "correctAnswer": "a",
+      "explanation": "Het begrip ziet op het brengen van stoffen, warmte of water direct op een oppervlaktewaterlichaam. Het brengen in een zuiveringtechnisch werk met behulp van een werk is een lozingsactiviteit op een zuiveringtechnisch werk; lozen in het openbare vuilwaterriool valt daar uitdrukkelijk buiten (bijlage bij art. 1.1 Ow).",
       "sourceRefs": [
         {
           "law": "Omgevingswet",
-          "article": "art. 5.1",
-          "verify": true
-        },
-        {
-          "law": "Omgevingswet",
-          "article": "hoofdstuk 18",
-          "verify": true
+          "article": "bijlage bij art. 1.1",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=1.1&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         }
       ],
       "origin": "nieuw",
-      "reviewStatus": "juridische_review_nodig",
-      "reviewNote": "Controleer art. 5.1 Ow (lid) en de artikelen in hoofdstuk 18 Ow over het bevoegd gezag voor handhaving.",
       "version": "1.0",
-      "lastModified": "2026-11-02"
+      "lastModified": "2026-11-03",
+      "reviewStatus": "inhoudelijk_gecontroleerd",
+      "reviewedBy": "Claude (AI-controle tegen wettekst geldig op 2026-11-03)",
+      "reviewedOn": "2026-11-03"
     },
     {
       "id": "q-m09-l02-5",
       "moduleId": "m09",
       "lessonId": "m09-l02",
-      "termIds": [],
-      "topic": "Werkwijze boa",
-      "level": "T",
-      "type": "order",
-      "prompt": "Zet de stappen die je als boa zet bij een mogelijke overtreding van de Omgevingswet in een logische volgorde.",
-      "items": [
-        "Je ziet de situatie en legt vast wat er gebeurt",
-        "Je vraagt de betrokkene of er een omgevingsvergunning is",
-        "Je noteert het antwoord en de gegevens van de betrokkene",
-        "Je schrijft een rapport van je bevindingen",
-        "Je stuurt het rapport naar de vergunningverlener of handhaver"
+      "termIds": [
+        "5.6.1"
       ],
-      "explanation": "De boa constateert, vraagt naar de vergunning en rapporteert. Het bevoegd gezag beoordeelt daarna of het handhaaft (hoofdstuk 18 Ow, titel 5.3 Awb).",
+      "topic": "Begrippen water",
+      "level": "K",
+      "type": "match",
+      "prompt": "Koppel elk waterbegrip uit de Omgevingswet aan de juiste omschrijving.",
+      "pairs": [
+        {
+          "left": "Lozingsactiviteit op een oppervlaktewaterlichaam",
+          "right": "Stoffen, warmte of water direct op oppervlaktewater brengen"
+        },
+        {
+          "left": "Oppervlaktewaterlichaam",
+          "right": "Vrij aan het aardoppervlak voorkomend water met bodem, oevers, flora en fauna"
+        },
+        {
+          "left": "Watersysteem",
+          "right": "Samenhangend geheel van oppervlakte- en grondwaterlichamen met keringen en kunstwerken"
+        },
+        {
+          "left": "Stortingsactiviteit op zee",
+          "right": "Uitgezonderd van het begrip lozingsactiviteit op een oppervlaktewaterlichaam"
+        }
+      ],
+      "explanation": "Alle begrippen staan in de bijlage bij art. 1.1 Omgevingswet.",
       "sourceRefs": [
         {
           "law": "Omgevingswet",
-          "article": "hoofdstuk 18",
-          "verify": true
-        },
-        {
-          "law": "Algemene wet bestuursrecht",
-          "article": "art. 5:21 en art. 5:31d"
+          "article": "bijlage bij art. 1.1",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=1.1&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         }
       ],
       "origin": "nieuw",
-      "reviewStatus": "juridische_review_nodig",
-      "reviewNote": "Controleer de verwijzing naar hoofdstuk 18 Ow.",
-      "version": "1.1",
-      "lastModified": "2026-11-02"
+      "version": "1.0",
+      "lastModified": "2026-11-03",
+      "reviewStatus": "inhoudelijk_gecontroleerd",
+      "reviewedBy": "Claude (AI-controle tegen wettekst geldig op 2026-11-03)",
+      "reviewedOn": "2026-11-03"
     },
     {
       "id": "q-m09-l02-6",
       "moduleId": "m09",
       "lessonId": "m09-l02",
-      "termIds": [],
-      "topic": "Herstelsancties",
+      "termIds": [
+        "5.6.1"
+      ],
+      "topic": "Bevoegd gezag lozing",
       "level": "K",
       "type": "truefalse",
-      "prompt": "Stelling: als boa mag je zelf een last onder dwangsom opleggen als iemand zonder vergunning bouwt.",
-      "correctAnswer": false,
-      "feedbackTrue": "Onjuist. Een last onder dwangsom is een besluit van het bestuursorgaan dat bevoegd is, meestal het college van B en W. De boa rapporteert.",
-      "feedbackFalse": "Juist. De boa legt geen last onder dwangsom op. Dat doet het bevoegd gezag met een besluit (art. 5:31d en 5:32 Awb).",
-      "explanation": "Een last onder dwangsom is een herstelsanctie die het bestuursorgaan oplegt (art. 5:31d en 5:32 Awb). De boa levert met zijn waarneming en rapport de feiten aan.",
+      "prompt": "Stelling: voor een lozingsactiviteit op een oppervlaktewaterlichaam in beheer bij een waterschap is het dagelijks bestuur van het waterschap het bevoegd gezag voor de rijksregels.",
+      "correctAnswer": true,
+      "feedbackTrue": "Juist. Dat staat in artikel 2.4 Bal. Bij rijkswateren is de minister van Infrastructuur en Waterstaat bevoegd gezag (art. 2.6 Bal).",
+      "feedbackFalse": "Onjuist. Artikel 2.4 Bal wijst het dagelijks bestuur van het waterschap aan als bevoegd gezag.",
+      "explanation": "Art. 2.4 Bal: voor een lozingsactiviteit op een oppervlaktewaterlichaam in beheer bij een waterschap is het dagelijks bestuur van het waterschap het bevoegd gezag. Art. 2.6 Bal: bij beheer door het Rijk is dat de minister van IenW.",
       "sourceRefs": [
         {
-          "law": "Algemene wet bestuursrecht",
-          "article": "art. 5:31d"
+          "law": "Besluit activiteiten leefomgeving",
+          "article": "art. 2.4",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=2.4&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         },
         {
-          "law": "Algemene wet bestuursrecht",
-          "article": "art. 5:32"
+          "law": "Besluit activiteiten leefomgeving",
+          "article": "art. 2.6",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=2.6&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         }
       ],
       "origin": "nieuw",
-      "reviewStatus": "concept",
       "version": "1.0",
-      "lastModified": "2026-11-02"
+      "lastModified": "2026-11-03",
+      "reviewStatus": "inhoudelijk_gecontroleerd",
+      "reviewedBy": "Claude (AI-controle tegen wettekst geldig op 2026-11-03)",
+      "reviewedOn": "2026-11-03"
     },
     {
-      "id": "q-m09-l02-7",
+      "id": "q-m09-l03-1",
       "moduleId": "m09",
-      "lessonId": "m09-l02",
-      "termIds": [],
-      "topic": "Toezichthouder",
-      "level": "K",
+      "lessonId": "m09-l03",
+      "termIds": [
+        "5.6.2"
+      ],
+      "topic": "Sloopafval begraven",
+      "level": "T",
       "type": "mc",
-      "prompt": "Je bent aangewezen als toezichthouder. Welke bevoegdheid heb je dan op grond van de Algemene wet bestuursrecht?",
+      "case": "Een aannemersbedrijf begraaft op zijn eigen opslagterrein restanten van een verbouwing: stukken beton, plastic folie en isolatiemateriaal. Er is geen omgevingsvergunning.",
+      "prompt": "Is hier sprake van de activiteit van paragraaf 3.2.14 Bal?",
       "options": [
         {
           "id": "a",
-          "text": "Inlichtingen vorderen",
-          "feedback": "Juist. Een toezichthouder mag inlichtingen vorderen (art. 5:16 Awb), voor zover dat redelijkerwijs nodig is."
+          "text": "Nee, want het terrein is eigendom van het bedrijf zelf",
+          "feedback": "Onjuist. Eigendom van de grond maakt niet uit. Ook op eigen grond is de activiteit vergunningplichtig."
         },
         {
           "id": "b",
-          "text": "Een verdachte aanhouden",
-          "feedback": "Onjuist. Aanhouden is een strafvorderlijke bevoegdheid (Wetboek van Strafvordering), geen toezichtsbevoegdheid uit de Awb."
+          "text": "Nee, want beton en plastic zijn geen gevaarlijke afvalstoffen",
+          "feedback": "Onjuist. Paragraaf 3.2.14 geldt voor bedrijfsafvalstoffen én gevaarlijke afvalstoffen. Sloopafval van een bedrijf is bedrijfsafval."
         },
         {
           "id": "c",
-          "text": "Een vergunning intrekken",
-          "feedback": "Onjuist. Een vergunning intrekken is een besluit van het bevoegd gezag, geen bevoegdheid van de toezichthouder."
-        }
-      ],
-      "correctAnswer": "a",
-      "explanation": "Een toezichthouder is iemand die bij of krachtens wettelijk voorschrift is belast met toezicht (art. 5:11 Awb). Hij heeft onder meer de bevoegdheid inlichtingen te vorderen (art. 5:16 Awb).",
-      "sourceRefs": [
-        {
-          "law": "Algemene wet bestuursrecht",
-          "article": "art. 5:11"
+          "text": "Ja, het bedrijf brengt bedrijfsafvalstoffen in de bodem; zonder omgevingsvergunning is dat verboden",
+          "feedback": "Juist. Dit is de activiteit van artikel 3.40b Bal. Op grond van artikel 3.40c Bal geldt een vergunningplicht."
         },
         {
-          "law": "Algemene wet bestuursrecht",
-          "article": "art. 5:16"
+          "id": "d",
+          "text": "Ja, maar alleen als er schade aan het grondwater wordt aangetoond",
+          "feedback": "Onjuist. Schade is geen voorwaarde. Het op of in de bodem brengen zonder vergunning is al verboden."
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "Art. 3.40b lid 1 Bal wijst het op of in de bodem brengen van bedrijfsafvalstoffen of gevaarlijke afvalstoffen aan als milieubelastende activiteit. Art. 3.40c lid 1 Bal maakt die activiteit vergunningplichtig (art. 5.1 lid 2 Ow).",
+      "sourceRefs": [
+        {
+          "law": "Besluit activiteiten leefomgeving",
+          "article": "art. 3.40b",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.40b&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        },
+        {
+          "law": "Besluit activiteiten leefomgeving",
+          "article": "art. 3.40c",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.40c&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        },
+        {
+          "law": "Omgevingswet",
+          "article": "art. 5.1",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.1&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         }
       ],
       "origin": "nieuw",
-      "reviewStatus": "concept",
       "version": "1.0",
-      "lastModified": "2026-11-02"
+      "lastModified": "2026-11-03",
+      "reviewStatus": "inhoudelijk_gecontroleerd",
+      "reviewedBy": "Claude (AI-controle tegen wettekst geldig op 2026-11-03)",
+      "reviewedOn": "2026-11-03"
+    },
+    {
+      "id": "q-m09-l03-2",
+      "moduleId": "m09",
+      "lessonId": "m09-l03",
+      "termIds": [
+        "5.6.2"
+      ],
+      "topic": "Huishoudelijk afval in de tuin",
+      "level": "T",
+      "type": "mc",
+      "case": "Meneer Peters graaft in zijn achtertuin een kuil. Hij gooit er vijf zakken met eigen huisvuil in en gooit de kuil weer dicht.",
+      "prompt": "Valt dit onder paragraaf 3.2.14 Bal?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ja, want alle afval dat in de bodem wordt gebracht, valt onder paragraaf 3.2.14",
+          "feedback": "Onjuist. Huishoudelijke afvalstoffen die nog niet zijn ingezameld, zijn uitgezonderd (art. 3.40b lid 2 onder g Bal)."
+        },
+        {
+          "id": "b",
+          "text": "Nee, het gaat om huishoudelijk afval; dit is wel in strijd met artikel 10.2 lid 1 Wet milieubeheer",
+          "feedback": "Juist. Paragraaf 3.2.14 geldt niet voor huishoudelijk afval dat nog niet is ingezameld. Artikel 10.2 lid 1 Wm verbiedt huishoudelijke afvalstoffen in de bodem te brengen."
+        },
+        {
+          "id": "c",
+          "text": "Nee, en ook verder is dit niet verboden, want het gebeurt in een privétuin",
+          "feedback": "Onjuist. Het verbod van artikel 10.2 lid 1 Wm geldt ook in een privétuin."
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "Art. 3.40b lid 2 onder g Bal: het op of in de bodem brengen van huishoudelijke afvalstoffen die nog niet zijn ingezameld of afgegeven, valt niet onder de aanwijzing. Art. 10.2 lid 1 Wm verbiedt het storten of anderszins op of in de bodem brengen van huishoudelijke afvalstoffen.",
+      "sourceRefs": [
+        {
+          "law": "Besluit activiteiten leefomgeving",
+          "article": "art. 3.40b",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.40b&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        },
+        {
+          "law": "Wet milieubeheer",
+          "article": "art. 10.2",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.2&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        }
+      ],
+      "origin": "nieuw",
+      "version": "1.0",
+      "lastModified": "2026-11-03",
+      "reviewStatus": "inhoudelijk_gecontroleerd",
+      "reviewedBy": "Claude (AI-controle tegen wettekst geldig op 2026-11-03)",
+      "reviewedOn": "2026-11-03"
+    },
+    {
+      "id": "q-m09-l03-3",
+      "moduleId": "m09",
+      "lessonId": "m09-l03",
+      "termIds": [
+        "5.6.2"
+      ],
+      "topic": "Afgewerkte olie op de bodem",
+      "level": "T",
+      "type": "mc",
+      "case": "Achter een garagebedrijf zie je een monteur een jerrycan met afgewerkte motorolie leeggieten op het onverharde terrein. Er is geen vergunning.",
+      "prompt": "Wat is juist?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Dit is het op de bodem brengen van een gevaarlijke afvalstof; zonder vergunning verboden en bij opzet een misdrijf",
+          "feedback": "Juist. Afgewerkte olie is een gevaarlijke afvalstof. De activiteit valt onder art. 3.40b Bal en is vergunningplichtig. Opzettelijk handelen is een misdrijf (art. 2 lid 1 WED)."
+        },
+        {
+          "id": "b",
+          "text": "Dit is het lozen van afvalwater en valt daarom buiten paragraaf 3.2.14",
+          "feedback": "Onjuist. Afgewerkte olie is geen afvalwater maar een gevaarlijke afvalstof."
+        },
+        {
+          "id": "c",
+          "text": "Dit valt alleen onder paragraaf 3.2.14 als het om meer dan een vat gaat",
+          "feedback": "Onjuist. Het Bal noemt geen ondergrens. Elk op of in de bodem brengen van gevaarlijke afvalstoffen valt eronder."
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "Art. 3.40b lid 1 Bal geldt ook voor gevaarlijke afvalstoffen. Zonder vergunning is de activiteit verboden (art. 3.40c Bal, art. 5.1 lid 2 Ow). Overtreding is een economisch delict als bedoeld in art. 1a onder 1° WED; opzettelijk begaan is het een misdrijf (art. 2 lid 1 WED).",
+      "sourceRefs": [
+        {
+          "law": "Besluit activiteiten leefomgeving",
+          "article": "art. 3.40b",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.40b&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        },
+        {
+          "law": "Besluit activiteiten leefomgeving",
+          "article": "art. 3.40c",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.40c&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        },
+        {
+          "law": "Wet op de economische delicten",
+          "article": "art. 2",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=2&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        }
+      ],
+      "origin": "nieuw",
+      "version": "1.0",
+      "lastModified": "2026-11-03",
+      "reviewStatus": "inhoudelijk_gecontroleerd",
+      "reviewedBy": "Claude (AI-controle tegen wettekst geldig op 2026-11-03)",
+      "reviewedOn": "2026-11-03"
+    },
+    {
+      "id": "q-m09-l03-4",
+      "moduleId": "m09",
+      "lessonId": "m09-l03",
+      "termIds": [
+        "5.6.2"
+      ],
+      "topic": "Stortplaats",
+      "level": "T",
+      "type": "mc",
+      "case": "Een vrachtwagen van een afvalbedrijf lost bedrijfsafval op een stortplaats. Het afvalbedrijf exploiteert die stortplaats met de vereiste vergunning.",
+      "prompt": "Is hier sprake van de activiteit van paragraaf 3.2.14 Bal?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ja, want er worden bedrijfsafvalstoffen op de bodem gebracht",
+          "feedback": "Onjuist. Paragraaf 3.2.14 gaat over het op of in de bodem brengen buiten stortplaatsen. Een stortplaats is uitgezonderd."
+        },
+        {
+          "id": "b",
+          "text": "Nee, want een stortplaats is uitgezonderd; daarvoor gelden andere regels in het Bal",
+          "feedback": "Juist. Artikel 3.40b lid 2 onder e Bal sluit stortplaatsen uit. Daarvoor gelden eigen regels (paragraaf 3.3.12 Bal)."
+        },
+        {
+          "id": "c",
+          "text": "Ja, want bedrijfsafval mag nooit op of in de bodem worden gebracht",
+          "feedback": "Onjuist. Op een stortplaats met de vereiste toestemming mag dat wel. Daarvoor gelden eigen regels."
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "Art. 3.40b lid 2 onder e Bal: een stortplaats of winningsafvalvoorziening als bedoeld in paragraaf 3.3.12 valt niet onder de aanwijzing van § 3.2.14.",
+      "sourceRefs": [
+        {
+          "law": "Besluit activiteiten leefomgeving",
+          "article": "art. 3.40b",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.40b&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        }
+      ],
+      "origin": "nieuw",
+      "version": "1.0",
+      "lastModified": "2026-11-03",
+      "reviewStatus": "inhoudelijk_gecontroleerd",
+      "reviewedBy": "Claude (AI-controle tegen wettekst geldig op 2026-11-03)",
+      "reviewedOn": "2026-11-03"
+    },
+    {
+      "id": "q-m09-l03-5",
+      "moduleId": "m09",
+      "lessonId": "m09-l03",
+      "termIds": [
+        "5.6.2"
+      ],
+      "topic": "Nuttige toepassing van grond",
+      "level": "T",
+      "type": "mc",
+      "case": "Een grondverzetbedrijf hoogt een terrein op met grond. Volgens de melding en de keuring is dit een nuttige toepassing van grond volgens de regels van paragraaf 3.2.26 Bal.",
+      "prompt": "Valt dit onder paragraaf 3.2.14 Bal?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Nee, zolang het een nuttige toepassing van grond is volgens paragraaf 3.2.26 Bal",
+          "feedback": "Juist. Artikel 3.40b lid 2 onder c Bal sluit het toepassen van grond of baggerspecie uit, voor zover dat een nuttige toepassing is."
+        },
+        {
+          "id": "b",
+          "text": "Ja, want grond van een bedrijf is altijd een bedrijfsafvalstof",
+          "feedback": "Onjuist. Grond die als nuttige toepassing wordt gebruikt volgens paragraaf 3.2.26, is uitgezonderd."
+        },
+        {
+          "id": "c",
+          "text": "Ja, want het gaat om meer dan honderd kuub",
+          "feedback": "Onjuist. De hoeveelheid is niet bepalend. Bepalend is of het een nuttige toepassing is volgens de regels van paragraaf 3.2.26."
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "Art. 3.40b lid 2 onder c Bal: het toepassen van grond of baggerspecie als bedoeld in paragraaf 3.2.26 valt niet onder de aanwijzing, voor zover dat een nuttige toepassing is. Is het geen nuttige toepassing (bijvoorbeeld zich ontdoen van vervuilde grond), dan kan § 3.2.14 wel gelden.",
+      "sourceRefs": [
+        {
+          "law": "Besluit activiteiten leefomgeving",
+          "article": "art. 3.40b",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.40b&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        }
+      ],
+      "origin": "nieuw",
+      "version": "1.0",
+      "lastModified": "2026-11-03",
+      "reviewStatus": "inhoudelijk_gecontroleerd",
+      "reviewedBy": "Claude (AI-controle tegen wettekst geldig op 2026-11-03)",
+      "reviewedOn": "2026-11-03"
+    },
+    {
+      "id": "q-m09-l04-1",
+      "moduleId": "m09",
+      "lessonId": "m09-l04",
+      "termIds": [
+        "5.6.3"
+      ],
+      "topic": "Zwerfafval bij snackbar",
+      "level": "T",
+      "type": "mc",
+      "case": "Op de stoep voor een snackbar liggen elke avond patatbakjes en servetjes met het logo van de snackbar. Het verste afval ligt 15 meter van de gevel. De gemeente heeft artikel 22.53 van de bruidsschat niet gewijzigd.",
+      "prompt": "Moet de exploitant dit afval verwijderen op grond van artikel 22.53?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Nee, want het afval ligt op de openbare stoep en niet op zijn eigen terrein",
+          "feedback": "Onjuist. Artikel 22.53 gaat juist over afval binnen 25 meter rond de grens van de locatie, ook buiten het eigen terrein."
+        },
+        {
+          "id": "b",
+          "text": "Nee, want de klanten hebben het afval laten vallen en niet de exploitant",
+          "feedback": "Onjuist. Het gaat erom dat het afval van de activiteit afkomstig is. Wie het liet vallen, is niet bepalend."
+        },
+        {
+          "id": "c",
+          "text": "Ja, maar alleen één keer per dag bij sluitingstijd",
+          "feedback": "Onjuist. De regel noemt geen vaste frequentie, maar zegt: zo vaak als nodig."
+        },
+        {
+          "id": "d",
+          "text": "Ja, het afval komt van zijn activiteit en ligt binnen 25 meter; hij ruimt het zo vaak als nodig op",
+          "feedback": "Juist. Alle voorwaarden van artikel 22.53 zijn vervuld."
+        }
+      ],
+      "correctAnswer": "d",
+      "explanation": "Art. 22.53 bruidsschat: binnen een straal van 25 m rond de begrenzing van de locatie waarop de activiteit wordt verricht, worden zo vaak als nodig etenswaren, verpakkingen en andere materialen verwijderd die van de activiteit afkomstig zijn. De exploitant verricht de activiteit (art. 22.43).",
+      "sourceRefs": [
+        {
+          "law": "Bruidsschat omgevingsplan (Invoeringsbesluit Omgevingswet, Stb. 2020, 400)",
+          "article": "art. 22.53",
+          "url": "https://zoek.officielebekendmakingen.nl/stb-2020-400.html",
+          "geldigOp": "2026-11-03"
+        },
+        {
+          "law": "Bruidsschat omgevingsplan (Invoeringsbesluit Omgevingswet, Stb. 2020, 400)",
+          "article": "art. 22.43",
+          "url": "https://zoek.officielebekendmakingen.nl/stb-2020-400.html",
+          "geldigOp": "2026-11-03"
+        }
+      ],
+      "origin": "nieuw",
+      "version": "1.0",
+      "lastModified": "2026-11-03",
+      "reviewStatus": "inhoudelijk_gecontroleerd",
+      "reviewedBy": "Claude (AI-controle tegen wettekst geldig op 2026-11-03)",
+      "reviewedOn": "2026-11-03"
+    },
+    {
+      "id": "q-m09-l04-2",
+      "moduleId": "m09",
+      "lessonId": "m09-l04",
+      "termIds": [
+        "5.6.3"
+      ],
+      "topic": "Afstand 25 meter",
+      "level": "T",
+      "type": "mc",
+      "case": "Bij een bankje in het park, 60 meter van de grens van het terrein van een supermarkt, liggen lege verpakkingen van de supermarkt. De gemeente heeft artikel 22.53 van de bruidsschat niet gewijzigd.",
+      "prompt": "Verplicht artikel 22.53 de supermarkt om het afval bij het bankje op te ruimen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ja, want het afval komt van de supermarkt",
+          "feedback": "Onjuist. Het afval komt wel van de supermarkt, maar het ligt buiten de straal van 25 meter."
+        },
+        {
+          "id": "b",
+          "text": "Nee, want het afval ligt verder dan 25 meter van de grens van de locatie",
+          "feedback": "Juist. Artikel 22.53 geldt alleen binnen een straal van 25 meter rond de begrenzing van de locatie."
+        },
+        {
+          "id": "c",
+          "text": "Ja, want de straal is 50 meter rond de ingang",
+          "feedback": "Onjuist. De straal is 25 meter, gemeten vanaf de begrenzing van de locatie."
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "Art. 22.53 bruidsschat beperkt de opruimplicht tot een straal van 25 m rond de begrenzing van de locatie. Afval dat verder weg ligt, valt niet onder deze regel. Voor wie het afval achterliet, kunnen wel andere regels gelden, bijvoorbeeld in de APV.",
+      "sourceRefs": [
+        {
+          "law": "Bruidsschat omgevingsplan (Invoeringsbesluit Omgevingswet, Stb. 2020, 400)",
+          "article": "art. 22.53",
+          "url": "https://zoek.officielebekendmakingen.nl/stb-2020-400.html",
+          "geldigOp": "2026-11-03"
+        }
+      ],
+      "origin": "nieuw",
+      "version": "1.0",
+      "lastModified": "2026-11-03",
+      "reviewStatus": "inhoudelijk_gecontroleerd",
+      "reviewedBy": "Claude (AI-controle tegen wettekst geldig op 2026-11-03)",
+      "reviewedOn": "2026-11-03"
+    },
+    {
+      "id": "q-m09-l04-3",
+      "moduleId": "m09",
+      "lessonId": "m09-l04",
+      "termIds": [
+        "5.6.3"
+      ],
+      "topic": "Afkomstig van de activiteit",
+      "level": "T",
+      "type": "mc",
+      "case": "Voor een bakkerij waait het reclamefolders van een makelaarskantoor verderop. Ze liggen binnen 10 meter van de bakkerij. De gemeente heeft artikel 22.53 van de bruidsschat niet gewijzigd.",
+      "prompt": "Moet de bakker deze folders verwijderen op grond van artikel 22.53?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Nee, want de folders zijn niet van zijn activiteit afkomstig",
+          "feedback": "Juist. Artikel 22.53 geldt alleen voor materialen die van de activiteit afkomstig zijn."
+        },
+        {
+          "id": "b",
+          "text": "Ja, want alles wat binnen 25 meter ligt, moet hij opruimen",
+          "feedback": "Onjuist. Binnen 25 meter is niet genoeg. Het afval moet ook van zijn activiteit afkomstig zijn."
+        },
+        {
+          "id": "c",
+          "text": "Ja, want papier is een verpakking",
+          "feedback": "Onjuist. Het gaat niet om de soort afval, maar om de herkomst: van de activiteit van de bakker."
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "Art. 22.53 bruidsschat verplicht tot het verwijderen van materialen die van de activiteit afkomstig zijn. Afval van anderen, zoals folders van een makelaar, valt daar niet onder, ook niet binnen 25 meter.",
+      "sourceRefs": [
+        {
+          "law": "Bruidsschat omgevingsplan (Invoeringsbesluit Omgevingswet, Stb. 2020, 400)",
+          "article": "art. 22.53",
+          "url": "https://zoek.officielebekendmakingen.nl/stb-2020-400.html",
+          "geldigOp": "2026-11-03"
+        }
+      ],
+      "origin": "nieuw",
+      "version": "1.0",
+      "lastModified": "2026-11-03",
+      "reviewStatus": "inhoudelijk_gecontroleerd",
+      "reviewedBy": "Claude (AI-controle tegen wettekst geldig op 2026-11-03)",
+      "reviewedOn": "2026-11-03"
+    },
+    {
+      "id": "q-m09-l04-4",
+      "moduleId": "m09",
+      "lessonId": "m09-l04",
+      "termIds": [
+        "5.6.3"
+      ],
+      "topic": "Normadressaat",
+      "level": "T",
+      "type": "mc",
+      "case": "Mevrouw El Idrissi huurt een pand en exploiteert daarin een lunchroom met afhaalkoffie. Op de stoep binnen 20 meter liggen vaak koffiebekers van de lunchroom. De gemeente heeft artikel 22.53 van de bruidsschat niet gewijzigd.",
+      "prompt": "Tot wie richt artikel 22.53 zich in deze situatie?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Tot de gemeente, want het afval ligt in de openbare ruimte",
+          "feedback": "Onjuist. De gemeente is beheerder van de openbare ruimte, maar de regel richt zich tot wie de activiteit verricht."
+        },
+        {
+          "id": "b",
+          "text": "Tot de eigenaar van het pand, want het pand staat op zijn naam",
+          "feedback": "Onjuist. Eigendom van het pand is niet bepalend. Het gaat om degene die de activiteit verricht."
+        },
+        {
+          "id": "c",
+          "text": "Tot de exploitant van de lunchroom, want die verricht de activiteit",
+          "feedback": "Juist. Aan de regels van afdeling 22.3 wordt voldaan door degene die de activiteit verricht (art. 22.43)."
+        },
+        {
+          "id": "d",
+          "text": "Tot de klanten die de bekers op straat gooien",
+          "feedback": "Onjuist. Artikel 22.53 richt zich niet tot klanten. Voor hen kunnen andere regels gelden, bijvoorbeeld in de APV."
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "Art. 22.43 bruidsschat: aan afdeling 22.3 wordt voldaan door degene die de activiteit verricht. Dat is de exploitant van de lunchroom, niet de pandeigenaar, de gemeente of de klant.",
+      "sourceRefs": [
+        {
+          "law": "Bruidsschat omgevingsplan (Invoeringsbesluit Omgevingswet, Stb. 2020, 400)",
+          "article": "art. 22.53",
+          "url": "https://zoek.officielebekendmakingen.nl/stb-2020-400.html",
+          "geldigOp": "2026-11-03"
+        },
+        {
+          "law": "Bruidsschat omgevingsplan (Invoeringsbesluit Omgevingswet, Stb. 2020, 400)",
+          "article": "art. 22.43",
+          "url": "https://zoek.officielebekendmakingen.nl/stb-2020-400.html",
+          "geldigOp": "2026-11-03"
+        }
+      ],
+      "origin": "nieuw",
+      "version": "1.0",
+      "lastModified": "2026-11-03",
+      "reviewStatus": "inhoudelijk_gecontroleerd",
+      "reviewedBy": "Claude (AI-controle tegen wettekst geldig op 2026-11-03)",
+      "reviewedOn": "2026-11-03"
+    },
+    {
+      "id": "q-m09-l04-5",
+      "moduleId": "m09",
+      "lessonId": "m09-l04",
+      "termIds": [
+        "5.6.3"
+      ],
+      "topic": "Uitzondering wonen",
+      "level": "T",
+      "type": "mc",
+      "case": "Op de stoep voor een rijtjeshuis liggen al dagen kapot speelgoed en lege verpakkingen van het gezin dat er woont. Het ligt binnen 5 meter van de woning. De gemeente heeft artikel 22.53 van de bruidsschat niet gewijzigd.",
+      "prompt": "Geldt artikel 22.53 hier?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ja, want het speelgoed ligt binnen 25 meter van de woning",
+          "feedback": "Onjuist. De afstand klopt, maar afdeling 22.3 is niet van toepassing op wonen."
+        },
+        {
+          "id": "b",
+          "text": "Nee, want afdeling 22.3 van de bruidsschat is niet van toepassing op wonen",
+          "feedback": "Juist. Artikel 22.41 lid 2 onder a sluit wonen uit. Artikel 22.53 geldt dus niet."
+        },
+        {
+          "id": "c",
+          "text": "Ja, want sport- en spelmaterialen worden in artikel 22.53 uitdrukkelijk genoemd",
+          "feedback": "Onjuist. Die materialen worden genoemd, maar de regel geldt alleen voor milieubelastende activiteiten, niet voor wonen."
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "Art. 22.41 lid 2 onder a bruidsschat: afdeling 22.3 (waaronder art. 22.53) is niet van toepassing op wonen. Rommel rond een woning kan wel onder andere regels vallen, bijvoorbeeld de APV of de afvalstoffenverordening.",
+      "sourceRefs": [
+        {
+          "law": "Bruidsschat omgevingsplan (Invoeringsbesluit Omgevingswet, Stb. 2020, 400)",
+          "article": "art. 22.53",
+          "url": "https://zoek.officielebekendmakingen.nl/stb-2020-400.html",
+          "geldigOp": "2026-11-03"
+        },
+        {
+          "law": "Bruidsschat omgevingsplan (Invoeringsbesluit Omgevingswet, Stb. 2020, 400)",
+          "article": "art. 22.41",
+          "url": "https://zoek.officielebekendmakingen.nl/stb-2020-400.html",
+          "geldigOp": "2026-11-03"
+        }
+      ],
+      "origin": "nieuw",
+      "version": "1.0",
+      "lastModified": "2026-11-03",
+      "reviewStatus": "inhoudelijk_gecontroleerd",
+      "reviewedBy": "Claude (AI-controle tegen wettekst geldig op 2026-11-03)",
+      "reviewedOn": "2026-11-03"
+    },
+    {
+      "id": "q-m09-l04-6",
+      "moduleId": "m09",
+      "lessonId": "m09-l04",
+      "termIds": [
+        "5.6.3"
+      ],
+      "topic": "Zo vaak als nodig",
+      "level": "T",
+      "type": "mc",
+      "case": "Rond het sportpark van een voetbalvereniging liggen elke dag na de trainingen bidons, kapotte ballen en snoepverpakkingen van de vereniging, binnen 20 meter van het hek. De vereniging ruimt één keer per week op, op zaterdag. De gemeente heeft artikel 22.53 van de bruidsschat niet gewijzigd.",
+      "prompt": "Leeft de sportvereniging artikel 22.53 na?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ja, want de vereniging ruimt elke week op",
+          "feedback": "Onjuist. Eén keer per week is niet genoeg als er dagelijks veel afval ligt. De regel zegt: zo vaak als nodig."
+        },
+        {
+          "id": "b",
+          "text": "Ja, want de wet schrijft geen vaste frequentie voor",
+          "feedback": "Onjuist. Er is geen vaste frequentie, maar wel de eis zo vaak als nodig. Dat hangt af van de hoeveelheid afval."
+        },
+        {
+          "id": "c",
+          "text": "Nee, want zij moet het afval zo vaak als nodig verwijderen en dat gebeurt niet",
+          "feedback": "Juist. Er ligt elke dag afval van de vereniging binnen 25 meter. Wekelijks opruimen is dan niet zo vaak als nodig."
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "Art. 22.53 bruidsschat: binnen 25 m rond de locatie worden zo vaak als nodig etenswaren, verpakkingen, sport- of spelmaterialen of andere materialen verwijderd die van de activiteit afkomstig zijn. 'Zo vaak als nodig' hangt af van de hoeveelheid afval die ontstaat.",
+      "sourceRefs": [
+        {
+          "law": "Bruidsschat omgevingsplan (Invoeringsbesluit Omgevingswet, Stb. 2020, 400)",
+          "article": "art. 22.53",
+          "url": "https://zoek.officielebekendmakingen.nl/stb-2020-400.html",
+          "geldigOp": "2026-11-03"
+        }
+      ],
+      "origin": "nieuw",
+      "version": "1.0",
+      "lastModified": "2026-11-03",
+      "reviewStatus": "inhoudelijk_gecontroleerd",
+      "reviewedBy": "Claude (AI-controle tegen wettekst geldig op 2026-11-03)",
+      "reviewedOn": "2026-11-03"
     }
   ],
   "glossary": [
     {
-      "term": "Omgevingswet",
-      "definition": "Wet die sinds 1 januari 2024 de regels voor de fysieke leefomgeving bundelt, onder meer de oude Wabo en de bestemmingsplannen.",
+      "term": "Lozingsactiviteit op een oppervlaktewaterlichaam",
+      "definition": "Activiteit, niet zijnde een stortingsactiviteit op zee, die bestaat uit het brengen van stoffen, warmte of water direct op een oppervlaktewaterlichaam, voor zover het gaat om de gevolgen voor het watersysteem.",
       "moduleId": "m09",
       "sourceRefs": [
         {
-          "law": "Omgevingswet"
+          "law": "Omgevingswet",
+          "article": "bijlage bij art. 1.1",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=1.1&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         }
       ],
-      "reviewStatus": "concept"
+      "reviewStatus": "inhoudelijk_gecontroleerd"
+    },
+    {
+      "term": "Oppervlaktewaterlichaam",
+      "definition": "Samenhangend geheel van vrij aan het aardoppervlak voorkomend water, met de stoffen daarin, de bijbehorende bodem en oevers en de flora en fauna.",
+      "moduleId": "m09",
+      "sourceRefs": [
+        {
+          "law": "Omgevingswet",
+          "article": "bijlage bij art. 1.1",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=1.1&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        }
+      ],
+      "reviewStatus": "inhoudelijk_gecontroleerd"
+    },
+    {
+      "term": "Watersysteem",
+      "definition": "Samenhangend geheel van een of meer oppervlaktewaterlichamen en grondwaterlichamen, met bijbehorende bergingsgebieden, waterkeringen en ondersteunende kunstwerken.",
+      "moduleId": "m09",
+      "sourceRefs": [
+        {
+          "law": "Omgevingswet",
+          "article": "bijlage bij art. 1.1",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=1.1&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        }
+      ],
+      "reviewStatus": "inhoudelijk_gecontroleerd"
+    },
+    {
+      "term": "Milieubelastende activiteit",
+      "definition": "Activiteit die nadelige gevolgen voor het milieu kan veroorzaken, niet zijnde een lozingsactiviteit op een oppervlaktewaterlichaam of op een zuiveringtechnisch werk of een wateronttrekkingsactiviteit.",
+      "moduleId": "m09",
+      "sourceRefs": [
+        {
+          "law": "Omgevingswet",
+          "article": "bijlage bij art. 1.1",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=1.1&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        }
+      ],
+      "reviewStatus": "inhoudelijk_gecontroleerd"
+    },
+    {
+      "term": "Bedrijfsafvalstoffen",
+      "definition": "Afvalstoffen die geen huishoudelijke afvalstoffen of gevaarlijke afvalstoffen zijn.",
+      "moduleId": "m09",
+      "sourceRefs": [
+        {
+          "law": "Wet milieubeheer",
+          "article": "art. 1.1",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=1.1&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        }
+      ],
+      "reviewStatus": "inhoudelijk_gecontroleerd"
+    },
+    {
+      "term": "Gevaarlijke afvalstof",
+      "definition": "Afvalstof met een of meer gevaarlijke eigenschappen uit bijlage III bij de kaderrichtlijn afvalstoffen.",
+      "moduleId": "m09",
+      "sourceRefs": [
+        {
+          "law": "Wet milieubeheer",
+          "article": "art. 1.1",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=1.1&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        }
+      ],
+      "reviewStatus": "inhoudelijk_gecontroleerd"
     },
     {
       "term": "Omgevingsplan",
-      "definition": "Het ene plan per gemeente, vastgesteld door de gemeenteraad, met regels over de fysieke leefomgeving.",
+      "definition": "Het plan van de gemeente met regels over de fysieke leefomgeving voor het hele grondgebied. Het bevat tijdelijk ook de bruidsschat.",
       "moduleId": "m09",
       "sourceRefs": [
         {
           "law": "Omgevingswet",
-          "article": "art. 2.4"
+          "article": "art. 2.4",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=2.4&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        },
+        {
+          "law": "Omgevingswet",
+          "article": "art. 22.1",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=22.1&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         }
       ],
-      "reviewStatus": "concept"
+      "reviewStatus": "inhoudelijk_gecontroleerd"
     },
     {
-      "term": "Omgevingsvergunning",
-      "definition": "Toestemming vooraf van het bevoegd gezag voor een activiteit waarvoor een vergunning is vereist.",
+      "term": "Bruidsschat",
+      "definition": "Regels die het Rijk bij de invoering van de Omgevingswet tijdelijk in elk omgevingsplan heeft gezet (hoofdstuk 22 Invoeringsbesluit Omgevingswet). De gemeente kan ze wijzigen.",
       "moduleId": "m09",
       "sourceRefs": [
         {
           "law": "Omgevingswet",
-          "article": "art. 5.1",
-          "verify": true
-        }
-      ],
-      "reviewStatus": "concept"
-    },
-    {
-      "term": "Activiteit",
-      "definition": "Handeling in de fysieke leefomgeving, zoals bouwen, slopen, kappen of het gebruik van grond of een gebouw wijzigen.",
-      "moduleId": "m09",
-      "sourceRefs": [
+          "article": "art. 22.2",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=22.2&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        },
         {
-          "law": "Omgevingswet"
+          "law": "Bruidsschat omgevingsplan (Invoeringsbesluit Omgevingswet, Stb. 2020, 400)",
+          "article": "hoofdstuk 22",
+          "url": "https://zoek.officielebekendmakingen.nl/stb-2020-400.html",
+          "geldigOp": "2026-11-03"
         }
       ],
-      "reviewStatus": "concept"
+      "reviewStatus": "inhoudelijk_gecontroleerd"
     },
     {
       "term": "Bevoegd gezag",
-      "definition": "Het bestuursorgaan dat beslist over een vergunning en dat bestuursrechtelijk handhaaft; bij gemeentelijke regels meestal het college van B en W.",
+      "definition": "Het bestuursorgaan dat over een activiteit beslist en de regels bestuursrechtelijk handhaaft, bijvoorbeeld het college van B&W of het waterschap.",
       "moduleId": "m09",
       "sourceRefs": [
         {
           "law": "Omgevingswet",
-          "article": "hoofdstuk 18",
-          "verify": true
+          "article": "art. 18.2",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=18.2&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        },
+        {
+          "law": "Omgevingswet",
+          "article": "art. 4.8",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=4.8&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         }
       ],
-      "reviewStatus": "concept"
+      "reviewStatus": "inhoudelijk_gecontroleerd"
     },
     {
       "term": "Last onder bestuursdwang",
-      "definition": "Herstelsanctie waarbij de overheid zelf de overtreding ongedaan maakt als de overtreder dat niet op tijd doet, op kosten van de overtreder.",
+      "definition": "Herstelsanctie waarbij de overtreder de overtreding binnen een termijn moet herstellen; anders doet het bestuursorgaan dat op zijn kosten.",
       "moduleId": "m09",
       "sourceRefs": [
         {
           "law": "Algemene wet bestuursrecht",
-          "article": "art. 5:21"
+          "article": "art. 5:21",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:21&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         }
       ],
-      "reviewStatus": "concept"
+      "reviewStatus": "inhoudelijk_gecontroleerd"
     },
     {
       "term": "Last onder dwangsom",
-      "definition": "Herstelsanctie waarbij de overtreder een geldsom moet betalen als hij de overtreding niet op tijd ongedaan maakt.",
+      "definition": "Herstelsanctie waarbij de overtreder een geldsom moet betalen als hij de overtreding niet op tijd herstelt.",
       "moduleId": "m09",
       "sourceRefs": [
         {
           "law": "Algemene wet bestuursrecht",
-          "article": "art. 5:31d"
+          "article": "art. 5:31d",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:31d&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         }
       ],
-      "reviewStatus": "concept"
+      "reviewStatus": "inhoudelijk_gecontroleerd"
     },
     {
       "term": "Toezichthouder",
-      "definition": "Persoon die bij of krachtens wettelijk voorschrift is belast met het houden van toezicht op de naleving van regels.",
+      "definition": "Persoon die bij of krachtens wettelijk voorschrift is belast met het houden van toezicht op de naleving; hij heeft de bevoegdheden uit titel 5.2 Awb.",
       "moduleId": "m09",
       "sourceRefs": [
         {
           "law": "Algemene wet bestuursrecht",
-          "article": "art. 5:11"
+          "article": "art. 5:11",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:11&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         }
       ],
-      "reviewStatus": "concept"
+      "reviewStatus": "inhoudelijk_gecontroleerd"
     }
   ]
 }

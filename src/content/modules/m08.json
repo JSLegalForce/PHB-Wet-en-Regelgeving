@@ -6,23 +6,25 @@
       "moduleId": "m08",
       "order": 1,
       "title": "Wat is de WED en welke bevoegdheden geeft zij?",
-      "minutes": 15,
-      "termIds": [],
+      "minutes": 25,
+      "termIds": [
+        "5.5.1"
+      ],
       "objectives": [
         {
-          "text": "Je weet wat een economisch delict is en waar dat in de WED staat.",
+          "text": "Je weet wat een economisch delict is en waar dat in de WED staat (art. 1 en 1a).",
           "level": "K"
         },
         {
-          "text": "Je kunt de belangrijkste WED-bevoegdheden noemen met hun artikel.",
-          "level": "K"
-        },
-        {
-          "text": "Je begrijpt waarom een WED-bevoegdheid alleen geldt als dat redelijkerwijs nodig is en als je akte en domein dat toelaten.",
+          "text": "Je kunt uitleggen wie de WED-bevoegdheden heeft (art. 17 WED) en waarom niet iedere boa ze heeft.",
           "level": "B"
         },
         {
-          "text": "Je kunt in een praktijksituatie bepalen of je een WED-bevoegdheid mag inzetten.",
+          "text": "Je kunt de bevoegdheden van art. 18, 19, 20, 21 en 23 WED met hun voorwaarden noemen.",
+          "level": "K"
+        },
+        {
+          "text": "Je kunt in een praktijksituatie vaststellen welke WED-bevoegdheid je mag inzetten.",
           "level": "T"
         }
       ],
@@ -34,73 +36,86 @@
         {
           "type": "text",
           "title": "Wat is de Wet op de economische delicten?",
-          "body": "De Wet op de economische delicten (WED) is een **verzamelwet**. Zij bevat zelf bijna geen verboden. Zij wijst wel artikelen uit andere wetten aan. Overtreding van zo'n aangewezen artikel is een **economisch delict**.\n\nDe WED regelt daarnaast drie dingen:\n- welke straffen en maatregelen de rechter kan opleggen;\n- wie de economische delicten opspoort;\n- welke extra bevoegdheden die opsporingsambtenaren hebben.\n\nVoor jou als boa is vooral dat laatste belangrijk. De WED geeft opsporingsambtenaren bevoegdheden die verder gaan dan het Wetboek van Strafvordering. Voor de rest blijft het Wetboek van Strafvordering gewoon gelden."
+          "body": "De Wet op de economische delicten (WED) is een **verzamelwet**. Zij wijst artikelen uit andere wetten aan. Overtreding van zo'n aangewezen artikel is een **economisch delict**.\n\nDe WED regelt daarnaast onder meer:\n- welke straffen en maatregelen de rechter kan opleggen;\n- wie de economische delicten opspoort (art. 17);\n- welke extra bevoegdheden die opsporingsambtenaren hebben (art. 18 tot en met 24a).\n\nVoor de rest gelden bij de opsporing de regels van het Wetboek van Strafvordering, tenzij de WED of de aangewezen wet iets anders regelt (art. 25 WED). Aanhouden, verhoren en de cautie gaan dus volgens het Wetboek van Strafvordering."
         },
         {
           "type": "law",
           "title": "Artikel 1 en 1a WED: welke wetten?",
           "ref": {
             "law": "Wet op de economische delicten",
-            "article": "art. 1 en art. 1a",
-            "verify": true
+            "article": "art. 1",
+            "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=1&g=2026-11-03",
+            "geldigOp": "2026-11-03"
           },
-          "body": "In artikel 1 en artikel 1a WED staat een lange lijst van wetten en artikelen. Overtreding van die artikelen is een economisch delict. Voorbeelden die voor Domein I van belang kunnen zijn:\n- de **Winkeltijdenwet** (artikel 1 WED);\n- de **Omgevingswet** (artikel 1a WED);\n- de **Wet milieubeheer** (artikel 1a WED);\n- de **Visserijwet 1963** (artikel 1a WED).\n\nLet op: niet de hele wet valt onder de WED. Alleen de artikelen die in de lijst staan. Kijk dus altijd welk artikel is overtreden.\n\nArtikel 25 WED zegt verder: voor de opsporing gelden de regels van het Wetboek van Strafvordering, tenzij de WED zelf iets anders regelt."
+          "body": "In artikel 1 en artikel 1a WED staat een lange lijst van wetten en artikelen. Overtreding van die artikelen is een economisch delict. Voorbeelden die voor jou van belang kunnen zijn:\n- de **Winkeltijdenwet**, art. 2, 3 lid 3, 6 lid 2 en 8 lid 2 (art. 1 onder 4° WED);\n- een aantal artikelen van de **Alcoholwet** (art. 1 onder 4° WED);\n- de **Omgevingswet**, de **Wet milieubeheer** en de **Visserijwet 1963**, voor de genoemde artikelen (art. 1a WED).\n\nLet op: niet de hele wet valt onder de WED. Alleen de artikelen die in de lijst staan. Kijk dus altijd welk artikel is overtreden.\n\nDe economische delicten van art. 1 onder 4° WED zijn overtredingen (art. 2 lid 4 WED)."
+        },
+        {
+          "type": "law",
+          "title": "Wie heeft de WED-bevoegdheden? (art. 17)",
+          "ref": {
+            "law": "Wet op de economische delicten",
+            "article": "art. 17",
+            "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=17&g=2026-11-03",
+            "geldigOp": "2026-11-03"
+          },
+          "body": "De bevoegdheden van art. 18 tot en met 24a WED zijn er voor **de opsporingsambtenaren** van art. 17 WED. Met de opsporing van economische delicten zijn belast (art. 17 lid 1):\n- onder 1°: de ambtenaren van art. 141 Sv, zoals de politie;\n- onder 2°: ambtenaren die de minister van Justitie en Veiligheid, in overeenstemming met de andere betrokken minister, daarvoor heeft **aangewezen**;\n- onder 3°: ambtenaren van de Belastingdienst die bevoegd zijn voor douanezaken.\n\nEen boa valt niet onder 1°. Je hebt de WED-bevoegdheden dus alleen als je voor economische delicten bent aangewezen (onder 2°). Volgens de Beleidsregels boa verleent de minister de titel van opsporingsbevoegdheid voor economische delicten op grond van art. 17 lid 1 onder 2° WED. Je bevoegdheid strekt zich uit tot de feiten in je akte of aanwijzing (art. 17 lid 3 WED jo. art. 142 lid 2 Sv).\n\nDus: niet iedere boa heeft WED-bevoegdheden. Wie ze heeft, gebruikt ze alleen voor de economische delicten waarvoor hij is aangewezen. Kijk in je akte."
         },
         {
           "type": "keypoints",
-          "title": "De WED-bevoegdheden op een rij",
+          "title": "Controlelijst per artikel (art. 18–23 WED)",
           "items": [
             {
-              "term": "Inbeslagneming (art. 18)",
-              "text": "Alle voorwerpen die vatbaar zijn voor inbeslagneming in beslag nemen en de uitlevering ervan vorderen."
+              "term": "Art. 18 – Inbeslagneming",
+              "text": "Mag: in het belang van de opsporing daarvoor vatbare voorwerpen in beslag nemen en hun uitlevering vorderen (lid 1). Voorwaarde: voor zover redelijkerwijs nodig. Let op: voor beslag ter verbeurdverklaring van soortgelijke bedrijfsvoorwerpen (art. 7 onder e) is een machtiging van de officier van justitie nodig (lid 2)."
             },
             {
-              "term": "Inzage (art. 19)",
-              "text": "Inzage vorderen van gegevens en bescheiden en daarvan kopieën maken. Kan dat niet ter plekke, dan mag je ze kort meenemen tegen een schriftelijk bewijs."
+              "term": "Art. 19 – Inzage vorderen",
+              "text": "Mag: inzage vorderen van gegevens en bescheiden (lid 1), kopieën maken (lid 2) en ze, als kopiëren ter plaatse niet kan, voor korte tijd meenemen tegen een schriftelijk bewijs (lid 3). Voorwaarde: in het belang van de opsporing en voor zover redelijkerwijs nodig."
             },
             {
-              "term": "Plaatsen betreden (art. 20)",
-              "text": "Toegang tot elke plaats. Voor een woning gelden extra regels."
+              "term": "Art. 20 – Toegang",
+              "text": "Mag: in het belang van de opsporing toegang tot elke plaats, voor zover redelijkerwijs nodig. Let op bij een woning: je legitimeert je vooraf en zegt het doel (art. 1 Awbi); zonder toestemming van de bewoner is een schriftelijke machtiging nodig (art. 2 Awbi), in het strafrecht van de (hulp)officier van justitie (art. 3 lid 1 Awbi)."
             },
             {
-              "term": "Zaken onderzoeken (art. 21)",
-              "text": "Zaken onderzoeken, opnemen en monsters nemen. Daarvoor mag je ook verpakkingen openen."
+              "term": "Art. 21 – Zaken onderzoeken",
+              "text": "Mag: zaken onderzoeken, opnemen en er monsters van nemen (lid 1) en daarvoor verpakkingen openen (lid 2). Op verzoek zo mogelijk een tweede monster (lid 3). Kan het niet ter plaatse: kort meenemen tegen schriftelijk bewijs (lid 4). Monsters zo mogelijk teruggeven (lid 5), resultaten op verzoek melden (lid 6)."
             },
             {
-              "term": "Vervoermiddelen (art. 23)",
-              "text": "Vervoermiddelen en lading onderzoeken, wettelijke papieren laten tonen en vorderen dat de bestuurder stilhoudt."
+              "term": "Art. 23 – Vervoermiddelen",
+              "text": "Mag: vervoermiddelen onderzoeken (lid 1), de lading onderzoeken als naar je redelijk oordeel zaken worden vervoerd (lid 2), wettelijk voorgeschreven bescheiden inzien (lid 3) en vorderen dat de bestuurder stilhoudt en het vervoermiddel naar een aangewezen plaats brengt (lid 4). Kosten van overbrenging zijn voor de betrokkene als een strafbaar feit wordt vastgesteld (lid 5). Ook tegenover personen die zaken vervoeren (lid 6)."
             }
           ]
         },
         {
           "type": "law",
-          "title": "Grenzen: redelijkerwijs nodig, akte en domein",
+          "title": "Grenzen: belang van de opsporing en redelijkerwijs nodig",
           "ref": {
             "law": "Wet op de economische delicten",
-            "article": "art. 17 en art. 18–23",
-            "verify": true
+            "article": "art. 25",
+            "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=25&g=2026-11-03",
+            "geldigOp": "2026-11-03"
           },
-          "body": "Bij elke WED-bevoegdheid staat dezelfde grens: je mag de bevoegdheid alleen gebruiken **voor zover dat redelijkerwijs nodig is** voor je taak. Dat betekent: niet verder gaan dan nodig, en kiezen voor het lichtste middel dat werkt (evenredigheid).\n\nArtikel 17 WED zegt wie economische delicten opspoort. Dat zijn onder meer opsporingsambtenaren die bij of krachtens het Wetboek van Strafvordering zijn aangewezen.\n\nAls boa heb je de WED-bevoegdheden alleen als je **akte en je domeinlijst** dat toelaten. Het gaat ook alleen om feiten waarvoor jij opsporingsbevoegd bent. Beleid van je werkgever geeft je geen extra bevoegdheid."
+          "body": "Bij elke WED-bevoegdheid staan twee grenzen:\n- **in het belang van de opsporing:** er moet een opsporingsonderzoek naar een economisch delict zijn;\n- **voor zover dat redelijkerwijs nodig is** voor de vervulling van je taak: niet verder gaan dan nodig.\n\nDe WED-bevoegdheden gaan niet over aanhouden of verhoren. Daarvoor gelden de regels van het Wetboek van Strafvordering (art. 25 WED). Een verdachte is niet verplicht te antwoorden en krijgt vóór het verhoor de cautie (art. 29 lid 2 Sv).\n\nBeleid van je werkgever geeft je geen extra bevoegdheid."
         },
         {
           "type": "example",
           "title": "Praktijk: winkel open op zondag",
-          "body": "Boa Fatima controleert in haar gemeente de winkeltijden. Op zondag is een winkel open, terwijl de gemeente daarvoor geen vrijstelling heeft gegeven. Het gaat om een overtreding van de Winkeltijdenwet. Dat is een economisch delict.\n\nFatima's akte en domeinlijst geven haar bevoegdheid voor deze feiten. Zij vraagt de ondernemer om de ontheffing te laten zien als hij die heeft (inzage, art. 19 WED). Hij heeft geen ontheffing. Fatima maakt een proces-verbaal op.\n\nZij neemt de kassa niet in beslag. Dat is voor dit feit niet redelijkerwijs nodig."
+          "body": "Boa Fatima is in haar akte aangewezen voor de economische delicten uit de Winkeltijdenwet (art. 17 lid 1 onder 2° WED). Op zondag is een winkel open, terwijl de gemeente daarvoor geen vrijstelling heeft gegeven. Dat is een overtreding van art. 2 Winkeltijdenwet: een economisch delict.\n\nFatima gaat de winkel binnen; zij heeft toegang tot elke plaats voor zover redelijkerwijs nodig (art. 20 WED). Zij vordert inzage in een eventuele ontheffing (art. 19 WED). De ondernemer heeft geen ontheffing. Fatima maakt een proces-verbaal op.\n\nZij neemt de kassa niet in beslag. Dat is voor dit feit niet redelijkerwijs nodig (art. 18 WED)."
         },
         {
           "type": "exercise",
-          "title": "Oefening: koppel de bevoegdheid",
+          "title": "Oefening",
           "questionId": "q-m08-l01-5"
         },
         {
           "type": "check",
           "title": "Kennischeck",
           "questionIds": [
-            "q-m08-l01-1",
-            "q-m08-l01-2",
-            "q-m08-l01-3",
             "q-m08-l01-4",
-            "q-m08-l01-6"
+            "q-m08-l01-7",
+            "q-m08-l01-3",
+            "q-m08-l01-9",
+            "q-m08-l01-10"
           ]
         },
         {
@@ -109,64 +124,149 @@
         }
       ],
       "summary": [
-        "Een economisch delict is de overtreding van een artikel dat in artikel 1 of 1a WED is aangewezen.",
-        "Voorbeelden zijn artikelen uit de Winkeltijdenwet, de Omgevingswet, de Wet milieubeheer en de Visserijwet 1963.",
-        "De WED geeft extra bevoegdheden: inbeslagneming (art. 18), inzage (art. 19), plaatsen betreden (art. 20), zaken onderzoeken en monsters nemen (art. 21) en vervoermiddelen onderzoeken en laten stilhouden (art. 23).",
-        "Je mag een WED-bevoegdheid alleen gebruiken voor zover dat redelijkerwijs nodig is.",
-        "Als boa heb je deze bevoegdheden alleen als je akte en domeinlijst dat toelaten."
+        "Een economisch delict is de overtreding van een artikel dat in art. 1 of 1a WED is aangewezen, bijvoorbeeld art. 2 Winkeltijdenwet (art. 1 onder 4° WED).",
+        "De WED-bevoegdheden zijn er voor de opsporingsambtenaren van art. 17 WED; een boa heeft ze alleen als hij voor economische delicten is aangewezen (art. 17 lid 1 onder 2° WED) en alleen voor de feiten in zijn akte.",
+        "De bevoegdheden zijn: inbeslagneming (art. 18), inzage (art. 19), toegang tot elke plaats (art. 20), zaken onderzoeken en monsters nemen (art. 21) en vervoermiddelen en lading onderzoeken en laten stilhouden (art. 23).",
+        "Steeds geldt: in het belang van de opsporing en voor zover dat redelijkerwijs nodig is.",
+        "Voor de rest gelden de regels van het Wetboek van Strafvordering (art. 25 WED); voor een woning gelden ook de regels van de Algemene wet op het binnentreden."
       ],
       "sourceRefs": [
         {
           "law": "Wet op de economische delicten",
-          "article": "art. 1 en art. 1a",
-          "verify": true
+          "article": "art. 1",
+          "note": "onder 4°",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=1&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        },
+        {
+          "law": "Wet op de economische delicten",
+          "article": "art. 1a",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=1a&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        },
+        {
+          "law": "Wet op de economische delicten",
+          "article": "art. 2 lid 4",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=2&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         },
         {
           "law": "Wet op de economische delicten",
           "article": "art. 17",
-          "verify": true
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=17&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         },
         {
           "law": "Wet op de economische delicten",
-          "article": "art. 18, 19, 20, 21 en 23"
+          "article": "art. 18",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=18&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         },
         {
           "law": "Wet op de economische delicten",
-          "article": "art. 25"
+          "article": "art. 19",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=19&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        },
+        {
+          "law": "Wet op de economische delicten",
+          "article": "art. 20",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=20&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        },
+        {
+          "law": "Wet op de economische delicten",
+          "article": "art. 21",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=21&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        },
+        {
+          "law": "Wet op de economische delicten",
+          "article": "art. 23",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=23&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        },
+        {
+          "law": "Wet op de economische delicten",
+          "article": "art. 25",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=25&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        },
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 141",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        },
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 142 lid 2",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=142&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        },
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 29 lid 2",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=29&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        },
+        {
+          "law": "Algemene wet op het binnentreden",
+          "article": "art. 1",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0006763&artikel=1&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         },
         {
           "law": "Algemene wet op het binnentreden",
           "article": "art. 2",
-          "verify": true
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0006763&artikel=2&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        },
+        {
+          "law": "Algemene wet op het binnentreden",
+          "article": "art. 3",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0006763&artikel=3&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        },
+        {
+          "law": "Beleidsregels Buitengewoon Opsporingsambtenaar",
+          "article": "par. 2",
+          "note": "titel opsporingsbevoegdheid economische delicten op grond van art. 17 lid 1 onder 2° WED",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0039766&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         }
       ],
-      "reviewStatus": "juridische_review_nodig",
-      "reviewNote": "Te controleren: (1) hoe artikel 17 WED (lid 1 en lid 3, verwijzing naar art. 141/142 Sv) precies doorwerkt naar boa's. Het gaat erom of een boa de bevoegdheden van art. 18–24a WED alleen heeft als de WED-feiten op zijn domeinlijst staan of in zijn akte zijn toegekend. (2) Welke extra regels gelden bij het binnentreden van een woning op grond van art. 20 WED (Algemene wet op het binnentreden), en of art. 20 WED daarover zelf een lid bevat. (3) Art. 22 WED is niet behandeld; volgens de bron is het vervallen. Dat graag bevestigen. (4) Controleer de indeling in het scherm \"Artikel 1 en 1a WED\": Winkeltijdenwet in art. 1 onder 4° WED; Omgevingswet, Wet milieubeheer en Visserijwet 1963 in art. 1a WED? Vooral de plaats van de Visserijwet 1963 is onzeker.",
-      "version": "1.0",
-      "lastModified": "2026-11-02"
+      "origin": "nieuw",
+      "reviewStatus": "inhoudelijk_gecontroleerd",
+      "version": "1.1",
+      "lastModified": "2026-11-03",
+      "reviewedBy": "Claude (AI-controle tegen wettekst geldig op 2026-11-03)",
+      "reviewedOn": "2026-11-03"
     },
     {
       "id": "m08-l02",
       "moduleId": "m08",
       "order": 2,
       "title": "Medewerkingsplicht en de grenzen daarvan",
-      "minutes": 15,
-      "termIds": [],
+      "minutes": 20,
+      "termIds": [
+        "5.5.2"
+      ],
       "objectives": [
         {
-          "text": "Je weet dat iedereen moet meewerken aan een vordering op grond van de WED (art. 24a WED).",
+          "text": "Je weet dat iedereen moet meewerken aan een vordering op grond van de WED-bevoegdheden (art. 24a lid 1 WED).",
           "level": "K"
         },
         {
-          "text": "Je weet dat het opzettelijk niet voldoen aan zo'n vordering strafbaar is (art. 26 WED).",
+          "text": "Je weet dat het opzettelijk niet voldoen aan zo'n vordering een economisch delict is (art. 26 WED).",
           "level": "K"
         },
         {
-          "text": "Je begrijpt de grenzen van de medewerkingsplicht: geheimhoudingsplicht en het zwijgrecht van de verdachte.",
+          "text": "Je begrijpt de grenzen van de medewerkingsplicht: redelijkheid, geheimhoudingsplicht en het zwijgrecht van de verdachte.",
           "level": "B"
         },
         {
-          "text": "Je kunt in een casus bepalen wat je doet als iemand niet meewerkt.",
+          "text": "Je kunt in een casus bepalen welke medewerking je kunt vorderen en wat je doet als iemand niet meewerkt.",
           "level": "T"
         }
       ],
@@ -181,49 +281,78 @@
           "ref": {
             "law": "Wet op de economische delicten",
             "article": "art. 24a",
-            "verify": true
+            "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=24a&g=2026-11-03",
+            "geldigOp": "2026-11-03"
           },
-          "body": "Artikel 24a WED bevat de **medewerkingsplicht**. Iedereen moet een opsporingsambtenaar alle medewerking geven die hij redelijkerwijs kan vorderen bij het gebruik van zijn WED-bevoegdheden. Dat moet binnen de redelijke termijn die de opsporingsambtenaar stelt.\n\nVoorbeelden: de papieren laten zien als jij inzage vordert, een vervoermiddel stilzetten, of een ruimte openmaken die je mag betreden.\n\nWerkt iemand niet mee? Dan mag de opsporingsambtenaar in bepaalde gevallen zelf ingrijpen, op kosten van de overtreder. Ook dat mag alleen voor zover het redelijkerwijs nodig is (art. 24a lid 3 WED)."
+          "body": "Artikel 24a WED bevat de **medewerkingsplicht**.\n\n- **Lid 1:** iedereen moet de opsporingsambtenaren binnen de redelijke termijn die zij stellen alle medewerking verlenen die zij redelijkerwijs kunnen vorderen bij het gebruik van hun bevoegdheden uit deze titel van de WED (art. 18 tot en met 23).\n- **Lid 2:** wie uit hoofde van ambt, beroep of wettelijk voorschrift tot geheimhouding verplicht is, mag weigeren voor zover dat uit die geheimhoudingsplicht voortvloeit.\n- **Lid 3:** de opsporingsambtenaren mogen op kosten van de overtreder door feitelijk handelen optreden tegen wat in strijd met de medewerkingsplicht is gedaan of nagelaten, voor zover dat redelijkerwijs nodig is.\n\nVoorbeelden van medewerking: papieren laten zien als je inzage vordert, stilhouden met een bus, de laaddeur openen zodat je de lading kunt onderzoeken."
         },
         {
           "type": "law",
           "title": "Artikel 26 WED: niet meewerken is strafbaar",
           "ref": {
             "law": "Wet op de economische delicten",
-            "article": "art. 26"
+            "article": "art. 26",
+            "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=26&g=2026-11-03",
+            "geldigOp": "2026-11-03"
           },
-          "body": "Volgens artikel 26 WED is het **opzettelijk niet voldoen aan een vordering** strafbaar. Het gaat om een vordering die een opsporingsambtenaar doet op grond van een voorschrift uit de WED. Dit feit is zelf ook een economisch delict.\n\nArtikel 17 lid 2 WED zegt dat de opsporingsambtenaren die economische delicten opsporen, ook dit feit mogen opsporen.\n\nVoorwaarden:\n- er was een duidelijke vordering;\n- de vordering had een grondslag in de WED;\n- de persoon voldeed **opzettelijk** niet aan die vordering.\n\nZeg daarom duidelijk wat je vordert en op grond waarvan. Dan weet de persoon wat er van hem wordt verwacht."
+          "body": "Volgens artikel 26 WED is het **opzettelijk niet voldoen aan een vordering**, krachtens een voorschrift van de WED gedaan door een opsporingsambtenaar, een economisch delict. Het is een misdrijf (art. 1 onder 5° jo. art. 2 lid 5 WED).\n\nAlle opsporingsambtenaren die economische delicten opsporen, zijn ook belast met de opsporing van dit feit (art. 17 lid 2 WED).\n\nLet op het verschil: niet voldoen aan een vordering van een **toezichthouder** op grond van de Awb valt onder art. 184 Sr. Niet voldoen aan een vordering op grond van de **WED** valt onder art. 26 WED.\n\nBestanddelen:\n- er was een duidelijke vordering;\n- de vordering had een grondslag in de WED;\n- de persoon voldeed **opzettelijk** niet aan die vordering.\n\nZeg daarom duidelijk wat je vordert en op grond waarvan."
         },
         {
           "type": "keypoints",
           "title": "Grenzen van de medewerkingsplicht",
           "items": [
             {
+              "term": "Alleen redelijke vorderingen (art. 24a lid 1)",
+              "text": "Je mag alleen vorderen wat redelijkerwijs nodig is bij het gebruik van je WED-bevoegdheden, en je stelt een redelijke termijn."
+            },
+            {
               "term": "Geheimhoudingsplicht (art. 24a lid 2)",
-              "text": "Wie door ambt, beroep of wettelijk voorschrift tot geheimhouding verplicht is, mag weigeren mee te werken, maar alleen voor zover die geheimhouding dat vereist."
+              "text": "Wie door ambt, beroep of wettelijk voorschrift tot geheimhouding verplicht is, mag weigeren, maar alleen voor zover die geheimhouding dat vereist."
             },
             {
               "term": "Zwijgrecht verdachte (art. 29 Sv)",
-              "text": "Een verdachte is niet verplicht om een verklaring af te leggen. De medewerkingsplicht verandert dat niet."
+              "text": "Een verdachte is niet verplicht te antwoorden. Vóór het verhoor geef je de cautie (art. 29 lid 2 Sv). De medewerkingsplicht verandert dat niet."
             },
             {
-              "term": "Alleen redelijke vorderingen",
-              "text": "Je mag alleen vorderen wat redelijkerwijs nodig is voor je taak."
+              "term": "Kenbaar maken",
+              "text": "Maak duidelijk dat je opsporingsambtenaar bent en wat je vordert. Ga je een woning binnen, dan legitimeer je je vooraf en zeg je waarom je binnenkomt (art. 1 Awbi)."
+            }
+          ]
+        },
+        {
+          "type": "keypoints",
+          "title": "Controlelijst medewerking vorderen (art. 24a WED)",
+          "items": [
+            {
+              "term": "1. Bevoegd?",
+              "text": "Ben ik in mijn akte aangewezen voor dit economisch delict (art. 17 lid 1 onder 2° WED)?"
             },
             {
-              "term": "Legitimeren",
-              "text": "Laat op verzoek je legitimatiebewijs zien. Zo weet de persoon dat hij met een opsporingsambtenaar te maken heeft."
+              "term": "2. Welke bevoegdheid?",
+              "text": "Gebruik ik een bevoegdheid uit art. 18 tot en met 23 WED, in het belang van de opsporing?"
+            },
+            {
+              "term": "3. Wat vorder ik?",
+              "text": "Is de gevorderde medewerking redelijkerwijs nodig en heb ik een redelijke termijn gesteld (art. 24a lid 1)?"
+            },
+            {
+              "term": "4. Mag hij weigeren?",
+              "text": "Heeft de persoon een geheimhoudingsplicht (art. 24a lid 2)? Is hij verdachte en gaat het om een verklaring (art. 29 Sv)?"
+            },
+            {
+              "term": "5. Weigering?",
+              "text": "Zo nodig zelf feitelijk optreden op kosten van de overtreder (art. 24a lid 3) en/of proces-verbaal wegens art. 26 WED."
             }
           ]
         },
         {
           "type": "example",
           "title": "Praktijk: de ondernemer weigert",
-          "body": "Boa Daan controleert een bedrijf op een overtreding die in de WED is aangewezen. Hij is daarvoor bevoegd volgens zijn akte en domeinlijst. Hij laat zijn legitimatiebewijs zien. Hij vordert inzage in de vergunning (art. 19 WED).\n\nDe eigenaar, mevrouw Kok, zegt: \"Daar heb jij niets mee te maken.\" Daan legt uit wat hij vordert en waarom. Hij zegt ook dat niet meewerken strafbaar is.\n\nZij weigert opnieuw. Daan maakt proces-verbaal op van het feit dat hij controleerde én van het opzettelijk niet voldoen aan zijn vordering (art. 26 WED). Mevrouw Kok hoeft geen verklaring af te leggen over de overtreding."
+          "body": "Boa Daan is in zijn akte aangewezen voor de economische delicten uit de Winkeltijdenwet (art. 17 lid 1 onder 2° WED). Hij ziet op zondag een winkel open. Hij maakt zich bekend en vordert inzage in een eventuele ontheffing (art. 19 WED).\n\nDe eigenaar, mevrouw Kok, zegt: \"Daar heb jij niets mee te maken.\" Daan legt uit wat hij vordert en waarom. Hij zegt ook dat opzettelijk niet voldoen aan zijn vordering strafbaar is.\n\nZij weigert opnieuw. Daan maakt proces-verbaal op van het feit dat hij controleerde én van het opzettelijk niet voldoen aan zijn vordering (art. 26 WED). Wil hij mevrouw Kok als verdachte horen, dan geeft hij eerst de cautie (art. 29 lid 2 Sv). Zij hoeft geen verklaring af te leggen over de overtreding."
         },
         {
           "type": "exercise",
-          "title": "Oefening: zet de stappen in volgorde",
+          "title": "Oefening",
           "questionId": "q-m08-l02-6"
         },
         {
@@ -233,8 +362,8 @@
             "q-m08-l02-1",
             "q-m08-l02-2",
             "q-m08-l02-3",
-            "q-m08-l02-4",
-            "q-m08-l02-5"
+            "q-m08-l02-7",
+            "q-m08-l02-8"
           ]
         },
         {
@@ -243,39 +372,69 @@
         }
       ],
       "summary": [
-        "Iedereen moet een opsporingsambtenaar alle medewerking geven die hij redelijkerwijs kan vorderen bij het gebruik van WED-bevoegdheden (art. 24a lid 1 WED).",
-        "Opzettelijk niet voldoen aan een vordering op grond van de WED is strafbaar (art. 26 WED).",
+        "Iedereen moet opsporingsambtenaren binnen de gestelde redelijke termijn alle medewerking geven die zij redelijkerwijs kunnen vorderen bij het gebruik van hun WED-bevoegdheden (art. 24a lid 1 WED).",
         "Wie een geheimhoudingsplicht heeft, mag weigeren voor zover die geheimhouding dat vereist (art. 24a lid 2 WED).",
-        "Een verdachte hoeft geen verklaring af te leggen (art. 29 Sv).",
-        "Maak duidelijk wat je vordert en op grond waarvan, en laat op verzoek je legitimatiebewijs zien."
+        "Bij weigering mag de opsporingsambtenaar op kosten van de overtreder feitelijk optreden, voor zover redelijkerwijs nodig (art. 24a lid 3 WED).",
+        "Opzettelijk niet voldoen aan een vordering op grond van de WED is een economisch delict en een misdrijf (art. 26, art. 1 onder 5° en art. 2 lid 5 WED); bij een vordering van een Awb-toezichthouder geldt art. 184 Sr.",
+        "Een verdachte hoeft geen verklaring af te leggen en krijgt vóór het verhoor de cautie (art. 29 lid 2 Sv)."
       ],
       "sourceRefs": [
         {
           "law": "Wet op de economische delicten",
-          "article": "art. 24a"
+          "article": "art. 24a",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=24a&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         },
         {
           "law": "Wet op de economische delicten",
-          "article": "art. 26"
+          "article": "art. 26",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=26&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         },
         {
           "law": "Wet op de economische delicten",
-          "article": "art. 17 lid 2"
+          "article": "art. 17 lid 2",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=17&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        },
+        {
+          "law": "Wet op de economische delicten",
+          "article": "art. 1",
+          "note": "onder 5°",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=1&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        },
+        {
+          "law": "Wet op de economische delicten",
+          "article": "art. 2 lid 5",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=2&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         },
         {
           "law": "Wetboek van Strafvordering",
-          "article": "art. 29"
+          "article": "art. 29 lid 2",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=29&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         },
         {
-          "law": "Besluit buitengewoon opsporingsambtenaar",
-          "note": "legitimatieplicht boa",
-          "verify": true
+          "law": "Wetboek van Strafrecht",
+          "article": "art. 184 lid 1",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=184&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        },
+        {
+          "law": "Algemene wet op het binnentreden",
+          "article": "art. 1",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0006763&artikel=1&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         }
       ],
-      "reviewStatus": "juridische_review_nodig",
-      "reviewNote": "Te controleren: (1) de exacte grondslag van de plicht van de boa om zich op verzoek te legitimeren (artikel in het Besluit buitengewoon opsporingsambtenaar of de Beleidsregels boa). Het artikelnummer is bewust niet genoemd. (2) Of de les de verhouding tussen de medewerkingsplicht en het nemo-tenetur-beginsel (zwijgrecht verdachte, art. 29 Sv) juist en volledig genoeg weergeeft. Het gaat vooral om het verschil tussen een verklaring afleggen en bescheiden ter inzage geven die al bestaan. (3) Controleer of art. 24a lid 3 WED echt regelt dat de opsporingsambtenaar bij niet-meewerken zelf mag ingrijpen op kosten van de overtreder (scherm \"Artikel 24a WED\"); dit staat mogelijk elders of niet in de WED.",
-      "version": "1.0",
-      "lastModified": "2026-11-02"
+      "origin": "nieuw",
+      "reviewStatus": "inhoudelijk_gecontroleerd",
+      "version": "1.1",
+      "lastModified": "2026-11-03",
+      "reviewedBy": "Claude (AI-controle tegen wettekst geldig op 2026-11-03)",
+      "reviewedOn": "2026-11-03"
     }
   ],
   "questions": [
@@ -283,89 +442,102 @@
       "id": "q-m08-l01-1",
       "moduleId": "m08",
       "lessonId": "m08-l01",
-      "termIds": [],
-      "topic": "Begrip economisch delict",
-      "level": "K",
+      "termIds": [
+        "5.5.1"
+      ],
+      "topic": "Economisch delict herkennen",
+      "level": "T",
       "type": "mc",
-      "prompt": "Wanneer is een overtreding een economisch delict?",
+      "case": "Je bent in je akte aangewezen voor de economische delicten uit de Winkeltijdenwet. Op zondagmiddag zie je dat een kledingwinkel open is. Er is geen vrijstelling of ontheffing.",
+      "prompt": "Is dit een economisch delict, zodat je als aangewezen opsporingsambtenaar de WED-bevoegdheden kunt gebruiken?",
       "options": [
         {
           "id": "a",
-          "text": "Als de overtreding geld oplevert voor de dader",
-          "feedback": "Onjuist. Of iemand er geld aan verdient, bepaalt niet of iets een economisch delict is. Dat hangt af van de aanwijzing in artikel 1 of 1a WED."
+          "text": "Nee, alleen feiten waarmee de dader veel geld verdient zijn economische delicten",
+          "feedback": "Onjuist. Of iemand er geld aan verdient, bepaalt niet of iets een economisch delict is. Dat hangt af van de aanwijzing in art. 1 of 1a WED."
         },
         {
           "id": "b",
-          "text": "Als het overtreden artikel in artikel 1 of 1a WED staat",
-          "feedback": "Juist. De WED wijst in artikel 1 en 1a artikelen uit andere wetten aan. Overtreding daarvan is een economisch delict."
+          "text": "Ja, art. 2 Winkeltijdenwet is aangewezen in art. 1 onder 4° WED",
+          "feedback": "Juist. De WED wijst in art. 1 onder 4° onder meer art. 2 Winkeltijdenwet aan. Overtreding daarvan is een economisch delict."
         },
         {
           "id": "c",
-          "text": "Als de overtreding door een bedrijf is gepleegd",
-          "feedback": "Onjuist. Ook een particulier kan een economisch delict plegen. Het gaat om het overtreden artikel, niet om wie het pleegt."
+          "text": "Nee, alleen milieufeiten uit de Omgevingswet zijn economische delicten",
+          "feedback": "Onjuist. Art. 1 en 1a WED noemen veel wetten, ook de Winkeltijdenwet."
         }
       ],
       "correctAnswer": "b",
-      "explanation": "De WED is een verzamelwet. Artikel 1 en 1a WED wijzen artikelen uit andere wetten aan, zoals de Winkeltijdenwet en de Omgevingswet. Overtreding van zo'n aangewezen artikel is een economisch delict.",
+      "explanation": "De WED is een verzamelwet. Art. 1 en 1a WED wijzen artikelen uit andere wetten aan. Art. 2 Winkeltijdenwet staat in art. 1 onder 4° WED. Overtreding daarvan is dus een economisch delict (een overtreding, art. 2 lid 4 WED). Je gebruikt de WED-bevoegdheden alleen als je voor dit feit bent aangewezen (art. 17 WED).",
       "sourceRefs": [
         {
           "law": "Wet op de economische delicten",
-          "article": "art. 1 en art. 1a"
+          "article": "art. 1",
+          "note": "onder 4°",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=1&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        },
+        {
+          "law": "Wet op de economische delicten",
+          "article": "art. 17",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=17&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        },
+        {
+          "law": "Winkeltijdenwet",
+          "article": "art. 2",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0007952&artikel=2&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         }
       ],
       "origin": "nieuw",
-      "reviewStatus": "concept",
-      "version": "1.0",
-      "lastModified": "2026-11-02"
+      "reviewStatus": "inhoudelijk_gecontroleerd",
+      "version": "1.1",
+      "lastModified": "2026-11-03",
+      "reviewedBy": "Claude (AI-controle tegen wettekst geldig op 2026-11-03)",
+      "reviewedOn": "2026-11-03"
     },
     {
       "id": "q-m08-l01-2",
       "moduleId": "m08",
       "lessonId": "m08-l01",
-      "termIds": [],
+      "termIds": [
+        "5.5.1"
+      ],
       "topic": "Inbeslagneming",
       "level": "K",
-      "type": "mc",
-      "prompt": "Welke grens geldt voor de bevoegdheid tot inbeslagneming in artikel 18 WED?",
-      "options": [
-        {
-          "id": "a",
-          "text": "Alleen met toestemming van de eigenaar van het voorwerp",
-          "feedback": "Onjuist. Inbeslagneming is een dwangmiddel. Toestemming van de eigenaar is niet nodig."
-        },
-        {
-          "id": "b",
-          "text": "Alleen voorwerpen met een waarde onder een vast bedrag",
-          "feedback": "Onjuist. Artikel 18 WED noemt geen grens in geld."
-        },
-        {
-          "id": "c",
-          "text": "Alleen voor zover dat redelijkerwijs nodig is voor je taak",
-          "feedback": "Juist. Artikel 18 WED geeft de bevoegdheid alleen voor zover dat redelijkerwijs nodig is voor de vervulling van je taak."
-        }
-      ],
-      "correctAnswer": "c",
-      "explanation": "Artikel 18 WED staat inbeslagneming van alle vatbare voorwerpen toe en ook het vorderen van uitlevering. Dat mag alleen voor zover dat redelijkerwijs nodig is voor de taak van de opsporingsambtenaar.",
+      "type": "truefalse",
+      "prompt": "Stelling: een opsporingsambtenaar mag op grond van art. 18 WED voorwerpen alleen in beslag nemen voor zover dat redelijkerwijs nodig is voor de vervulling van zijn taak.",
+      "correctAnswer": true,
+      "feedbackTrue": "Juist. Art. 18 lid 1 WED geeft de bevoegdheid in het belang van de opsporing, voor zover dat redelijkerwijs nodig is.",
+      "feedbackFalse": "Onjuist. Art. 18 lid 1 WED begrenst de bevoegdheid juist: alleen in het belang van de opsporing en voor zover redelijkerwijs nodig.",
+      "explanation": "Art. 18 lid 1 WED: de opsporingsambtenaren zijn in het belang van de opsporing bevoegd tot inbeslagneming van daarvoor vatbare voorwerpen, voor zover dat redelijkerwijs nodig is. Zij kunnen daartoe de uitlevering vorderen. Voor beslag ter verbeurdverklaring uit hoofde van art. 7 onder e is een machtiging van de officier van justitie nodig (lid 2).",
       "sourceRefs": [
         {
           "law": "Wet op de economische delicten",
-          "article": "art. 18 lid 1"
+          "article": "art. 18",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=18&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         }
       ],
       "origin": "nieuw",
-      "reviewStatus": "concept",
-      "version": "1.0",
-      "lastModified": "2026-11-02"
+      "reviewStatus": "inhoudelijk_gecontroleerd",
+      "version": "1.1",
+      "lastModified": "2026-11-03",
+      "reviewedBy": "Claude (AI-controle tegen wettekst geldig op 2026-11-03)",
+      "reviewedOn": "2026-11-03"
     },
     {
       "id": "q-m08-l01-3",
       "moduleId": "m08",
       "lessonId": "m08-l01",
-      "termIds": [],
+      "termIds": [
+        "5.5.1"
+      ],
       "topic": "Inzage vorderen",
       "level": "T",
       "type": "mc",
-      "case": "Je controleert een bedrijf op een overtreding die in de WED is aangewezen. Je akte en domeinlijst geven je bevoegdheid voor dit feit. Je wilt de vergunning en de bijbehorende administratie zien. Een kopie maken lukt niet ter plekke.",
+      "case": "Je onderzoekt bij een bedrijf een economisch delict. Je bent in je akte aangewezen als opsporingsambtenaar voor dit economisch delict (art. 17 lid 1 onder 2° WED). Je wilt de vergunning en de bijbehorende administratie zien. Een kopie maken lukt niet ter plekke.",
       "prompt": "Wat mag je volgens artikel 19 WED doen?",
       "options": [
         {
@@ -385,68 +557,98 @@
         }
       ],
       "correctAnswer": "a",
-      "explanation": "Artikel 19 WED: je mag inzage vorderen in gegevens en bescheiden (lid 1) en kopieën maken (lid 2). Kan dat niet ter plaatse, dan mag je ze kort meenemen tegen een schriftelijk bewijs (lid 3). Dit alles alleen voor zover het redelijkerwijs nodig is.",
+      "explanation": "Artikel 19 WED: je mag in het belang van de opsporing inzage vorderen van gegevens en bescheiden (lid 1) en kopieën maken (lid 2). Kan dat niet ter plaatse, dan mag je ze kort meenemen tegen een schriftelijk bewijs (lid 3). Dit alles alleen voor zover het redelijkerwijs nodig is.",
       "sourceRefs": [
         {
           "law": "Wet op de economische delicten",
-          "article": "art. 19"
+          "article": "art. 19",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=19&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         }
       ],
       "origin": "nieuw",
-      "reviewStatus": "concept",
-      "version": "1.0",
-      "lastModified": "2026-11-02"
+      "reviewStatus": "inhoudelijk_gecontroleerd",
+      "version": "1.1",
+      "lastModified": "2026-11-03",
+      "reviewedBy": "Claude (AI-controle tegen wettekst geldig op 2026-11-03)",
+      "reviewedOn": "2026-11-03"
     },
     {
       "id": "q-m08-l01-4",
       "moduleId": "m08",
       "lessonId": "m08-l01",
-      "termIds": [],
-      "topic": "Bevoegdheid boa",
-      "level": "B",
+      "termIds": [
+        "5.5.1"
+      ],
+      "topic": "Bevoegdheid boa (art. 17 WED)",
+      "level": "T",
       "type": "mc",
-      "prompt": "Je werkgever wil dat je bij elke controle de WED-bevoegdheden gebruikt. Jouw domeinlijst noemt het gecontroleerde feit niet. Mag je hier de WED-bevoegdheden gebruiken?",
+      "case": "Boa Mees werkt in Domein I. Zijn akte maakt hem bevoegd voor een aantal APV-feiten en andere feiten, maar hij is niet aangewezen voor economische delicten. Op zondag ziet hij een winkel open. Zijn leidinggevende zegt: \"Gebruik gewoon de WED-bevoegdheden.\"",
+      "prompt": "Mag Mees de bevoegdheden van art. 18 tot en met 23 WED gebruiken?",
       "options": [
         {
           "id": "a",
-          "text": "Je mag het, omdat je werkgever het zo heeft afgesproken",
-          "feedback": "Onjuist. Beleid of een opdracht van je werkgever is nooit een grondslag voor een bevoegdheid."
+          "text": "Ja, want de WED-bevoegdheden gelden voor elke opsporingsambtenaar",
+          "feedback": "Onjuist. De WED-bevoegdheden zijn voor de opsporingsambtenaren van art. 17 WED. Een boa moet daarvoor zijn aangewezen (art. 17 lid 1 onder 2°)."
         },
         {
           "id": "b",
-          "text": "Je mag het niet, want je bent voor dit feit niet bevoegd",
-          "feedback": "Juist. Als boa heb je alleen de bevoegdheden die wet, akte en domeinlijst je geven. Staat het feit er niet op, dan mag je de WED-bevoegdheden daarvoor niet gebruiken."
+          "text": "Nee, want hij is niet aangewezen als opsporingsambtenaar voor economische delicten",
+          "feedback": "Juist. Een boa valt niet onder art. 17 lid 1 onder 1° WED. Zonder aanwijzing onder 2° heeft hij de WED-bevoegdheden niet."
         },
         {
           "id": "c",
-          "text": "Je mag het, omdat de WED voor iedereen in Nederland geldt",
-          "feedback": "Onjuist. De WED-bevoegdheden zijn er voor opsporingsambtenaren die voor het feit bevoegd zijn. Dat de wet overal geldt, maakt jou niet bevoegd."
+          "text": "Ja, als zijn werkgever dat in het handhavingsplan opneemt",
+          "feedback": "Onjuist. Beleid of een opdracht van je werkgever is nooit een grondslag voor een bevoegdheid."
+        },
+        {
+          "id": "d",
+          "text": "Ja, maar alleen de toegang tot elke plaats (art. 20 WED)",
+          "feedback": "Onjuist. Ook art. 20 WED geldt alleen voor de opsporingsambtenaren van art. 17 WED."
         }
       ],
       "correctAnswer": "b",
-      "explanation": "Artikel 17 WED regelt wie economische delicten opspoort. Een boa is alleen bevoegd voor de feiten en bevoegdheden die in zijn akte en domeinlijst zijn opgenomen. Beleid is nooit een bevoegdheidsgrondslag.",
+      "explanation": "Met de opsporing van economische delicten zijn belast: de ambtenaren van art. 141 Sv, de door de minister van JenV aangewezen ambtenaren en bepaalde douaneambtenaren (art. 17 lid 1 WED). Een boa heeft de WED-bevoegdheden alleen als hij voor economische delicten is aangewezen (art. 17 lid 1 onder 2° WED), en alleen voor de feiten in zijn akte (art. 17 lid 3 WED jo. art. 142 lid 2 Sv). Beleid is geen bevoegdheidsgrondslag.",
       "sourceRefs": [
         {
           "law": "Wet op de economische delicten",
           "article": "art. 17",
-          "verify": true
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=17&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         },
         {
           "law": "Wetboek van Strafvordering",
-          "article": "art. 142"
+          "article": "art. 141",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        },
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 142 lid 2",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=142&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        },
+        {
+          "law": "Wet op de economische delicten",
+          "article": "art. 18",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=18&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         }
       ],
       "origin": "nieuw",
-      "reviewStatus": "juridische_review_nodig",
-      "reviewNote": "Controleren hoe artikel 17 WED en art. 142 Sv samen bepalen wanneer een boa de WED-bevoegdheden heeft (domeinlijst of akte).",
-      "version": "1.0",
-      "lastModified": "2026-11-02"
+      "reviewStatus": "inhoudelijk_gecontroleerd",
+      "version": "1.1",
+      "lastModified": "2026-11-03",
+      "reviewedBy": "Claude (AI-controle tegen wettekst geldig op 2026-11-03)",
+      "reviewedOn": "2026-11-03"
     },
     {
       "id": "q-m08-l01-5",
       "moduleId": "m08",
       "lessonId": "m08-l01",
-      "termIds": [],
+      "termIds": [
+        "5.5.1"
+      ],
       "topic": "WED-bevoegdheden",
       "level": "K",
       "type": "match",
@@ -473,38 +675,68 @@
           "right": "Vervoermiddelen onderzoeken en laten stilhouden"
         }
       ],
-      "explanation": "De WED geeft in titel III extra opsporingsbevoegdheden: inbeslagneming (art. 18), inzage (art. 19), betreden van plaatsen (art. 20), onderzoek en monsterneming (art. 21) en het onderzoeken en laten stilhouden van vervoermiddelen (art. 23). Steeds alleen voor zover dat redelijkerwijs nodig is.",
+      "explanation": "De WED geeft de opsporingsambtenaren van art. 17 extra bevoegdheden: inbeslagneming (art. 18), inzage (art. 19), toegang tot plaatsen (art. 20), onderzoek en monsterneming (art. 21) en het onderzoeken en laten stilhouden van vervoermiddelen (art. 23). Steeds in het belang van de opsporing en voor zover dat redelijkerwijs nodig is.",
       "sourceRefs": [
         {
           "law": "Wet op de economische delicten",
-          "article": "art. 18, 19, 20, 21 en 23"
+          "article": "art. 18",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=18&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        },
+        {
+          "law": "Wet op de economische delicten",
+          "article": "art. 19",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=19&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        },
+        {
+          "law": "Wet op de economische delicten",
+          "article": "art. 20",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=20&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        },
+        {
+          "law": "Wet op de economische delicten",
+          "article": "art. 21",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=21&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        },
+        {
+          "law": "Wet op de economische delicten",
+          "article": "art. 23",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=23&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         }
       ],
       "origin": "nieuw",
-      "reviewStatus": "concept",
-      "version": "1.0",
-      "lastModified": "2026-11-02"
+      "reviewStatus": "inhoudelijk_gecontroleerd",
+      "version": "1.1",
+      "lastModified": "2026-11-03",
+      "reviewedBy": "Claude (AI-controle tegen wettekst geldig op 2026-11-03)",
+      "reviewedOn": "2026-11-03"
     },
     {
       "id": "q-m08-l01-6",
       "moduleId": "m08",
       "lessonId": "m08-l01",
-      "termIds": [],
+      "termIds": [
+        "5.5.1"
+      ],
       "topic": "Vervoermiddelen",
       "level": "T",
       "type": "mc",
-      "case": "Je bent bevoegd voor een WED-feit. Je ziet een bestelbus waarvan je redelijkerwijs aanneemt dat er zaken mee worden vervoerd die met dat feit te maken hebben.",
+      "case": "Je bent in je akte aangewezen als opsporingsambtenaar voor dit economisch delict (art. 17 lid 1 onder 2° WED). Je ziet een bestelbus waarvan je redelijkerwijs aanneemt dat er zaken mee worden vervoerd die met dat feit te maken hebben.",
       "prompt": "Welke bevoegdheid geeft artikel 23 WED je?",
       "options": [
         {
           "id": "a",
           "text": "De bestuurder aanhouden en meenemen naar het bureau",
-          "feedback": "Onjuist. Artikel 23 WED gaat niet over aanhouding. Daarvoor gelden de regels van het Wetboek van Strafvordering."
+          "feedback": "Onjuist. Artikel 23 WED gaat niet over aanhouding. Daarvoor gelden de regels van het Wetboek van Strafvordering (art. 25 WED)."
         },
         {
           "id": "b",
           "text": "De bus onderzoeken en vorderen dat de bestuurder stilhoudt",
-          "feedback": "Juist. Artikel 23 WED geeft je de bevoegdheid om vervoermiddelen en lading te onderzoeken en om te vorderen dat de bestuurder stilhoudt."
+          "feedback": "Juist. Art. 23 WED geeft je de bevoegdheid om vervoermiddelen (lid 1) en hun lading (lid 2) te onderzoeken en te vorderen dat de bestuurder stilhoudt (lid 4), voor zover redelijkerwijs nodig."
         },
         {
           "id": "c",
@@ -513,116 +745,376 @@
         }
       ],
       "correctAnswer": "b",
-      "explanation": "Artikel 23 WED: opsporingsambtenaren mogen vervoermiddelen en hun lading onderzoeken, de wettelijk voorgeschreven papieren laten tonen en vorderen dat de bestuurder stilhoudt en het vervoermiddel naar een aangewezen plaats brengt. Dit alleen voor zover dat redelijkerwijs nodig is.",
+      "explanation": "Artikel 23 WED: opsporingsambtenaren mogen vervoermiddelen en hun lading onderzoeken (lid 1 en 2), de wettelijk voorgeschreven bescheiden laten tonen (lid 3) en vorderen dat de bestuurder stilhoudt en het vervoermiddel naar een aangewezen plaats brengt (lid 4). Dit alleen in het belang van de opsporing en voor zover redelijkerwijs nodig.",
       "sourceRefs": [
         {
           "law": "Wet op de economische delicten",
-          "article": "art. 23"
+          "article": "art. 23",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=23&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        },
+        {
+          "law": "Wet op de economische delicten",
+          "article": "art. 25",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=25&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         }
       ],
       "origin": "nieuw",
-      "reviewStatus": "concept",
+      "reviewStatus": "inhoudelijk_gecontroleerd",
+      "version": "1.1",
+      "lastModified": "2026-11-03",
+      "reviewedBy": "Claude (AI-controle tegen wettekst geldig op 2026-11-03)",
+      "reviewedOn": "2026-11-03"
+    },
+    {
+      "id": "q-m08-l01-7",
+      "moduleId": "m08",
+      "lessonId": "m08-l01",
+      "termIds": [
+        "5.5.1"
+      ],
+      "topic": "Toegang tot plaatsen",
+      "level": "T",
+      "type": "mc",
+      "case": "Je bent in je akte aangewezen voor de economische delicten uit de Winkeltijdenwet. Op zondag zie je door de etalage dat een winkel open is en klanten afrekenen. Boven de winkel woont de eigenaar.",
+      "prompt": "Mag je de winkel binnengaan om je waarnemingen te doen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Nee, alleen met een machtiging van de officier van justitie",
+          "feedback": "Onjuist. Een machtiging tot binnentreden is nodig voor een woning zonder toestemming van de bewoner (art. 2 Awbi). Een open winkel is geen woning."
+        },
+        {
+          "id": "b",
+          "text": "Nee, alleen als de eigenaar je eerst schriftelijk toestemming geeft",
+          "feedback": "Onjuist. Art. 20 WED geeft je toegang tot elke plaats, zonder toestemming van de eigenaar, voor zover redelijkerwijs nodig."
+        },
+        {
+          "id": "c",
+          "text": "Ja, en je mag dan ook de bovenwoning van de eigenaar binnengaan zonder zijn toestemming",
+          "feedback": "Onjuist. Voor een woning zonder toestemming van de bewoner gelden de regels van de Awbi, met een schriftelijke machtiging (art. 2 Awbi)."
+        },
+        {
+          "id": "d",
+          "text": "Ja, je hebt in het belang van de opsporing toegang tot elke plaats, voor zover dat redelijkerwijs nodig is",
+          "feedback": "Juist. Dat regelt art. 20 WED."
+        }
+      ],
+      "correctAnswer": "d",
+      "explanation": "Art. 20 WED: de opsporingsambtenaren hebben in het belang van de opsporing toegang tot elke plaats, voor zover dat redelijkerwijs voor de vervulling van hun taak nodig is. Voor het binnentreden in een woning zonder toestemming van de bewoner is daarnaast een schriftelijke machtiging nodig (art. 2 Awbi).",
+      "sourceRefs": [
+        {
+          "law": "Wet op de economische delicten",
+          "article": "art. 20",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=20&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        },
+        {
+          "law": "Algemene wet op het binnentreden",
+          "article": "art. 2",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0006763&artikel=2&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "inhoudelijk_gecontroleerd",
       "version": "1.0",
-      "lastModified": "2026-11-02"
+      "lastModified": "2026-11-03",
+      "reviewedBy": "Claude (AI-controle tegen wettekst geldig op 2026-11-03)",
+      "reviewedOn": "2026-11-03"
+    },
+    {
+      "id": "q-m08-l01-8",
+      "moduleId": "m08",
+      "lessonId": "m08-l01",
+      "termIds": [
+        "5.5.1"
+      ],
+      "topic": "Zaken onderzoeken en monsters",
+      "level": "T",
+      "type": "mc",
+      "case": "Je bent in je akte aangewezen als opsporingsambtenaar voor dit economisch delict (art. 17 lid 1 onder 2° WED). In het belang van je onderzoek neem je een monster uit een fles drank zonder etiket. De eigenaar, mevrouw Bos, vraagt om een tweede monster.",
+      "prompt": "Wat doe je volgens art. 21 WED?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Je weigert, want een tweede monster bestaat alleen in het bestuursrecht",
+          "feedback": "Onjuist. Ook art. 21 lid 3 WED kent het tweede monster."
+        },
+        {
+          "id": "b",
+          "text": "Je neemt op zijn verzoek zo mogelijk een tweede monster",
+          "feedback": "Juist. Op verzoek van de belanghebbende neem je indien mogelijk een tweede monster, tenzij een wettelijk voorschrift anders bepaalt (art. 21 lid 3 WED)."
+        },
+        {
+          "id": "c",
+          "text": "Je neemt de hele voorraad in beslag, zodat er geen tweede monster nodig is",
+          "feedback": "Onjuist. Beslag (art. 18 WED) mag alleen voor zover redelijkerwijs nodig en staat los van het tweede monster."
+        },
+        {
+          "id": "d",
+          "text": "Je laat de eigenaar zelf een monster nemen en dat aan jou geven",
+          "feedback": "Onjuist. De opsporingsambtenaar neemt de monsters (art. 21 lid 1 en 3 WED)."
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "Art. 21 WED: je mag in het belang van de opsporing zaken onderzoeken, opnemen en er monsters van nemen (lid 1) en verpakkingen openen (lid 2). Op verzoek van de belanghebbende neem je zo mogelijk een tweede monster (lid 3). Kan het onderzoek niet ter plaatse, dan mag je de zaken kort meenemen tegen een schriftelijk bewijs (lid 4).",
+      "sourceRefs": [
+        {
+          "law": "Wet op de economische delicten",
+          "article": "art. 21",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=21&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "inhoudelijk_gecontroleerd",
+      "version": "1.0",
+      "lastModified": "2026-11-03",
+      "reviewedBy": "Claude (AI-controle tegen wettekst geldig op 2026-11-03)",
+      "reviewedOn": "2026-11-03"
+    },
+    {
+      "id": "q-m08-l01-9",
+      "moduleId": "m08",
+      "lessonId": "m08-l01",
+      "termIds": [
+        "5.5.1"
+      ],
+      "topic": "Vervoermiddel stilhouden",
+      "level": "T",
+      "type": "mc",
+      "case": "Je bent in je akte aangewezen voor de economische delicten uit de Winkeltijdenwet. Op zondag zie je dat ondernemer Bas vanuit zijn bestelbus groente verkoopt aan voorbijgangers. Daarna stapt hij in en wil wegrijden. Je wilt de lading bekijken.",
+      "prompt": "Welke WED-bevoegdheid kun je hiervoor gebruiken?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Hem aanhouden op grond van art. 23 WED",
+          "feedback": "Onjuist. Art. 23 WED geeft geen aanhoudingsbevoegdheid. Aanhouden gaat volgens het Wetboek van Strafvordering (art. 25 WED)."
+        },
+        {
+          "id": "b",
+          "text": "De bus direct in beslag nemen op grond van art. 21 WED",
+          "feedback": "Onjuist. Art. 21 WED gaat over het onderzoeken van zaken. Beslag staat in art. 18 en mag alleen voor zover redelijkerwijs nodig."
+        },
+        {
+          "id": "c",
+          "text": "Vorderen dat hij stilhoudt en de lading onderzoeken, voor zover redelijkerwijs nodig",
+          "feedback": "Juist. Art. 23 lid 2 en 4 WED geven die bevoegdheid. Lid 6 bepaalt dat de bevoegdheden ook gelden tegenover personen die zaken vervoeren."
+        },
+        {
+          "id": "d",
+          "text": "Niets, want de Winkeltijdenwet geldt niet voor verkoop vanuit een bus",
+          "feedback": "Onjuist. Art. 2 lid 2 Winkeltijdenwet verbiedt op zondag ook verkoop aan particulieren buiten een winkel."
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "Verkoop aan particulieren buiten een winkel op zondag is verboden (art. 2 lid 2 Winkeltijdenwet) en een economisch delict (art. 1 onder 4° WED). Als aangewezen opsporingsambtenaar mag je de lading onderzoeken (art. 23 lid 2 WED) en vorderen dat de bestuurder stilhoudt (art. 23 lid 4 WED), voor zover redelijkerwijs nodig.",
+      "sourceRefs": [
+        {
+          "law": "Wet op de economische delicten",
+          "article": "art. 23",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=23&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        },
+        {
+          "law": "Wet op de economische delicten",
+          "article": "art. 25",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=25&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        },
+        {
+          "law": "Winkeltijdenwet",
+          "article": "art. 2 lid 2",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0007952&artikel=2&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "inhoudelijk_gecontroleerd",
+      "version": "1.0",
+      "lastModified": "2026-11-03",
+      "reviewedBy": "Claude (AI-controle tegen wettekst geldig op 2026-11-03)",
+      "reviewedOn": "2026-11-03"
+    },
+    {
+      "id": "q-m08-l01-10",
+      "moduleId": "m08",
+      "lessonId": "m08-l01",
+      "termIds": [
+        "5.5.1"
+      ],
+      "topic": "Inbeslagneming",
+      "level": "T",
+      "type": "mc",
+      "case": "Je bent in je akte aangewezen als opsporingsambtenaar voor dit economisch delict (art. 17 lid 1 onder 2° WED). In het belang van de opsporing wil je een voorwerp in beslag nemen dat als bewijs dient. De eigenaar, meneer Visser, weigert het af te geven.",
+      "prompt": "Wat mag je volgens art. 18 lid 1 WED?",
+      "options": [
+        {
+          "id": "a",
+          "text": "De uitlevering vorderen en het voorwerp in beslag nemen, voor zover redelijkerwijs nodig",
+          "feedback": "Juist. Art. 18 lid 1 WED: inbeslagneming van daarvoor vatbare voorwerpen in het belang van de opsporing, voor zover redelijkerwijs nodig; daartoe kun je de uitlevering vorderen."
+        },
+        {
+          "id": "b",
+          "text": "Alleen beslag leggen met schriftelijke toestemming van de eigenaar",
+          "feedback": "Onjuist. Inbeslagneming is een dwangmiddel. Toestemming van de eigenaar is niet nodig."
+        },
+        {
+          "id": "c",
+          "text": "Alleen een foto maken, want beslag mag alleen de politie leggen",
+          "feedback": "Onjuist. Art. 18 WED geeft de bevoegdheid aan alle opsporingsambtenaren van art. 17 WED."
+        },
+        {
+          "id": "d",
+          "text": "Beslag leggen op alle bezittingen van de eigenaar",
+          "feedback": "Onjuist. Alleen daarvoor vatbare voorwerpen en alleen voor zover redelijkerwijs nodig (art. 18 lid 1 WED)."
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "Art. 18 lid 1 WED: de opsporingsambtenaren zijn in het belang van de opsporing bevoegd tot inbeslagneming van daarvoor vatbare voorwerpen, voor zover dat redelijkerwijs nodig is, en kunnen daartoe de uitlevering vorderen. Weigert de eigenaar, dan geldt de medewerkingsplicht (art. 24a WED).",
+      "sourceRefs": [
+        {
+          "law": "Wet op de economische delicten",
+          "article": "art. 18",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=18&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        },
+        {
+          "law": "Wet op de economische delicten",
+          "article": "art. 24a",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=24a&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "inhoudelijk_gecontroleerd",
+      "version": "1.0",
+      "lastModified": "2026-11-03",
+      "reviewedBy": "Claude (AI-controle tegen wettekst geldig op 2026-11-03)",
+      "reviewedOn": "2026-11-03"
     },
     {
       "id": "q-m08-l02-1",
       "moduleId": "m08",
       "lessonId": "m08-l02",
-      "termIds": [],
+      "termIds": [
+        "5.5.2"
+      ],
       "topic": "Medewerkingsplicht",
-      "level": "K",
+      "level": "T",
       "type": "mc",
-      "prompt": "Wie moet volgens artikel 24a WED meewerken aan een vordering van een opsporingsambtenaar?",
+      "case": "Je bent in je akte aangewezen als opsporingsambtenaar voor dit economisch delict (art. 17 lid 1 onder 2° WED). Je mag in het belang van de opsporing een magazijn betreden (art. 20 WED). Je vordert van magazijnmedewerker Noah dat hij de deur opent. Noah zegt: \"Ik ben de eigenaar niet, dus ik hoef niets.\"",
+      "prompt": "Wat is juist volgens art. 24a lid 1 WED?",
       "options": [
         {
           "id": "a",
-          "text": "Alleen de verdachte van het economisch delict",
-          "feedback": "Onjuist. De medewerkingsplicht geldt niet alleen voor de verdachte, maar voor iedereen."
+          "text": "Noah hoeft niet mee te werken; alleen de verdachte moet meewerken",
+          "feedback": "Onjuist. De medewerkingsplicht geldt voor iedereen, niet alleen voor de verdachte."
         },
         {
           "id": "b",
-          "text": "Alleen bedrijven met een vergunning",
-          "feedback": "Onjuist. Artikel 24a WED maakt geen onderscheid tussen bedrijven en particulieren."
+          "text": "Alleen de eigenaar van het bedrijf moet meewerken",
+          "feedback": "Onjuist. Art. 24a WED maakt geen onderscheid tussen eigenaar en werknemer."
         },
         {
           "id": "c",
-          "text": "Iedereen, binnen de redelijke termijn die wordt gesteld",
-          "feedback": "Juist. Artikel 24a lid 1 WED zegt dat iedereen de medewerking moet geven die redelijkerwijs kan worden gevorderd, binnen de gestelde redelijke termijn."
+          "text": "Ook Noah moet binnen de gestelde redelijke termijn de medewerking verlenen die je redelijkerwijs kunt vorderen",
+          "feedback": "Juist. Art. 24a lid 1 WED: een ieder is verplicht alle medewerking te verlenen die redelijkerwijs kan worden gevorderd, binnen de gestelde redelijke termijn."
         }
       ],
       "correctAnswer": "c",
-      "explanation": "Artikel 24a lid 1 WED: iedereen is verplicht een opsporingsambtenaar binnen de redelijke termijn die hij stelt alle medewerking te geven die hij redelijkerwijs kan vorderen bij het gebruik van zijn WED-bevoegdheden.",
+      "explanation": "Artikel 24a lid 1 WED: een ieder is verplicht aan de opsporingsambtenaren binnen de door hen gestelde redelijke termijn alle medewerking te verlenen die zij redelijkerwijs kunnen vorderen bij de uitoefening van hun WED-bevoegdheden.",
       "sourceRefs": [
         {
           "law": "Wet op de economische delicten",
-          "article": "art. 24a lid 1"
+          "article": "art. 24a lid 1",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=24a&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        },
+        {
+          "law": "Wet op de economische delicten",
+          "article": "art. 20",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=20&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         }
       ],
       "origin": "nieuw",
-      "reviewStatus": "concept",
-      "version": "1.0",
-      "lastModified": "2026-11-02"
+      "reviewStatus": "inhoudelijk_gecontroleerd",
+      "version": "1.1",
+      "lastModified": "2026-11-03",
+      "reviewedBy": "Claude (AI-controle tegen wettekst geldig op 2026-11-03)",
+      "reviewedOn": "2026-11-03"
     },
     {
       "id": "q-m08-l02-2",
       "moduleId": "m08",
       "lessonId": "m08-l02",
-      "termIds": [],
+      "termIds": [
+        "5.5.2"
+      ],
       "topic": "Geheimhoudingsplicht",
-      "level": "B",
+      "level": "T",
       "type": "mc",
-      "prompt": "Een arts weigert je medische gegevens van een patiënt te laten zien. Waarom mag dat?",
+      "case": "Je bent in je akte aangewezen als opsporingsambtenaar voor dit economisch delict (art. 17 lid 1 onder 2° WED). Je vordert in een praktijk inzage in stukken (art. 19 WED). De arts geeft de bedrijfsstukken, maar weigert je de medische dossiers van zijn patiënten te laten zien.",
+      "prompt": "Mag de arts dit weigeren?",
       "options": [
         {
           "id": "a",
-          "text": "Hij heeft een beroepsgeheim en mag weigeren voor zover dat nodig is",
+          "text": "Ja, hij heeft een beroepsgeheim en mag weigeren voor zover dat nodig is",
           "feedback": "Juist. Wie door beroep tot geheimhouding verplicht is, mag weigeren voor zover die geheimhouding dat vereist (art. 24a lid 2 WED)."
         },
         {
           "id": "b",
-          "text": "Iedereen mag altijd weigeren als het om gevoelige of persoonlijke gegevens gaat",
-          "feedback": "Onjuist. Er is geen algemene uitzondering voor gevoelige gegevens. De uitzondering geldt voor wie een geheimhoudingsplicht heeft."
+          "text": "Ja, want iedereen mag weigeren als het om persoonlijke gegevens gaat",
+          "feedback": "Onjuist. Er is geen algemene uitzondering voor persoonlijke gegevens. De uitzondering geldt voor wie een geheimhoudingsplicht heeft."
         },
         {
           "id": "c",
-          "text": "Artsen vallen buiten de Wet op de economische delicten",
-          "feedback": "Onjuist. Artsen vallen niet buiten de WED. Ze mogen alleen weigeren voor zover hun geheimhoudingsplicht dat vereist."
+          "text": "Nee, want artsen vallen niet onder de uitzondering van de WED",
+          "feedback": "Onjuist. Een arts heeft een beroepsgeheim. Hij mag weigeren voor zover dat uit zijn geheimhoudingsplicht voortvloeit (art. 24a lid 2 WED)."
         }
       ],
       "correctAnswer": "a",
-      "explanation": "Artikel 24a lid 2 WED: wie uit hoofde van ambt, beroep of wettelijk voorschrift tot geheimhouding verplicht is, mag de medewerking weigeren, maar alleen voor zover dat uit die geheimhoudingsplicht voortvloeit.",
+      "explanation": "Artikel 24a lid 2 WED: wie uit hoofde van ambt, beroep of wettelijk voorschrift tot geheimhouding verplicht is, kan de medewerking weigeren, maar alleen voor zover dat uit die geheimhoudingsplicht voortvloeit.",
       "sourceRefs": [
         {
           "law": "Wet op de economische delicten",
-          "article": "art. 24a lid 2"
+          "article": "art. 24a lid 2",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=24a&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         }
       ],
       "origin": "nieuw",
-      "reviewStatus": "concept",
-      "version": "1.0",
-      "lastModified": "2026-11-02"
+      "reviewStatus": "inhoudelijk_gecontroleerd",
+      "version": "1.1",
+      "lastModified": "2026-11-03",
+      "reviewedBy": "Claude (AI-controle tegen wettekst geldig op 2026-11-03)",
+      "reviewedOn": "2026-11-03"
     },
     {
       "id": "q-m08-l02-3",
       "moduleId": "m08",
       "lessonId": "m08-l02",
-      "termIds": [],
+      "termIds": [
+        "5.5.2"
+      ],
       "topic": "Niet meewerken strafbaar",
       "level": "T",
       "type": "mc",
-      "case": "Je bent bevoegd voor een WED-feit en vordert van ondernemer Jansen inzage in zijn ontheffing (art. 19 WED). Je legt uit wat je vordert en waarom. Hij weigert bewust en loopt weg.",
+      "case": "Je bent in je akte aangewezen als opsporingsambtenaar voor dit economisch delict (art. 17 lid 1 onder 2° WED). Je vordert van ondernemer Jansen inzage in zijn ontheffing (art. 19 WED). Je legt uit wat je vordert en waarom. Hij weigert bewust en loopt weg.",
       "prompt": "Welk strafbaar feit kun je naast het gecontroleerde feit vaststellen?",
       "options": [
         {
           "id": "a",
           "text": "Geen, want inzage geven is vrijwillig",
-          "feedback": "Onjuist. Inzage geven is niet vrijwillig. Artikel 24a WED verplicht tot medewerking."
+          "feedback": "Onjuist. Inzage geven is niet vrijwillig. Artikel 24a lid 1 WED verplicht tot medewerking."
         },
         {
           "id": "b",
           "text": "Opzettelijk niet voldoen aan een vordering, art. 26 WED",
-          "feedback": "Juist. Artikel 26 WED stelt het opzettelijk niet voldoen aan een vordering op grond van de WED strafbaar."
+          "feedback": "Juist. Art. 26 WED: opzettelijk niet voldoen aan een vordering, krachtens de WED gedaan door een opsporingsambtenaar, is een economisch delict."
         },
         {
           "id": "c",
@@ -631,190 +1123,408 @@
         }
       ],
       "correctAnswer": "b",
-      "explanation": "Artikel 26 WED: het is strafbaar om opzettelijk niet te voldoen aan een vordering die een opsporingsambtenaar doet op grond van een voorschrift uit de WED. De opsporingsambtenaren die economische delicten opsporen, mogen ook dit feit opsporen (art. 17 lid 2 WED).",
+      "explanation": "Artikel 26 WED: het opzettelijk niet voldoen aan een vordering die een opsporingsambtenaar krachtens de WED doet, is een economisch delict. Het is een misdrijf (art. 1 onder 5° jo. art. 2 lid 5 WED). De opsporingsambtenaren die economische delicten opsporen, zijn ook met de opsporing van dit feit belast (art. 17 lid 2 WED).",
       "sourceRefs": [
         {
           "law": "Wet op de economische delicten",
-          "article": "art. 26"
+          "article": "art. 26",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=26&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         },
         {
           "law": "Wet op de economische delicten",
-          "article": "art. 17 lid 2"
+          "article": "art. 17 lid 2",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=17&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        },
+        {
+          "law": "Wet op de economische delicten",
+          "article": "art. 24a lid 1",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=24a&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        },
+        {
+          "law": "Wet op de economische delicten",
+          "article": "art. 2 lid 5",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=2&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         }
       ],
       "origin": "nieuw",
-      "reviewStatus": "concept",
-      "version": "1.0",
-      "lastModified": "2026-11-02"
+      "reviewStatus": "inhoudelijk_gecontroleerd",
+      "version": "1.1",
+      "lastModified": "2026-11-03",
+      "reviewedBy": "Claude (AI-controle tegen wettekst geldig op 2026-11-03)",
+      "reviewedOn": "2026-11-03"
     },
     {
       "id": "q-m08-l02-4",
       "moduleId": "m08",
       "lessonId": "m08-l02",
-      "termIds": [],
+      "termIds": [
+        "5.5.2"
+      ],
       "topic": "Zwijgrecht verdachte",
-      "level": "B",
+      "level": "T",
       "type": "mc",
-      "prompt": "Een verdachte van een WED-overtreding wil niets zeggen over wat hij heeft gedaan. Moet hij een verklaring afleggen?",
+      "case": "Je verhoort winkelier Omar als verdachte van het op zondag openhouden van zijn winkel, een economisch delict. Je hebt hem de cautie gegeven. Omar zegt: \"Daar zeg ik niets over.\"",
+      "prompt": "Wat is juist?",
       "options": [
         {
           "id": "a",
-          "text": "Hij moet verklaren, want de medewerkingsplicht geldt voor iedereen",
-          "feedback": "Onjuist. De medewerkingsplicht neemt het zwijgrecht van de verdachte niet weg."
+          "text": "Omar moet verklaren, want de medewerkingsplicht van art. 24a WED geldt voor iedereen",
+          "feedback": "Onjuist. De medewerkingsplicht neemt het zwijgrecht van de verdachte niet weg (art. 29 lid 2 Sv)."
         },
         {
           "id": "b",
-          "text": "Hij pleegt dan direct een strafbaar feit van artikel 26 WED",
-          "feedback": "Onjuist. Zwijgen over de verdenking is geen strafbaar niet-meewerken. De verdachte heeft zwijgrecht."
+          "text": "Omar pleegt door te zwijgen een strafbaar feit van art. 26 WED",
+          "feedback": "Onjuist. Zwijgen als verdachte is geen strafbaar niet-meewerken. De verdachte is niet tot antwoorden verplicht."
         },
         {
           "id": "c",
-          "text": "Hij hoeft geen verklaring af te leggen, want hij heeft zwijgrecht",
-          "feedback": "Juist. Een verdachte is niet verplicht om te antwoorden (art. 29 Sv). Dat blijft zo bij een WED-controle."
+          "text": "Omar hoeft geen verklaring af te leggen; je hebt hem vóór het verhoor de cautie gegeven",
+          "feedback": "Juist. Een verdachte is niet verplicht te antwoorden. Dat deel je hem vóór het verhoor mee (art. 29 lid 2 Sv). Dat blijft zo bij een WED-onderzoek (art. 25 WED)."
         }
       ],
       "correctAnswer": "c",
-      "explanation": "Een verdachte hoeft geen verklaring af te leggen (art. 29 Sv). De medewerkingsplicht van artikel 24a WED verandert dat niet. Je vertelt de verdachte vóór het verhoor dat hij niet verplicht is te antwoorden.",
+      "explanation": "Een verdachte hoeft geen verklaring af te leggen (art. 29 lid 2 Sv). Voor het verhoor gelden de regels van het Wetboek van Strafvordering (art. 25 WED). De medewerkingsplicht van art. 24a WED verandert dat niet.",
       "sourceRefs": [
         {
           "law": "Wetboek van Strafvordering",
-          "article": "art. 29"
+          "article": "art. 29 lid 2",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=29&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         },
         {
           "law": "Wet op de economische delicten",
-          "article": "art. 24a"
+          "article": "art. 24a",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=24a&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        },
+        {
+          "law": "Wet op de economische delicten",
+          "article": "art. 25",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=25&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         }
       ],
       "origin": "nieuw",
-      "reviewStatus": "concept",
-      "version": "1.0",
-      "lastModified": "2026-11-02"
+      "reviewStatus": "inhoudelijk_gecontroleerd",
+      "version": "1.1",
+      "lastModified": "2026-11-03",
+      "reviewedBy": "Claude (AI-controle tegen wettekst geldig op 2026-11-03)",
+      "reviewedOn": "2026-11-03"
     },
     {
       "id": "q-m08-l02-5",
       "moduleId": "m08",
       "lessonId": "m08-l02",
-      "termIds": [],
+      "termIds": [
+        "5.5.2"
+      ],
       "topic": "Medewerkingsplicht",
       "level": "B",
       "type": "truefalse",
       "prompt": "Stelling: je mag op grond van de WED alles vorderen wat je wilt, want iedereen moet meewerken.",
       "correctAnswer": false,
-      "feedbackTrue": "Niet juist. Je mag alleen vorderen wat redelijkerwijs nodig is voor je taak. Dat staat bij de bevoegdheden en in artikel 24a lid 1 WED.",
+      "feedbackTrue": "Niet juist. Je mag alleen vorderen wat redelijkerwijs nodig is bij het gebruik van je WED-bevoegdheden (art. 24a lid 1 WED).",
       "feedbackFalse": "Goed. De medewerkingsplicht geldt alleen voor medewerking die je redelijkerwijs kunt vorderen (art. 24a lid 1 WED). Ook je bevoegdheden zelf gelden alleen voor zover dat redelijkerwijs nodig is.",
-      "explanation": "Artikel 24a lid 1 WED verplicht tot alle medewerking die redelijkerwijs kan worden gevorderd. De bevoegdheden in art. 18–23 WED gelden alleen voor zover dat redelijkerwijs nodig is voor je taak. Daarnaast moet het feit in je akte en domeinlijst staan.",
+      "explanation": "Artikel 24a lid 1 WED verplicht tot alle medewerking die redelijkerwijs kan worden gevorderd. De bevoegdheden in art. 18–23 WED gelden alleen voor zover dat redelijkerwijs nodig is. Daarnaast moet je voor het economisch delict zijn aangewezen (art. 17 WED).",
       "sourceRefs": [
         {
           "law": "Wet op de economische delicten",
-          "article": "art. 24a lid 1"
+          "article": "art. 24a lid 1",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=24a&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         },
         {
           "law": "Wet op de economische delicten",
-          "article": "art. 18–23"
+          "article": "art. 17",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=17&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         }
       ],
       "origin": "nieuw",
-      "reviewStatus": "concept",
-      "version": "1.0",
-      "lastModified": "2026-11-02"
+      "reviewStatus": "inhoudelijk_gecontroleerd",
+      "version": "1.1",
+      "lastModified": "2026-11-03",
+      "reviewedBy": "Claude (AI-controle tegen wettekst geldig op 2026-11-03)",
+      "reviewedOn": "2026-11-03"
     },
     {
       "id": "q-m08-l02-6",
       "moduleId": "m08",
       "lessonId": "m08-l02",
-      "termIds": [],
+      "termIds": [
+        "5.5.2"
+      ],
       "topic": "Optreden bij weigering",
       "level": "T",
       "type": "order",
       "prompt": "Je vordert inzage op grond van de WED. Zet je stappen in een logische volgorde.",
       "items": [
-        "Controleren dat het feit in je akte en domeinlijst staat",
-        "Je als boa kenbaar maken en op verzoek je legitimatiebewijs tonen",
+        "Controleren dat je in je akte bent aangewezen voor dit economisch delict (art. 17 WED)",
+        "Je kenbaar maken als opsporingsambtenaar en op verzoek je legitimatiebewijs tonen",
         "Duidelijk zeggen wat je vordert en op grond van welk artikel",
         "Uitleggen dat opzettelijk niet voldoen aan de vordering strafbaar is",
         "Bij opzettelijke weigering proces-verbaal opmaken wegens art. 26 WED"
       ],
-      "explanation": "Eerst stel je vast dat je bevoegd bent (akte en domeinlijst). Dan maak je je kenbaar en vorder je duidelijk, met de grondslag (bijvoorbeeld art. 19 WED). Weigert iemand opzettelijk, dan is dat strafbaar op grond van art. 26 WED.",
+      "explanation": "Eerst stel je vast dat je bevoegd bent (aanwijzing art. 17 WED en je akte). Dan maak je je kenbaar en vorder je duidelijk, met de grondslag (bijvoorbeeld art. 19 WED). Iedereen moet redelijkerwijs meewerken (art. 24a lid 1 WED). Weigert iemand opzettelijk, dan is dat strafbaar op grond van art. 26 WED.",
       "sourceRefs": [
         {
           "law": "Wet op de economische delicten",
-          "article": "art. 19"
+          "article": "art. 17",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=17&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         },
         {
           "law": "Wet op de economische delicten",
-          "article": "art. 24a"
+          "article": "art. 19",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=19&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         },
         {
           "law": "Wet op de economische delicten",
-          "article": "art. 26"
+          "article": "art. 24a",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=24a&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        },
+        {
+          "law": "Wet op de economische delicten",
+          "article": "art. 26",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=26&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         }
       ],
       "origin": "nieuw",
-      "reviewStatus": "concept",
+      "reviewStatus": "juridische_review_nodig",
+      "reviewNote": "Stap 2 (\"op verzoek je legitimatiebewijs tonen\"): de algemene legitimatieplicht van de boa (buiten het binnentreden van een woning, art. 1 Awbi) staat in het Besluit buitengewoon opsporingsambtenaar of de bijbehorende regeling; dat artikel kon niet tegen de officiele tekst worden gecontroleerd en is daarom niet als bron opgenomen. Graag artikel bevestigen en als sourceRef toevoegen.",
+      "version": "1.1",
+      "lastModified": "2026-11-03"
+    },
+    {
+      "id": "q-m08-l02-7",
+      "moduleId": "m08",
+      "lessonId": "m08-l02",
+      "termIds": [
+        "5.5.2"
+      ],
+      "topic": "Feitelijk optreden bij weigering",
+      "level": "T",
+      "type": "mc",
+      "case": "Je bent in je akte aangewezen als opsporingsambtenaar voor dit economisch delict (art. 17 lid 1 onder 2° WED). Je vordert dat chauffeur Lina de laaddeur van haar bus opent, zodat je de lading kunt onderzoeken (art. 23 lid 2 WED). Zij weigert, ook nadat je hebt uitgelegd wat je vordert en waarom.",
+      "prompt": "Wat geeft art. 24a lid 3 WED je in deze situatie?",
+      "options": [
+        {
+          "id": "a",
+          "text": "De bevoegdheid om Lina ter plekke een bestuurlijke boete op te leggen",
+          "feedback": "Onjuist. Een bestuurlijke boete legt een bestuursorgaan op, niet een opsporingsambtenaar op grond van de WED."
+        },
+        {
+          "id": "b",
+          "text": "De plicht om de controle te stoppen, omdat medewerking vrijwillig is",
+          "feedback": "Onjuist. Medewerking is verplicht (art. 24a lid 1 WED)."
+        },
+        {
+          "id": "c",
+          "text": "Zelf feitelijk optreden op kosten van de overtreder, voor zover redelijkerwijs nodig",
+          "feedback": "Juist. Dat regelt art. 24a lid 3 WED. Daarnaast kan het opzettelijk niet voldoen aan je vordering strafbaar zijn (art. 26 WED)."
+        },
+        {
+          "id": "d",
+          "text": "De bevoegdheid om haar woning te doorzoeken naar andere bewijsstukken",
+          "feedback": "Onjuist. Art. 24a lid 3 WED geeft geen bevoegdheid om een woning te doorzoeken."
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "Art. 24a lid 3 WED: de opsporingsambtenaren zijn bevoegd op kosten van de overtreder door feitelijk handelen op te treden tegen wat in strijd met de medewerkingsplicht is gedaan, gehouden of nagelaten, voor zover dat redelijkerwijs nodig is. Bijvoorbeeld: zelf de laaddeur openen als de bestuurder weigert. Opzettelijk niet voldoen aan de vordering is daarnaast een economisch delict (art. 26 WED).",
+      "sourceRefs": [
+        {
+          "law": "Wet op de economische delicten",
+          "article": "art. 24a lid 3",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=24a&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        },
+        {
+          "law": "Wet op de economische delicten",
+          "article": "art. 23",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=23&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        },
+        {
+          "law": "Wet op de economische delicten",
+          "article": "art. 26",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=26&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "inhoudelijk_gecontroleerd",
       "version": "1.0",
-      "lastModified": "2026-11-02"
+      "lastModified": "2026-11-03",
+      "reviewedBy": "Claude (AI-controle tegen wettekst geldig op 2026-11-03)",
+      "reviewedOn": "2026-11-03"
+    },
+    {
+      "id": "q-m08-l02-8",
+      "moduleId": "m08",
+      "lessonId": "m08-l02",
+      "termIds": [
+        "5.5.2"
+      ],
+      "topic": "Redelijke vordering",
+      "level": "T",
+      "type": "mc",
+      "case": "Je bent in je akte aangewezen als opsporingsambtenaar voor dit economisch delict (art. 17 lid 1 onder 2° WED). Je wilt weten of de winkel van ondernemer Ivo vandaag, een zondag, een ontheffing heeft. Je vordert inzage in zijn hele administratie van de afgelopen drie jaar.",
+      "prompt": "Moet Ivo aan deze vordering volledig meewerken?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ja, iedereen moet alles laten zien wat een opsporingsambtenaar vraagt",
+          "feedback": "Onjuist. De medewerkingsplicht geldt alleen voor wat je redelijkerwijs kunt vorderen (art. 24a lid 1 WED)."
+        },
+        {
+          "id": "b",
+          "text": "Nee, alleen wat je redelijkerwijs kunt vorderen, zoals de ontheffing van vandaag",
+          "feedback": "Juist. Art. 24a lid 1 WED en art. 19 lid 1 WED beperken je tot wat redelijkerwijs nodig is. Drie jaar administratie is voor deze vraag niet nodig."
+        },
+        {
+          "id": "c",
+          "text": "Nee, ondernemers hoeven nooit hun administratie te laten zien",
+          "feedback": "Onjuist. Als het redelijkerwijs nodig is, moet een ondernemer inzage geven (art. 19 en 24a WED)."
+        },
+        {
+          "id": "d",
+          "text": "Ja, maar alleen nadat je hem eerst de cautie hebt gegeven",
+          "feedback": "Onjuist. De cautie hoort bij het verhoor van een verdachte (art. 29 lid 2 Sv). Zij bepaalt niet wat je mag vorderen."
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "Je mag inzage vorderen voor zover dat redelijkerwijs nodig is (art. 19 lid 1 WED). De medewerkingsplicht geldt voor de medewerking die je redelijkerwijs kunt vorderen, binnen een redelijke termijn (art. 24a lid 1 WED). Vorder dus alleen wat je voor je onderzoek nodig hebt.",
+      "sourceRefs": [
+        {
+          "law": "Wet op de economische delicten",
+          "article": "art. 24a lid 1",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=24a&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        },
+        {
+          "law": "Wet op de economische delicten",
+          "article": "art. 19",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=19&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "inhoudelijk_gecontroleerd",
+      "version": "1.0",
+      "lastModified": "2026-11-03",
+      "reviewedBy": "Claude (AI-controle tegen wettekst geldig op 2026-11-03)",
+      "reviewedOn": "2026-11-03"
     }
   ],
   "glossary": [
     {
       "term": "Economisch delict",
-      "definition": "Overtreding van een voorschrift dat in artikel 1 of 1a van de Wet op de economische delicten is aangewezen.",
+      "definition": "Overtreding van een voorschrift dat in artikel 1 of 1a van de Wet op de economische delicten is aangewezen, of een delict uit art. 26, 33 of 34 WED.",
       "moduleId": "m08",
       "sourceRefs": [
         {
           "law": "Wet op de economische delicten",
-          "article": "art. 1 en art. 1a"
+          "article": "art. 1",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=1&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        },
+        {
+          "law": "Wet op de economische delicten",
+          "article": "art. 1a",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=1a&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         }
       ],
-      "reviewStatus": "concept"
+      "reviewStatus": "inhoudelijk_gecontroleerd"
     },
     {
       "term": "Wet op de economische delicten (WED)",
-      "definition": "Verzamelwet die overtredingen uit andere wetten als economisch delict aanwijst en extra opsporingsbevoegdheden geeft.",
+      "definition": "Verzamelwet die overtredingen uit andere wetten als economisch delict aanwijst en de opsporingsambtenaren van art. 17 extra bevoegdheden geeft (art. 18 t/m 24a).",
       "moduleId": "m08",
       "sourceRefs": [
         {
           "law": "Wet op de economische delicten",
-          "article": "art. 1, 1a en titel III"
+          "article": "art. 1",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=1&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        },
+        {
+          "law": "Wet op de economische delicten",
+          "article": "art. 17",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=17&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         }
       ],
-      "reviewStatus": "concept"
+      "reviewStatus": "inhoudelijk_gecontroleerd"
+    },
+    {
+      "term": "Opsporingsambtenaar (WED)",
+      "definition": "Ambtenaar die met de opsporing van economische delicten is belast: ambtenaren van art. 141 Sv, door de minister aangewezen ambtenaren (o.a. boa's met een titel voor economische delicten) en douaneambtenaren.",
+      "moduleId": "m08",
+      "sourceRefs": [
+        {
+          "law": "Wet op de economische delicten",
+          "article": "art. 17",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=17&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        },
+        {
+          "law": "Beleidsregels Buitengewoon Opsporingsambtenaar",
+          "article": "par. 2",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0039766&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        }
+      ],
+      "reviewStatus": "inhoudelijk_gecontroleerd"
     },
     {
       "term": "Inbeslagneming (WED)",
-      "definition": "De bevoegdheid om alle vatbare voorwerpen in beslag te nemen en de uitlevering ervan te vorderen, voor zover dat redelijkerwijs nodig is.",
+      "definition": "De bevoegdheid om in het belang van de opsporing daarvoor vatbare voorwerpen in beslag te nemen en de uitlevering ervan te vorderen, voor zover dat redelijkerwijs nodig is.",
       "moduleId": "m08",
       "sourceRefs": [
         {
           "law": "Wet op de economische delicten",
-          "article": "art. 18"
+          "article": "art. 18",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=18&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         }
       ],
-      "reviewStatus": "concept"
+      "reviewStatus": "inhoudelijk_gecontroleerd"
     },
     {
       "term": "Inzage vorderen",
-      "definition": "De bevoegdheid om gegevens en bescheiden te laten zien en daarvan kopieën te maken, voor zover dat redelijkerwijs nodig is.",
+      "definition": "De bevoegdheid om in het belang van de opsporing gegevens en bescheiden te laten zien en daarvan kopieën te maken, voor zover dat redelijkerwijs nodig is.",
       "moduleId": "m08",
       "sourceRefs": [
         {
           "law": "Wet op de economische delicten",
-          "article": "art. 19"
+          "article": "art. 19",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=19&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         }
       ],
-      "reviewStatus": "concept"
+      "reviewStatus": "inhoudelijk_gecontroleerd"
     },
     {
       "term": "Medewerkingsplicht",
-      "definition": "De plicht van iedereen om een opsporingsambtenaar de medewerking te geven die hij redelijkerwijs kan vorderen bij het gebruik van WED-bevoegdheden.",
+      "definition": "De plicht van iedereen om opsporingsambtenaren binnen een redelijke termijn de medewerking te geven die zij redelijkerwijs kunnen vorderen bij het gebruik van WED-bevoegdheden.",
       "moduleId": "m08",
       "sourceRefs": [
         {
           "law": "Wet op de economische delicten",
-          "article": "art. 24a"
+          "article": "art. 24a",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=24a&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         }
       ],
-      "reviewStatus": "concept"
+      "reviewStatus": "inhoudelijk_gecontroleerd"
     },
     {
       "term": "Redelijkerwijs nodig",
@@ -823,22 +1533,32 @@
       "sourceRefs": [
         {
           "law": "Wet op de economische delicten",
-          "article": "art. 18–21, 23 en 24a"
+          "article": "art. 18",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=18&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        },
+        {
+          "law": "Wet op de economische delicten",
+          "article": "art. 24a",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=24a&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         }
       ],
-      "reviewStatus": "concept"
+      "reviewStatus": "inhoudelijk_gecontroleerd"
     },
     {
       "term": "Vordering",
-      "definition": "Een bevel van een opsporingsambtenaar op grond van een wettelijk voorschrift. Opzettelijk niet voldoen aan een WED-vordering is strafbaar.",
+      "definition": "Een bevel van een opsporingsambtenaar op grond van een wettelijk voorschrift. Opzettelijk niet voldoen aan een vordering krachtens de WED is een economisch delict (art. 26 WED).",
       "moduleId": "m08",
       "sourceRefs": [
         {
           "law": "Wet op de economische delicten",
-          "article": "art. 26"
+          "article": "art. 26",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=26&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         }
       ],
-      "reviewStatus": "concept"
+      "reviewStatus": "inhoudelijk_gecontroleerd"
     }
   ]
 }
