@@ -63,7 +63,7 @@
         {
           "type": "text",
           "title": "Leeftijd en identiteit vaststellen",
-          "body": "Je kunt niet aan iemand zien hoe oud hij is. Vermoed je dat een jongere artikel 45 overtreedt? Dan is hij verdachte. Als opsporingsambtenaar mag je een verdachte **staande houden** (art. 52 Sv) en zijn identiteit vaststellen. Je vraagt dan naar naam, voornamen, geboorteplaats, geboortedatum en adres. De identiteitsvaststelling omvat ook een **onderzoek van een identiteitsbewijs** (art. 27a lid 1 Sv).\n\nDe algemene toonplicht van artikel 2 WID geldt vanaf **14 jaar** tegenover een politieambtenaar, een ambtenaar van een bijzondere opsporingsdienst en een **toezichthouder**. Ben je door de burgemeester aangewezen als toezichthouder Alcoholwet, dan kun je als toezichthouder ook op die grond inzage vorderen.\n\nWie een identiteitsbewijs niet ter inzage geeft terwijl hij dat op grond van de WID of het Wetboek van Strafvordering moet, pleegt een overtreding (art. 447e Sr).\n\nEen kind onder de 12 jaar kan niet strafrechtelijk worden vervolgd (art. 486 Sv)."
+          "body": "Je kunt niet aan iemand zien hoe oud hij is. Vermoed je dat een jongere artikel 45 overtreedt? Dan is hij verdachte. Als opsporingsambtenaar mag je een verdachte **staande houden** (art. 52 Sv) en zijn identiteit vaststellen. Je vraagt dan naar naam, voornamen, geboorteplaats, geboortedatum en adres. De identiteitsvaststelling omvat ook een **onderzoek van een identiteitsbewijs** (art. 27a lid 1 Sv).\n\nDe algemene toonplicht van artikel 2 WID geldt vanaf **14 jaar** tegenover een ambtenaar als bedoeld in artikel 8 Politiewet 2012 en tegenover een **toezichthouder**. Volgens art. 8 lid 2 Politiewet 2012 mag ook een **boa** inzage vorderen, voor zover dat redelijkerwijs nodig is voor de uitoefening van zijn taak. Ben je door de burgemeester aangewezen als toezichthouder Alcoholwet, dan kun je als toezichthouder ook op die grond inzage vorderen.\n\nWie een identiteitsbewijs niet ter inzage geeft terwijl hij dat op grond van de WID of het Wetboek van Strafvordering moet, pleegt een overtreding (art. 447e Sr).\n\nEen kind onder de 12 jaar kan niet strafrechtelijk worden vervolgd (art. 486 Sv)."
         },
         {
           "type": "keypoints",
@@ -186,9 +186,15 @@
           "article": "art. 447e",
           "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=447e&g=2026-11-03",
           "geldigOp": "2026-11-03"
+        },
+        {
+          "law": "Politiewet 2012",
+          "article": "art. 8 lid 2",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=8&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         }
       ],
-      "version": "1.1",
+      "version": "1.2",
       "lastModified": "2026-11-03",
       "reviewStatus": "inhoudelijk_gecontroleerd",
       "reviewedBy": "Claude (AI-controle tegen wettekst geldig op 2026-11-03)",
@@ -1246,7 +1252,7 @@
     },
     {
       "term": "Toonplicht",
-      "definition": "De plicht om een identiteitsbewijs ter inzage te geven. Op grond van artikel 2 WID geldt die vanaf 14 jaar tegenover politie, bijzondere opsporingsdienst en toezichthouder. Bij een verdachte omvat de identiteitsvaststelling een onderzoek van een identiteitsbewijs (art. 27a Sv). Niet meewerken is strafbaar (art. 447e Sr).",
+      "definition": "De plicht om een identiteitsbewijs ter inzage te geven. Op grond van artikel 2 WID geldt die vanaf 14 jaar tegenover een ambtenaar van politie, een boa (art. 8 lid 2 Politiewet 2012, voor zover redelijkerwijs nodig voor zijn taak) en een toezichthouder. Bij een verdachte omvat de identiteitsvaststelling ook een onderzoek van een identiteitsbewijs (art. 27a Sv). Niet meewerken is strafbaar (art. 447e Sr).",
       "moduleId": "m06",
       "sourceRefs": [
         {
@@ -1265,6 +1271,12 @@
           "law": "Wetboek van Strafrecht",
           "article": "art. 447e",
           "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=447e&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        },
+        {
+          "law": "Politiewet 2012",
+          "article": "art. 8 lid 2",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=8&g=2026-11-03",
           "geldigOp": "2026-11-03"
         }
       ],

@@ -429,7 +429,7 @@
     {
       "id": "m02-l03",
       "moduleId": "m02",
-      "order": 3,
+      "order": 4,
       "title": "Aanhouden: op en buiten heterdaad, betreden en doorzoeken",
       "minutes": 28,
       "termIds": [
@@ -696,7 +696,7 @@
     {
       "id": "m02-l04",
       "moduleId": "m02",
-      "order": 4,
+      "order": 8,
       "title": "Rechten van de verdachte: cautie, rechtsbijstand en tolk",
       "minutes": 24,
       "termIds": [
@@ -897,7 +897,7 @@
     {
       "id": "m02-l05",
       "moduleId": "m02",
-      "order": 5,
+      "order": 9,
       "title": "Fouillering en onderzoek aan of in het lichaam",
       "minutes": 20,
       "termIds": [
@@ -1088,7 +1088,7 @@
     {
       "id": "m02-l10",
       "moduleId": "m02",
-      "order": 12,
+      "order": 6,
       "title": "Veilige Publieke Taak (1): bevel of vordering negeren en opschudding",
       "minutes": 25,
       "termIds": [
@@ -1294,7 +1294,7 @@
     {
       "id": "m02-l11",
       "moduleId": "m02",
-      "order": 13,
+      "order": 7,
       "title": "Veilige Publieke Taak (2): belediging en bedreiging van een ambtenaar",
       "minutes": 28,
       "termIds": [
@@ -1519,7 +1519,7 @@
     {
       "id": "m02-l12",
       "moduleId": "m02",
-      "order": 11,
+      "order": 5,
       "title": "Herhaalde en voortgezette toepassing van bevoegdheden",
       "minutes": 15,
       "termIds": [
@@ -1662,7 +1662,7 @@
     {
       "id": "m02-l13",
       "moduleId": "m02",
-      "order": 10,
+      "order": 3,
       "title": "Identiteitsbewijzen, vals identiteitsbewijs en identificatiefouillering",
       "minutes": 22,
       "termIds": [

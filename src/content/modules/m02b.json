@@ -4,7 +4,7 @@
     {
       "id": "m02-l06",
       "moduleId": "m02",
-      "order": 6,
+      "order": 10,
       "title": "Inbeslagneming: begrip en bevoegdheden",
       "minutes": 20,
       "termIds": [
@@ -222,7 +222,7 @@
     {
       "id": "m02-l14",
       "moduleId": "m02",
-      "order": 14,
+      "order": 11,
       "title": "Bevriezen, vervoermiddel doorzoeken en afstand doen",
       "minutes": 20,
       "termIds": [
@@ -412,7 +412,7 @@
     {
       "id": "m02-l07",
       "moduleId": "m02",
-      "order": 7,
+      "order": 12,
       "title": "Binnentreden in een woning zonder toestemming",
       "minutes": 20,
       "termIds": [
@@ -638,7 +638,7 @@
     {
       "id": "m02-l08",
       "moduleId": "m02",
-      "order": 8,
+      "order": 13,
       "title": "Jeugdige personen: leeftijd, identificatieplicht en twaalfminners",
       "minutes": 20,
       "termIds": [
@@ -841,7 +841,7 @@
     {
       "id": "m02-l15",
       "moduleId": "m02",
-      "order": 15,
+      "order": 14,
       "title": "Rechtsbescherming van de minderjarige verdachte",
       "minutes": 20,
       "termIds": [
@@ -1072,7 +1072,7 @@
     {
       "id": "m02-l16",
       "moduleId": "m02",
-      "order": 16,
+      "order": 15,
       "title": "De Halt-afdoening",
       "minutes": 20,
       "termIds": [
@@ -1282,7 +1282,7 @@
     {
       "id": "m02-l09",
       "moduleId": "m02",
-      "order": 9,
+      "order": 16,
       "title": "De inhoud van het proces-verbaal",
       "minutes": 25,
       "termIds": [
