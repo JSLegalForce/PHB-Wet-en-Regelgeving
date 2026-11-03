@@ -1429,12 +1429,12 @@
         },
         {
           "id": "b",
-          "text": "Nee, die hoofdstukken gelden niet voor de opsporing van strafbare feiten; daar geldt het Wetboek van Strafvordering",
+          "text": "Nee, daarvoor geldt het Wetboek van Strafvordering (art. 1:6 Awb)",
           "feedback": "Juist. Art. 1:6 onder a Awb sluit de hoofdstukken 2 tot en met 8 en 10 uit voor de opsporing en vervolging van strafbare feiten."
         },
         {
           "id": "c",
-          "text": "Alleen als de verdachte daar zelf om vraagt",
+          "text": "Alleen als de verdachte of zijn advocaat daar zelf om vraagt",
           "feedback": "Onjuist. Of de Awb geldt, hangt niet af van een verzoek van de verdachte, maar van de wet (art. 1:6 Awb)."
         }
       ],
@@ -3097,7 +3097,7 @@
         },
         {
           "id": "b",
-          "text": "Aangifte van diefstal doen bij de politie",
+          "text": "Aangifte van diefstal van de aanhanger doen bij de politie",
           "feedback": "Onjuist. Het gaat om bestuursdwang, niet om diefstal."
         },
         {
@@ -3107,7 +3107,7 @@
         },
         {
           "id": "d",
-          "text": "Proces-verbaal laten opmaken van het meevoeren en opslaan en een afschrift geven aan wie de aanhanger onder zijn beheer had",
+          "text": "Proces-verbaal opmaken en een afschrift geven aan wie de aanhanger beheerde",
           "feedback": "Juist. Dat staat in art. 5:29 lid 2 Awb."
         }
       ],
