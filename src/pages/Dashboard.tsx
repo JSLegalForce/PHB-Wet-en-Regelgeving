@@ -92,7 +92,7 @@ export function Dashboard() {
             </h2>
           </div>
           <p className="text-sm text-steel-600">
-            Inhoudsstatus: {allLessons.length} lessen · {allQuestions.length} vragen · <strong className="text-navy-900">{approvedQuestions.length} juridisch goedgekeurd</strong>
+            Inhoudsstatus: {allLessons.length} lessen · {allQuestions.length} vragen · <strong className="text-navy-900">{approvedQuestions.length} juridisch goedgekeurd</strong> · {allQuestions.filter((q) => q.reviewStatus === 'inhoudelijk_gecontroleerd').length} gecontroleerd tegen wettekst
           </p>
         </div>
         <ul className="grid gap-3 sm:grid-cols-2 lg:grid-cols-3">

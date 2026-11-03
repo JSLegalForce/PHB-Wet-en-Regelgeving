@@ -2,14 +2,16 @@ import { useMemo, useState } from 'react'
 import { Link } from 'react-router-dom'
 import { allLessons, allQuestions, curriculum, getModule } from '../content'
 import type { ReviewStatus } from '../content/schema'
-import { buildOfficialExam } from '../lib/exam'
+import { buildConceptExam, buildOfficialExam, examCoverage } from '../lib/exam'
 import { PageHeader, StatusBadge } from '../components/ui'
 
-const statuses: ReviewStatus[] = ['goedgekeurd', 'juridische_review_nodig', 'concept', 'wacht_op_bron']
+const statuses: ReviewStatus[] = ['goedgekeurd', 'inhoudelijk_gecontroleerd', 'juridische_review_nodig', 'concept', 'wacht_op_bron']
 
 export function Docent() {
   const [filter, setFilter] = useState<'review' | 'alle'>('review')
   const official = useMemo(() => buildOfficialExam(curriculum, allQuestions), [])
+  const concept = useMemo(() => buildConceptExam(curriculum, allQuestions), [])
+  const coverage = useMemo(() => examCoverage(curriculum, allQuestions), [])
   const count = (list: { reviewStatus: ReviewStatus }[], s: ReviewStatus) => list.filter((x) => x.reviewStatus === s).length
   const reviewItems = [
     ...allLessons.map((l) => ({ kind: 'Les', id: l.id, title: l.title, moduleId: l.moduleId, status: l.reviewStatus, note: l.reviewNote, link: `/les/${l.id}`, verify: l.sourceRefs.some((r) => r.verify) })),
@@ -28,12 +30,15 @@ export function Docent() {
         <div className="card p-5">
           <h2 className="font-bold text-navy-900">Toetsmatrijs</h2>
           <p className="mt-1 text-sm">
-            Status: <strong>{curriculum.matrix.status === 'ingelezen' ? 'ingelezen' : 'bron ontbreekt'}</strong>
+            Status: <strong>{curriculum.matrix.status === 'ingelezen' ? `ingelezen (v${curriculum.matrix.version ?? '?'})` : 'bron ontbreekt'}</strong>
           </p>
           <p className="text-sm">Officiële examentermen: {curriculum.terms.length}</p>
           <p className="text-sm">Examengroepen: {curriculum.examGroups.length}</p>
           <p className="mt-2 text-sm">
-            Officieel proefexamen: <strong className={official.ok ? 'text-ok' : 'text-bad'}>{official.ok ? 'vrijgegeven' : 'geblokkeerd'}</strong>
+            Proefexamen volgens toetsmatrijs: <strong className={official.ok ? 'text-ok' : 'text-bad'}>{official.ok ? 'vrijgegeven' : 'geblokkeerd'}</strong>
+          </p>
+          <p className="text-sm">
+            Conceptproefexamen: <strong className={concept.ok ? 'text-ok' : 'text-bad'}>{concept.ok ? 'beschikbaar' : 'geblokkeerd'}</strong>
           </p>
           <p className="mt-2 text-xs text-steel-600">{curriculum.matrix.note}</p>
         </div>
@@ -76,6 +81,41 @@ export function Docent() {
         </div>
       </section>
 
+      <section className="card p-5 sm:p-6" aria-labelledby="per-groep">
+        <h2 id="per-groep" className="mb-1 text-lg font-bold text-navy-900">
+          Examengroepen volgens toetsmatrijs
+        </h2>
+        <p className="mb-3 text-sm text-steel-600">Geschikte meerkeuzevragen op het matrixniveau per groep. Streef: 3 varianten per examenvraag. Het proefexamen volgens toetsmatrijs opent pas als iedere groep minstens het quotum aan goedgekeurde vragen heeft.</p>
+        <div className="overflow-x-auto" tabIndex={0} role="region" aria-label="Tabel examengroepen, horizontaal scrollbaar">
+          <table className="w-full min-w-[640px] text-left text-sm">
+            <thead className="text-xs text-steel-600 uppercase">
+              <tr>
+                <th className="py-2">Groep</th>
+                <th className="py-2">Quotum</th>
+                <th className="py-2">Goedgekeurd</th>
+                <th className="py-2">Gecontroleerd</th>
+                <th className="py-2">In review</th>
+                <th className="py-2">Streef (3×)</th>
+              </tr>
+            </thead>
+            <tbody className="divide-y divide-line">
+              {coverage.map((g) => (
+                <tr key={g.id}>
+                  <td className="py-2 font-semibold">{g.label}</td>
+                  <td className="py-2">{g.quota}</td>
+                  <td className={`py-2 ${g.goedgekeurd >= g.quota ? 'text-ok' : 'text-bad'}`}>{g.goedgekeurd}</td>
+                  <td className="py-2">{g.gecontroleerd}</td>
+                  <td className="py-2">{g.review}</td>
+                  <td className={`py-2 font-semibold ${g.goedgekeurd + g.gecontroleerd >= g.target ? 'text-ok' : 'text-accent-700'}`}>
+                    {g.goedgekeurd + g.gecontroleerd}/{g.target}
+                  </td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </div>
+      </section>
+
       <section className="card p-5 sm:p-6" aria-labelledby="reviewlijst">
         <div className="mb-3 flex flex-wrap items-center gap-3">
           <h2 id="reviewlijst" className="flex-1 text-lg font-bold text-navy-900">
@@ -89,7 +129,7 @@ export function Docent() {
             </select>
           </label>
         </div>
-        <p className="mb-3 text-sm text-steel-600">{reviewItems.length} onderdelen. Alle inhoud is nieuw geschreven en nog niet juridisch goedgekeurd; hieronder staan eerst de onderdelen met een concreet controlepunt.</p>
+        <p className="mb-3 text-sm text-steel-600">{reviewItems.length} onderdelen. Inhoud met status ‘gecontroleerd tegen wettekst’ wacht alleen nog op aftekening door een jurist (npm run review:approve); hieronder staan de onderdelen met een concreet juridisch reviewpunt.</p>
         <ul className="divide-y divide-line">
           {reviewItems.map((x) => (
             <li key={x.id} className="py-3">

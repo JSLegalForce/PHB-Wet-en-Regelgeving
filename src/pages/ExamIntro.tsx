@@ -57,6 +57,7 @@ export function ExamIntro() {
           <li>· Je kunt vrij heen en weer bladeren en vragen markeren om later terug te komen.</li>
           <li>· Je krijgt een waarschuwing als je inlevert met onbeantwoorde vragen.</li>
           <li>· Is de tijd om, dan wordt het examen automatisch ingeleverd.</li>
+          <li>· Het aantal vragen per toetsterm volgt de officiële ExTH-toetsmatrijs (bijvoorbeeld 3 vragen over de inhoud van het proces-verbaal en 2 over artikel 45 en 45a Alcoholwet).</li>
           <li>· Na afloop zie je je score per module en onderwerp, en de uitleg bij iedere vraag.</li>
         </ul>
         <p className="mt-3 text-xs text-steel-600">Bron examenvoorwaarden: {curriculum.exam.source}</p>
@@ -64,46 +65,60 @@ export function ExamIntro() {
 
       <div className="grid gap-4 lg:grid-cols-2">
         <section className="card flex flex-col p-5 sm:p-6" aria-labelledby="officieel">
-          <div className="mb-2 flex items-center gap-2">
+          <div className="mb-2 flex flex-wrap items-center gap-2">
             <h2 id="officieel" className="text-lg font-bold text-navy-900">
-              Officieel proefexamen
+              Proefexamen volgens toetsmatrijs
             </h2>
-            <span className={`rounded-full px-2.5 py-0.5 text-xs font-semibold ${official.ok ? 'bg-ok-50 text-ok' : 'bg-navy-100 text-navy-900'}`}>{official.ok ? 'Beschikbaar' : 'Nog niet beschikbaar'}</span>
+            <span className={`rounded-full px-2.5 py-0.5 text-xs font-semibold ${official.ok ? 'bg-ok-50 text-ok' : 'bg-navy-100 text-navy-900'}`}>{official.ok ? 'Beschikbaar' : 'Nog niet vrijgegeven'}</span>
           </div>
-          <p className="text-sm text-steel-600">Volgt exact de verdeling van de PHB-toetsmatrijs en gebruikt alleen juridisch goedgekeurde vragen.</p>
+          <p className="text-sm text-steel-600">
+            Volgt exact het aantal vragen per toetsterm uit de ExTH-toetsmatrijs {curriculum.matrix.version ? `v${curriculum.matrix.version}` : ''} en gebruikt uitsluitend vragen die door een jurist zijn afgetekend. Geen herhaling, geen aanvulling.
+          </p>
           {!official.ok && (
             <div className="mt-3 rounded-xl bg-navy-50 px-4 py-3 text-sm" role="status">
-              <p className="font-semibold text-navy-900">Waarom is dit examen nog niet beschikbaar?</p>
-              <ul className="mt-1 space-y-1">
+              <p className="font-semibold text-navy-900">Waarom is dit examen nog niet vrijgegeven?</p>
+              <ul className="mt-1 max-h-48 space-y-1 overflow-y-auto">
                 {official.reasons.map((r) => (
                   <li key={r}>· {r}</li>
                 ))}
               </ul>
-              <p className="mt-2 text-steel-600">We bieden bewust geen examen aan met herhaalde of niet-gecontroleerde vragen onder deze naam.</p>
+              <p className="mt-2 text-steel-600">Dit examen gaat pas open als iedere examengroep genoeg juridisch afgetekende vragen heeft. Gebruik tot die tijd het conceptproefexamen.</p>
             </div>
           )}
           <div className="mt-auto pt-4">
             <button type="button" className="btn-primary" disabled={!official.ok || !!p.activeExam} onClick={() => start('officieel')}>
-              Start officieel proefexamen
+              Start proefexamen
             </button>
           </div>
         </section>
 
         <section className="card flex flex-col border-accent/50 p-5 sm:p-6" aria-labelledby="concept">
-          <div className="mb-2 flex items-center gap-2">
+          <div className="mb-2 flex flex-wrap items-center gap-2">
             <h2 id="concept" className="text-lg font-bold text-navy-900">
               Conceptproefexamen
             </h2>
             <span className="rounded-full bg-accent-50 px-2.5 py-0.5 text-xs font-semibold text-accent-700">Concept</span>
           </div>
           <p className="text-sm text-steel-600">
-            Zelfde vorm en tijd, met {totalQuestions} unieke meerkeuzevragen uit alle modules, naar rato van de omvang per module. Let op: de vragen zijn nog niet allemaal juridisch gecontroleerd en de verdeling volgt nog niet de officiële toetsmatrijs.
+            Zelfde vorm, tijd en verdeling per toetsterm als het proefexamen volgens toetsmatrijs. De vragen zijn inhoudelijk gecontroleerd tegen de geldende wettekst, maar nog niet allemaal door een jurist afgetekend.
           </p>
+          {concept.ok && concept.warnings.length > 0 && (
+            <div className="mt-3 rounded-xl bg-accent-50 px-4 py-3 text-sm" role="status">
+              <p className="font-semibold text-accent-700">Let op</p>
+              <ul className="mt-1 space-y-1">
+                {concept.warnings.map((w) => (
+                  <li key={w}>· {w}</li>
+                ))}
+              </ul>
+            </div>
+          )}
           {!concept.ok && (
             <div className="mt-3 rounded-xl bg-navy-50 px-4 py-3 text-sm" role="status">
-              {concept.reasons.map((r) => (
-                <p key={r}>{r}</p>
-              ))}
+              <ul className="max-h-48 space-y-1 overflow-y-auto">
+                {concept.reasons.map((r) => (
+                  <li key={r}>· {r}</li>
+                ))}
+              </ul>
             </div>
           )}
           <div className="mt-auto pt-4">
@@ -113,6 +128,10 @@ export function ExamIntro() {
           </div>
         </section>
       </div>
+
+      <p className="text-xs text-steel-600">
+        Beide proefexamens zijn eigen oefenmateriaal van JS Legal Force. Het zijn geen examens van ExTH en ExTH geeft zelf geen proefexamens uit. Een voldoende hier is geen garantie voor het echte examen.
+      </p>
 
       {p.exams.length > 0 && (
         <section className="card p-5 sm:p-6" aria-labelledby="eerder">
@@ -132,7 +151,7 @@ export function ExamIntro() {
               {p.exams.map((e) => (
                 <tr key={e.at}>
                   <td className="py-2">{new Date(e.at).toLocaleString('nl-NL', { dateStyle: 'medium', timeStyle: 'short' })}</td>
-                  <td className="py-2">{e.mode === 'concept' ? 'Concept' : 'Officieel'}</td>
+                  <td className="py-2">{e.mode === 'concept' ? 'Concept' : 'Volgens toetsmatrijs'}</td>
                   <td className="py-2 font-semibold">
                     {e.correct}/{e.total}
                   </td>

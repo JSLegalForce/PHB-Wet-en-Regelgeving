@@ -6,6 +6,7 @@ import { formatClock, remainingMs, scoreExam } from '../lib/exam'
 import { addExamRecord, getProgress, patchActiveExam, recordAnswer, useProgress } from '../lib/progress'
 import { Icon } from '../components/Layout'
 import { RichText } from '../components/ui'
+import { QuestionFigure } from '../components/QuestionCard'
 
 export function ExamRun() {
   const p = useProgress()
@@ -63,7 +64,7 @@ export function ExamRun() {
     <div className="space-y-4">
       <div className="sticky top-0 z-30 -mx-4 flex flex-wrap items-center gap-3 border-b border-line bg-surface/95 px-4 py-3 backdrop-blur sm:-mx-6 sm:px-6">
         <div>
-          <p className="eyebrow">{exam.mode === 'concept' ? 'Conceptproefexamen' : 'Proefexamen'}</p>
+          <p className="eyebrow">{exam.mode === 'concept' ? 'Conceptproefexamen (volgens toetsmatrijs)' : 'Proefexamen volgens toetsmatrijs'}</p>
           <p className="font-bold text-navy-900">
             Vraag {exam.current + 1} van {total} · {answeredCount} beantwoord
           </p>
@@ -95,6 +96,7 @@ export function ExamRun() {
                 <RichText text={q.case} />
               </div>
             )}
+            {q.figure && <QuestionFigure figure={q.figure} />}
             <h1 id="examvraag" ref={headingRef} tabIndex={-1} className="text-lg font-bold text-navy-900 outline-none">
               {q.prompt}
             </h1>

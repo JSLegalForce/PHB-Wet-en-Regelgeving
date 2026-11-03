@@ -19,6 +19,7 @@ const statusLabel: Record<ReviewStatus, string> = {
   wacht_op_bron: 'Inhoud in juridische review',
   concept: 'Concept – juridische review',
   juridische_review_nodig: 'Juridische review nodig',
+  inhoudelijk_gecontroleerd: 'Gecontroleerd tegen wettekst',
   goedgekeurd: 'Juridisch goedgekeurd',
   afgekeurd: 'Afgekeurd',
 }
@@ -29,7 +30,7 @@ export function StatusBadge({ status, compact = false }: { status: ReviewStatus;
   return (
     <span className={`inline-flex items-center gap-1.5 rounded-full border px-2.5 py-0.5 text-xs font-semibold whitespace-nowrap ${cls}`}>
       <span className={`h-1.5 w-1.5 rounded-full ${ok ? 'bg-ok' : status === 'afgekeurd' ? 'bg-bad' : 'bg-accent'}`} aria-hidden="true" />
-      {compact && !ok ? 'Concept' : statusLabel[status]}
+      {compact && !ok ? (status === 'inhoudelijk_gecontroleerd' ? 'Gecontroleerd' : status === 'juridische_review_nodig' ? 'In review' : 'Concept') : statusLabel[status]}
     </span>
   )
 }
@@ -47,7 +48,11 @@ export function ReviewNotice({ status, note, kind = 'les' }: { status: ReviewSta
         <p className="mt-0.5 leading-snug">
           {status === 'wacht_op_bron'
             ? 'Voor dit onderdeel is nog geen gecontroleerde bron verwerkt. Er wordt daarom nog geen uitleg getoond.'
-            : `Deze ${kind} is nieuw geschreven en nog niet juridisch gecontroleerd. Gebruik de inhoud als studiemateriaal, niet als juridisch advies.`}
+            : status === 'inhoudelijk_gecontroleerd'
+              ? `Deze ${kind} is regel voor regel gecontroleerd tegen de geldende wettekst (peildatum in de bronvermelding). De definitieve aftekening door een jurist volgt nog. Gebruik de inhoud als studiemateriaal, niet als juridisch advies.`
+              : status === 'juridische_review_nodig'
+                ? `Over een onderdeel van deze ${kind} loopt nog een juridische controle (zie reviewpunt). Gebruik de inhoud als studiemateriaal, niet als juridisch advies.`
+                : `Deze ${kind} is nieuw geschreven en nog niet juridisch gecontroleerd. Gebruik de inhoud als studiemateriaal, niet als juridisch advies.`}
         </p>
         {note && <p className="mt-1 text-steel-600">Reviewpunt: {note}</p>}
       </div>
@@ -109,7 +114,14 @@ export function SourceList({ refs, title = 'Bron' }: { refs: SourceRef[]; title?
       <ul className="space-y-0.5">
         {refs.map((r, i) => (
           <li key={i} className="text-text">
-            {formatRef(r)}
+            {r.url ? (
+              <a href={r.url} target="_blank" rel="noopener noreferrer" className="underline decoration-line underline-offset-2 hover:text-navy-700">
+                {formatRef(r)}
+              </a>
+            ) : (
+              formatRef(r)
+            )}
+            {r.geldigOp && <span className="text-steel-600"> (tekst geldig op {new Date(r.geldigOp).toLocaleDateString('nl-NL')})</span>}
             {r.note && <span className="text-steel-600"> — {r.note}</span>}
             {r.verify && <span className="ml-1.5 rounded bg-accent-50 px-1.5 py-0.5 text-[11px] font-semibold text-accent-700">te controleren</span>}
           </li>

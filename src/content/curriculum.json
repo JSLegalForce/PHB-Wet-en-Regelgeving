@@ -1,31 +1,1768 @@
 {
   "title": "PHB Wet- en Regelgeving Domein I",
-  "version": "0.9",
-  "peildatum": "2026-11-02",
+  "version": "1.0",
+  "peildatum": "2026-11-03",
   "matrix": {
-    "name": "Toetsmatrijs Wet- en Regelgeving Domein I, 1 december 2024, versie 1.2",
-    "status": "bron_ontbreekt",
-    "note": "De PHB-toetsmatrijs was bij deze bouw niet beschikbaar (ZIP met bronnen ontbrak). De officiële examentermen, taxonomie per term en aantallen per groep zijn daarom nog NIET ingelezen. Vul 'terms' en 'examGroups' uit de matrix; de dekkingscontrole meldt dan automatisch welke termen nog geen les of vragen hebben."
+    "name": "ExTH Toetsmatrijs Wet- en Regelgeving Domein I (1 december 2024), versie 1.3 (04.03.2025)",
+    "version": "1.3",
+    "date": "2025-03-04",
+    "url": "https://www.exth.nl/wp-content/uploads/Toetsmatrijs-Wet-en-Regelgeving-Domein-I-1-december-2024-1.3.pdf",
+    "retrieved": "2026-11-03",
+    "status": "ingelezen",
+    "note": "Alle 49 toetstermen 1.1.1 t/m 5.8.1 zijn letterlijk overgenomen met taxonomie en wetsverwijzingen. Vraagaantallen volgen de (samengevoegde) cellen van de kolom '# vragen' in de matrix; lege cellen delen het aantal van de bovenliggende term (bv. 2.5.1–2.5.4 samen 2 vragen). Verschil met v1.2 (17.12.2024): term 1.2.2 'verantwoordelijke' → 'verwerkingsverantwoordelijke'; term 4.1.5 artikelreeks 'artt. 2:9, 5:13 t/m 5:20' → 'artt. 2:9, 5:13, 5:14 en 5:15, 5:17 t/m 5:20' (art. 5:16 Model-APV vervallen uit de matrix)."
   },
   "exam": {
     "totalQuestions": 50,
     "durationMinutes": 90,
     "passPercentage": 70,
-    "source": "Opdrachtdocument §2, overgenomen uit de PHB-toetsmatrijs; nog te verifiëren aan de matrix zelf."
+    "source": "ExTH Toetsmatrijs Wet- en Regelgeving Domein I v1.3: toetsvorm 50 gesloten vragen, toetsduur 90 minuten, cesuur 70% (55% met correctie voor de gokkans)."
   },
   "modules": [
-    { "id": "m01", "number": 1, "title": "Organisatie, regelgeving en samenwerking", "short": "Organisatie", "termRange": "1.1.1 – 1.3.2", "topics": ["Gemeentelijke organisatie", "AMvB en verordeningen", "AVG en Wpg", "Samenwerking met politie en ketenpartners"] },
-    { "id": "m02", "number": 2, "title": "Strafrecht en strafvordering", "short": "Strafrecht", "termRange": "2.1.1 – 2.6.2", "topics": ["Verdachte en strafbaar feit", "Staande houden en identificatie", "Aanhouden", "Rechten van de verdachte", "Fouillering", "Inbeslagneming", "Binnentreden", "Jeugd en Halt", "Proces-verbaal"] },
-    { "id": "m03", "number": 3, "title": "Algemene wet bestuursrecht", "short": "Awb", "termRange": "3.1.1 – 3.2.2", "topics": ["Bestuursrecht", "Toezichthouder", "Toezichtsbevoegdheden", "Bestuurlijke sancties"] },
-    { "id": "m04", "number": 4, "title": "Algemene plaatselijke verordening", "short": "APV", "termRange": "4.1.1 – 4.1.9", "topics": ["Begripsbepalingen", "Ordeverstoring", "Overlast", "Honden", "Straatverkoop en collecteren", "Natuurlijke behoefte", "Parkeeroverlast", "Snuffelmarkten", "Vuur stoken"] },
-    { "id": "m05", "number": 5, "title": "Wegenverkeerswet 1994 en RVV 1990", "short": "WVW / RVV", "termRange": "5.1.1 – 5.2.2", "topics": ["Wegslepen", "Stop- en parkeerverboden", "Aanwijzingen"] },
-    { "id": "m06", "number": 6, "title": "Alcoholwet", "short": "Alcoholwet", "termRange": "5.3.1", "topics": ["Artikel 45 en 45a"] },
-    { "id": "m07", "number": 7, "title": "Winkeltijdenwet", "short": "Winkeltijden", "termRange": "5.4.1", "topics": ["Openingstijden en toezicht"] },
-    { "id": "m08", "number": 8, "title": "Wet op de economische delicten", "short": "WED", "termRange": "5.5.1 – 5.5.2", "topics": ["Bevoegdheden", "Medewerkingsplicht"] },
-    { "id": "m09", "number": 9, "title": "Omgevingswet", "short": "Omgevingswet", "termRange": "5.6.1 – 5.6.3", "topics": ["Stelsel", "Omgevingsplan en vergunning", "Handhaving"] },
-    { "id": "m10", "number": 10, "title": "Visserijwet 1963", "short": "Visserijwet", "termRange": "5.7.1", "topics": ["Vissen met toestemming", "Controle"] },
-    { "id": "m11", "number": 11, "title": "Wet milieubeheer", "short": "Wet milieubeheer", "termRange": "5.8.1", "topics": ["Afvalstoffen", "Zorgplicht en stortverbod"] }
+    {
+      "id": "m01",
+      "number": 1,
+      "title": "Organisatie, regelgeving en samenwerking",
+      "short": "Organisatie",
+      "termRange": "1.1.1 – 1.3.2",
+      "topics": [
+        "Gemeentelijke organisatie",
+        "AMvB en verordeningen",
+        "AVG en Wpg",
+        "Samenwerking met politie en ketenpartners"
+      ]
+    },
+    {
+      "id": "m02",
+      "number": 2,
+      "title": "Strafrecht en strafvordering",
+      "short": "Strafrecht",
+      "termRange": "2.1.1 – 2.6.2",
+      "topics": [
+        "Verdachte en strafbaar feit",
+        "Staande houden en identificatie",
+        "Vals identiteitsbewijs en identificatiefouillering",
+        "Aanhouden, betreden en doorzoeken ter aanhouding",
+        "Herhaalde en voortgezette toepassing",
+        "Strafbaar gedrag jegens ambtenaren",
+        "Rechten van de verdachte",
+        "Fouillering",
+        "Inbeslagneming",
+        "Binnentreden",
+        "Jeugd en Halt",
+        "Proces-verbaal"
+      ]
+    },
+    {
+      "id": "m03",
+      "number": 3,
+      "title": "Algemene wet bestuursrecht",
+      "short": "Awb",
+      "termRange": "3.1.1 – 3.2.2",
+      "topics": [
+        "Bestuursrecht",
+        "Toezichthouder",
+        "Toezichtsbevoegdheden",
+        "Bestuurlijke sancties"
+      ]
+    },
+    {
+      "id": "m04",
+      "number": 4,
+      "title": "Algemene plaatselijke verordening",
+      "short": "APV",
+      "termRange": "4.1.1 – 4.1.9",
+      "topics": [
+        "Begripsbepalingen",
+        "Ordeverstoring",
+        "Overlast",
+        "Honden",
+        "Straatverkoop en collecteren",
+        "Natuurlijke behoefte",
+        "Parkeeroverlast",
+        "Snuffelmarkten",
+        "Vuur stoken"
+      ]
+    },
+    {
+      "id": "m05",
+      "number": 5,
+      "title": "Wegenverkeerswet 1994 en RVV 1990",
+      "short": "WVW / RVV",
+      "termRange": "5.1.1 – 5.2.2",
+      "topics": [
+        "Wegslepen",
+        "Stop- en parkeerverboden",
+        "Aanwijzingen"
+      ]
+    },
+    {
+      "id": "m06",
+      "number": 6,
+      "title": "Alcoholwet",
+      "short": "Alcoholwet",
+      "termRange": "5.3.1",
+      "topics": [
+        "Artikel 45: minderjarige met alcohol",
+        "Artikel 45a: wederverstrekking door meerderjarige"
+      ]
+    },
+    {
+      "id": "m07",
+      "number": 7,
+      "title": "Winkeltijdenwet",
+      "short": "Winkeltijden",
+      "termRange": "5.4.1",
+      "topics": [
+        "Openingstijden en toezicht"
+      ]
+    },
+    {
+      "id": "m08",
+      "number": 8,
+      "title": "Wet op de economische delicten",
+      "short": "WED",
+      "termRange": "5.5.1 – 5.5.2",
+      "topics": [
+        "Bevoegdheden",
+        "Medewerkingsplicht"
+      ]
+    },
+    {
+      "id": "m09",
+      "number": 9,
+      "title": "Omgevingswet",
+      "short": "Omgevingswet",
+      "termRange": "5.6.1 – 5.6.3",
+      "topics": [
+        "Lozingsactiviteit op een oppervlaktewaterlichaam",
+        "Storten of in de bodem brengen (Bal § 3.2.14)",
+        "Zwerfvuil rond een activiteit (art. 22.53 bruidsschat)"
+      ]
+    },
+    {
+      "id": "m10",
+      "number": 10,
+      "title": "Visserijwet 1963",
+      "short": "Visserijwet",
+      "termRange": "5.7.1",
+      "topics": [
+        "Vissen met toestemming",
+        "Controle"
+      ]
+    },
+    {
+      "id": "m11",
+      "number": 11,
+      "title": "Wet milieubeheer",
+      "short": "Wet milieubeheer",
+      "termRange": "5.8.1",
+      "topics": [
+        "Afvalstoffen",
+        "Zorgplicht en stortverbod"
+      ]
+    }
   ],
-  "terms": [],
-  "examGroups": []
+  "terms": [
+    {
+      "id": "1.1.1",
+      "moduleId": "m01",
+      "title": "Gemeente",
+      "taxonomy": "K",
+      "levels": [
+        "K"
+      ],
+      "description": "De kandidaat kan de begrippen burgemeester, gemeenteraad en college van burgemeester en wethouders omschrijven en hun belangrijkste taken benoemen.",
+      "articles": [
+        "art. 125 lid 1 en 2 GW",
+        "art. 127 GW",
+        "artt. 9, 34, 35 lid 1, 149, 172 Gemw",
+        "art. 39 lid 1 Wvr",
+        "art. 13 lid 1 en 3 Politiewet 2012"
+      ],
+      "elements": [
+        "Burgemeester: rol, functie en bevoegdheden",
+        "Burgemeester als voorzitter bestuur veiligheidsregio",
+        "Driehoeksoverleg",
+        "Gemeenteraad: rol, taken en bevoegdheden",
+        "College van B&W: rol en taken; samenstelling, benoeming wethouders"
+      ],
+      "sourcePage": "p. 1",
+      "groupId": "g-1.1.1"
+    },
+    {
+      "id": "1.1.2",
+      "moduleId": "m01",
+      "title": "Verordeningen en AMvB",
+      "taxonomy": "K",
+      "levels": [
+        "K"
+      ],
+      "description": "De kandidaat kan de begrippen gemeentelijke verordening, provinciale verordening en Algemene Maatregel van Bestuur (AMvB) omschrijven en kan in hoofdlijnen benoemen hoe deze tot stand komen en worden vastgesteld.",
+      "articles": [
+        "art. 89 GW",
+        "art. 127 GW",
+        "art. 147 lid 1 Gemw",
+        "art. 143 lid 1 PW",
+        "art. 176 Gemw"
+      ],
+      "elements": [
+        "Gemeentelijke verordening, APV, provinciale verordening, AMvB",
+        "Totstandkoming gemeentelijke verordening",
+        "Totstandkoming provinciale verordening",
+        "Noodverordening",
+        "Totstandkoming AMvB"
+      ],
+      "sourcePage": "p. 1",
+      "groupId": "g-1.1.2"
+    },
+    {
+      "id": "1.2.1",
+      "moduleId": "m01",
+      "title": "Bescherming persoonsgegevens",
+      "taxonomy": "K",
+      "levels": [
+        "K"
+      ],
+      "description": "De kandidaat kan in hoofdlijnen bepalingen met betrekking tot de bescherming van persoonsgegevens binnen wettelijke kaders voor de boa en de toezichthouder benoemen.",
+      "articles": [
+        "art. 46 Wpg",
+        "AVG",
+        "Bpg"
+      ],
+      "elements": [
+        "Drie regimes: algemeen, opsporingsinstanties, OM en rechterlijke macht",
+        "Reikwijdte Wpg en Bpg voor de boa",
+        "Reikwijdte AVG voor boa en toezichthouder",
+        "Begrippen (bijzondere) persoonsgegevens, politiegegevens, justitiële gegevens, strafvorderlijke gegevens"
+      ],
+      "sourcePage": "p. 2",
+      "groupId": "g-1.2"
+    },
+    {
+      "id": "1.2.2",
+      "moduleId": "m01",
+      "title": "Gebruik persoonsgegevens",
+      "taxonomy": "T",
+      "levels": [
+        "T"
+      ],
+      "description": "De kandidaat kan de voor de boa relevante bepalingen binnen het geldende regime met betrekking tot de bescherming van persoonsgegevens toepassen bij het verwerken van gegevens.",
+      "articles": [
+        "art. 1 sub f Wpg",
+        "art. 15 lid 2 Wpg",
+        "art. 16 lid 1 en 2 Wpg",
+        "artt. 2, 6, 7 BpgBoa"
+      ],
+      "elements": [
+        "Verzamelen van persoonsgegevens",
+        "Verstrekken van persoonsgegevens",
+        "Begrip verwerkingsverantwoordelijke",
+        "Verstrekken van politiegegevens"
+      ],
+      "sourcePage": "p. 2",
+      "groupId": "g-1.2"
+    },
+    {
+      "id": "1.3.1",
+      "moduleId": "m01",
+      "title": "De politie",
+      "taxonomy": "K",
+      "levels": [
+        "K"
+      ],
+      "description": "De kandidaat kan in hoofdlijnen omschrijven hoe samenwerking met de politie is georganiseerd.",
+      "articles": [
+        "Beleidsregels Buitengewoon Opsporingsambtenaar, par. 6",
+        "Brief minister 10-12-2018, kenmerk 2438876"
+      ],
+      "elements": [
+        "Inzetcriterium",
+        "Samenwerking met de politie in de openbare ruimte"
+      ],
+      "sourcePage": "p. 2",
+      "groupId": "g-1.3.1"
+    },
+    {
+      "id": "1.3.2",
+      "moduleId": "m01",
+      "title": "Ketenpartners",
+      "taxonomy": "K",
+      "levels": [
+        "K"
+      ],
+      "description": "De kandidaat kan van de belangrijkste ketenpartners in hoofdlijnen hun rol en taken beschrijven.",
+      "articles": [],
+      "elements": [
+        "Openbaar Ministerie",
+        "Brandweer",
+        "Milieubeheerders",
+        "Wegbeheerders",
+        "Nederlandse Arbeidsinspectie",
+        "NVWA",
+        "RIEC"
+      ],
+      "sourcePage": "p. 2",
+      "groupId": "g-1.3.2"
+    },
+    {
+      "id": "2.1.1",
+      "moduleId": "m02",
+      "title": "Verdachte",
+      "taxonomy": "K",
+      "levels": [
+        "K"
+      ],
+      "description": "De kandidaat kan het begrip verdachte omschrijven.",
+      "articles": [
+        "art. 27 lid 1 en 2 Sv"
+      ],
+      "elements": [
+        "Verdachte"
+      ],
+      "sourcePage": "p. 3",
+      "groupId": "g-2.1.1-2.1.2"
+    },
+    {
+      "id": "2.1.2",
+      "moduleId": "m02",
+      "title": "Strafbaar feit",
+      "taxonomy": "K",
+      "levels": [
+        "K"
+      ],
+      "description": "De kandidaat kan het begrip strafbaar feit, de voorwaarden van de strafbaarheid en de hiermee in relatie staande begrippen omschrijven.",
+      "articles": [
+        "art. 47 Sr",
+        "art. 48 Sr"
+      ],
+      "elements": [
+        "Strafbaar feit",
+        "Voorwaarden voor strafbaarheid",
+        "Wettelijke delictsomschrijving (norm)",
+        "Bestanddeel",
+        "Schuld",
+        "Opzet",
+        "Dader en medepleger",
+        "Medeplichtige"
+      ],
+      "sourcePage": "p. 3",
+      "groupId": "g-2.1.1-2.1.2"
+    },
+    {
+      "id": "2.1.3",
+      "moduleId": "m02",
+      "title": "Verzamelen gegevens",
+      "taxonomy": "K",
+      "levels": [
+        "K"
+      ],
+      "description": "De kandidaat kan benoemen met welk doel de boa gegevens verzamelt binnen het strafrecht.",
+      "articles": [],
+      "elements": [
+        "Vaststellen identiteit",
+        "Vaststellen vergunningen en ontheffingen",
+        "Dossiervorming (voortgangscontrole)"
+      ],
+      "sourcePage": "p. 3",
+      "groupId": "g-2.1.3"
+    },
+    {
+      "id": "2.2.1",
+      "moduleId": "m02",
+      "title": "Vaststellen identiteit",
+      "taxonomy": "K/B",
+      "levels": [
+        "K",
+        "B"
+      ],
+      "description": "De kandidaat kan de documenten waarmee de identiteit kan worden vastgesteld benoemen en kan uitleggen wanneer en onder welke voorwaarden een identificatiefouillering geschiedt.",
+      "articles": [
+        "art. 1 lid 1 WID",
+        "art. 231 lid 2 Sr",
+        "art. 55b Sv"
+      ],
+      "elements": [
+        "Documenten waarmee de identiteit kan worden vastgesteld",
+        "Strafbaarheid bij voorhanden hebben en gebruik van vals identiteitsbewijs",
+        "Identificatiefouillering"
+      ],
+      "sourcePage": "p. 3",
+      "groupId": "g-2.2.1"
+    },
+    {
+      "id": "2.2.2",
+      "moduleId": "m02",
+      "title": "Aanhouden van de verdachte",
+      "taxonomy": "K/T",
+      "levels": [
+        "K",
+        "T"
+      ],
+      "description": "De kandidaat kan benoemen en bij een gegeven situatie beoordelen of het aanhouding op heterdaad of buiten heterdaad betreft en wanneer, waar en door wie een verdachte mag worden aangehouden.",
+      "articles": [
+        "art. 128 Sv",
+        "art. 15 lid 1 GW",
+        "art. 53 lid 1 Sv",
+        "art. 54 lid 1 t/m 4 Sv",
+        "art. 67 lid 1 sub a Sv",
+        "art. 55 Sv",
+        "art. 55a Sv"
+      ],
+      "elements": [
+        "Ontdekking op heterdaad en buiten heterdaad",
+        "Bevoegdheid tot aanhouden op en buiten heterdaad",
+        "Feiten waarvoor voorlopige hechtenis mogelijk is",
+        "Plaatsen ter aanhouding betreden",
+        "Plaatsen ter aanhouding doorzoeken"
+      ],
+      "sourcePage": "p. 3",
+      "groupId": "g-2.2.2"
+    },
+    {
+      "id": "2.2.3",
+      "moduleId": "m02",
+      "title": "Herhaalde en voortgezette toepassing van bevoegdheden",
+      "taxonomy": "B",
+      "levels": [
+        "B"
+      ],
+      "description": "De kandidaat kan de begrippen herhaalde toepassing van eenzelfde bevoegdheid en voortgezette toepassing van bevoegdheden uitleggen.",
+      "articles": [],
+      "elements": [
+        "Herhaalde toepassing van eenzelfde bevoegdheid binnen een zaak",
+        "Voortgezette toepassing van bevoegdheden"
+      ],
+      "sourcePage": "p. 4",
+      "groupId": "g-2.2.3"
+    },
+    {
+      "id": "2.2.4",
+      "moduleId": "m02",
+      "title": "Strafbaarheid gedrag jegens een ambtenaar (Veilige Publieke Taak)",
+      "taxonomy": "T",
+      "levels": [
+        "T"
+      ],
+      "description": "De kandidaat kan bij een gegeven situatie bepalen of gedrag jegens een ambtenaar strafbaar is.",
+      "articles": [
+        "art. 184 lid 1 Sr",
+        "art. 185 Sr",
+        "art. 266 lid 1 jo. art. 267 onder 2° jo. art. 269 Sr",
+        "art. 285 lid 1 jo. lid 5 Sr"
+      ],
+      "elements": [
+        "Niet voldoen aan bevel of vordering of belemmeren van de ambtshandeling",
+        "Veroorzaken van opschudding en zich niet verwijderen na gegeven bevel",
+        "Belediging van een ambtenaar gedurende of ter zake de uitoefening van zijn functie",
+        "Bedreiging van een ambtenaar"
+      ],
+      "sourcePage": "p. 4",
+      "groupId": "g-2.2.4"
+    },
+    {
+      "id": "2.3.1",
+      "moduleId": "m02",
+      "title": "Rechtsbijstand",
+      "taxonomy": "K",
+      "levels": [
+        "K"
+      ],
+      "description": "De kandidaat kan de rechten van de verdachte met betrekking tot rechtsbijstand benoemen.",
+      "articles": [
+        "art. 28c Sv",
+        "art. 28d Sv",
+        "art. 28a lid 2 Sv",
+        "art. 27 lid 4 Sv",
+        "art. 29b lid 1 Sv"
+      ],
+      "elements": [
+        "Begrippen consultatiebijstand en verhoorbijstand",
+        "Recht op consultatiebijstand",
+        "Recht op verhoorbijstand",
+        "Afstand van rechtsbijstand: voorlichting en terugkomen op beslissing",
+        "Recht op bijstand van een tolk"
+      ],
+      "sourcePage": "p. 4",
+      "groupId": "g-2.3.1"
+    },
+    {
+      "id": "2.3.2",
+      "moduleId": "m02",
+      "title": "Verhoren van de verdachte",
+      "taxonomy": "K/B",
+      "levels": [
+        "K",
+        "B"
+      ],
+      "description": "De kandidaat kan het begrip cautie benoemen en kan uitleggen dat de verdachte zijn verklaring in vrijheid moet kunnen afleggen.",
+      "articles": [
+        "art. 29 lid 1 Sv",
+        "art. 29 lid 2 Sv"
+      ],
+      "elements": [
+        "Doel en betekenis van de cautie",
+        "De verdachte wordt de cautie gegeven",
+        "Verklaring in vrijheid",
+        "De verdachte is niet verplicht te antwoorden"
+      ],
+      "sourcePage": "p. 4",
+      "groupId": "g-2.3.2"
+    },
+    {
+      "id": "2.4.1",
+      "moduleId": "m02",
+      "title": "Strafvorderlijke fouillering ter inbeslagneming",
+      "taxonomy": "K",
+      "levels": [
+        "K"
+      ],
+      "description": "De kandidaat kan de begrippen onderzoek aan het lichaam of kleding en onderzoek in het lichaam omschrijven en de voorwaarden voor deze onderzoeken benoemen.",
+      "articles": [
+        "art. 11 GW",
+        "art. 56 lid 1, 3 en 4 Sv",
+        "art. 195 lid 1, 3 en 4 Sv",
+        "art. 56 lid 2 en 3 Sv",
+        "art. 195 lid 2 en 4 Sv"
+      ],
+      "elements": [
+        "Recht op onaantastbaarheid lichaam",
+        "Onderzoek aan het lichaam of kleding",
+        "Onderzoek in het lichaam"
+      ],
+      "sourcePage": "p. 4",
+      "groupId": "g-2.4.1"
+    },
+    {
+      "id": "2.4.2",
+      "moduleId": "m02",
+      "title": "Inbeslagneming van voorwerpen",
+      "taxonomy": "K",
+      "levels": [
+        "K"
+      ],
+      "description": "De kandidaat kan de bevoegdheden van de opsporingsambtenaar benoemen en de procedure beschrijven met betrekking tot de inbeslagneming van voorwerpen.",
+      "articles": [
+        "art. 95 Sv",
+        "art. 96 lid 1 Sv",
+        "art. 96 lid 2 Sv",
+        "art. 96b Sv",
+        "art. 116 lid 2 Sv"
+      ],
+      "elements": [
+        "Bevoegdheid tot inbeslagneming",
+        "Binnentreding om voorwerpen in beslag te nemen",
+        "Bevriezingsmaatregelen",
+        "Doorzoeken van een vervoermiddel ter inbeslagneming",
+        "Vrijwillige afstand door de verdachte"
+      ],
+      "sourcePage": "p. 5",
+      "groupId": "g-2.4.2-2.4.3"
+    },
+    {
+      "id": "2.4.3",
+      "moduleId": "m02",
+      "title": "Binnentreden in woningen zonder toestemming van de bewoner",
+      "taxonomy": "K",
+      "levels": [
+        "K"
+      ],
+      "description": "De kandidaat kan het begrip binnentreden van een woning zonder toestemming van de bewoner omschrijven en de bijbehorende bevoegdheden van de opsporingsambtenaar benoemen.",
+      "articles": [
+        "art. 12 lid 1 GW",
+        "art. 2 lid 1 en 3 Awbi",
+        "art. 3 lid 1 en 2 Awbi"
+      ],
+      "elements": [
+        "Voorwaarden voor binnentreden zonder toestemming van de bewoner"
+      ],
+      "sourcePage": "p. 5",
+      "groupId": "g-2.4.2-2.4.3"
+    },
+    {
+      "id": "2.5.1",
+      "moduleId": "m02",
+      "title": "Jeugdige personen",
+      "taxonomy": "K",
+      "levels": [
+        "K"
+      ],
+      "description": "De kandidaat kan de belangrijkste relevante bepalingen met betrekking tot jeugdige personen benoemen.",
+      "articles": [
+        "art. 486 Sv",
+        "art. 77a Sr",
+        "art. 2 WID"
+      ],
+      "elements": [
+        "Geen strafvervolging tot twaalf jaar",
+        "Strafrechtelijke minderjarigheid",
+        "Identificatieplicht"
+      ],
+      "sourcePage": "p. 5",
+      "groupId": "g-2.5"
+    },
+    {
+      "id": "2.5.2",
+      "moduleId": "m02",
+      "title": "Opsporingsbevoegdheden t.a.v. jeugdige verdachten",
+      "taxonomy": "K",
+      "levels": [
+        "K"
+      ],
+      "description": "De kandidaat kan de belangrijkste bevoegdheden van de boa met betrekking tot jeugdige verdachten benoemen.",
+      "articles": [
+        "art. 487 lid 1 Sv",
+        "art. 487 lid 2 eerste volzin Sv"
+      ],
+      "elements": [
+        "Staande houden, aanhouden, onderzoek aan de kleding, inbeslagneming bij twaalfminners",
+        "Ophouden voor onderzoek"
+      ],
+      "sourcePage": "p. 5",
+      "groupId": "g-2.5"
+    },
+    {
+      "id": "2.5.3",
+      "moduleId": "m02",
+      "title": "Rechtsbescherming minderjarige verdachte",
+      "taxonomy": "K",
+      "levels": [
+        "K"
+      ],
+      "description": "De kandidaat kan aanvullende bepalingen benoemen met betrekking tot het verhoren van een minderjarige verdachte door een boa.",
+      "articles": [
+        "art. 488aa lid 1 en 5 Sv",
+        "art. 488ab lid 1 Sv",
+        "art. 488ac Sv",
+        "art. 489 lid 1 Sv",
+        "art. 489 lid 2 Sv"
+      ],
+      "elements": [
+        "Mededeling aanvullende rechten",
+        "Recht op begeleiding door ouders, voogd of vertrouwenspersoon",
+        "Audiovisuele registratie van het verhoor",
+        "Aanwijzen raadsman voor aangehouden verdachte",
+        "Geen afstand van rechtsbijstand bij aanhouding"
+      ],
+      "sourcePage": "p. 5",
+      "groupId": "g-2.5"
+    },
+    {
+      "id": "2.5.4",
+      "moduleId": "m02",
+      "title": "De Halt-afdoening",
+      "taxonomy": "K",
+      "levels": [
+        "K"
+      ],
+      "description": "De kandidaat kan het begrip Halt-afdoening omschrijven en de bijbehorende procedure beschrijven.",
+      "articles": [
+        "art. 77e Sr",
+        "Besluit aanwijzing Halt-feiten 2024"
+      ],
+      "elements": [
+        "Wettelijke regeling Halt-afdoening",
+        "Feiten die in aanmerking komen",
+        "Ten hoogste twee keer aanbieden",
+        "Doel, procedure en voorwaarden"
+      ],
+      "sourcePage": "p. 5",
+      "groupId": "g-2.5"
+    },
+    {
+      "id": "2.6.1",
+      "moduleId": "m02",
+      "title": "De inhoud van het proces-verbaal",
+      "taxonomy": "K/B",
+      "levels": [
+        "K",
+        "B"
+      ],
+      "description": "De kandidaat kan benoemen welke mededelingen en welke bewijsmiddelen in een proces-verbaal moeten worden opgenomen en kan de relevante begrippen benoemen.",
+      "articles": [
+        "art. 27c lid 5 Sv"
+      ],
+      "elements": [
+        "Mededelingen die in het proces-verbaal moeten worden opgenomen",
+        "Waargenomen of ondervonden feiten en omstandigheden",
+        "Redenen van wetenschap",
+        "Begrippen feit, omstandigheden, waarneming, ondervinding"
+      ],
+      "sourcePage": "p. 6",
+      "groupId": "g-2.6.1"
+    },
+    {
+      "id": "2.6.2",
+      "moduleId": "m02",
+      "title": "Proces-verbaal van bevindingen",
+      "taxonomy": "K/B",
+      "levels": [
+        "K",
+        "B"
+      ],
+      "description": "De kandidaat kan het begrip proces-verbaal van bevindingen (pvb) uitleggen en kan de vereisten die aan een proces-verbaal van bevindingen worden gesteld benoemen.",
+      "articles": [],
+      "elements": [
+        "Proces-verbaal van bevindingen",
+        "Inhoud pvb",
+        "Vereisten pvb"
+      ],
+      "sourcePage": "p. 6",
+      "groupId": "g-2.6.2"
+    },
+    {
+      "id": "3.1.1",
+      "moduleId": "m03",
+      "title": "Het bestuursrecht",
+      "taxonomy": "B",
+      "levels": [
+        "B"
+      ],
+      "description": "De kandidaat kan het begrip bestuursrecht en de functies die het bestuursrecht heeft uitleggen.",
+      "articles": [],
+      "elements": [
+        "Begrip bestuursrecht",
+        "Waarborgfunctie",
+        "Instrumentele functie"
+      ],
+      "sourcePage": "p. 6",
+      "groupId": "g-3.1.1"
+    },
+    {
+      "id": "3.1.2",
+      "moduleId": "m03",
+      "title": "De Algemene wet bestuursrecht",
+      "taxonomy": "K",
+      "levels": [
+        "K"
+      ],
+      "description": "De kandidaat kan benoemen welke plaats de Algemene wet bestuursrecht (Awb) heeft in het Nederlandse recht en wat het beschrijft.",
+      "articles": [],
+      "elements": [
+        "Algemene regels voor de verhouding overheid – burgers en bedrijven"
+      ],
+      "sourcePage": "p. 6",
+      "groupId": "g-3.1.2"
+    },
+    {
+      "id": "3.2.1",
+      "moduleId": "m03",
+      "title": "De toezichthouder",
+      "taxonomy": "K/T",
+      "levels": [
+        "K",
+        "T"
+      ],
+      "description": "De kandidaat kan het begrip toezichthouder beschrijven en bij een gegeven situatie bepalen welke bevoegdheden en verplichtingen de toezichthouder heeft op grond van de Algemene wet bestuursrecht.",
+      "articles": [
+        "art. 5:11 Awb",
+        "titel 5.2 Awb",
+        "art. 5:10a Awb"
+      ],
+      "elements": [
+        "Toezichthouder",
+        "Bevoegdheden toezichthouder",
+        "Cautie in het bestuursrecht"
+      ],
+      "sourcePage": "p. 6",
+      "groupId": "g-3.2.1"
+    },
+    {
+      "id": "3.2.2",
+      "moduleId": "m03",
+      "title": "Bestuurlijke sancties en bestuurlijke boete",
+      "taxonomy": "K/T",
+      "levels": [
+        "K",
+        "T"
+      ],
+      "description": "De kandidaat kan de begrippen bestuurlijke sanctie en bestuurlijke boete omschrijven en kan bij een gegeven situatie bepalen welke herstelsancties en maatregelen kunnen worden opgelegd.",
+      "articles": [
+        "art. 5:2 Awb",
+        "art. 5:40 Awb",
+        "art. 5:8 Awb",
+        "art. 5:10 lid 1 Awb",
+        "art. 5:21 Awb",
+        "art. 5:31d Awb",
+        "art. 5:27 lid 1 en 2 Awb",
+        "art. 5:29 lid 1 en 2 Awb"
+      ],
+      "elements": [
+        "Bestuurlijke sanctie",
+        "Bestuurlijke boete",
+        "Sanctie per overtreden voorschrift",
+        "Ingevorderde som",
+        "Last onder bestuursdwang",
+        "Last onder dwangsom",
+        "Betreden plaatsen en woningen zonder toestemming",
+        "Meevoeren en opslaan van zaken"
+      ],
+      "sourcePage": "p. 7",
+      "groupId": "g-3.2.2"
+    },
+    {
+      "id": "4.1.1",
+      "moduleId": "m04",
+      "title": "Begripsbepalingen",
+      "taxonomy": "K",
+      "levels": [
+        "K"
+      ],
+      "description": "De kandidaat kan de volgende begrippen beschrijven: bebouwde kom, handelsreclame, openbaar water, openbare plaats en weg.",
+      "articles": [
+        "art. 1:1 Model-APV"
+      ],
+      "elements": [],
+      "sourcePage": "p. 7",
+      "groupId": "g-4.1.1"
+    },
+    {
+      "id": "4.1.2",
+      "moduleId": "m04",
+      "title": "Openbare orde",
+      "taxonomy": "T",
+      "levels": [
+        "T"
+      ],
+      "description": "De kandidaat kan bij een gegeven situatie vaststellen of er sprake is van verstoring van de openbare orde.",
+      "articles": [
+        "art. 2:1 Model-APV"
+      ],
+      "elements": [],
+      "sourcePage": "p. 7",
+      "groupId": "g-4.1.2"
+    },
+    {
+      "id": "4.1.3",
+      "moduleId": "m04",
+      "title": "Overlast",
+      "taxonomy": "T",
+      "levels": [
+        "T"
+      ],
+      "description": "De kandidaat kan bij een gegeven situatie vaststellen hoe er kan worden opgetreden tegen plakken, overlast jeugd, drankgebruik, overlast drugsgebruik en geluidsoverlast omwonenden.",
+      "articles": [
+        "artt. 2:1, 2:42, 2:47, 2:48, 2:74, 2:74a, 4:6 Model-APV"
+      ],
+      "elements": [],
+      "sourcePage": "p. 7",
+      "groupId": "g-4.1.3"
+    },
+    {
+      "id": "4.1.4",
+      "moduleId": "m04",
+      "title": "Honden",
+      "taxonomy": "T",
+      "levels": [
+        "T"
+      ],
+      "description": "De kandidaat kan bij een gegeven situatie vaststellen welke bepaling wordt overtreden: verboden plaatsen voor honden, aanlijnen van honden, opruimen van hondenpoep.",
+      "articles": [
+        "artt. 2:57 t/m 2:59 Model-APV"
+      ],
+      "elements": [],
+      "sourcePage": "p. 7",
+      "groupId": "g-4.1.4"
+    },
+    {
+      "id": "4.1.5",
+      "moduleId": "m04",
+      "title": "Collecteren, venten, straatartiest en standplaats",
+      "taxonomy": "K/T",
+      "levels": [
+        "K",
+        "T"
+      ],
+      "description": "De kandidaat kan benoemen wat de voorwaarden zijn om te mogen collecteren, venten, als straatartiest op te treden of een standplaats in te nemen en kan bij een gegeven situatie bepalen of een bepaling wordt overtreden.",
+      "articles": [
+        "artt. 2:9, 5:13, 5:14 en 5:15, 5:17 t/m 5:20 Model-APV"
+      ],
+      "elements": [],
+      "sourcePage": "p. 7",
+      "groupId": "g-4.1.5"
+    },
+    {
+      "id": "4.1.6",
+      "moduleId": "m04",
+      "title": "Natuurlijke behoefte",
+      "taxonomy": "K",
+      "levels": [
+        "K"
+      ],
+      "description": "De kandidaat kan benoemen waar het verboden is zijn natuurlijke behoefte te doen.",
+      "articles": [
+        "art. 4:8 Model-APV"
+      ],
+      "elements": [],
+      "sourcePage": "p. 7",
+      "groupId": "g-4.1.6"
+    },
+    {
+      "id": "4.1.7",
+      "moduleId": "m04",
+      "title": "Parkeeroverlast",
+      "taxonomy": "T",
+      "levels": [
+        "T"
+      ],
+      "description": "De kandidaat kan bij een gegeven situatie vaststellen of er sprake is van parkeeroverlast door voertuigen.",
+      "articles": [
+        "artt. 5:2 t/m 5:9, 5:11, 5:12 Model-APV"
+      ],
+      "elements": [],
+      "sourcePage": "p. 7",
+      "groupId": "g-4.1.7"
+    },
+    {
+      "id": "4.1.8",
+      "moduleId": "m04",
+      "title": "Snuffelmarkt/rommelmarkt",
+      "taxonomy": "T",
+      "levels": [
+        "T"
+      ],
+      "description": "De kandidaat kan bij een gegeven situatie vaststellen of er sprake is van een snuffelmarkt/rommelmarkt.",
+      "articles": [
+        "artt. 5:22, 5:23 Model-APV"
+      ],
+      "elements": [],
+      "sourcePage": "p. 7",
+      "groupId": "g-4.1.8-4.1.9"
+    },
+    {
+      "id": "4.1.9",
+      "moduleId": "m04",
+      "title": "Vuur stoken",
+      "taxonomy": "T",
+      "levels": [
+        "T"
+      ],
+      "description": "De kandidaat kan bij een gegeven situatie vaststellen of er stoffen worden verbrand of dat er anderszins vuur wordt gestookt op een manier die niet is toegestaan.",
+      "articles": [
+        "art. 5:34 Model-APV"
+      ],
+      "elements": [],
+      "sourcePage": "p. 7",
+      "groupId": "g-4.1.8-4.1.9"
+    },
+    {
+      "id": "5.1.1",
+      "moduleId": "m05",
+      "title": "Wegslepen",
+      "taxonomy": "T",
+      "levels": [
+        "T"
+      ],
+      "description": "De kandidaat kan bij een gegeven situatie vaststellen in welk geval en op wiens last bestuursdwang is toegestaan met betrekking tot het overbrengen, wegslepen en bewaren van voertuigen en kan vaststellen wie verplicht is de kosten hiervan te voldoen.",
+      "articles": [
+        "art. 130 lid 4 WVW",
+        "art. 164 lid 7 WVW",
+        "artt. 170 t/m 174 WVW"
+      ],
+      "elements": [],
+      "sourcePage": "p. 8",
+      "groupId": "g-5.1.1"
+    },
+    {
+      "id": "5.2.1",
+      "moduleId": "m05",
+      "title": "Stop- en parkeerverboden",
+      "taxonomy": "T",
+      "levels": [
+        "T"
+      ],
+      "description": "De kandidaat kan aan de hand van een foto of bij een gegeven situatie vaststellen of een stop- en parkeerverbod van toepassing is en of dit stop- en parkeerverbod correct is opgevolgd.",
+      "articles": [
+        "artt. 23 t/m 26 RVV 1990"
+      ],
+      "elements": [],
+      "sourcePage": "p. 8",
+      "groupId": "g-5.2.1"
+    },
+    {
+      "id": "5.2.2",
+      "moduleId": "m05",
+      "title": "Aanwijzingen",
+      "taxonomy": "T",
+      "levels": [
+        "T"
+      ],
+      "description": "De kandidaat kan bij een gegeven situatie vaststellen wie bevoegd is aanwijzingen te geven aan weggebruikers, op welke wijze dit moet gebeuren en welke aanwijzingen weggebruikers moeten opvolgen.",
+      "articles": [
+        "art. 82 RVV 1990"
+      ],
+      "elements": [],
+      "sourcePage": "p. 8",
+      "groupId": "g-5.2.2"
+    },
+    {
+      "id": "5.3.1",
+      "moduleId": "m06",
+      "title": "Alcoholwet art. 45 en 45a",
+      "taxonomy": "T",
+      "levels": [
+        "T"
+      ],
+      "description": "De kandidaat kan bij een gegeven situatie vaststellen of artikel 45 of artikel 45a van de Alcoholwet wordt overtreden.",
+      "articles": [
+        "art. 45 Alcoholwet",
+        "art. 45a Alcoholwet"
+      ],
+      "elements": [
+        "Verbod voor minderjarigen om alcohol op publiek toegankelijke plaatsen aanwezig te hebben",
+        "Verbod op wederverstrekking van alcohol door meerderjarigen aan minderjarigen op publiek toegankelijke plaatsen"
+      ],
+      "sourcePage": "p. 8",
+      "groupId": "g-5.3.1"
+    },
+    {
+      "id": "5.4.1",
+      "moduleId": "m07",
+      "title": "Winkeltijdenwet",
+      "taxonomy": "K/B",
+      "levels": [
+        "K",
+        "B"
+      ],
+      "description": "De kandidaat kan uitleggen wat wordt verstaan onder het begrip winkel en hoe de openingstijden van een winkel voor het publiek wettelijk zijn geregeld.",
+      "articles": [
+        "art. 1 Winkeltijdenwet",
+        "artt. 2, 3, 8 Winkeltijdenwet"
+      ],
+      "elements": [
+        "Winkel",
+        "Wettelijke regeling openingstijden"
+      ],
+      "sourcePage": "p. 8",
+      "groupId": "g-5.4.1"
+    },
+    {
+      "id": "5.5.1",
+      "moduleId": "m08",
+      "title": "WED-bevoegdheden",
+      "taxonomy": "T",
+      "levels": [
+        "T"
+      ],
+      "description": "De kandidaat kan bij een gegeven situatie vaststellen wat de bevoegdheden zijn voor de opsporingsambtenaar met betrekking tot een economisch delict.",
+      "articles": [
+        "art. 18 WED",
+        "art. 19 WED",
+        "art. 20 WED",
+        "art. 21 WED",
+        "art. 23 WED"
+      ],
+      "elements": [
+        "Inbeslagneming",
+        "Inzage vorderen",
+        "Toegang",
+        "Onderzoeken zaken",
+        "Onderzoeken vervoermiddelen"
+      ],
+      "sourcePage": "p. 8",
+      "groupId": "g-5.5"
+    },
+    {
+      "id": "5.5.2",
+      "moduleId": "m08",
+      "title": "WED-medewerking",
+      "taxonomy": "T",
+      "levels": [
+        "T"
+      ],
+      "description": "De kandidaat kan bij een gegeven situatie aangeven welke medewerking kan worden gevorderd bij de uitoefening van opsporingsbevoegdheden wanneer een economisch delict is geconstateerd.",
+      "articles": [
+        "art. 24a WED"
+      ],
+      "elements": [
+        "Medewerking vorderen"
+      ],
+      "sourcePage": "p. 8",
+      "groupId": "g-5.5"
+    },
+    {
+      "id": "5.6.1",
+      "moduleId": "m09",
+      "title": "Lozingsactiviteit op een oppervlaktewaterlichaam",
+      "taxonomy": "K",
+      "levels": [
+        "K"
+      ],
+      "description": "De kandidaat kan het begrip lozingsactiviteit op een oppervlaktewaterlichaam omschrijven.",
+      "articles": [
+        "Bijlage bij art. 1.1 Ow"
+      ],
+      "elements": [],
+      "sourcePage": "p. 9",
+      "groupId": "g-5.6"
+    },
+    {
+      "id": "5.6.2",
+      "moduleId": "m09",
+      "title": "Storten of in de bodem brengen van stoffen",
+      "taxonomy": "T",
+      "levels": [
+        "T"
+      ],
+      "description": "De kandidaat kan bij een gegeven situatie bepalen of er sprake is van het storten of in de bodem brengen van bedrijfsafvalstoffen of gevaarlijke stoffen.",
+      "articles": [
+        "§ 3.2.14 Bal"
+      ],
+      "elements": [],
+      "sourcePage": "p. 9",
+      "groupId": "g-5.6"
+    },
+    {
+      "id": "5.6.3",
+      "moduleId": "m09",
+      "title": "Afval rond de locatie van een activiteit (zwerfvuil)",
+      "taxonomy": "T",
+      "levels": [
+        "T"
+      ],
+      "description": "De kandidaat kan bij een gegeven situatie vaststellen wanneer rond de locatie waarop een activiteit wordt verricht, afval en materialen in de buurt van die activiteit moeten worden verwijderd die van die activiteit afkomstig zijn.",
+      "articles": [
+        "art. 22.53 bruidsschat omgevingsplan"
+      ],
+      "elements": [],
+      "sourcePage": "p. 9",
+      "groupId": "g-5.6"
+    },
+    {
+      "id": "5.7.1",
+      "moduleId": "m10",
+      "title": "Visserijwet",
+      "taxonomy": "T",
+      "levels": [
+        "T"
+      ],
+      "description": "De kandidaat kan een schriftelijke toestemming van de rechthebbende, geldend voor de visserij, controleren op geldigheid.",
+      "articles": [
+        "art. 23 Visserijwet 1963"
+      ],
+      "elements": [],
+      "sourcePage": "p. 9",
+      "groupId": "g-5.7.1"
+    },
+    {
+      "id": "5.8.1",
+      "moduleId": "m11",
+      "title": "Wet milieubeheer",
+      "taxonomy": "T",
+      "levels": [
+        "T"
+      ],
+      "description": "De kandidaat kan bij een gegeven situatie vaststellen wie strafbaar is voor het aanbieden van bedrijfsafval als huishoudelijk afval.",
+      "articles": [
+        "Model Afvalstoffenverordening",
+        "art. 10.37 lid 1 Wm"
+      ],
+      "elements": [],
+      "sourcePage": "p. 9",
+      "groupId": "g-5.8.1"
+    }
+  ],
+  "examGroups": [
+    {
+      "id": "g-1.1.1",
+      "label": "Term 1.1.1",
+      "termIds": [
+        "1.1.1"
+      ],
+      "questionCount": 2
+    },
+    {
+      "id": "g-1.1.2",
+      "label": "Term 1.1.2",
+      "termIds": [
+        "1.1.2"
+      ],
+      "questionCount": 1
+    },
+    {
+      "id": "g-1.2",
+      "label": "Termen 1.2.1 en 1.2.2",
+      "termIds": [
+        "1.2.1",
+        "1.2.2"
+      ],
+      "questionCount": 1
+    },
+    {
+      "id": "g-1.3.1",
+      "label": "Term 1.3.1",
+      "termIds": [
+        "1.3.1"
+      ],
+      "questionCount": 1
+    },
+    {
+      "id": "g-1.3.2",
+      "label": "Term 1.3.2",
+      "termIds": [
+        "1.3.2"
+      ],
+      "questionCount": 1
+    },
+    {
+      "id": "g-2.1.1-2.1.2",
+      "label": "Termen 2.1.1 en 2.1.2",
+      "termIds": [
+        "2.1.1",
+        "2.1.2"
+      ],
+      "questionCount": 2
+    },
+    {
+      "id": "g-2.1.3",
+      "label": "Term 2.1.3",
+      "termIds": [
+        "2.1.3"
+      ],
+      "questionCount": 1
+    },
+    {
+      "id": "g-2.2.1",
+      "label": "Term 2.2.1",
+      "termIds": [
+        "2.2.1"
+      ],
+      "questionCount": 2
+    },
+    {
+      "id": "g-2.2.2",
+      "label": "Term 2.2.2",
+      "termIds": [
+        "2.2.2"
+      ],
+      "questionCount": 1
+    },
+    {
+      "id": "g-2.2.3",
+      "label": "Term 2.2.3",
+      "termIds": [
+        "2.2.3"
+      ],
+      "questionCount": 1
+    },
+    {
+      "id": "g-2.2.4",
+      "label": "Term 2.2.4",
+      "termIds": [
+        "2.2.4"
+      ],
+      "questionCount": 1
+    },
+    {
+      "id": "g-2.3.1",
+      "label": "Term 2.3.1",
+      "termIds": [
+        "2.3.1"
+      ],
+      "questionCount": 1
+    },
+    {
+      "id": "g-2.3.2",
+      "label": "Term 2.3.2",
+      "termIds": [
+        "2.3.2"
+      ],
+      "questionCount": 1
+    },
+    {
+      "id": "g-2.4.1",
+      "label": "Term 2.4.1",
+      "termIds": [
+        "2.4.1"
+      ],
+      "questionCount": 1
+    },
+    {
+      "id": "g-2.4.2-2.4.3",
+      "label": "Termen 2.4.2 en 2.4.3",
+      "termIds": [
+        "2.4.2",
+        "2.4.3"
+      ],
+      "questionCount": 1
+    },
+    {
+      "id": "g-2.5",
+      "label": "Termen 2.5.1 t/m 2.5.4",
+      "termIds": [
+        "2.5.1",
+        "2.5.2",
+        "2.5.3",
+        "2.5.4"
+      ],
+      "questionCount": 2
+    },
+    {
+      "id": "g-2.6.1",
+      "label": "Term 2.6.1",
+      "termIds": [
+        "2.6.1"
+      ],
+      "questionCount": 3
+    },
+    {
+      "id": "g-2.6.2",
+      "label": "Term 2.6.2",
+      "termIds": [
+        "2.6.2"
+      ],
+      "questionCount": 1
+    },
+    {
+      "id": "g-3.1.1",
+      "label": "Term 3.1.1",
+      "termIds": [
+        "3.1.1"
+      ],
+      "questionCount": 1
+    },
+    {
+      "id": "g-3.1.2",
+      "label": "Term 3.1.2",
+      "termIds": [
+        "3.1.2"
+      ],
+      "questionCount": 1
+    },
+    {
+      "id": "g-3.2.1",
+      "label": "Term 3.2.1",
+      "termIds": [
+        "3.2.1"
+      ],
+      "questionCount": 1
+    },
+    {
+      "id": "g-3.2.2",
+      "label": "Term 3.2.2",
+      "termIds": [
+        "3.2.2"
+      ],
+      "questionCount": 3
+    },
+    {
+      "id": "g-4.1.1",
+      "label": "Term 4.1.1",
+      "termIds": [
+        "4.1.1"
+      ],
+      "questionCount": 1
+    },
+    {
+      "id": "g-4.1.2",
+      "label": "Term 4.1.2",
+      "termIds": [
+        "4.1.2"
+      ],
+      "questionCount": 1
+    },
+    {
+      "id": "g-4.1.3",
+      "label": "Term 4.1.3",
+      "termIds": [
+        "4.1.3"
+      ],
+      "questionCount": 1
+    },
+    {
+      "id": "g-4.1.4",
+      "label": "Term 4.1.4",
+      "termIds": [
+        "4.1.4"
+      ],
+      "questionCount": 1
+    },
+    {
+      "id": "g-4.1.5",
+      "label": "Term 4.1.5",
+      "termIds": [
+        "4.1.5"
+      ],
+      "questionCount": 1
+    },
+    {
+      "id": "g-4.1.6",
+      "label": "Term 4.1.6",
+      "termIds": [
+        "4.1.6"
+      ],
+      "questionCount": 1
+    },
+    {
+      "id": "g-4.1.7",
+      "label": "Term 4.1.7",
+      "termIds": [
+        "4.1.7"
+      ],
+      "questionCount": 1
+    },
+    {
+      "id": "g-4.1.8-4.1.9",
+      "label": "Termen 4.1.8 en 4.1.9",
+      "termIds": [
+        "4.1.8",
+        "4.1.9"
+      ],
+      "questionCount": 1
+    },
+    {
+      "id": "g-5.1.1",
+      "label": "Term 5.1.1",
+      "termIds": [
+        "5.1.1"
+      ],
+      "questionCount": 1
+    },
+    {
+      "id": "g-5.2.1",
+      "label": "Term 5.2.1",
+      "termIds": [
+        "5.2.1"
+      ],
+      "questionCount": 2
+    },
+    {
+      "id": "g-5.2.2",
+      "label": "Term 5.2.2",
+      "termIds": [
+        "5.2.2"
+      ],
+      "questionCount": 1
+    },
+    {
+      "id": "g-5.3.1",
+      "label": "Term 5.3.1",
+      "termIds": [
+        "5.3.1"
+      ],
+      "questionCount": 2
+    },
+    {
+      "id": "g-5.4.1",
+      "label": "Term 5.4.1",
+      "termIds": [
+        "5.4.1"
+      ],
+      "questionCount": 1
+    },
+    {
+      "id": "g-5.5",
+      "label": "Termen 5.5.1 en 5.5.2",
+      "termIds": [
+        "5.5.1",
+        "5.5.2"
+      ],
+      "questionCount": 1
+    },
+    {
+      "id": "g-5.6",
+      "label": "Termen 5.6.1 t/m 5.6.3",
+      "termIds": [
+        "5.6.1",
+        "5.6.2",
+        "5.6.3"
+      ],
+      "questionCount": 2
+    },
+    {
+      "id": "g-5.7.1",
+      "label": "Term 5.7.1",
+      "termIds": [
+        "5.7.1"
+      ],
+      "questionCount": 1
+    },
+    {
+      "id": "g-5.8.1",
+      "label": "Term 5.8.1",
+      "termIds": [
+        "5.8.1"
+      ],
+      "questionCount": 1
+    }
+  ],
+  "mandatoryItems": [
+    {
+      "id": "sr-184",
+      "termId": "2.2.4",
+      "label": "Niet voldoen aan bevel/vordering; belemmeren ambtshandeling",
+      "law": "Wetboek van Strafrecht",
+      "article": "^art\\. 184( lid 1)?$",
+      "minQuestions": 3,
+      "level": "T"
+    },
+    {
+      "id": "sr-185",
+      "termId": "2.2.4",
+      "label": "Opschudding en niet verwijderen na bevel",
+      "law": "Wetboek van Strafrecht",
+      "article": "^art\\. 185$",
+      "minQuestions": 3,
+      "level": "T"
+    },
+    {
+      "id": "sr-266-267-269",
+      "termId": "2.2.4",
+      "label": "Belediging van een ambtenaar",
+      "law": "Wetboek van Strafrecht",
+      "article": "^art\\. 26[679]( lid 1)?",
+      "minQuestions": 3,
+      "level": "T"
+    },
+    {
+      "id": "sr-285",
+      "termId": "2.2.4",
+      "label": "Bedreiging van een ambtenaar",
+      "law": "Wetboek van Strafrecht",
+      "article": "^art\\. 285( lid [15])?",
+      "minQuestions": 3,
+      "level": "T"
+    },
+    {
+      "id": "sr-231",
+      "termId": "2.2.1",
+      "label": "Vals of vervalst identiteitsbewijs voorhanden hebben of gebruiken",
+      "law": "Wetboek van Strafrecht",
+      "article": "^art\\. 231( lid 2)?$",
+      "minQuestions": 2
+    },
+    {
+      "id": "wid-1",
+      "termId": "2.2.1",
+      "label": "Identiteitsdocumenten",
+      "law": "Wet op de identificatieplicht",
+      "article": "^art\\. 1",
+      "minQuestions": 2
+    },
+    {
+      "id": "sv-55b",
+      "termId": "2.2.1",
+      "label": "Identificatiefouillering",
+      "law": "Wetboek van Strafvordering",
+      "article": "^art\\. 55b",
+      "minQuestions": 2
+    },
+    {
+      "id": "sv-128",
+      "termId": "2.2.2",
+      "label": "Heterdaad",
+      "law": "Wetboek van Strafvordering",
+      "article": "^art\\. 128",
+      "minQuestions": 2
+    },
+    {
+      "id": "sv-53-54",
+      "termId": "2.2.2",
+      "label": "Aanhouden op en buiten heterdaad",
+      "law": "Wetboek van Strafvordering",
+      "article": "^art\\. 5[34]",
+      "minQuestions": 3
+    },
+    {
+      "id": "sv-67",
+      "termId": "2.2.2",
+      "label": "Voorlopige-hechtenisfeiten",
+      "law": "Wetboek van Strafvordering",
+      "article": "^art\\. 67",
+      "minQuestions": 1
+    },
+    {
+      "id": "sv-55",
+      "termId": "2.2.2",
+      "label": "Betreden ter aanhouding",
+      "law": "Wetboek van Strafvordering",
+      "article": "^art\\. 55( lid \\d)?$",
+      "minQuestions": 1
+    },
+    {
+      "id": "sv-55a",
+      "termId": "2.2.2",
+      "label": "Doorzoeken ter aanhouding",
+      "law": "Wetboek van Strafvordering",
+      "article": "^art\\. 55a",
+      "minQuestions": 1
+    },
+    {
+      "id": "herhaald",
+      "termId": "2.2.3",
+      "label": "Herhaalde en voortgezette toepassing van bevoegdheden",
+      "law": "Wetboek van Strafvordering",
+      "article": ".*",
+      "minQuestions": 3,
+      "level": "B"
+    },
+    {
+      "id": "sv-95-96",
+      "termId": "2.4.2",
+      "label": "Inbeslagneming en binnentreden ter inbeslagneming",
+      "law": "Wetboek van Strafvordering",
+      "article": "^art\\. 9[56]( lid [12])?$",
+      "minQuestions": 2
+    },
+    {
+      "id": "sv-96b",
+      "termId": "2.4.2",
+      "label": "Doorzoeken vervoermiddel ter inbeslagneming",
+      "law": "Wetboek van Strafvordering",
+      "article": "^art\\. 96b",
+      "minQuestions": 1
+    },
+    {
+      "id": "sv-116",
+      "termId": "2.4.2",
+      "label": "Vrijwillige afstand",
+      "law": "Wetboek van Strafvordering",
+      "article": "^art\\. 116",
+      "minQuestions": 1
+    },
+    {
+      "id": "sv-487",
+      "termId": "2.5.2",
+      "label": "Bevoegdheden t.a.v. twaalfminners",
+      "law": "Wetboek van Strafvordering",
+      "article": "^art\\. 487",
+      "minQuestions": 1
+    },
+    {
+      "id": "sv-488aa-489",
+      "termId": "2.5.3",
+      "label": "Rechtsbescherming minderjarige verdachte",
+      "law": "Wetboek van Strafvordering",
+      "article": "^art\\. 48(8a[abc]|9)",
+      "minQuestions": 3
+    },
+    {
+      "id": "sr-77e",
+      "termId": "2.5.4",
+      "label": "Halt-afdoening",
+      "law": "Wetboek van Strafrecht",
+      "article": "^art\\. 77e",
+      "minQuestions": 2
+    },
+    {
+      "id": "sv-27c",
+      "termId": "2.6.1",
+      "label": "Mededelingen in het proces-verbaal",
+      "law": "Wetboek van Strafvordering",
+      "article": "^art\\. 27c",
+      "minQuestions": 1
+    },
+    {
+      "id": "pvb",
+      "termId": "2.6.2",
+      "label": "Proces-verbaal van bevindingen",
+      "law": "Wetboek van Strafvordering",
+      "article": ".*",
+      "minQuestions": 2
+    },
+    {
+      "id": "alc-45",
+      "termId": "5.3.1",
+      "label": "Minderjarige met alcohol op publiek toegankelijke plaats",
+      "law": "Alcoholwet",
+      "article": "^art\\. 45( lid \\d)?$",
+      "minQuestions": 3,
+      "level": "T"
+    },
+    {
+      "id": "alc-45a",
+      "termId": "5.3.1",
+      "label": "Wederverstrekking door meerderjarige aan minderjarige",
+      "law": "Alcoholwet",
+      "article": "^art\\. 45a",
+      "minQuestions": 3,
+      "level": "T"
+    },
+    {
+      "id": "rvv-23-26",
+      "termId": "5.2.1",
+      "label": "Stop- en parkeerverboden (situatie/afbeelding)",
+      "law": "Reglement verkeersregels en verkeerstekens 1990",
+      "article": "^art\\. 2[3-6]",
+      "minQuestions": 4,
+      "level": "T"
+    },
+    {
+      "id": "ow-lozing",
+      "termId": "5.6.1",
+      "label": "Lozingsactiviteit op een oppervlaktewaterlichaam",
+      "law": "Omgevingswet",
+      "article": ".*",
+      "minQuestions": 2
+    },
+    {
+      "id": "bal-3214",
+      "termId": "5.6.2",
+      "label": "Storten of in de bodem brengen (Bal § 3.2.14)",
+      "law": "Besluit activiteiten leefomgeving",
+      "article": ".*",
+      "minQuestions": 2,
+      "level": "T"
+    },
+    {
+      "id": "bruidsschat-2253",
+      "termId": "5.6.3",
+      "label": "Zwerfvuil rond activiteit (art. 22.53 bruidsschat)",
+      "law": "omgevingsplan",
+      "article": "^art\\. 22\\.53",
+      "minQuestions": 2,
+      "level": "T"
+    },
+    {
+      "id": "wed-18-23",
+      "termId": "5.5.1",
+      "label": "WED-opsporingsbevoegdheden",
+      "law": "Wet op de economische delicten",
+      "article": "^art\\. (18|19|20|21|23)",
+      "minQuestions": 3,
+      "level": "T"
+    },
+    {
+      "id": "wed-24a",
+      "termId": "5.5.2",
+      "label": "Medewerking vorderen",
+      "law": "Wet op de economische delicten",
+      "article": "^art\\. 24a",
+      "minQuestions": 1,
+      "level": "T"
+    },
+    {
+      "id": "awb-5-11",
+      "termId": "3.2.1",
+      "label": "Toezichthouder en bevoegdheden",
+      "law": "Algemene wet bestuursrecht",
+      "article": "^art\\. 5:(1[1-9]|10a)",
+      "minQuestions": 3
+    },
+    {
+      "id": "awb-sancties",
+      "termId": "3.2.2",
+      "label": "Herstelsancties en bestuurlijke boete",
+      "law": "Algemene wet bestuursrecht",
+      "article": "^art\\. 5:(2|8|10|21|27|29|31d|40)",
+      "minQuestions": 3
+    },
+    {
+      "id": "wm-1037",
+      "termId": "5.8.1",
+      "label": "Bedrijfsafval als huishoudelijk afval",
+      "law": "Wet milieubeheer",
+      "article": "^art\\. 10\\.37",
+      "minQuestions": 1,
+      "level": "T"
+    },
+    {
+      "id": "vis-23",
+      "termId": "5.7.1",
+      "label": "Schriftelijke toestemming visserij",
+      "law": "Visserijwet 1963",
+      "article": "^art\\. 23",
+      "minQuestions": 1,
+      "level": "T"
+    }
+  ]
 }

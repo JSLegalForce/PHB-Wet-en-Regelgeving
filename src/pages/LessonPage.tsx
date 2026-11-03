@@ -1,7 +1,7 @@
 import { useEffect, useRef } from 'react'
 import { Link, useParams, useSearchParams } from 'react-router-dom'
 import type { Lesson, Screen } from '../content/schema'
-import { getLesson, getModule, getQuestion, nextLesson } from '../content'
+import { curriculum, getLesson, getModule, getQuestion, nextLesson } from '../content'
 import { markScreen, useProgress } from '../lib/progress'
 import { Icon } from '../components/Layout'
 import { QuestionCard } from '../components/QuestionCard'
@@ -59,6 +59,12 @@ export function LessonPage() {
         <div>
           <p className="eyebrow">
             Les {lesson.order} · ca. {lesson.minutes} min
+            {lesson.termIds.length > 0 && (
+              <span title={lesson.termIds.map((id) => `${id}: ${curriculum.terms.find((t) => t.id === id)?.title ?? ''}`).join(' · ')}>
+                {' '}
+                · Toetsterm {lesson.termIds.join(', ')}
+              </span>
+            )}
           </p>
           <h1 className="text-2xl font-extrabold text-navy-900 sm:text-3xl">{lesson.title}</h1>
         </div>
