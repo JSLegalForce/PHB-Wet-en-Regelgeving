@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>PHB Wet- en Regelgeving Domein I - JS Legal Force</title>
+  <meta name="description" content="Launcher voor de e-learning PHB Wet- en Regelgeving Domein I van JS Legal Force.">
+  <meta name="theme-color" content="#0a0f1e">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 40 44'%3E%3Cpath d='M20 2 37 8v13c0 11-7 18-17 21C10 39 3 32 3 21V8z' fill='%23112558'/%3E%3Ctext x='20' y='27' text-anchor='middle' font-family='Arial' font-size='13' font-weight='700' fill='%23fff'%3EJS%3C/text%3E%3C/svg%3E">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+  <style>
+    *{box-sizing:border-box;margin:0;padding:0;}
+    html,body{height:100%;font-family:'Outfit',sans-serif;}
+    body{background:#0a0f1e;display:flex;align-items:center;justify-content:center;min-height:100vh;overflow:hidden;}
+    .bg-grid{position:fixed;inset:0;pointer-events:none;background-image:linear-gradient(rgba(45,64,153,0.12) 1px,transparent 1px),linear-gradient(90deg,rgba(45,64,153,0.12) 1px,transparent 1px);background-size:56px 56px;animation:gridMove 25s linear infinite;}
+    @keyframes gridMove{0%{background-position:0 0}100%{background-position:56px 56px}}
+    .orb{position:fixed;border-radius:50%;filter:blur(90px);pointer-events:none;}
+    .orb-1{width:500px;height:500px;background:rgba(26,42,94,0.7);top:-150px;right:-100px;animation:f1 9s ease-in-out infinite;}
+    .orb-2{width:380px;height:380px;background:rgba(45,64,153,0.45);bottom:-100px;left:-80px;animation:f2 11s ease-in-out infinite;}
+    .orb-3{width:260px;height:260px;background:rgba(230,161,51,0.10);bottom:-120px;right:8%;}
+    @keyframes f1{0%,100%{transform:translate(0,0)}50%{transform:translate(-40px,40px)}}
+    @keyframes f2{0%,100%{transform:translate(0,0)}50%{transform:translate(30px,-30px)}}
+    .card{position:relative;z-index:10;width:min(500px,92vw);background:rgba(255,255,255,0.04);border:1px solid rgba(255,255,255,0.1);border-radius:24px;padding:56px 44px 40px;text-align:center;backdrop-filter:blur(24px);-webkit-backdrop-filter:blur(24px);box-shadow:0 32px 80px rgba(0,0,0,0.6);animation:cardIn 0.8s cubic-bezier(0.34,1.56,0.64,1) both;}
+    @keyframes cardIn{from{opacity:0;transform:translateY(40px) scale(0.92)}to{opacity:1;transform:translateY(0) scale(1)}}
+    .corner{position:absolute;width:18px;height:18px;}
+    .tl{top:16px;left:16px;border-top:2px solid rgba(138,154,181,0.5);border-left:2px solid rgba(138,154,181,0.5);border-radius:4px 0 0 0;}
+    .tr{top:16px;right:16px;border-top:2px solid rgba(230,161,51,0.55);border-right:2px solid rgba(230,161,51,0.55);border-radius:0 4px 0 0;}
+    .bl{bottom:16px;left:16px;border-bottom:2px solid rgba(230,161,51,0.55);border-left:2px solid rgba(230,161,51,0.55);border-radius:0 0 0 4px;}
+    .br{bottom:16px;right:16px;border-bottom:2px solid rgba(138,154,181,0.5);border-right:2px solid rgba(138,154,181,0.5);border-radius:0 0 4px 0;}
+    .shield-wrap{display:inline-block;margin-bottom:28px;animation:shieldFloat 3.5s ease-in-out infinite;filter:drop-shadow(0 0 28px rgba(45,64,153,0.9));}
+    @keyframes shieldFloat{0%,100%{transform:translateY(0)}50%{transform:translateY(-8px)}}
+    .ring{position:relative;display:inline-block;}
+    .ring::before{content:'';position:absolute;inset:-14px;border-radius:50%;border:1px solid rgba(138,154,181,0.25);animation:rp 2.5s ease-in-out infinite;}
+    .ring::after{content:'';position:absolute;inset:-24px;border-radius:50%;border:1px solid rgba(138,154,181,0.12);animation:rp 2.5s ease-in-out infinite 0.5s;}
+    @keyframes rp{0%,100%{opacity:1;transform:scale(1)}50%{opacity:0.4;transform:scale(1.06)}}
+    .brand{font-weight:900;font-size:1.85rem;color:#fff;letter-spacing:-0.02em;margin-bottom:4px;}
+    .divider{width:48px;height:2px;background:linear-gradient(90deg,transparent,rgba(230,161,51,0.85),transparent);margin:16px auto;}
+    .course{font-weight:800;font-size:1.45rem;line-height:1.2;color:#fff;letter-spacing:-0.01em;margin-bottom:10px;}
+    .lead{font-size:1rem;line-height:1.45;color:rgba(220,228,245,0.88);font-weight:400;margin:0 auto 14px;max-width:24em;}
+    .sub{font-size:0.71rem;color:rgba(138,154,181,0.75);font-weight:600;letter-spacing:0.2em;text-transform:uppercase;margin-bottom:32px;}
+    .btn{position:relative;overflow:hidden;width:100%;background:linear-gradient(135deg,#1a2a5e,#2d4099);color:#fff;border:1px solid rgba(138,154,181,0.25);border-radius:14px;padding:18px 24px;font-family:'Outfit',sans-serif;font-weight:800;font-size:1.05rem;cursor:pointer;display:flex;align-items:center;justify-content:center;gap:12px;box-shadow:0 4px 28px rgba(26,42,94,0.6);transition:transform 0.2s,box-shadow 0.2s;text-decoration:none;}
+    .btn:hover{transform:translateY(-3px);box-shadow:0 10px 44px rgba(45,64,153,0.7);}
+    .btn:active{transform:scale(0.98);}
+    .btn:focus-visible{outline:3px solid rgba(230,161,51,0.95);outline-offset:3px;}
+    .btn::after{content:'';position:absolute;top:0;left:-100%;width:50%;height:100%;background:linear-gradient(90deg,transparent,rgba(255,255,255,0.12),transparent);animation:shimmer 3s ease-in-out infinite 1.5s;}
+    @keyframes shimmer{0%{left:-100%}60%,100%{left:150%}}
+    .peil{margin-top:22px;font-size:0.8rem;color:rgba(138,154,181,0.8);}
+    .peil b{color:rgba(220,228,245,0.95);font-weight:700;}
+    /* terugvaloptie bij pop-upblokkering */
+    .fallback{display:none;margin-top:22px;padding:16px 18px;border-radius:14px;background:rgba(255,255,255,0.05);border:1px solid rgba(138,154,181,0.3);color:rgba(220,228,245,0.92);font-size:0.9rem;line-height:1.45;text-align:left;}
+    .fallback.show{display:block;animation:cardIn 0.5s ease both;}
+    .fallback b{color:#fff;}
+    .fb-acts{display:flex;flex-direction:column;gap:8px;margin-top:12px;}
+    .fb-btn{display:block;text-align:center;padding:11px 14px;border-radius:10px;border:1px solid rgba(138,154,181,0.35);background:rgba(45,64,153,0.35);color:#fff!important;text-decoration:none;font-weight:700;}
+    .fb-btn:focus-visible{outline:3px solid rgba(230,161,51,0.95);outline-offset:2px;}
+    .fb-url{margin-top:10px;font-size:0.78rem;word-break:break-all;color:rgba(138,154,181,0.9);}
+    body.fb-open{overflow-y:auto;align-items:flex-start;padding:24px 0;}
+    @media (max-height:680px){body{overflow:auto;align-items:flex-start;padding:16px 0;}}
+    @media (max-width:420px){.card{padding:44px 22px 32px;}.course{font-size:1.3rem;}.btn{padding:16px 16px;font-size:1rem;}}
+    @media (prefers-reduced-motion:reduce){*,*::before,*::after{animation:none!important;}}
+  </style>
+</head>
+<body>
+  <div class="bg-grid" aria-hidden="true"></div>
+  <div class="orb orb-1" aria-hidden="true"></div>
+  <div class="orb orb-2" aria-hidden="true"></div>
+  <div class="orb orb-3" aria-hidden="true"></div>
+  <main class="card">
+    <div class="corner tl" aria-hidden="true"></div><div class="corner tr" aria-hidden="true"></div>
+    <div class="corner bl" aria-hidden="true"></div><div class="corner br" aria-hidden="true"></div>
+    <div class="shield-wrap" aria-hidden="true"><div class="ring">
+      <svg viewBox="0 0 80 93" fill="none" xmlns="http://www.w3.org/2000/svg" style="width:84px;height:98px;display:block;" aria-hidden="true">
+        <path d="M40 0L80 18V49C80 71 62 86 40 93C18 86 0 71 0 49V18L40 0Z" fill="rgba(26,42,94,0.8)"/>
+        <path d="M40 5L75 21V49C75 69 60 82 40 88C20 82 5 69 5 49V21L40 5Z" fill="rgba(36,53,128,0.9)"/>
+        <path d="M40 13L68 26V49C68 65 55 76 40 81C25 76 12 65 12 49V26L40 13Z" fill="#2d4099"/>
+        <path d="M40 20L62 30V49C62 62 52 71 40 75C28 71 18 62 18 49V30L40 20Z" fill="#3550b8"/>
+        <text x="40" y="59" text-anchor="middle" font-family="Outfit,sans-serif" font-weight="900" font-size="22" fill="white" letter-spacing="2">JS</text>
+      </svg>
+    </div></div>
+    <p class="brand">JS Legal Force</p>
+    <div class="divider" aria-hidden="true"></div>
+    <h1 class="course">PHB Wet- en Regelgeving Domein I</h1>
+    <p class="lead">Permanente her- en bijscholing: elf modules, oefenvragen met uitleg en een proefexamen</p>
+    <p class="sub">E-learning voor boa’s · Domein I</p>
+    <a class="btn" id="open" href="https://jslegalforce.github.io/PHB-Wet-en-Regelgeving/" target="_blank" rel="noopener">
+      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink:0;" aria-hidden="true"><polyline points="15 3 21 3 21 9"></polyline><polyline points="9 21 3 21 3 15"></polyline><line x1="21" y1="3" x2="14" y2="10"></line><line x1="3" y1="21" x2="10" y2="14"></line></svg>
+      Open e-learning op groot scherm
+    </a>
+    <div class="fallback" id="fb" role="alert" aria-live="assertive">
+      <b>De e-learning kon niet automatisch worden geopend.</b><br>
+      Je browser of leeromgeving blokkeert waarschijnlijk nieuwe vensters. Kies hieronder een andere manier:
+      <div class="fb-acts">
+        <a class="fb-btn" id="fb-tab" href="https://jslegalforce.github.io/PHB-Wet-en-Regelgeving/" target="_blank" rel="noopener">Open in een nieuw tabblad</a>
+        <a class="fb-btn" id="fb-top" href="https://jslegalforce.github.io/PHB-Wet-en-Regelgeving/" target="_top">Open in dit venster</a>
+      </div>
+      <p class="fb-url">Werkt dit ook niet? Sta pop-ups toe voor deze pagina, of kopieer dit adres naar een nieuw tabblad:<br><span id="fb-url">https://jslegalforce.github.io/PHB-Wet-en-Regelgeving/</span></p>
+    </div>
+    <p class="peil">Juridische peildatum: <b>2 november 2026</b></p>
+  </main>
+  <script>
+    (function(){
+      var URL_CURSUS='https://jslegalforce.github.io/PHB-Wet-en-Regelgeving/';
+      var btn=document.getElementById('open'), fb=document.getElementById('fb');
+      btn.addEventListener('click',function(e){
+        e.preventDefault();
+        var w=null;
+        try{ w=window.open(URL_CURSUS,'_blank','width='+screen.width+',height='+screen.height); }catch(err){ w=null; }
+        if(w){ try{ w.opener=null; }catch(err){} fb.classList.remove('show'); document.body.classList.remove('fb-open'); }
+        else { fb.classList.add('show'); document.body.classList.add('fb-open'); document.getElementById('fb-tab').focus(); }
+      });
+    })();
+  </script>
+</body>
+</html>

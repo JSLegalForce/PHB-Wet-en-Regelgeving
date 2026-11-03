@@ -3,7 +3,7 @@
 E-learning voor boa's in Domein I ter voorbereiding op het PHB-examen Wet- en Regelgeving: elf modules met korte lessen, oefenvragen met waarom-uitleg, een proefexamen (50 vragen, 90 minuten, cesuur 70%) en een kennisbank. Zelfde JS Legal Force-uitstraling als de andere cursussen.
 
 - Live (na publicatie): https://jslegalforce.github.io/PHB-Wet-en-Regelgeving/
-- Launcher (donker startscherm met "Open e-learning op groot scherm"): `launcher/index.html` – bedoeld voor een aparte repo `PHB-Wet-en-Regelgeving-launcher`, zelfde werking als de Vuurwerk-launcher.
+- Launcher (donker startscherm met "Open e-learning op groot scherm", zelfde werking als de Vuurwerk-launcher): https://jslegalforce.github.io/PHB-Wet-en-Regelgeving/launcher/ (bron: `launcher/index.html`, wordt bij `npm run build` naar `docs/launcher/` gekopieerd).
 
 ## Status (versie 0.9)
 
