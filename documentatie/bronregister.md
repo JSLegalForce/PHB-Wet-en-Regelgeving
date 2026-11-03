@@ -54,7 +54,8 @@ Per artikel is in de inhoud (`sourceRefs`) een link opgenomen in de vorm `https:
 Overige officiële bronnen:
 
 - **Bruidsschat omgevingsplan** (hoofdstuk 22 tijdelijk deel omgevingsplan), art. 22.53 *Afval: zwerfvuil*: Invoeringsbesluit Omgevingswet, Stb. 2020, 400 — https://zoek.officielebekendmakingen.nl/stb-2020-400.html. Let op: gemeenten kunnen het tijdelijke deel van hun omgevingsplan inmiddels hebben gewijzigd.
-- **Model-APV en Model Afvalstoffenverordening (VNG)**: geen officiële wetsbron in de BWB. Zie per module het rapport en de reviewpunten over de raadpleegbaarheid; nummering en inhoud verschillen per gemeente.
+- **Toelichting op de Model-APV (VNG, zomer 2024)** — aangeleverd door de opdrachtgever op 3-11-2026; gebruikt voor module 4 (artikelnummers, titels en strekking van de Model-APV-bepalingen uit de matrix). Nummering en inhoud van de lokaal vastgestelde APV kunnen afwijken.
+- **Model Afvalstoffenverordening (VNG)**: geen officiële wetsbron in de BWB; zie module 11 en de reviewpunten.
 
 ## 3. Aangeleverde lesmaterialen
 
@@ -65,6 +66,7 @@ Overige officiële bronnen:
 | PowerPoints lesdag 1, 2, 3 en AVO H4 | aanvullende inhoudelijke referentie | **niet aangeleverd** — niet verwerkt |
 | Oefentoets H1 (13), H2 (8), H3 (12) | 33 bestaande oefenvragen | **niet aangeleverd** — niet geïmporteerd; alle vragen hebben `origin: "nieuw"` |
 | Toetsmatrijs PHB v1.2 | vergelijking | zelf opgehaald van exth.nl (zie §1) |
+| Toelichting Model-APV zomer 2024 (VNG) | bron module 4 | **gebruikt** |
 
 ## 4. Werkwijze juridische controle
 
