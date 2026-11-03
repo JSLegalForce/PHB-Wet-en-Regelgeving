@@ -45,10 +45,10 @@ _Automatisch gegenereerd door `npm run check:content`. Juridische peildatum: 202
 | 2.5.4 | De Halt-afdoening | K | Termen 2.5.1 t/m 2.5.4 (2) | — | 0/0/0/0 | ❌ ontbreekt |
 | 2.6.1 | De inhoud van het proces-verbaal | K/B | Term 2.6.1 (3) | — | 0/0/0/0 | ❌ ontbreekt |
 | 2.6.2 | Proces-verbaal van bevindingen | K/B | Term 2.6.2 (1) | — | 0/0/0/0 | ❌ ontbreekt |
-| 3.1.1 | Het bestuursrecht | B | Term 3.1.1 (1) | — | 0/0/0/0 | ❌ ontbreekt |
-| 3.1.2 | De Algemene wet bestuursrecht | K | Term 3.1.2 (1) | — | 0/0/0/0 | ❌ ontbreekt |
-| 3.2.1 | De toezichthouder | K/T | Term 3.2.1 (1) | — | 0/0/0/0 | ❌ ontbreekt |
-| 3.2.2 | Bestuurlijke sancties en bestuurlijke boete | K/T | Term 3.2.2 (3) | — | 0/0/0/0 | ❌ ontbreekt |
+| 3.1.1 | Het bestuursrecht | B | Term 3.1.1 (1) | m03-l01 | 0/4/0/0 | ✅ volledig |
+| 3.1.2 | De Algemene wet bestuursrecht | K | Term 3.1.2 (1) | m03-l01 | 0/4/0/0 | ✅ volledig |
+| 3.2.1 | De toezichthouder | K/T | Term 3.2.1 (1) | m03-l02, m03-l03, m03-l05 | 0/15/0/0 | ✅ volledig |
+| 3.2.2 | Bestuurlijke sancties en bestuurlijke boete | K/T | Term 3.2.2 (3) | m03-l04, m03-l05 | 0/14/0/0 | ✅ volledig |
 | 4.1.1 | Begripsbepalingen | K | Term 4.1.1 (1) | — | 0/0/0/0 | ❌ ontbreekt |
 | 4.1.2 | Openbare orde | T | Term 4.1.2 (1) | — | 0/0/0/0 | ❌ ontbreekt |
 | 4.1.3 | Overlast | T | Term 4.1.3 (1) | — | 0/0/0/0 | ❌ ontbreekt |
@@ -58,20 +58,20 @@ _Automatisch gegenereerd door `npm run check:content`. Juridische peildatum: 202
 | 4.1.7 | Parkeeroverlast | T | Term 4.1.7 (1) | — | 0/0/0/0 | ❌ ontbreekt |
 | 4.1.8 | Snuffelmarkt/rommelmarkt | T | Termen 4.1.8 en 4.1.9 (1) | — | 0/0/0/0 | ❌ ontbreekt |
 | 4.1.9 | Vuur stoken | T | Termen 4.1.8 en 4.1.9 (1) | — | 0/0/0/0 | ❌ ontbreekt |
-| 5.1.1 | Wegslepen | T | Term 5.1.1 (1) | — | 0/0/0/0 | ❌ ontbreekt |
-| 5.2.1 | Stop- en parkeerverboden | T | Term 5.2.1 (2) | — | 0/0/0/0 | ❌ ontbreekt |
-| 5.2.2 | Aanwijzingen | T | Term 5.2.2 (1) | — | 0/0/0/0 | ❌ ontbreekt |
-| 5.3.1 | Alcoholwet art. 45 en 45a | T | Term 5.3.1 (2) | — | 0/0/0/0 | ❌ ontbreekt |
+| 5.1.1 | Wegslepen | T | Term 5.1.1 (1) | m05-l02 | 0/8/0/0 | ✅ volledig |
+| 5.2.1 | Stop- en parkeerverboden | T | Term 5.2.1 (2) | m05-l01, m05-l04 | 0/19/0/0 | ✅ volledig |
+| 5.2.2 | Aanwijzingen | T | Term 5.2.2 (1) | m05-l03 | 0/6/0/0 | ✅ volledig |
+| 5.3.1 | Alcoholwet art. 45 en 45a | T | Term 5.3.1 (2) | m06-l01, m06-l02 | 0/12/0/0 | ✅ volledig |
 | 5.4.1 | Winkeltijdenwet | K/B | Term 5.4.1 (1) | — | 0/0/0/0 | ❌ ontbreekt |
 | 5.5.1 | WED-bevoegdheden | T | Termen 5.5.1 en 5.5.2 (1) | — | 0/0/0/0 | ❌ ontbreekt |
 | 5.5.2 | WED-medewerking | T | Termen 5.5.1 en 5.5.2 (1) | — | 0/0/0/0 | ❌ ontbreekt |
-| 5.6.1 | Lozingsactiviteit op een oppervlaktewaterlichaam | K | Termen 5.6.1 t/m 5.6.3 (2) | — | 0/0/0/0 | ❌ ontbreekt |
-| 5.6.2 | Storten of in de bodem brengen van stoffen | T | Termen 5.6.1 t/m 5.6.3 (2) | — | 0/0/0/0 | ❌ ontbreekt |
-| 5.6.3 | Afval rond de locatie van een activiteit (zwerfvuil) | T | Termen 5.6.1 t/m 5.6.3 (2) | — | 0/0/0/0 | ❌ ontbreekt |
-| 5.7.1 | Visserijwet | T | Term 5.7.1 (1) | — | 0/0/0/0 | ❌ ontbreekt |
-| 5.8.1 | Wet milieubeheer | T | Term 5.8.1 (1) | — | 0/0/0/0 | ❌ ontbreekt |
+| 5.6.1 | Lozingsactiviteit op een oppervlaktewaterlichaam | K | Termen 5.6.1 t/m 5.6.3 (2) | m09-l01, m09-l02 | 0/4/0/0 | ✅ volledig |
+| 5.6.2 | Storten of in de bodem brengen van stoffen | T | Termen 5.6.1 t/m 5.6.3 (2) | m09-l01, m09-l03 | 0/5/0/0 | ✅ volledig |
+| 5.6.3 | Afval rond de locatie van een activiteit (zwerfvuil) | T | Termen 5.6.1 t/m 5.6.3 (2) | m09-l01, m09-l04 | 0/6/0/0 | ✅ volledig |
+| 5.7.1 | Visserijwet | T | Term 5.7.1 (1) | m10-l01, m10-l02 | 0/9/0/0 | ✅ volledig |
+| 5.8.1 | Wet milieubeheer | T | Term 5.8.1 (1) | m11-l01, m11-l02 | 0/4/1/0 | ✅ volledig |
 
-**Samenvatting:** 0 volledig · 0 review · 49 ontbreekt (van 49).
+**Samenvatting:** 13 volledig · 0 review · 36 ontbreekt (van 49).
 
 ## Per examengroep (quota uit de matrix)
 
@@ -97,10 +97,10 @@ Streefwaarde: 3 geschikte varianten per examenvraag. "Officieel" kan pas als ied
 | Termen 2.5.1 t/m 2.5.4 | 2.5.1, 2.5.2, 2.5.3, 2.5.4 | 2 | 0 | 0 | 0 | 0 | ⚠️ 0/6 | ❌ | ❌ |
 | Term 2.6.1 | 2.6.1 | 3 | 0 | 0 | 0 | 0 | ⚠️ 0/9 | ❌ | ❌ |
 | Term 2.6.2 | 2.6.2 | 1 | 0 | 0 | 0 | 0 | ⚠️ 0/3 | ❌ | ❌ |
-| Term 3.1.1 | 3.1.1 | 1 | 0 | 0 | 0 | 0 | ⚠️ 0/3 | ❌ | ❌ |
-| Term 3.1.2 | 3.1.2 | 1 | 0 | 0 | 0 | 0 | ⚠️ 0/3 | ❌ | ❌ |
-| Term 3.2.1 | 3.2.1 | 1 | 0 | 0 | 0 | 0 | ⚠️ 0/3 | ❌ | ❌ |
-| Term 3.2.2 | 3.2.2 | 3 | 0 | 0 | 0 | 0 | ⚠️ 0/9 | ❌ | ❌ |
+| Term 3.1.1 | 3.1.1 | 1 | 0 | 4 | 0 | 0 | ✅ 4/3 | ❌ | ✅ |
+| Term 3.1.2 | 3.1.2 | 1 | 0 | 4 | 0 | 0 | ✅ 4/3 | ❌ | ✅ |
+| Term 3.2.1 | 3.2.1 | 1 | 0 | 15 | 0 | 0 | ✅ 15/3 | ❌ | ✅ |
+| Term 3.2.2 | 3.2.2 | 3 | 0 | 14 | 0 | 0 | ✅ 14/9 | ❌ | ✅ |
 | Term 4.1.1 | 4.1.1 | 1 | 0 | 0 | 0 | 0 | ⚠️ 0/3 | ❌ | ❌ |
 | Term 4.1.2 | 4.1.2 | 1 | 0 | 0 | 0 | 0 | ⚠️ 0/3 | ❌ | ❌ |
 | Term 4.1.3 | 4.1.3 | 1 | 0 | 0 | 0 | 0 | ⚠️ 0/3 | ❌ | ❌ |
@@ -109,15 +109,15 @@ Streefwaarde: 3 geschikte varianten per examenvraag. "Officieel" kan pas als ied
 | Term 4.1.6 | 4.1.6 | 1 | 0 | 0 | 0 | 0 | ⚠️ 0/3 | ❌ | ❌ |
 | Term 4.1.7 | 4.1.7 | 1 | 0 | 0 | 0 | 0 | ⚠️ 0/3 | ❌ | ❌ |
 | Termen 4.1.8 en 4.1.9 | 4.1.8, 4.1.9 | 1 | 0 | 0 | 0 | 0 | ⚠️ 0/3 | ❌ | ❌ |
-| Term 5.1.1 | 5.1.1 | 1 | 0 | 0 | 0 | 0 | ⚠️ 0/3 | ❌ | ❌ |
-| Term 5.2.1 | 5.2.1 | 2 | 0 | 0 | 0 | 0 | ⚠️ 0/6 | ❌ | ❌ |
-| Term 5.2.2 | 5.2.2 | 1 | 0 | 0 | 0 | 0 | ⚠️ 0/3 | ❌ | ❌ |
-| Term 5.3.1 | 5.3.1 | 2 | 0 | 0 | 0 | 0 | ⚠️ 0/6 | ❌ | ❌ |
+| Term 5.1.1 | 5.1.1 | 1 | 0 | 8 | 0 | 0 | ✅ 8/3 | ❌ | ✅ |
+| Term 5.2.1 | 5.2.1 | 2 | 0 | 19 | 0 | 0 | ✅ 19/6 | ❌ | ✅ |
+| Term 5.2.2 | 5.2.2 | 1 | 0 | 6 | 0 | 0 | ✅ 6/3 | ❌ | ✅ |
+| Term 5.3.1 | 5.3.1 | 2 | 0 | 12 | 0 | 0 | ✅ 12/6 | ❌ | ✅ |
 | Term 5.4.1 | 5.4.1 | 1 | 0 | 0 | 0 | 0 | ⚠️ 0/3 | ❌ | ❌ |
 | Termen 5.5.1 en 5.5.2 | 5.5.1, 5.5.2 | 1 | 0 | 0 | 0 | 0 | ⚠️ 0/3 | ❌ | ❌ |
-| Termen 5.6.1 t/m 5.6.3 | 5.6.1, 5.6.2, 5.6.3 | 2 | 0 | 0 | 0 | 0 | ⚠️ 0/6 | ❌ | ❌ |
-| Term 5.7.1 | 5.7.1 | 1 | 0 | 0 | 0 | 0 | ⚠️ 0/3 | ❌ | ❌ |
-| Term 5.8.1 | 5.8.1 | 1 | 0 | 0 | 0 | 0 | ⚠️ 0/3 | ❌ | ❌ |
+| Termen 5.6.1 t/m 5.6.3 | 5.6.1, 5.6.2, 5.6.3 | 2 | 0 | 15 | 0 | 0 | ✅ 15/6 | ❌ | ✅ |
+| Term 5.7.1 | 5.7.1 | 1 | 0 | 9 | 0 | 0 | ✅ 9/3 | ❌ | ✅ |
+| Term 5.8.1 | 5.8.1 | 1 | 0 | 4 | 1 | 0 | ✅ 4/3 | ❌ | ✅ |
 
 ## Verplichte onderdelen (strafbare feiten en bevoegdheden uit de matrix)
 
@@ -144,18 +144,18 @@ Streefwaarde: 3 geschikte varianten per examenvraag. "Officieel" kan pas als ied
 | Halt-afdoening | 2.5.4 | 0 | 0 | 2 | ❌ |
 | Mededelingen in het proces-verbaal | 2.6.1 | 0 | 0 | 1 | ❌ |
 | Proces-verbaal van bevindingen | 2.6.2 | 0 | 0 | 2 | ❌ |
-| Minderjarige met alcohol op publiek toegankelijke plaats | 5.3.1 | 0 | 0 | 3 | ❌ |
-| Wederverstrekking door meerderjarige aan minderjarige | 5.3.1 | 0 | 0 | 3 | ❌ |
-| Stop- en parkeerverboden (situatie/afbeelding) | 5.2.1 | 0 | 0 | 4 | ❌ |
-| Lozingsactiviteit op een oppervlaktewaterlichaam | 5.6.1 | 0 | 0 | 2 | ❌ |
-| Storten of in de bodem brengen (Bal § 3.2.14) | 5.6.2 | 0 | 0 | 2 | ❌ |
-| Zwerfvuil rond activiteit (art. 22.53 bruidsschat) | 5.6.3 | 0 | 0 | 2 | ❌ |
+| Minderjarige met alcohol op publiek toegankelijke plaats | 5.3.1 | 2 | 8 | 3 | ✅ |
+| Wederverstrekking door meerderjarige aan minderjarige | 5.3.1 | 1 | 6 | 3 | ✅ |
+| Stop- en parkeerverboden (situatie/afbeelding) | 5.2.1 | 2 | 15 | 4 | ✅ |
+| Lozingsactiviteit op een oppervlaktewaterlichaam | 5.6.1 | 2 | 4 | 2 | ✅ |
+| Storten of in de bodem brengen (Bal § 3.2.14) | 5.6.2 | 1 | 5 | 2 | ✅ |
+| Zwerfvuil rond activiteit (art. 22.53 bruidsschat) | 5.6.3 | 1 | 6 | 2 | ✅ |
 | WED-opsporingsbevoegdheden | 5.5.1 | 0 | 0 | 3 | ❌ |
 | Medewerking vorderen | 5.5.2 | 0 | 0 | 1 | ❌ |
-| Toezichthouder en bevoegdheden | 3.2.1 | 0 | 0 | 3 | ❌ |
-| Herstelsancties en bestuurlijke boete | 3.2.2 | 0 | 0 | 3 | ❌ |
-| Bedrijfsafval als huishoudelijk afval | 5.8.1 | 0 | 0 | 1 | ❌ |
-| Schriftelijke toestemming visserij | 5.7.1 | 0 | 0 | 1 | ❌ |
+| Toezichthouder en bevoegdheden | 3.2.1 | 3 | 15 | 3 | ✅ |
+| Herstelsancties en bestuurlijke boete | 3.2.2 | 2 | 12 | 3 | ✅ |
+| Bedrijfsafval als huishoudelijk afval | 5.8.1 | 2 | 5 | 1 | ✅ |
+| Schriftelijke toestemming visserij | 5.7.1 | 2 | 7 | 1 | ✅ |
 
 ## Inhoud per module
 
@@ -163,16 +163,16 @@ Streefwaarde: 3 geschikte varianten per examenvraag. "Officieel" kan pas als ied
 |---|---|---|---|---|---|---|
 | 1. Organisatie, regelgeving en samenwerking | 6 (0) | 41 | 0 | 0 | 9 | 34 |
 | 2. Strafrecht en strafvordering | 9 (0) | 54 | 0 | 0 | 27 | 43 |
-| 3. Algemene wet bestuursrecht | 4 (0) | 24 | 0 | 0 | 4 | 19 |
+| 3. Algemene wet bestuursrecht | 5 (0) | 41 | 0 | 41 | 0 | 36 |
 | 4. Algemene plaatselijke verordening | 6 (0) | 36 | 0 | 0 | 33 | 32 |
-| 5. Wegenverkeerswet 1994 en RVV 1990 | 3 (0) | 19 | 0 | 0 | 14 | 13 |
-| 6. Alcoholwet | 1 (0) | 7 | 0 | 0 | 1 | 5 |
+| 5. Wegenverkeerswet 1994 en RVV 1990 | 4 (0) | 39 | 0 | 39 | 0 | 33 |
+| 6. Alcoholwet | 2 (0) | 17 | 0 | 17 | 0 | 12 |
 | 7. Winkeltijdenwet | 1 (0) | 7 | 0 | 0 | 1 | 5 |
 | 8. Wet op de economische delicten | 2 (0) | 12 | 0 | 0 | 1 | 9 |
-| 9. Omgevingswet | 2 (0) | 13 | 0 | 0 | 8 | 9 |
-| 10. Visserijwet 1963 | 1 (0) | 7 | 0 | 0 | 7 | 5 |
-| 11. Wet milieubeheer | 1 (0) | 7 | 0 | 0 | 7 | 5 |
-| **Totaal** | **36** | **227** | **0** | **0** | **112** | **179** |
+| 9. Omgevingswet | 4 (0) | 20 | 0 | 20 | 0 | 15 |
+| 10. Visserijwet 1963 | 2 (0) | 13 | 0 | 13 | 0 | 9 |
+| 11. Wet milieubeheer | 2 (0) | 11 | 0 | 10 | 1 | 5 |
+| **Totaal** | **43** | **291** | **0** | **140** | **72** | **233** |
 
 ## Meldingen
 
@@ -272,31 +272,6 @@ Streefwaarde: 3 geschikte varianten per examenvraag. "Officieel" kan pas als ied
 - **fout** — modules/m02b.json → q-m02-l09-4: Vraag zonder termIds (niet herleidbaar naar de toetsmatrijs)
 - **fout** — modules/m02b.json → q-m02-l09-5: Vraag zonder termIds (niet herleidbaar naar de toetsmatrijs)
 - **fout** — modules/m02b.json → q-m02-l09-6: Vraag zonder termIds (niet herleidbaar naar de toetsmatrijs)
-- **fout** — modules/m03.json → q-m03-l01-1: Vraag zonder termIds (niet herleidbaar naar de toetsmatrijs)
-- **fout** — modules/m03.json → q-m03-l01-2: Vraag zonder termIds (niet herleidbaar naar de toetsmatrijs)
-- **fout** — modules/m03.json → q-m03-l01-3: Vraag zonder termIds (niet herleidbaar naar de toetsmatrijs)
-- **fout** — modules/m03.json → q-m03-l01-4: Vraag zonder termIds (niet herleidbaar naar de toetsmatrijs)
-- **fout** — modules/m03.json → q-m03-l01-5: Vraag zonder termIds (niet herleidbaar naar de toetsmatrijs)
-- **fout** — modules/m03.json → q-m03-l01-6: Inhoudelijk duplicaat van q-m02-l01-1
-- **fout** — modules/m03.json → q-m03-l01-6: Vraag zonder termIds (niet herleidbaar naar de toetsmatrijs)
-- **fout** — modules/m03.json → q-m03-l02-1: Vraag zonder termIds (niet herleidbaar naar de toetsmatrijs)
-- **fout** — modules/m03.json → q-m03-l02-2: Vraag zonder termIds (niet herleidbaar naar de toetsmatrijs)
-- **fout** — modules/m03.json → q-m03-l02-3: Vraag zonder termIds (niet herleidbaar naar de toetsmatrijs)
-- **fout** — modules/m03.json → q-m03-l02-4: Vraag zonder termIds (niet herleidbaar naar de toetsmatrijs)
-- **fout** — modules/m03.json → q-m03-l02-5: Vraag zonder termIds (niet herleidbaar naar de toetsmatrijs)
-- **fout** — modules/m03.json → q-m03-l02-6: Vraag zonder termIds (niet herleidbaar naar de toetsmatrijs)
-- **fout** — modules/m03.json → q-m03-l03-1: Vraag zonder termIds (niet herleidbaar naar de toetsmatrijs)
-- **fout** — modules/m03.json → q-m03-l03-2: Vraag zonder termIds (niet herleidbaar naar de toetsmatrijs)
-- **fout** — modules/m03.json → q-m03-l03-3: Vraag zonder termIds (niet herleidbaar naar de toetsmatrijs)
-- **fout** — modules/m03.json → q-m03-l03-4: Vraag zonder termIds (niet herleidbaar naar de toetsmatrijs)
-- **fout** — modules/m03.json → q-m03-l03-5: Vraag zonder termIds (niet herleidbaar naar de toetsmatrijs)
-- **fout** — modules/m03.json → q-m03-l03-6: Vraag zonder termIds (niet herleidbaar naar de toetsmatrijs)
-- **fout** — modules/m03.json → q-m03-l04-1: Vraag zonder termIds (niet herleidbaar naar de toetsmatrijs)
-- **fout** — modules/m03.json → q-m03-l04-2: Vraag zonder termIds (niet herleidbaar naar de toetsmatrijs)
-- **fout** — modules/m03.json → q-m03-l04-3: Vraag zonder termIds (niet herleidbaar naar de toetsmatrijs)
-- **fout** — modules/m03.json → q-m03-l04-4: Vraag zonder termIds (niet herleidbaar naar de toetsmatrijs)
-- **fout** — modules/m03.json → q-m03-l04-5: Vraag zonder termIds (niet herleidbaar naar de toetsmatrijs)
-- **fout** — modules/m03.json → q-m03-l04-6: Vraag zonder termIds (niet herleidbaar naar de toetsmatrijs)
 - **fout** — modules/m04.json → q-m04-l01-1: Vraag zonder termIds (niet herleidbaar naar de toetsmatrijs)
 - **fout** — modules/m04.json → q-m04-l01-2: Vraag zonder termIds (niet herleidbaar naar de toetsmatrijs)
 - **fout** — modules/m04.json → q-m04-l01-3: Vraag zonder termIds (niet herleidbaar naar de toetsmatrijs)
@@ -334,33 +309,6 @@ Streefwaarde: 3 geschikte varianten per examenvraag. "Officieel" kan pas als ied
 - **fout** — modules/m04.json → q-m04-l06-4: Vraag zonder termIds (niet herleidbaar naar de toetsmatrijs)
 - **fout** — modules/m04.json → q-m04-l06-5: Vraag zonder termIds (niet herleidbaar naar de toetsmatrijs)
 - **fout** — modules/m04.json → q-m04-l06-6: Vraag zonder termIds (niet herleidbaar naar de toetsmatrijs)
-- **fout** — modules/m05.json → q-m05-l01-1: Vraag zonder termIds (niet herleidbaar naar de toetsmatrijs)
-- **fout** — modules/m05.json → q-m05-l01-2: Vraag zonder termIds (niet herleidbaar naar de toetsmatrijs)
-- **fout** — modules/m05.json → q-m05-l01-3: Vraag zonder termIds (niet herleidbaar naar de toetsmatrijs)
-- **fout** — modules/m05.json → q-m05-l01-4: Vraag zonder termIds (niet herleidbaar naar de toetsmatrijs)
-- **fout** — modules/m05.json → q-m05-l01-5: Vraag zonder termIds (niet herleidbaar naar de toetsmatrijs)
-- **fout** — modules/m05.json → q-m05-l01-6: Vraag zonder termIds (niet herleidbaar naar de toetsmatrijs)
-- **fout** — modules/m05.json → q-m05-l02-1: Vraag zonder termIds (niet herleidbaar naar de toetsmatrijs)
-- **fout** — modules/m05.json → q-m05-l02-2: Vraag zonder termIds (niet herleidbaar naar de toetsmatrijs)
-- **fout** — modules/m05.json → q-m05-l02-3: Vraag zonder termIds (niet herleidbaar naar de toetsmatrijs)
-- **fout** — modules/m05.json → q-m05-l02-4: Vraag zonder termIds (niet herleidbaar naar de toetsmatrijs)
-- **fout** — modules/m05.json → q-m05-l02-5: Vraag zonder termIds (niet herleidbaar naar de toetsmatrijs)
-- **fout** — modules/m05.json → q-m05-l02-6: Vraag zonder termIds (niet herleidbaar naar de toetsmatrijs)
-- **fout** — modules/m05.json → q-m05-l03-1: Vraag zonder termIds (niet herleidbaar naar de toetsmatrijs)
-- **fout** — modules/m05.json → q-m05-l03-2: Vraag zonder termIds (niet herleidbaar naar de toetsmatrijs)
-- **fout** — modules/m05.json → q-m05-l03-3: Vraag zonder termIds (niet herleidbaar naar de toetsmatrijs)
-- **fout** — modules/m05.json → q-m05-l03-3: Universele bevoegdheidsclaim: "Ja, want iedere boa mag in de openbare ruimte verkeersaanwijzingen geven"
-- **fout** — modules/m05.json → q-m05-l03-4: Vraag zonder termIds (niet herleidbaar naar de toetsmatrijs)
-- **fout** — modules/m05.json → q-m05-l03-5: Vraag zonder termIds (niet herleidbaar naar de toetsmatrijs)
-- **fout** — modules/m05.json → q-m05-l03-6: Vraag zonder termIds (niet herleidbaar naar de toetsmatrijs)
-- **fout** — modules/m05.json → q-m05-l03-7: Vraag zonder termIds (niet herleidbaar naar de toetsmatrijs)
-- **fout** — modules/m06.json → q-m06-l01-1: Vraag zonder termIds (niet herleidbaar naar de toetsmatrijs)
-- **fout** — modules/m06.json → q-m06-l01-2: Vraag zonder termIds (niet herleidbaar naar de toetsmatrijs)
-- **fout** — modules/m06.json → q-m06-l01-3: Vraag zonder termIds (niet herleidbaar naar de toetsmatrijs)
-- **fout** — modules/m06.json → q-m06-l01-4: Vraag zonder termIds (niet herleidbaar naar de toetsmatrijs)
-- **fout** — modules/m06.json → q-m06-l01-5: Vraag zonder termIds (niet herleidbaar naar de toetsmatrijs)
-- **fout** — modules/m06.json → q-m06-l01-6: Vraag zonder termIds (niet herleidbaar naar de toetsmatrijs)
-- **fout** — modules/m06.json → q-m06-l01-7: Vraag zonder termIds (niet herleidbaar naar de toetsmatrijs)
 - **fout** — modules/m07.json → q-m07-l01-1: Vraag zonder termIds (niet herleidbaar naar de toetsmatrijs)
 - **fout** — modules/m07.json → q-m07-l01-2: Vraag zonder termIds (niet herleidbaar naar de toetsmatrijs)
 - **fout** — modules/m07.json → q-m07-l01-3: Vraag zonder termIds (niet herleidbaar naar de toetsmatrijs)
@@ -380,34 +328,6 @@ Streefwaarde: 3 geschikte varianten per examenvraag. "Officieel" kan pas als ied
 - **fout** — modules/m08.json → q-m08-l02-4: Vraag zonder termIds (niet herleidbaar naar de toetsmatrijs)
 - **fout** — modules/m08.json → q-m08-l02-5: Vraag zonder termIds (niet herleidbaar naar de toetsmatrijs)
 - **fout** — modules/m08.json → q-m08-l02-6: Vraag zonder termIds (niet herleidbaar naar de toetsmatrijs)
-- **fout** — modules/m09.json → q-m09-l01-1: Vraag zonder termIds (niet herleidbaar naar de toetsmatrijs)
-- **fout** — modules/m09.json → q-m09-l01-2: Vraag zonder termIds (niet herleidbaar naar de toetsmatrijs)
-- **fout** — modules/m09.json → q-m09-l01-3: Vraag zonder termIds (niet herleidbaar naar de toetsmatrijs)
-- **fout** — modules/m09.json → q-m09-l01-4: Vraag zonder termIds (niet herleidbaar naar de toetsmatrijs)
-- **fout** — modules/m09.json → q-m09-l01-5: Inhoudelijk duplicaat van q-m03-l01-6
-- **fout** — modules/m09.json → q-m09-l01-5: Vraag zonder termIds (niet herleidbaar naar de toetsmatrijs)
-- **fout** — modules/m09.json → q-m09-l01-6: Vraag zonder termIds (niet herleidbaar naar de toetsmatrijs)
-- **fout** — modules/m09.json → q-m09-l02-1: Vraag zonder termIds (niet herleidbaar naar de toetsmatrijs)
-- **fout** — modules/m09.json → q-m09-l02-2: Vraag zonder termIds (niet herleidbaar naar de toetsmatrijs)
-- **fout** — modules/m09.json → q-m09-l02-3: Vraag zonder termIds (niet herleidbaar naar de toetsmatrijs)
-- **fout** — modules/m09.json → q-m09-l02-4: Vraag zonder termIds (niet herleidbaar naar de toetsmatrijs)
-- **fout** — modules/m09.json → q-m09-l02-5: Vraag zonder termIds (niet herleidbaar naar de toetsmatrijs)
-- **fout** — modules/m09.json → q-m09-l02-6: Vraag zonder termIds (niet herleidbaar naar de toetsmatrijs)
-- **fout** — modules/m09.json → q-m09-l02-7: Vraag zonder termIds (niet herleidbaar naar de toetsmatrijs)
-- **fout** — modules/m10.json → q-m10-l01-1: Vraag zonder termIds (niet herleidbaar naar de toetsmatrijs)
-- **fout** — modules/m10.json → q-m10-l01-2: Vraag zonder termIds (niet herleidbaar naar de toetsmatrijs)
-- **fout** — modules/m10.json → q-m10-l01-3: Vraag zonder termIds (niet herleidbaar naar de toetsmatrijs)
-- **fout** — modules/m10.json → q-m10-l01-4: Vraag zonder termIds (niet herleidbaar naar de toetsmatrijs)
-- **fout** — modules/m10.json → q-m10-l01-5: Vraag zonder termIds (niet herleidbaar naar de toetsmatrijs)
-- **fout** — modules/m10.json → q-m10-l01-6: Vraag zonder termIds (niet herleidbaar naar de toetsmatrijs)
-- **fout** — modules/m10.json → q-m10-l01-7: Vraag zonder termIds (niet herleidbaar naar de toetsmatrijs)
-- **fout** — modules/m11.json → q-m11-l01-1: Vraag zonder termIds (niet herleidbaar naar de toetsmatrijs)
-- **fout** — modules/m11.json → q-m11-l01-2: Vraag zonder termIds (niet herleidbaar naar de toetsmatrijs)
-- **fout** — modules/m11.json → q-m11-l01-3: Vraag zonder termIds (niet herleidbaar naar de toetsmatrijs)
-- **fout** — modules/m11.json → q-m11-l01-4: Vraag zonder termIds (niet herleidbaar naar de toetsmatrijs)
-- **fout** — modules/m11.json → q-m11-l01-5: Vraag zonder termIds (niet herleidbaar naar de toetsmatrijs)
-- **fout** — modules/m11.json → q-m11-l01-6: Vraag zonder termIds (niet herleidbaar naar de toetsmatrijs)
-- **fout** — modules/m11.json → q-m11-l01-7: Vraag zonder termIds (niet herleidbaar naar de toetsmatrijs)
 - **fout** — modules/m01.json → m01-l01: Les zonder termIds (niet herleidbaar naar de toetsmatrijs)
 - **fout** — modules/m01.json → m01-l02: Les zonder termIds (niet herleidbaar naar de toetsmatrijs)
 - **fout** — modules/m01.json → m01-l03: Les zonder termIds (niet herleidbaar naar de toetsmatrijs)
@@ -423,27 +343,15 @@ Streefwaarde: 3 geschikte varianten per examenvraag. "Officieel" kan pas als ied
 - **fout** — modules/m02b.json → m02-l07: Les zonder termIds (niet herleidbaar naar de toetsmatrijs)
 - **fout** — modules/m02b.json → m02-l08: Les zonder termIds (niet herleidbaar naar de toetsmatrijs)
 - **fout** — modules/m02b.json → m02-l09: Les zonder termIds (niet herleidbaar naar de toetsmatrijs)
-- **fout** — modules/m03.json → m03-l01: Les zonder termIds (niet herleidbaar naar de toetsmatrijs)
-- **fout** — modules/m03.json → m03-l02: Les zonder termIds (niet herleidbaar naar de toetsmatrijs)
-- **fout** — modules/m03.json → m03-l03: Les zonder termIds (niet herleidbaar naar de toetsmatrijs)
-- **fout** — modules/m03.json → m03-l04: Les zonder termIds (niet herleidbaar naar de toetsmatrijs)
 - **fout** — modules/m04.json → m04-l01: Les zonder termIds (niet herleidbaar naar de toetsmatrijs)
 - **fout** — modules/m04.json → m04-l02: Les zonder termIds (niet herleidbaar naar de toetsmatrijs)
 - **fout** — modules/m04.json → m04-l03: Les zonder termIds (niet herleidbaar naar de toetsmatrijs)
 - **fout** — modules/m04.json → m04-l04: Les zonder termIds (niet herleidbaar naar de toetsmatrijs)
 - **fout** — modules/m04.json → m04-l05: Les zonder termIds (niet herleidbaar naar de toetsmatrijs)
 - **fout** — modules/m04.json → m04-l06: Les zonder termIds (niet herleidbaar naar de toetsmatrijs)
-- **fout** — modules/m05.json → m05-l01: Les zonder termIds (niet herleidbaar naar de toetsmatrijs)
-- **fout** — modules/m05.json → m05-l02: Les zonder termIds (niet herleidbaar naar de toetsmatrijs)
-- **fout** — modules/m05.json → m05-l03: Les zonder termIds (niet herleidbaar naar de toetsmatrijs)
-- **fout** — modules/m06.json → m06-l01: Les zonder termIds (niet herleidbaar naar de toetsmatrijs)
 - **fout** — modules/m07.json → m07-l01: Les zonder termIds (niet herleidbaar naar de toetsmatrijs)
 - **fout** — modules/m08.json → m08-l01: Les zonder termIds (niet herleidbaar naar de toetsmatrijs)
 - **fout** — modules/m08.json → m08-l02: Les zonder termIds (niet herleidbaar naar de toetsmatrijs)
-- **fout** — modules/m09.json → m09-l01: Les zonder termIds (niet herleidbaar naar de toetsmatrijs)
-- **fout** — modules/m09.json → m09-l02: Les zonder termIds (niet herleidbaar naar de toetsmatrijs)
-- **fout** — modules/m10.json → m10-l01: Les zonder termIds (niet herleidbaar naar de toetsmatrijs)
-- **fout** — modules/m11.json → m11-l01: Les zonder termIds (niet herleidbaar naar de toetsmatrijs)
 - **fout** — term 1.1.1: Geen les gekoppeld aan deze toetsterm
 - **fout** — term 1.1.1: Geen meerkeuzevraag op niveau K gekoppeld aan deze toetsterm
 - **fout** — term 1.1.2: Geen les gekoppeld aan deze toetsterm
@@ -492,14 +400,6 @@ Streefwaarde: 3 geschikte varianten per examenvraag. "Officieel" kan pas als ied
 - **fout** — term 2.6.1: Geen meerkeuzevraag op niveau K/B gekoppeld aan deze toetsterm
 - **fout** — term 2.6.2: Geen les gekoppeld aan deze toetsterm
 - **fout** — term 2.6.2: Geen meerkeuzevraag op niveau K/B gekoppeld aan deze toetsterm
-- **fout** — term 3.1.1: Geen les gekoppeld aan deze toetsterm
-- **fout** — term 3.1.1: Geen meerkeuzevraag op niveau B gekoppeld aan deze toetsterm
-- **fout** — term 3.1.2: Geen les gekoppeld aan deze toetsterm
-- **fout** — term 3.1.2: Geen meerkeuzevraag op niveau K gekoppeld aan deze toetsterm
-- **fout** — term 3.2.1: Geen les gekoppeld aan deze toetsterm
-- **fout** — term 3.2.1: Geen meerkeuzevraag op niveau K/T gekoppeld aan deze toetsterm
-- **fout** — term 3.2.2: Geen les gekoppeld aan deze toetsterm
-- **fout** — term 3.2.2: Geen meerkeuzevraag op niveau K/T gekoppeld aan deze toetsterm
 - **fout** — term 4.1.1: Geen les gekoppeld aan deze toetsterm
 - **fout** — term 4.1.1: Geen meerkeuzevraag op niveau K gekoppeld aan deze toetsterm
 - **fout** — term 4.1.2: Geen les gekoppeld aan deze toetsterm
@@ -518,30 +418,12 @@ Streefwaarde: 3 geschikte varianten per examenvraag. "Officieel" kan pas als ied
 - **fout** — term 4.1.8: Geen meerkeuzevraag op niveau T gekoppeld aan deze toetsterm
 - **fout** — term 4.1.9: Geen les gekoppeld aan deze toetsterm
 - **fout** — term 4.1.9: Geen meerkeuzevraag op niveau T gekoppeld aan deze toetsterm
-- **fout** — term 5.1.1: Geen les gekoppeld aan deze toetsterm
-- **fout** — term 5.1.1: Geen meerkeuzevraag op niveau T gekoppeld aan deze toetsterm
-- **fout** — term 5.2.1: Geen les gekoppeld aan deze toetsterm
-- **fout** — term 5.2.1: Geen meerkeuzevraag op niveau T gekoppeld aan deze toetsterm
-- **fout** — term 5.2.2: Geen les gekoppeld aan deze toetsterm
-- **fout** — term 5.2.2: Geen meerkeuzevraag op niveau T gekoppeld aan deze toetsterm
-- **fout** — term 5.3.1: Geen les gekoppeld aan deze toetsterm
-- **fout** — term 5.3.1: Geen meerkeuzevraag op niveau T gekoppeld aan deze toetsterm
 - **fout** — term 5.4.1: Geen les gekoppeld aan deze toetsterm
 - **fout** — term 5.4.1: Geen meerkeuzevraag op niveau K/B gekoppeld aan deze toetsterm
 - **fout** — term 5.5.1: Geen les gekoppeld aan deze toetsterm
 - **fout** — term 5.5.1: Geen meerkeuzevraag op niveau T gekoppeld aan deze toetsterm
 - **fout** — term 5.5.2: Geen les gekoppeld aan deze toetsterm
 - **fout** — term 5.5.2: Geen meerkeuzevraag op niveau T gekoppeld aan deze toetsterm
-- **fout** — term 5.6.1: Geen les gekoppeld aan deze toetsterm
-- **fout** — term 5.6.1: Geen meerkeuzevraag op niveau K gekoppeld aan deze toetsterm
-- **fout** — term 5.6.2: Geen les gekoppeld aan deze toetsterm
-- **fout** — term 5.6.2: Geen meerkeuzevraag op niveau T gekoppeld aan deze toetsterm
-- **fout** — term 5.6.3: Geen les gekoppeld aan deze toetsterm
-- **fout** — term 5.6.3: Geen meerkeuzevraag op niveau T gekoppeld aan deze toetsterm
-- **fout** — term 5.7.1: Geen les gekoppeld aan deze toetsterm
-- **fout** — term 5.7.1: Geen meerkeuzevraag op niveau T gekoppeld aan deze toetsterm
-- **fout** — term 5.8.1: Geen les gekoppeld aan deze toetsterm
-- **fout** — term 5.8.1: Geen meerkeuzevraag op niveau T gekoppeld aan deze toetsterm
 - **fout** — verplicht onderdeel sr-184: Niet voldoen aan bevel/vordering; belemmeren ambtshandeling (term 2.2.4): 0 les(sen), 0 meerkeuzevragen op niveau T; vereist ≥1 les en ≥3 vragen
 - **fout** — verplicht onderdeel sr-185: Opschudding en niet verwijderen na bevel (term 2.2.4): 0 les(sen), 0 meerkeuzevragen op niveau T; vereist ≥1 les en ≥3 vragen
 - **fout** — verplicht onderdeel sr-266-267-269: Belediging van een ambtenaar (term 2.2.4): 0 les(sen), 0 meerkeuzevragen op niveau T; vereist ≥1 les en ≥3 vragen
@@ -563,18 +445,8 @@ Streefwaarde: 3 geschikte varianten per examenvraag. "Officieel" kan pas als ied
 - **fout** — verplicht onderdeel sr-77e: Halt-afdoening (term 2.5.4): 0 les(sen), 0 meerkeuzevragen; vereist ≥1 les en ≥2 vragen
 - **fout** — verplicht onderdeel sv-27c: Mededelingen in het proces-verbaal (term 2.6.1): 0 les(sen), 0 meerkeuzevragen; vereist ≥1 les en ≥1 vragen
 - **fout** — verplicht onderdeel pvb: Proces-verbaal van bevindingen (term 2.6.2): 0 les(sen), 0 meerkeuzevragen; vereist ≥1 les en ≥2 vragen
-- **fout** — verplicht onderdeel alc-45: Minderjarige met alcohol op publiek toegankelijke plaats (term 5.3.1): 0 les(sen), 0 meerkeuzevragen op niveau T; vereist ≥1 les en ≥3 vragen
-- **fout** — verplicht onderdeel alc-45a: Wederverstrekking door meerderjarige aan minderjarige (term 5.3.1): 0 les(sen), 0 meerkeuzevragen op niveau T; vereist ≥1 les en ≥3 vragen
-- **fout** — verplicht onderdeel rvv-23-26: Stop- en parkeerverboden (situatie/afbeelding) (term 5.2.1): 0 les(sen), 0 meerkeuzevragen op niveau T; vereist ≥1 les en ≥4 vragen
-- **fout** — verplicht onderdeel ow-lozing: Lozingsactiviteit op een oppervlaktewaterlichaam (term 5.6.1): 0 les(sen), 0 meerkeuzevragen; vereist ≥1 les en ≥2 vragen
-- **fout** — verplicht onderdeel bal-3214: Storten of in de bodem brengen (Bal § 3.2.14) (term 5.6.2): 0 les(sen), 0 meerkeuzevragen op niveau T; vereist ≥1 les en ≥2 vragen
-- **fout** — verplicht onderdeel bruidsschat-2253: Zwerfvuil rond activiteit (art. 22.53 bruidsschat) (term 5.6.3): 0 les(sen), 0 meerkeuzevragen op niveau T; vereist ≥1 les en ≥2 vragen
 - **fout** — verplicht onderdeel wed-18-23: WED-opsporingsbevoegdheden (term 5.5.1): 0 les(sen), 0 meerkeuzevragen op niveau T; vereist ≥1 les en ≥3 vragen
 - **fout** — verplicht onderdeel wed-24a: Medewerking vorderen (term 5.5.2): 0 les(sen), 0 meerkeuzevragen op niveau T; vereist ≥1 les en ≥1 vragen
-- **fout** — verplicht onderdeel awb-5-11: Toezichthouder en bevoegdheden (term 3.2.1): 0 les(sen), 0 meerkeuzevragen; vereist ≥1 les en ≥3 vragen
-- **fout** — verplicht onderdeel awb-sancties: Herstelsancties en bestuurlijke boete (term 3.2.2): 0 les(sen), 0 meerkeuzevragen; vereist ≥1 les en ≥3 vragen
-- **fout** — verplicht onderdeel wm-1037: Bedrijfsafval als huishoudelijk afval (term 5.8.1): 0 les(sen), 0 meerkeuzevragen op niveau T; vereist ≥1 les en ≥1 vragen
-- **fout** — verplicht onderdeel vis-23: Schriftelijke toestemming visserij (term 5.7.1): 0 les(sen), 0 meerkeuzevragen op niveau T; vereist ≥1 les en ≥1 vragen
 - **waarschuwing** — examengroep Term 1.1.1: 0 inhoudelijk gecontroleerde/goedgekeurde vragen, quotum 2
 - **waarschuwing** — examengroep Term 1.1.2: 0 inhoudelijk gecontroleerde/goedgekeurde vragen, quotum 1
 - **waarschuwing** — examengroep Termen 1.2.1 en 1.2.2: 0 inhoudelijk gecontroleerde/goedgekeurde vragen, quotum 1
@@ -593,10 +465,6 @@ Streefwaarde: 3 geschikte varianten per examenvraag. "Officieel" kan pas als ied
 - **waarschuwing** — examengroep Termen 2.5.1 t/m 2.5.4: 0 inhoudelijk gecontroleerde/goedgekeurde vragen, quotum 2
 - **waarschuwing** — examengroep Term 2.6.1: 0 inhoudelijk gecontroleerde/goedgekeurde vragen, quotum 3
 - **waarschuwing** — examengroep Term 2.6.2: 0 inhoudelijk gecontroleerde/goedgekeurde vragen, quotum 1
-- **waarschuwing** — examengroep Term 3.1.1: 0 inhoudelijk gecontroleerde/goedgekeurde vragen, quotum 1
-- **waarschuwing** — examengroep Term 3.1.2: 0 inhoudelijk gecontroleerde/goedgekeurde vragen, quotum 1
-- **waarschuwing** — examengroep Term 3.2.1: 0 inhoudelijk gecontroleerde/goedgekeurde vragen, quotum 1
-- **waarschuwing** — examengroep Term 3.2.2: 0 inhoudelijk gecontroleerde/goedgekeurde vragen, quotum 3
 - **waarschuwing** — examengroep Term 4.1.1: 0 inhoudelijk gecontroleerde/goedgekeurde vragen, quotum 1
 - **waarschuwing** — examengroep Term 4.1.2: 0 inhoudelijk gecontroleerde/goedgekeurde vragen, quotum 1
 - **waarschuwing** — examengroep Term 4.1.3: 0 inhoudelijk gecontroleerde/goedgekeurde vragen, quotum 1
@@ -605,12 +473,5 @@ Streefwaarde: 3 geschikte varianten per examenvraag. "Officieel" kan pas als ied
 - **waarschuwing** — examengroep Term 4.1.6: 0 inhoudelijk gecontroleerde/goedgekeurde vragen, quotum 1
 - **waarschuwing** — examengroep Term 4.1.7: 0 inhoudelijk gecontroleerde/goedgekeurde vragen, quotum 1
 - **waarschuwing** — examengroep Termen 4.1.8 en 4.1.9: 0 inhoudelijk gecontroleerde/goedgekeurde vragen, quotum 1
-- **waarschuwing** — examengroep Term 5.1.1: 0 inhoudelijk gecontroleerde/goedgekeurde vragen, quotum 1
-- **waarschuwing** — examengroep Term 5.2.1: 0 inhoudelijk gecontroleerde/goedgekeurde vragen, quotum 2
-- **waarschuwing** — examengroep Term 5.2.2: 0 inhoudelijk gecontroleerde/goedgekeurde vragen, quotum 1
-- **waarschuwing** — examengroep Term 5.3.1: 0 inhoudelijk gecontroleerde/goedgekeurde vragen, quotum 2
 - **waarschuwing** — examengroep Term 5.4.1: 0 inhoudelijk gecontroleerde/goedgekeurde vragen, quotum 1
 - **waarschuwing** — examengroep Termen 5.5.1 en 5.5.2: 0 inhoudelijk gecontroleerde/goedgekeurde vragen, quotum 1
-- **waarschuwing** — examengroep Termen 5.6.1 t/m 5.6.3: 0 inhoudelijk gecontroleerde/goedgekeurde vragen, quotum 2
-- **waarschuwing** — examengroep Term 5.7.1: 0 inhoudelijk gecontroleerde/goedgekeurde vragen, quotum 1
-- **waarschuwing** — examengroep Term 5.8.1: 0 inhoudelijk gecontroleerde/goedgekeurde vragen, quotum 1

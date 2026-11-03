@@ -4,8 +4,8 @@ _Automatisch bijgewerkt door `npm run check:content` (peildatum 2026-11-03). Wij
 
 ## Stand van zaken
 
-- Items totaal (lessen, vragen, begrippen): 349
-- Goedgekeurd door jurist: 0 · inhoudelijk gecontroleerd (AI, wacht op aftekening): 0 · juridische review nodig: 146 · concept: 203 · afgekeurd: 0
+- Items totaal (lessen, vragen, begrippen): 441
+- Goedgekeurd door jurist: 0 · inhoudelijk gecontroleerd (AI, wacht op aftekening): 224 · juridische review nodig: 95 · concept: 122 · afgekeurd: 0
 
 ## Algemeen
 
@@ -390,94 +390,8 @@ _Automatisch bijgewerkt door `npm run check:content` (peildatum 2026-11-03). Wij
 
 ### Module 3 – Algemene wet bestuursrecht
 
-- [ ] **Les `m03-l01`** — Bestuursrecht in de praktijk
-  - Status: concept
-- [ ] **Les `m03-l02`** — De toezichthouder
-  - Status: juridische_review_nodig
-  - Reviewpunt: Graag controleren hoe het legitimatiebewijs voor een boa die ook als toezichthouder is aangewezen in de praktijk is geregeld (apart toezichthoudersbewijs of gecombineerd met de boa-legitimatie). De les noemt bewust alleen de algemene regel van art. 5:12 Awb.
-- [ ] **Les `m03-l03`** — Toezichtsbevoegdheden
-  - Status: juridische_review_nodig
-  - Reviewpunt: Controleren: (1) de exacte lidnummering van art. 5:19 Awb (stilhouden en overbrengen van een vervoermiddel; in de les staat bewust geen lidnummer bij de inhoud); (2) of bij het weigeren van inzage in een identiteitsbewijs (art. 5:16a Awb) art. 184 Sr of art. 447e Sr van toepassing is; de les noemt daarom geen strafbepaling bij art. 5:16a.
-  - Te controleren bron: art. 5:19 Algemene wet bestuursrecht
-- [ ] **Les `m03-l04`** — Bestuurlijke sancties
-  - Status: juridische_review_nodig
-  - Reviewpunt: Controleren: (1) de vooraankondiging staat niet als zodanig in de Awb; de les koppelt haar aan het horen van een belanghebbende vóór een belastend besluit (art. 4:8 Awb) - graag bevestigen dat deze koppeling juist is weergegeven; (2) de lidnummering van art. 5:31 Awb (spoedeisende bestuursdwang zonder voorafgaande last).
-  - Te controleren bron: art. 5:31 Algemene wet bestuursrecht; art. 4:8 Algemene wet bestuursrecht
-- [ ] **Vraag `q-m03-l01-1`** — Welk van deze is een bestuursorgaan in de zin van art. 1:1 Awb?
-  - Status: concept
-- [ ] **Vraag `q-m03-l01-2`** — Wat is volgens art. 1:3 Awb een besluit?
-  - Status: concept
-- [ ] **Vraag `q-m03-l01-3`** — Wat is het belangrijkste doel van een herstelsanctie in het bestuursrecht, vergeleken met een straf in het strafrecht?
-  - Status: concept
-- [ ] **Vraag `q-m03-l01-4`** — Wie kan bezwaar maken en waar?
-  - Status: concept
-- [ ] **Vraag `q-m03-l01-5`** — Stelling: wie het niet eens is met een besluit, moet in de regel eerst bezwaar maken voordat hij beroep kan instellen bij de bestuursrechter.
-  - Status: concept
-- [ ] **Vraag `q-m03-l01-6`** — Koppel elk begrip aan de juiste omschrijving.
-  - Status: concept
-- [ ] **Vraag `q-m03-l02-1`** — Wie is volgens art. 5:11 Awb een toezichthouder?
-  - Status: concept
-- [ ] **Vraag `q-m03-l02-2`** — Hoe reageer je op de vraag van mevrouw De Vries?
-  - Status: concept
-- [ ] **Vraag `q-m03-l02-3`** — Wat betekent art. 5:13 Awb voor jou als toezichthouder?
-  - Status: concept
-- [ ] **Vraag `q-m03-l02-4`** — Wat moet je doen voordat je hem vragen stelt over dit feit?
-  - Status: juridische_review_nodig
-  - Reviewpunt: Redactie 2026-11-02: controleren of het overschrijden van een geluidsgrens uit een evenementenvergunning als strafbaar feit kan gelden (APV-strafbepaling bij vergunningvoorschriften); de casus zegt alleen 'je vermoedt'.
-- [ ] **Vraag `q-m03-l02-5`** — Hoe word je als boa meestal toezichthouder voor de regels van een gemeente?
-  - Status: concept
-- [ ] **Vraag `q-m03-l02-6`** — Stelling: als je alleen controleert of iemand een geldige vergunning heeft, zonder dat er een verdenking is, hoef je geen cautie te geven.
-  - Status: concept
-- [ ] **Vraag `q-m03-l03-1`** — Mag je de woning binnengaan op grond van art. 5:15 Awb?
-  - Status: concept
-- [ ] **Vraag `q-m03-l03-2`** — Welk artikel van de Awb geeft een toezichthouder de bevoegdheid om inzage in een identiteitsbewijs te vorderen?
-  - Status: concept
-- [ ] **Vraag `q-m03-l03-3`** — Mag je de bus laten stoppen en de lading bekijken?
-  - Status: juridische_review_nodig
-  - Reviewpunt: Controleren in welk lid van art. 5:19 Awb de bevoegdheid tot het vorderen van stilhouden staat; de vraag noemt bewust geen lidnummer.
-  - Te controleren bron: art. 5:19 Algemene wet bestuursrecht
-- [ ] **Vraag `q-m03-l03-4`** — Wie mag op grond van art. 5:20 lid 2 Awb medewerking weigeren?
-  - Status: concept
-- [ ] **Vraag `q-m03-l03-5`** — Wat is juist over de weigering van Lotte?
-  - Status: concept
-- [ ] **Vraag `q-m03-l03-6`** — Koppel elke bevoegdheid aan het juiste artikel van de Awb.
-  - Status: concept
-- [ ] **Vraag `q-m03-l04-1`** — Welke sanctie is een bestraffende sanctie?
-  - Status: concept
-- [ ] **Vraag `q-m03-l04-2`** — Hoe reageer je op de vraag van de winkelier?
-  - Status: concept
-- [ ] **Vraag `q-m03-l04-3`** — Wat is een begunstigingstermijn?
-  - Status: concept
-- [ ] **Vraag `q-m03-l04-4`** — Wat mag de gemeente in deze situatie doen?
-  - Status: juridische_review_nodig
-  - Reviewpunt: Controleren of de inhoud van de spoedregeling (bestuursdwang zonder voorafgaande last, besluit zo spoedig mogelijk alsnog) volledig en juist is samengevat en in welk lid van art. 5:31 Awb dit staat.
-  - Te controleren bron: art. 5:31 Algemene wet bestuursrecht
-- [ ] **Vraag `q-m03-l04-5`** — Welke wettelijke bepaling geeft het gemeentebestuur de bevoegdheid tot het opleggen van een last onder bestuursdwang?
-  - Status: concept
-- [ ] **Vraag `q-m03-l04-6`** — Zet de stappen bij een last onder bestuursdwang in de juiste volgorde.
-  - Status: juridische_review_nodig
-  - Reviewpunt: Controleren of de vooraankondiging juist is gekoppeld aan art. 4:8 Awb (horen van een belanghebbende die het besluit niet heeft aangevraagd).
-  - Te controleren bron: art. 4:8 Algemene wet bestuursrecht
-- [ ] **Begrip `Bestuursorgaan`** — Bestuursorgaan
-  - Status: concept
-- [ ] **Begrip `Besluit`** — Besluit
-  - Status: concept
-- [ ] **Begrip `Belanghebbende`** — Belanghebbende
-  - Status: concept
-- [ ] **Begrip `Toezichthouder`** — Toezichthouder
-  - Status: concept
-- [ ] **Begrip `Medewerkingsplicht`** — Medewerkingsplicht
-  - Status: concept
-- [ ] **Begrip `Herstelsanctie`** — Herstelsanctie
-  - Status: concept
-- [ ] **Begrip `Bestraffende sanctie`** — Bestraffende sanctie
-  - Status: concept
-- [ ] **Begrip `Last onder bestuursdwang`** — Last onder bestuursdwang
-  - Status: concept
-- [ ] **Begrip `Last onder dwangsom`** — Last onder dwangsom
-  - Status: concept
-- [ ] **Begrip `Begunstigingstermijn`** — Begunstigingstermijn
-  - Status: concept
+Geen open reviewpunten; alle items zijn inhoudelijk gecontroleerd (aftekening door jurist volgt).
+
 
 ### Module 4 – Algemene plaatselijke verordening
 
@@ -671,139 +585,13 @@ _Automatisch bijgewerkt door `npm run check:content` (peildatum 2026-11-03). Wij
 
 ### Module 5 – Wegenverkeerswet 1994 en RVV 1990
 
-- [ ] **Les `m05-l01`** — Stilstaan, stoppen en parkeren
-  - Status: juridische_review_nodig
-  - Reviewpunt: Controleer: (1) of 'stilstaan' in art. 1 RVV 1990 zelf is gedefinieerd of alleen 'parkeren' (in de les is aangenomen: alleen parkeren is gedefinieerd, met in- en uitstappen en laden en lossen als uitzondering); (2) de exacte opsomming en lettering van de plaatsen in art. 23 (verbod stilstaan) en art. 24 (verbod parkeren) RVV 1990, en of de gele doorgetrokken streep in art. 23 en de gele onderbroken streep in art. 24 staat; (3) welk lid van art. 3 Wahv de bevoegde ambtenaren aanwijst en of boa's Domein I daarvoor per categorie zijn aangewezen; (4) of de domeinlijst Domein I de genoemde RVV-artikelen omvat; (5) of beroep bij de officier van justitie in art. 6 Wahv en beroep bij de kantonrechter in art. 9 Wahv staat.
-  - Te controleren bron: art. 23 Reglement verkeersregels en verkeerstekens 1990 (RVV 1990); art. 24 Reglement verkeersregels en verkeerstekens 1990 (RVV 1990); art. 3 Wet administratiefrechtelijke handhaving verkeersvoorschriften (Wahv); art. 6 en art. 9 Wet administratiefrechtelijke handhaving verkeersvoorschriften (Wahv); Besluit buitengewoon opsporingsambtenaar / Beleidsregels boa (domeinlijst Domein I); art. 23 en art. 24 Reglement verkeersregels en verkeerstekens 1990 (RVV 1990)
-- [ ] **Les `m05-l02`** — Wegslepen van voertuigen
-  - Status: juridische_review_nodig
-  - Reviewpunt: Controleer: (1) de precieze leden en onderdelen van art. 170 WVW 1994 (bij welke overtredingen overbrengen mogelijk is, wie bevoegd is, 'voor rekening van de eigenaar of houder'); (2) welk orgaan van de gemeente het aanwijzingsbesluit neemt (raad of college) en hoe dit in art. 170 WVW 1994 is geregeld; (3) welke AMvB de bevoegde ambtenaren aanwijst (Besluit wegslepen van voertuigen) en of boa's Domein I daaronder vallen; (4) welk artikel (art. 171 e.v. WVW 1994) de kennisgeving aan de eigenaar, de teruggave, de kosten en de verkoop of vernietiging na de termijn regelt.
-  - Te controleren bron: art. 170 Wegenverkeerswet 1994; art. 171 e.v. Wegenverkeerswet 1994; Besluit wegslepen van voertuigen; Aanwijzingsbesluit wegslepen van de gemeente; Besluit buitengewoon opsporingsambtenaar / Beleidsregels boa (domeinlijst Domein I)
-- [ ] **Les `m05-l03`** — Aanwijzingen in het verkeer
-  - Status: juridische_review_nodig
-  - Reviewpunt: Controleer: (1) welk lid van art. 82 RVV 1990 de opvolgplicht bevat en welk lid (en welke ministeriële regeling) de bevoegde personen aanwijst, en of en onder welke voorwaarden boa's Domein I daaronder vallen; (2) in welk lid van art. 63 RVV 1990 de rangorde aanwijzingen > verkeerslichten > verkeersborden > verkeersregels staat; (3) of de genoemde veiligheidsmaatregelen (zichtbaarheid, positie) als werkafspraak juist zijn weergegeven en niet als wettelijke eis.
-  - Te controleren bron: art. 82 Reglement verkeersregels en verkeerstekens 1990 (RVV 1990); art. 63 Reglement verkeersregels en verkeerstekens 1990 (RVV 1990); Besluit buitengewoon opsporingsambtenaar / Beleidsregels boa (domeinlijst Domein I)
-- [ ] **Vraag `q-m05-l01-1`** — Wat is volgens art. 1 RVV 1990 parkeren?
-  - Status: concept
-- [ ] **Vraag `q-m05-l01-2`** — Is hier sprake van parkeren in strijd met bord E1?
-  - Status: concept
-- [ ] **Vraag `q-m05-l01-3`** — Wat betekent bord E2 (rood kruis op blauwe ondergrond met rode rand)?
-  - Status: concept
-- [ ] **Vraag `q-m05-l01-4`** — Langs de stoeprand zie je een gele doorgetrokken streep. Wat geldt daar?
-  - Status: juridische_review_nodig
-  - Reviewpunt: Controleer of de gele doorgetrokken streep in art. 23 RVV 1990 en de gele onderbroken streep in art. 24 RVV 1990 staat, en in welk lid en onderdeel.
-  - Te controleren bron: art. 23 Reglement verkeersregels en verkeerstekens 1990 (RVV 1990); art. 24 Reglement verkeersregels en verkeerstekens 1990 (RVV 1990)
-- [ ] **Vraag `q-m05-l01-5`** — Koppel het bord, de markering of het begrip aan de juiste betekenis.
-  - Status: juridische_review_nodig
-  - Reviewpunt: Controleer of de gele markering in art. 23 (doorgetrokken) en art. 24 (onderbroken) RVV 1990 staat.
-  - Te controleren bron: art. 23 Reglement verkeersregels en verkeerstekens 1990 (RVV 1990); art. 24 Reglement verkeersregels en verkeerstekens 1990 (RVV 1990)
-- [ ] **Vraag `q-m05-l01-6`** — Stelling: een parkeerovertreding volgens de Wahv wordt meestal afgedaan met een administratieve sanctie, die op naam van de kentekenhouder kan komen.
-  - Status: concept
-- [ ] **Vraag `q-m05-l02-1`** — In welke wet staat de bevoegdheid om een fout geparkeerd voertuig te laten wegslepen?
-  - Status: juridische_review_nodig
-  - Reviewpunt: Controleer of art. 170 WVW 1994 de bevoegdheid geeft en of de gemeente de gevallen aanwijst (welk lid).
-  - Te controleren bron: art. 170 Wegenverkeerswet 1994
-- [ ] **Vraag `q-m05-l02-2`** — Waarom moet je bij wegslepen ook het aanwijzingsbesluit van je gemeente kennen?
-  - Status: juridische_review_nodig
-  - Reviewpunt: Controleer welk lid van art. 170 WVW 1994 de aanwijzing van gevallen regelt en welk gemeentelijk orgaan het besluit neemt.
-  - Te controleren bron: art. 170 Wegenverkeerswet 1994; Aanwijzingsbesluit wegslepen van de gemeente
-- [ ] **Vraag `q-m05-l02-3`** — Wat controleer je eerst, voordat je opdracht geeft tot wegslepen?
-  - Status: juridische_review_nodig
-  - Reviewpunt: Controleer of boa's Domein I via het Besluit wegslepen van voertuigen en hun akte bevoegd kunnen zijn tot het laten overbrengen.
-  - Te controleren bron: art. 170 Wegenverkeerswet 1994; Aanwijzingsbesluit wegslepen van de gemeente; Besluit buitengewoon opsporingsambtenaar / Beleidsregels boa (domeinlijst Domein I)
-- [ ] **Vraag `q-m05-l02-4`** — Wie betaalt volgens de WVW 1994 de kosten van het wegslepen en de bewaring?
-  - Status: juridische_review_nodig
-  - Reviewpunt: Controleer in welk artikel/lid (art. 170 of art. 172 WVW 1994) de kosten voor rekening van eigenaar of houder komen en hoe de teruggave na betaling is geregeld.
-  - Te controleren bron: art. 170 e.v. Wegenverkeerswet 1994
-- [ ] **Vraag `q-m05-l02-5`** — Zet de stappen bij het laten wegslepen van een voertuig in de juiste volgorde.
-  - Status: juridische_review_nodig
-  - Reviewpunt: Volgorde is een didactische werkvolgorde; controleer of de registratie- en kennisgevingsplicht in art. 170 e.v. WVW 1994 zo klopt.
-  - Te controleren bron: art. 170 e.v. Wegenverkeerswet 1994; Aanwijzingsbesluit wegslepen van de gemeente
-- [ ] **Vraag `q-m05-l02-6`** — Stelling: als het gemeentelijk handhavingsbeleid zegt dat foutparkeerders worden weggesleept, mag iedere boa op basis van dat beleid een auto laten wegslepen.
-  - Status: juridische_review_nodig
-  - Reviewpunt: Controleer welke AMvB de tot wegslepen bevoegde ambtenaren aanwijst.
-  - Te controleren bron: art. 170 Wegenverkeerswet 1994; Besluit buitengewoon opsporingsambtenaar / Beleidsregels boa (domeinlijst Domein I)
-- [ ] **Vraag `q-m05-l03-1`** — Welk artikel verplicht weggebruikers om aanwijzingen van bevoegde personen op te volgen?
-  - Status: juridische_review_nodig
-  - Reviewpunt: Controleer in welk lid van art. 82 RVV 1990 de opvolgplicht staat.
-  - Te controleren bron: art. 82 Reglement verkeersregels en verkeerstekens 1990 (RVV 1990)
-- [ ] **Vraag `q-m05-l03-2`** — Een bevoegde persoon geeft een automobilist een teken om door te rijden, terwijl het verkeerslicht op rood staat. Wat moet de automobilist doen?
-  - Status: juridische_review_nodig
-  - Reviewpunt: Controleer in welk lid van art. 63 RVV 1990 deze rangorde staat.
-  - Te controleren bron: art. 63 Reglement verkeersregels en verkeerstekens 1990 (RVV 1990)
-- [ ] **Vraag `q-m05-l03-3`** — Mag Sem als boa deze automobilist een verplichtende aanwijzing geven?
-  - Status: juridische_review_nodig
-  - Reviewpunt: Controleer welke categorieën art. 82 RVV 1990 en de ministeriële regeling daarbij als bevoegde personen aanwijzen, en of en wanneer boa's Domein I daaronder vallen.
-  - Te controleren bron: art. 82 Reglement verkeersregels en verkeerstekens 1990 (RVV 1990); Besluit buitengewoon opsporingsambtenaar / Beleidsregels boa (domeinlijst Domein I)
-- [ ] **Vraag `q-m05-l03-4`** — Wat verbiedt art. 5 WVW 1994?
-  - Status: concept
-- [ ] **Vraag `q-m05-l03-5`** — Zet in de juiste rangorde: wat gaat het eerst voor? Begin met wat het zwaarst weegt.
-  - Status: juridische_review_nodig
-  - Reviewpunt: Controleer in welk lid van art. 63 RVV 1990 deze rangorde staat.
-  - Te controleren bron: art. 63 Reglement verkeersregels en verkeerstekens 1990 (RVV 1990)
-- [ ] **Vraag `q-m05-l03-6`** — Wat is de beste manier om hier veilig te werken?
-  - Status: juridische_review_nodig
-  - Reviewpunt: Controleer of Lisa in deze situatie een bevoegd persoon is in de zin van art. 82 RVV 1990; de vraag gaat alleen over veilig werken.
-- [ ] **Vraag `q-m05-l03-7`** — Stelling: een aanwijzing van een boa is voor de weggebruiker alleen verplichtend als die boa een bevoegd persoon is in de zin van art. 82 RVV 1990.
-  - Status: juridische_review_nodig
-  - Reviewpunt: Controleer welke categorieën art. 82 RVV 1990 en de regeling daarbij als bevoegde personen aanwijzen.
-  - Te controleren bron: art. 82 Reglement verkeersregels en verkeerstekens 1990 (RVV 1990); Besluit buitengewoon opsporingsambtenaar / Beleidsregels boa (domeinlijst Domein I)
-- [ ] **Begrip `Parkeren`** — Parkeren
-  - Status: concept
-- [ ] **Begrip `Stilstaan`** — Stilstaan
-  - Status: concept
-  - Te controleren bron: art. 1 en art. 23 Reglement verkeersregels en verkeerstekens 1990 (RVV 1990)
-- [ ] **Begrip `Bord E1`** — Bord E1
-  - Status: concept
-- [ ] **Begrip `Bord E2`** — Bord E2
-  - Status: concept
-- [ ] **Begrip `Wahv (Wet Mulder)`** — Wahv (Wet Mulder)
-  - Status: concept
-- [ ] **Begrip `Wegslepen`** — Wegslepen
-  - Status: concept
-  - Te controleren bron: art. 170 e.v. Wegenverkeerswet 1994
-- [ ] **Begrip `Aanwijzingsbesluit wegslepen`** — Aanwijzingsbesluit wegslepen
-  - Status: concept
-  - Te controleren bron: art. 170 Wegenverkeerswet 1994
-- [ ] **Begrip `Aanwijzing`** — Aanwijzing
-  - Status: concept
-  - Te controleren bron: art. 82 Reglement verkeersregels en verkeerstekens 1990 (RVV 1990); art. 63 Reglement verkeersregels en verkeerstekens 1990 (RVV 1990)
+Geen open reviewpunten; alle items zijn inhoudelijk gecontroleerd (aftekening door jurist volgt).
+
 
 ### Module 6 – Alcoholwet
 
-- [ ] **Les `m06-l01`** — Jongeren en alcohol op openbare plaatsen
-  - Status: juridische_review_nodig
-  - Reviewpunt: 1) Inhoud art. 45a Alcoholwet controleren aan toetsmatrijs en wettekst; is bewust niet uitgewerkt in de les. 2) Uitzondering(en) op het verbod van art. 45 (bijv. in het kader van werk/bezorging) controleren en zo nodig toevoegen. 3) Toezichtsbepaling: klopt art. 41 Alcoholwet (aanwijzing toezichthouders door de burgemeester) als grondslag voor toezicht op art. 45? 4) Strafbaarstelling en strafmaat overtreding art. 45 (welk artikel, welke boetecategorie) controleren. 5) Controleren of art. 45 Alcoholwet in de domeinlijst Domein I Openbare ruimte staat. 6) Grondslag toonplicht: art. 2 WID richt zich op politie en toezichthouder; voor een boa als opsporingsambtenaar tegenover een verdachte lijkt art. 27a lid 1 Sv de grondslag (scherm Leeftijd vaststellen). Controleren en zo nodig herformuleren.
-  - Te controleren bron: art. 45a Alcoholwet; art. 41 Alcoholwet; art. 2 Wet op de identificatieplicht
-- [ ] **Vraag `q-m06-l01-1`** — Zet je optreden in de juiste volgorde.
-  - Status: concept
-- [ ] **Vraag `q-m06-l01-2`** — Wat verbiedt artikel 45 Alcoholwet?
-  - Status: concept
-- [ ] **Vraag `q-m06-l01-3`** — Overtreedt Noor artikel 45 Alcoholwet?
-  - Status: concept
-- [ ] **Vraag `q-m06-l01-4`** — Is artikel 45 Alcoholwet hier overtreden?
-  - Status: concept
-- [ ] **Vraag `q-m06-l01-5`** — Wanneer is een drank volgens de Alcoholwet een alcoholhoudende drank?
-  - Status: concept
-- [ ] **Vraag `q-m06-l01-6`** — Welke uitspraak over Daan is juist?
-  - Status: juridische_review_nodig
-  - Reviewpunt: Controleer de grondslag van de toonplicht tegenover een boa als opsporingsambtenaar: art. 2 WID noemt de ambtenaar van politie en de toezichthouder; bij een verdachte lijkt art. 27a lid 1 Sv de grondslag. Geldt de leeftijdsgrens van 14 jaar ook daar?
-  - Te controleren bron: art. 2 Wet op de identificatieplicht; art. 27a Wetboek van Strafvordering
-- [ ] **Vraag `q-m06-l01-7`** — Een boa mag op artikel 45 Alcoholwet handhaven omdat de gemeente dit in haar handhavingsbeleid heeft opgenomen, ook als het niet in zijn akte of domeinlijst staat.
-  - Status: concept
-- [ ] **Begrip `Alcoholhoudende drank`** — Alcoholhoudende drank
-  - Status: concept
-- [ ] **Begrip `Voor het publiek toegankelijke plaats`** — Voor het publiek toegankelijke plaats
-  - Status: concept
-- [ ] **Begrip `Voor consumptie gereed hebben`** — Voor consumptie gereed hebben
-  - Status: concept
-- [ ] **Begrip `Aanwezig hebben`** — Aanwezig hebben
-  - Status: concept
-- [ ] **Begrip `Toonplicht`** — Toonplicht
-  - Status: concept
-- [ ] **Begrip `Toezichthouder Alcoholwet`** — Toezichthouder Alcoholwet
-  - Status: concept
-  - Te controleren bron: art. 41 Alcoholwet
+Geen open reviewpunten; alle items zijn inhoudelijk gecontroleerd (aftekening door jurist volgt).
+
 
 ### Module 7 – Winkeltijdenwet
 
@@ -894,176 +682,16 @@ _Automatisch bijgewerkt door `npm run check:content` (peildatum 2026-11-03). Wij
 
 ### Module 9 – Omgevingswet
 
-- [ ] **Les `m09-l01`** — Het stelsel van de Omgevingswet
-  - Status: juridische_review_nodig
-  - Reviewpunt: Controleer: (1) welk lid van art. 5.1 Ow het verbod voor de omgevingsplanactiviteit bevat (lid 1) en welke activiteiten in lid 2 staan; (2) of het tijdelijk deel van het omgevingsplan juist is verwoord en art. 22.1 Ow de juiste vindplaats is; (3) of de opmerking klopt dat kapregels in sommige gemeenten tijdens de overgangsperiode nog in de APV kunnen staan.
-  - Te controleren bron: art. 5.1 Omgevingswet; art. 22.1 Omgevingswet
-- [ ] **Les `m09-l02`** — Handhaving onder de Omgevingswet
-  - Status: juridische_review_nodig
-  - Reviewpunt: Controleer: (1) welke artikelen in hoofdstuk 18 Ow de taak en het bevoegd gezag voor bestuursrechtelijke handhaving regelen (art. 18.1 en 18.2 Ow?); (2) onder welke categorie van art. 1a WED de Omgevingswet en de regels op grond daarvan (omgevingsplan) zijn opgenomen; (3) welke Ow-feiten op de domeinlijst Domein I staan, zodat de passage over proces-verbaal klopt.
-  - Te controleren bron: hoofdstuk 18 Omgevingswet; art. 1a Wet op de economische delicten
-- [ ] **Vraag `q-m09-l01-1`** — Sinds wanneer is de Omgevingswet in werking?
-  - Status: concept
-- [ ] **Vraag `q-m09-l01-2`** — Wie stelt het omgevingsplan van een gemeente vast?
-  - Status: concept
-- [ ] **Vraag `q-m09-l01-3`** — Wat regelt artikel 5.1 van de Omgevingswet in de kern?
-  - Status: juridische_review_nodig
-  - Reviewpunt: Controleer of de samenvatting van art. 5.1 Ow (lid 1 en lid 2) juist en volledig genoeg is voor deze vraag.
-  - Te controleren bron: art. 5.1 Omgevingswet
-- [ ] **Vraag `q-m09-l01-4`** — Wat is het beste dat je nu doet?
-  - Status: juridische_review_nodig
-  - Reviewpunt: Controleer art. 5.1 Ow als grondslag voor het kapverbod via het omgevingsplan, en of in de overgangsperiode kapregels nog in de APV kunnen staan.
-  - Te controleren bron: art. 5.1 Omgevingswet
-- [ ] **Vraag `q-m09-l01-5`** — Koppel elk begrip aan de juiste omschrijving.
-  - Status: juridische_review_nodig
-  - Reviewpunt: Controleer de verwijzing naar art. 5.1 Ow (welk lid).
-  - Te controleren bron: art. 5.1 Omgevingswet
-- [ ] **Vraag `q-m09-l01-6`** — Stelling: de oude bestemmingsplannen van een gemeente zijn bij de invoering van de Omgevingswet onderdeel geworden van het tijdelijke deel van het omgevingsplan.
-  - Status: juridische_review_nodig
-  - Reviewpunt: Controleer of art. 22.1 Ow de juiste vindplaats is voor het tijdelijk deel van het omgevingsplan.
-  - Te controleren bron: art. 22.1 Omgevingswet
-- [ ] **Vraag `q-m09-l02-1`** — Wie handhaaft meestal bestuursrechtelijk bij overtreding van de regels in het omgevingsplan?
-  - Status: juridische_review_nodig
-  - Reviewpunt: Controleer welk artikel in hoofdstuk 18 Ow het bevoegd gezag voor handhaving aanwijst (art. 18.2 Ow?).
-  - Te controleren bron: hoofdstuk 18 Omgevingswet
-- [ ] **Vraag `q-m09-l02-2`** — Wat is het verschil tussen een last onder bestuursdwang en een last onder dwangsom?
-  - Status: concept
-- [ ] **Vraag `q-m09-l02-3`** — Via welke wet worden overtredingen van de Omgevingswet strafrechtelijk aangepakt?
-  - Status: juridische_review_nodig
-  - Reviewpunt: Controleer onder welke onderdelen van art. 1a WED de Omgevingswet is opgenomen en of dit ook geldt voor regels in het omgevingsplan.
-  - Te controleren bron: art. 1a Wet op de economische delicten
-- [ ] **Vraag `q-m09-l02-4`** — Wat is jouw taak als boa in deze situatie?
-  - Status: juridische_review_nodig
-  - Reviewpunt: Controleer art. 5.1 Ow (lid) en de artikelen in hoofdstuk 18 Ow over het bevoegd gezag voor handhaving.
-  - Te controleren bron: art. 5.1 Omgevingswet; hoofdstuk 18 Omgevingswet
-- [ ] **Vraag `q-m09-l02-5`** — Zet de stappen die je als boa zet bij een mogelijke overtreding van de Omgevingswet in een logische volgorde.
-  - Status: juridische_review_nodig
-  - Reviewpunt: Controleer de verwijzing naar hoofdstuk 18 Ow.
-  - Te controleren bron: hoofdstuk 18 Omgevingswet
-- [ ] **Vraag `q-m09-l02-6`** — Stelling: als boa mag je zelf een last onder dwangsom opleggen als iemand zonder vergunning bouwt.
-  - Status: concept
-- [ ] **Vraag `q-m09-l02-7`** — Je bent aangewezen als toezichthouder. Welke bevoegdheid heb je dan op grond van de Algemene wet bestuursrecht?
-  - Status: concept
-- [ ] **Begrip `Omgevingswet`** — Omgevingswet
-  - Status: concept
-- [ ] **Begrip `Omgevingsplan`** — Omgevingsplan
-  - Status: concept
-- [ ] **Begrip `Omgevingsvergunning`** — Omgevingsvergunning
-  - Status: concept
-  - Te controleren bron: art. 5.1 Omgevingswet
-- [ ] **Begrip `Activiteit`** — Activiteit
-  - Status: concept
-- [ ] **Begrip `Bevoegd gezag`** — Bevoegd gezag
-  - Status: concept
-  - Te controleren bron: hoofdstuk 18 Omgevingswet
-- [ ] **Begrip `Last onder bestuursdwang`** — Last onder bestuursdwang
-  - Status: concept
-- [ ] **Begrip `Last onder dwangsom`** — Last onder dwangsom
-  - Status: concept
-- [ ] **Begrip `Toezichthouder`** — Toezichthouder
-  - Status: concept
+Geen open reviewpunten; alle items zijn inhoudelijk gecontroleerd (aftekening door jurist volgt).
+
 
 ### Module 10 – Visserijwet 1963
 
-- [ ] **Les `m10-l01`** — Vissen en controle
-  - Status: juridische_review_nodig
-  - Reviewpunt: De wettekst van de Visserijwet 1963 kon niet rechtstreeks worden geraadpleegd; de artikelnummers komen uit een secundaire bron (veldgids controle visdocumenten 2026). Te controleren: (1) art. 21 lid 1 en de uitzonderingen in lid 2 (o.a. jeugd onder begeleiding). (2) Art. 23 als artikel met eisen aan de schriftelijke toestemming. (3) Art. 55: plicht om visdocumenten op eerste vordering ter inzage te geven, en of het niet bij zich hebben (lid 3) zelfstandig strafbaar is. (4) Art. 62 als grondslag voor inbeslagneming van vistuig. (5) Welke artikelen van de Visserijwet 1963 precies in art. 1a WED staan. (6) Of het Reglement voor de binnenvisserij 1985 de juiste regeling is voor vistuigen en vistijden. (7) Of de Visserijwet 1963 op de standaard domeinlijst Domein I staat of apart moet worden toegekend.
-  - Te controleren bron: art. 21 Visserijwet 1963; art. 23 Visserijwet 1963; art. 55 Visserijwet 1963; art. 62 Visserijwet 1963; art. 1a Wet op de economische delicten; Reglement voor de binnenvisserij 1985
-- [ ] **Vraag `q-m10-l01-1`** — Wanneer mag iemand in een binnenwater vissen volgens de Visserijwet 1963?
-  - Status: juridische_review_nodig
-  - Reviewpunt: Artikel 21 lid 1 Visserijwet 1963 en de exacte formulering van de uitzonderingen in lid 2 controleren in de wettekst.
-  - Te controleren bron: art. 21 Visserijwet 1963
-- [ ] **Vraag `q-m10-l01-2`** — Wat is de VISpas juridisch gezien?
-  - Status: juridische_review_nodig
-  - Reviewpunt: Controleren of de VISpas met lijst van viswateren juridisch correct wordt aangeduid als schriftelijke toestemming in de zin van art. 21 Visserijwet 1963.
-  - Te controleren bron: art. 21 Visserijwet 1963
-- [ ] **Vraag `q-m10-l01-3`** — Wat is de juiste conclusie?
-  - Status: juridische_review_nodig
-  - Reviewpunt: Controleren of art. 21 Visserijwet 1963 (het juiste lid) in art. 1a WED is opgenomen, en of het juiste lid wordt genoemd.
-  - Te controleren bron: art. 21 Visserijwet 1963
-- [ ] **Vraag `q-m10-l01-4`** — Via welke wet zijn overtredingen van de Visserijwet 1963 strafbaar?
-  - Status: juridische_review_nodig
-  - Reviewpunt: Controleer of de Visserijwet 1963 in art. 1a WED staat of (deels) in art. 1 onder 4° WED.
-  - Te controleren bron: art. 1a Wet op de economische delicten
-- [ ] **Vraag `q-m10-l01-5`** — Stelling: iedere boa in Domein I mag automatisch vistuig in beslag nemen op grond van de Visserijwet 1963.
-  - Status: juridische_review_nodig
-  - Reviewpunt: Controleren of art. 62 Visserijwet 1963 de inbeslagnemingsbevoegdheid bevat, en of de Visserijwet 1963 standaard op de domeinlijst Domein I staat.
-  - Te controleren bron: art. 62 Visserijwet 1963
-- [ ] **Vraag `q-m10-l01-6`** — Koppel elk onderwerp aan de regeling waar het staat.
-  - Status: juridische_review_nodig
-  - Reviewpunt: Controleren of het Reglement voor de binnenvisserij 1985 de juiste uitvoeringsregeling is voor vistuigen en vistijden, en art. 21 Visserijwet 1963.
-  - Te controleren bron: art. 21 Visserijwet 1963; Reglement voor de binnenvisserij 1985
-- [ ] **Vraag `q-m10-l01-7`** — Wat klopt over de weigering van meneer De Vries?
-  - Status: juridische_review_nodig
-  - Reviewpunt: Controleren: (1) of art. 55 Visserijwet 1963 de plicht bevat om visdocumenten op eerste vordering ter inzage te geven; (2) welke strafbepaling van toepassing is bij weigering: art. 26 WED of art. 184 Sr, afhankelijk van de grondslag van de vordering.
-  - Te controleren bron: art. 55 Visserijwet 1963; art. 184 Wetboek van Strafrecht
-- [ ] **Begrip `Visrecht`** — Visrecht
-  - Status: concept
-  - Te controleren bron: art. 21 Visserijwet 1963
-- [ ] **Begrip `Schriftelijke toestemming`** — Schriftelijke toestemming
-  - Status: concept
-  - Te controleren bron: art. 21 en art. 23 Visserijwet 1963
-- [ ] **Begrip `VISpas`** — VISpas
-  - Status: concept
-  - Te controleren bron: art. 21 Visserijwet 1963
-- [ ] **Begrip `Lijst van viswateren`** — Lijst van viswateren
-  - Status: concept
-  - Te controleren bron: art. 21 Visserijwet 1963
-- [ ] **Begrip `Binnenwateren`** — Binnenwateren
-  - Status: concept
-  - Te controleren bron: Visserijwet 1963
+Geen open reviewpunten; alle items zijn inhoudelijk gecontroleerd (aftekening door jurist volgt).
+
 
 ### Module 11 – Wet milieubeheer
 
-- [ ] **Les `m11-l01`** — Afval in de openbare ruimte
+- [ ] **Vraag `q-m11-l02-5`** (term 5.8.1) — Overtreedt de bakker de afvalstoffenverordening?
   - Status: juridische_review_nodig
-  - Reviewpunt: Controleer: (1) exacte omschrijving en vindplaats van 'afvalstoffen' in art. 1.1 lid 1 Wm; (2) actuele tekst van art. 10.2 lid 1 Wm na de Invoeringswet Omgevingswet (is 'buiten een inrichting' vervangen, en welke handelingen worden genoemd); (3) of art. 10.23 Wm het juiste artikel is voor de afvalstoffenverordening; (4) onder welke categorie van art. 1a WED de art. 10.1, 10.2 en de afvalstoffenverordening vallen (de verordening mogelijk via de Gemeentewet/art. 154 Gemeentewet strafbaar in plaats van via de WED); (5) of de Wpg (en het Besluit politiegegevens bijzondere opsporingsdiensten/boa's) de juiste grondslag is voor de verwerking van persoonsgegevens uit afval; (6) artikelnummer van de vuurwerkbepaling art. 9.2.2.1a Wm.
-  - Te controleren bron: art. 1.1 Wet milieubeheer; art. 10.2 Wet milieubeheer; art. 10.23 Wet milieubeheer; art. 1a Wet op de economische delicten; Wet politiegegevens; art. 9.2.2.1a Wet milieubeheer; art. 10.1 en art. 10.2 Wet milieubeheer
-- [ ] **Vraag `q-m11-l01-1`** — Wanneer is iets een afvalstof volgens de Wet milieubeheer?
-  - Status: juridische_review_nodig
-  - Reviewpunt: Controleer de exacte omschrijving van 'afvalstoffen' in art. 1.1 lid 1 Wm.
-  - Te controleren bron: art. 1.1 Wet milieubeheer
-- [ ] **Vraag `q-m11-l01-2`** — Welk voorschrift uit de Wet milieubeheer is hier het meest van toepassing?
-  - Status: juridische_review_nodig
-  - Reviewpunt: Controleer de actuele formulering van art. 10.2 lid 1 Wm (begrip 'inrichting' na de Invoeringswet Omgevingswet).
-  - Te controleren bron: art. 10.2 Wet milieubeheer
-- [ ] **Vraag `q-m11-l01-3`** — Wat is het verschil tussen de zorgplicht (art. 10.1 Wm) en het stortverbod (art. 10.2 Wm)?
-  - Status: juridische_review_nodig
-  - Reviewpunt: Controleer de actuele formulering van art. 10.2 Wm.
-  - Te controleren bron: art. 10.2 Wet milieubeheer
-- [ ] **Vraag `q-m11-l01-4`** — Hoe ga je hiermee om?
-  - Status: juridische_review_nodig
-  - Reviewpunt: Controleer of de Wet politiegegevens de juiste grondslag is voor de verwerking door boa's van persoonsgegevens uit afval en noem eventueel het specifieke artikel.
-  - Te controleren bron: art. 10.2 Wet milieubeheer; Wet politiegegevens
-- [ ] **Vraag `q-m11-l01-5`** — Koppel elke situatie aan de regel die het meest van toepassing is.
-  - Status: juridische_review_nodig
-  - Reviewpunt: Controleer art. 1.1, art. 10.2 en art. 10.23 Wm.
-  - Te controleren bron: art. 1.1 Wet milieubeheer; art. 10.2 Wet milieubeheer; art. 10.23 Wet milieubeheer
-- [ ] **Vraag `q-m11-l01-6`** — Stelling: de regels over wanneer en hoe je huishoudelijk afval aanbiedt, zijn in elke gemeente precies gelijk, omdat ze in de Wet milieubeheer zelf staan.
-  - Status: juridische_review_nodig
-  - Reviewpunt: Controleer of art. 10.23 Wm het juiste artikel is voor de afvalstoffenverordening.
-  - Te controleren bron: art. 10.23 Wet milieubeheer
-- [ ] **Vraag `q-m11-l01-7`** — Welke regeling bekijk je eerst om te bepalen of dit mag?
-  - Status: juridische_review_nodig
-  - Reviewpunt: Controleer art. 10.23 Wm als grondslag voor de afvalstoffenverordening.
-  - Te controleren bron: art. 10.23 Wet milieubeheer
-- [ ] **Begrip `Afvalstof`** — Afvalstof
-  - Status: concept
-  - Te controleren bron: art. 1.1 Wet milieubeheer
-- [ ] **Begrip `Zorgplicht (afval)`** — Zorgplicht (afval)
-  - Status: concept
-- [ ] **Begrip `Stortverbod`** — Stortverbod
-  - Status: concept
-  - Te controleren bron: art. 10.2 Wet milieubeheer
-- [ ] **Begrip `Afvalstoffenverordening`** — Afvalstoffenverordening
-  - Status: concept
-  - Te controleren bron: art. 10.23 Wet milieubeheer
-- [ ] **Begrip `Bijplaatsing`** — Bijplaatsing
-  - Status: concept
-  - Te controleren bron: art. 10.23 Wet milieubeheer
-- [ ] **Begrip `Illegale dumping`** — Illegale dumping
-  - Status: concept
-  - Te controleren bron: art. 10.2 Wet milieubeheer
-- [ ] **Begrip `Economisch delict`** — Economisch delict
-  - Status: concept
-  - Te controleren bron: art. 1a Wet op de economische delicten
+  - Reviewpunt: Lokale variatie: controleer in de afvalstoffenverordening van de eigen gemeente of en hoe bedrijfsafval door de inzameldienst wordt ingezameld (VNG-model 2015 art. 11-12, strafbepaling art. 20). Controleer ook of de gemeentelijke inzameldienst voor deze bedrijfsafvalstoffen een bevoegde inzamelaar is in de zin van art. 10.37 lid 2 onder a jo. art. 10.45 Wm (vermelding lijst van inzamelaars of vrijstelling, Besluit inzamelen afvalstoffen), zodat ook art. 10.37 lid 1 niet is overtreden.

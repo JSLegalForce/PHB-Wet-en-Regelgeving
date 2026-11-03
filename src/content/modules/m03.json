@@ -5,13 +5,20 @@
       "id": "m03-l01",
       "moduleId": "m03",
       "order": 1,
-      "title": "Bestuursrecht in de praktijk",
-      "minutes": 15,
-      "termIds": [],
+      "title": "Bestuursrecht en de Awb",
+      "minutes": 20,
+      "termIds": [
+        "3.1.1",
+        "3.1.2"
+      ],
       "objectives": [
         {
-          "text": "Je kunt het verschil tussen bestuursrecht en strafrecht uitleggen aan de hand van het doel.",
+          "text": "Je kunt uitleggen wat bestuursrecht is en welke twee functies het heeft: de instrumentele functie en de waarborgfunctie.",
           "level": "B"
+        },
+        {
+          "text": "Je kunt benoemen welke plaats de Algemene wet bestuursrecht (Awb) heeft in het Nederlandse recht en wat zij beschrijft.",
+          "level": "K"
         },
         {
           "text": "Je kunt de begrippen bestuursorgaan, besluit en belanghebbende uit de Awb omschrijven.",
@@ -23,7 +30,7 @@
         },
         {
           "text": "Je kunt herkennen wanneer je als boa werkt als toezichthouder en wanneer als opsporingsambtenaar.",
-          "level": "T"
+          "level": "B"
         }
       ],
       "screens": [
@@ -33,22 +40,35 @@
         },
         {
           "type": "text",
-          "title": "Twee soorten handhaving",
-          "body": "Als boa heb je met twee rechtsgebieden te maken: het strafrecht en het bestuursrecht.\n\n**Strafrecht** gaat over het bestraffen van een strafbaar feit. Je spoort op, maakt proces-verbaal en het Openbaar Ministerie of de rechter beslist over de straf.\n\n**Bestuursrecht** gaat over de relatie tussen de overheid en burgers of bedrijven. Bij handhaving is het doel vooral dat regels weer worden nageleefd. Een overtreding moet stoppen of worden hersteld. Daarvoor zijn er herstelsancties, zoals een last onder bestuursdwang.\n\nBestuursrecht kent ook bestraffende sancties, zoals de bestuurlijke boete. Maar die mogen alleen als die bevoegdheid bij of krachtens de wet is gegeven (art. 5:4 Awb).\n\nDe Algemene wet bestuursrecht (Awb) geeft de algemene regels die voor alle bestuursorganen gelden."
+          "title": "Wat is bestuursrecht?",
+          "body": "**Bestuursrecht** is het deel van het recht dat gaat over de overheid als bestuur: de gemeente, de provincie, het Rijk en andere bestuursorganen. Het regelt wat het bestuur mag en moet, en hoe het omgaat met burgers en bedrijven.\n\nHet bestuursrecht heeft twee functies:\n- **Instrumentele functie:** het bestuursrecht is een middel (instrument) voor de overheid om de samenleving te besturen. Denk aan vergunningen, verboden en sancties zoals een last onder dwangsom.\n- **Waarborgfunctie:** het bestuursrecht beschermt burgers en bedrijven tegen het handelen van de overheid. De overheid mag alleen doen wat de wet haar toestaat. Burgers kunnen bezwaar maken en in beroep gaan.\n\nHet verschil met het strafrecht: het strafrecht wil vooral een strafbaar feit bestraffen. Bestuursrechtelijke handhaving wil vooral dat een overtreding stopt en de regels weer worden nageleefd (herstelsancties, art. 5:2 Awb)."
+        },
+        {
+          "type": "law",
+          "title": "De plaats van de Awb",
+          "ref": {
+            "law": "Grondwet",
+            "article": "art. 107 lid 2",
+            "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0001840&artikel=107&g=2026-11-03",
+            "geldigOp": "2026-11-03"
+          },
+          "body": "De Grondwet bepaalt: de wet stelt **algemene regels van bestuursrecht** vast (art. 107 lid 2 Grondwet). Die wet is de **Algemene wet bestuursrecht (Awb)**.\n\nDe Awb beschrijft de algemene regels voor de verhouding tussen de overheid en burgers en bedrijven. Bijvoorbeeld:\n- wat een bestuursorgaan, een belanghebbende en een besluit is (hoofdstuk 1);\n- hoe een bestuursorgaan een besluit voorbereidt en neemt (hoofdstuk 3 en 4);\n- toezicht en bestuurlijke sancties (hoofdstuk 5);\n- bezwaar en beroep (hoofdstuk 6 tot en met 8).\n\nDeze regels gelden voor alle bestuursorganen. Andere wetten, zoals de Gemeentewet, geven de bevoegdheden zelf, bijvoorbeeld de bevoegdheid tot bestuursdwang (art. 125 Gemeentewet).\n\nLet op: de hoofdstukken 2 tot en met 8 en 10 van de Awb gelden niet voor de opsporing en vervolging van strafbare feiten (art. 1:6 Awb). Daarvoor geldt het Wetboek van Strafvordering."
         },
         {
           "type": "law",
           "title": "Bestuursorgaan, besluit en belanghebbende",
           "ref": {
             "law": "Algemene wet bestuursrecht",
-            "article": "art. 1:1, 1:2 en 1:3"
+            "article": "art. 1:1",
+            "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=1:1&g=2026-11-03",
+            "geldigOp": "2026-11-03"
           },
-          "body": "De Awb begint met een paar basisbegrippen.\n\n- **Bestuursorgaan (art. 1:1):** een orgaan van een rechtspersoon die volgens het publiekrecht is ingesteld, of een andere persoon of een college met openbaar gezag. Voorbeelden: de burgemeester en het college van burgemeester en wethouders.\n- **Belanghebbende (art. 1:2):** iemand wiens belang rechtstreeks bij een besluit betrokken is.\n- **Besluit (art. 1:3):** een schriftelijke beslissing van een bestuursorgaan, met een publiekrechtelijke rechtshandeling. Een vergunning of een last onder dwangsom is een besluit.\n\nLet op: jouw constatering of rapport is zelf geen besluit. Het bestuursorgaan neemt het besluit."
+          "body": "De Awb begint met een paar basisbegrippen.\n\n- **Bestuursorgaan (art. 1:1 lid 1):** een orgaan van een rechtspersoon die krachtens publiekrecht is ingesteld, zoals de gemeente, of een ander persoon of college met enig openbaar gezag. Voorbeelden: de burgemeester, het college van burgemeester en wethouders en de gemeenteraad.\n- **Belanghebbende (art. 1:2 lid 1):** degene wiens belang rechtstreeks bij een besluit is betrokken.\n- **Besluit (art. 1:3 lid 1):** een schriftelijke beslissing van een bestuursorgaan, inhoudende een publiekrechtelijke rechtshandeling. Een vergunning of een last onder dwangsom is een besluit.\n\nLet op: jouw constatering of rapport is zelf geen besluit. Het bestuursorgaan neemt het besluit."
         },
         {
           "type": "text",
           "title": "Bezwaar en beroep op hoofdlijnen",
-          "body": "Is iemand het niet eens met een besluit? Dan kan een belanghebbende eerst **bezwaar** maken bij het bestuursorgaan dat het besluit nam (art. 7:1 Awb). De termijn daarvoor is zes weken (art. 6:7 Awb).\n\nHet bestuursorgaan kijkt dan opnieuw naar het besluit. Blijft de belanghebbende het oneens met de beslissing op bezwaar? Dan kan hij **beroep** instellen bij de bestuursrechter (art. 8:1 Awb).\n\nVoor jou is dit belangrijk: jouw rapport kan later in bezwaar of beroep worden gelezen. Schrijf dus feitelijk, volledig en controleerbaar op wat je hebt gezien."
+          "body": "Is iemand het niet eens met een besluit? Dan maakt een belanghebbende in de regel eerst **bezwaar** bij het bestuursorgaan dat het besluit nam (art. 7:1 lid 1 Awb; de wet noemt een paar uitzonderingen). De termijn is zes weken (art. 6:7 Awb).\n\nHet bestuursorgaan kijkt dan opnieuw naar het besluit. Blijft de belanghebbende het oneens met de beslissing op bezwaar? Dan kan hij **beroep** instellen bij de bestuursrechter (art. 8:1 Awb).\n\nBezwaar en beroep zijn een voorbeeld van de waarborgfunctie. Voor jou is dit belangrijk: jouw rapport kan later in bezwaar of beroep worden gelezen. Schrijf dus feitelijk, volledig en controleerbaar op wat je hebt gezien."
         },
         {
           "type": "keypoints",
@@ -56,7 +76,7 @@
           "items": [
             {
               "term": "Opsporingsambtenaar",
-              "text": "Je bent boa op grond van art. 142 Sv en je akte. Je spoort strafbare feiten op en maakt proces-verbaal."
+              "text": "Je bent buitengewoon opsporingsambtenaar op grond van art. 142 Sv. Je spoort de strafbare feiten op die in je akte staan, of in de domeinlijst waarnaar je akte verwijst (art. 142 lid 2 Sv), en maakt daarvan proces-verbaal op."
             },
             {
               "term": "Toezichthouder",
@@ -64,7 +84,7 @@
             },
             {
               "term": "Bevoegdheden",
-              "text": "Je gebruikt alleen de bevoegdheden die bij de pet horen die je op dat moment draagt."
+              "text": "Je gebruikt alleen de bevoegdheden die horen bij de pet die je op dat moment draagt."
             },
             {
               "term": "Wisselen van pet",
@@ -75,7 +95,7 @@
         {
           "type": "example",
           "title": "Praktijk: de terrasuitbreiding",
-          "body": "Boa Fatima ziet dat een café het terras ver buiten de vergunde grens heeft uitgebreid. Het terras blokkeert de stoep.\n\nAls toezichthouder controleert zij de vergunning en meet zij de afstand op. Zij legt alles vast met foto's en schrijft een rapport voor de gemeente.\n\nHet college beslist daarna of het een last onder dwangsom oplegt. Dat besluit neemt Fatima niet zelf. De eigenaar kan tegen dat besluit bezwaar maken.\n\nIs het overschrijden van de terrasgrens in de APV van deze gemeente ook strafbaar gesteld en staat dit feit in haar akte en domeinlijst? Dan kan Fatima daarnaast als opsporingsambtenaar proces-verbaal opmaken."
+          "body": "Boa Fatima ziet dat een café het terras ver buiten de vergunde grens heeft uitgebreid. Het terras blokkeert de stoep.\n\nAls toezichthouder controleert zij de vergunning en meet zij de afstand op. Zij legt alles vast met foto's en schrijft een rapport voor de gemeente.\n\nHet college beslist daarna of het een last onder dwangsom oplegt. Dat besluit neemt Fatima niet zelf. De eigenaar kan tegen dat besluit bezwaar maken.\n\nIs het overschrijden van de terrasgrens in de APV van deze gemeente ook strafbaar gesteld en valt dit feit onder haar akte en domeinlijst? Dan kan Fatima daarnaast als opsporingsambtenaar proces-verbaal opmaken."
         },
         {
           "type": "exercise",
@@ -86,11 +106,11 @@
           "type": "check",
           "title": "Kennischeck",
           "questionIds": [
-            "q-m03-l01-1",
-            "q-m03-l01-2",
-            "q-m03-l01-3",
+            "q-m03-l01-8",
+            "q-m03-l01-7",
             "q-m03-l01-4",
-            "q-m03-l01-5"
+            "q-m03-l01-9",
+            "q-m03-l01-1"
           ]
         },
         {
@@ -99,73 +119,118 @@
         }
       ],
       "summary": [
-        "Strafrecht wil een strafbaar feit bestraffen; bestuursrechtelijke handhaving wil vooral dat de overtreding stopt en de regels weer worden nageleefd.",
-        "Een bestuursorgaan is een orgaan met openbaar gezag, zoals de burgemeester of het college (art. 1:1 Awb).",
-        "Een besluit is een schriftelijke beslissing van een bestuursorgaan met een publiekrechtelijke rechtshandeling (art. 1:3 Awb); een belanghebbende is iemand met een rechtstreeks belang (art. 1:2 Awb).",
-        "Tegen een besluit staat eerst bezwaar open (zes weken) en daarna beroep bij de bestuursrechter (art. 6:7, 7:1 en 8:1 Awb).",
+        "Bestuursrecht gaat over de overheid als bestuur en over haar verhouding tot burgers en bedrijven.",
+        "Instrumentele functie: het bestuursrecht is een middel voor de overheid om de samenleving te besturen. Waarborgfunctie: het beschermt burgers en bedrijven tegen het handelen van de overheid.",
+        "De Awb bevat de algemene regels van bestuursrecht (art. 107 lid 2 Grondwet) voor de verhouding tussen overheid en burgers en bedrijven; voor opsporing en vervolging van strafbare feiten gelden de hoofdstukken 2 t/m 8 en 10 niet (art. 1:6 Awb).",
+        "Een bestuursorgaan is een orgaan met openbaar gezag, zoals de burgemeester of het college (art. 1:1 Awb); een besluit is een schriftelijke beslissing met een publiekrechtelijke rechtshandeling (art. 1:3 Awb); een belanghebbende heeft een rechtstreeks belang (art. 1:2 Awb).",
+        "Tegen een besluit staat in de regel eerst bezwaar open (zes weken) en daarna beroep bij de bestuursrechter (art. 6:7, 7:1 en 8:1 Awb).",
         "Als boa kun je twee petten hebben: toezichthouder (art. 5:11 Awb) en opsporingsambtenaar (art. 142 Sv)."
       ],
       "sourceRefs": [
         {
-          "law": "Algemene wet bestuursrecht",
-          "article": "art. 1:1"
+          "law": "Grondwet",
+          "article": "art. 107 lid 2",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0001840&artikel=107&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         },
         {
           "law": "Algemene wet bestuursrecht",
-          "article": "art. 1:2"
+          "article": "art. 1:1",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=1:1&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         },
         {
           "law": "Algemene wet bestuursrecht",
-          "article": "art. 1:3"
+          "article": "art. 1:2",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=1:2&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         },
         {
           "law": "Algemene wet bestuursrecht",
-          "article": "art. 6:7"
+          "article": "art. 1:3",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=1:3&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         },
         {
           "law": "Algemene wet bestuursrecht",
-          "article": "art. 7:1"
+          "article": "art. 1:6",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=1:6&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         },
         {
           "law": "Algemene wet bestuursrecht",
-          "article": "art. 8:1"
+          "article": "art. 5:2",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:2&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         },
         {
           "law": "Algemene wet bestuursrecht",
-          "article": "art. 5:11"
+          "article": "art. 6:7",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=6:7&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        },
+        {
+          "law": "Algemene wet bestuursrecht",
+          "article": "art. 7:1",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:1&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        },
+        {
+          "law": "Algemene wet bestuursrecht",
+          "article": "art. 8:1",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:1&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        },
+        {
+          "law": "Algemene wet bestuursrecht",
+          "article": "art. 5:11",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:11&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         },
         {
           "law": "Wetboek van Strafvordering",
-          "article": "art. 142"
+          "article": "art. 142",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=142&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         },
         {
-          "law": "Algemene wet bestuursrecht",
-          "article": "art. 5:4"
+          "law": "Gemeentewet",
+          "article": "art. 125",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=125&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         }
       ],
       "origin": "nieuw",
-      "reviewStatus": "concept",
-      "version": "1.1",
-      "lastModified": "2026-11-02"
+      "reviewStatus": "inhoudelijk_gecontroleerd",
+      "version": "1.2",
+      "lastModified": "2026-11-03",
+      "reviewedBy": "Claude (AI-controle tegen wettekst geldig op 2026-11-03)",
+      "reviewedOn": "2026-11-03"
     },
     {
       "id": "m03-l02",
       "moduleId": "m03",
       "order": 2,
       "title": "De toezichthouder",
-      "minutes": 15,
-      "termIds": [],
+      "minutes": 20,
+      "termIds": [
+        "3.2.1"
+      ],
       "objectives": [
         {
           "text": "Je kunt omschrijven wie toezichthouder is en hoe iemand als toezichthouder wordt aangewezen.",
           "level": "K"
         },
         {
-          "text": "Je kunt uitleggen wat de legitimatieplicht en het evenredigheidsbeginsel voor toezichthouders inhouden.",
-          "level": "B"
+          "text": "Je kunt het verschil benoemen tussen de bevoegdheden en de verplichtingen van een toezichthouder.",
+          "level": "K"
         },
         {
-          "text": "Je kunt in een situatie herkennen wanneer toezicht overgaat in opsporing en wat dat betekent voor de cautie.",
+          "text": "Je kunt uitleggen wat de legitimatieplicht, de eis van noodzaak en evenredigheid en de cautie van art. 5:10a Awb inhouden.",
+          "level": "K"
+        },
+        {
+          "text": "Je kunt in een situatie bepalen of je geen cautie, de cautie van art. 5:10a Awb of de cautie van art. 29 Sv geeft.",
           "level": "T"
         }
       ],
@@ -179,28 +244,43 @@
           "title": "Wie is toezichthouder?",
           "ref": {
             "law": "Algemene wet bestuursrecht",
-            "article": "art. 5:11"
+            "article": "art. 5:11",
+            "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:11&g=2026-11-03",
+            "geldigOp": "2026-11-03"
           },
-          "body": "Een toezichthouder is een persoon die bij of krachtens een wettelijk voorschrift is belast met het toezicht op de naleving van regels (art. 5:11 Awb).\n\n**Bij** wettelijk voorschrift: de wet wijst de toezichthouder zelf aan.\n\n**Krachtens** wettelijk voorschrift: de wet geeft een bestuursorgaan de bevoegdheid om toezichthouders aan te wijzen. Dat gebeurt met een aanwijzingsbesluit. Zo kan het college of de burgemeester toezichthouders aanwijzen voor de regels die zij handhaven.\n\nLet op: je boa-akte maakt je opsporingsambtenaar. Of je ook toezichthouder bent, hangt af van een aparte aanwijzing. Check dus voor welke regels je bent aangewezen."
+          "body": "Een toezichthouder is een persoon die bij of krachtens wettelijk voorschrift is belast met het houden van toezicht op de naleving van regels (art. 5:11 Awb). Toezicht is controleren of regels worden nageleefd. Daarvoor is geen verdenking nodig.\n\n**Bij** wettelijk voorschrift: de wet wijst de toezichthouder zelf aan.\n\n**Krachtens** wettelijk voorschrift: de wet geeft een bestuursorgaan de bevoegdheid om toezichthouders aan te wijzen. Dat gebeurt met een aanwijzingsbesluit. Zo kan het college of de burgemeester toezichthouders aanwijzen voor de regels die zij handhaven.\n\nLet op: je boa-akte maakt je opsporingsambtenaar. Of je ook toezichthouder bent, hangt af van een aparte aanwijzing. Check dus voor welke regels je bent aangewezen."
         },
         {
           "type": "law",
-          "title": "Legitimatieplicht en evenredigheid",
+          "title": "Verplichtingen van de toezichthouder",
           "ref": {
             "law": "Algemene wet bestuursrecht",
-            "article": "art. 5:12 en 5:13"
+            "article": "art. 5:12",
+            "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:12&g=2026-11-03",
+            "geldigOp": "2026-11-03"
           },
-          "body": "**Legitimatie (art. 5:12 Awb).** Als toezichthouder heb je bij het uitoefenen van je taak een legitimatiebewijs bij je. Vraagt iemand erom? Dan laat je het meteen zien. Het bewijs is uitgegeven door het bestuursorgaan waaronder je als toezichthouder werkt.\n\n**Evenredigheid (art. 5:13 Awb).** Je gebruikt je bevoegdheden alleen voor zover dat redelijkerwijs nodig is voor je taak. Je kiest dus het lichtste middel dat werkt. Kun je een vergunning gewoon laten zien zonder een heel bedrijfspand te doorzoeken? Dan doe je dat.\n\nEen bestuursorgaan kan jouw bevoegdheden ook beperken, bijvoorbeeld in het aanwijzingsbesluit (art. 5:14 Awb)."
+          "body": "Als toezichthouder heb je niet alleen **bevoegdheden** (wat je mag), maar ook **verplichtingen** (wat je moet).\n\n- **Legitimatie (art. 5:12 Awb):** je draagt bij je werk een legitimatiebewijs bij je. Het is uitgegeven door het bestuursorgaan onder wiens verantwoordelijkheid je werkt (lid 1). Vraagt iemand erom, dan laat je het meteen zien (lid 2). Op het bewijs staan je foto, je naam en je hoedanigheid (lid 3).\n- **Noodzaak en evenredigheid (art. 5:13 Awb):** je gebruikt een bevoegdheid alleen voor zover dat redelijkerwijs nodig is voor je taak. Ga dus niet verder dan nodig.\n- **Cautie bij een bestraffende sanctie (art. 5:10a Awb):** zie het volgende scherm.\n\nHet bestuursorgaan kan jouw bevoegdheden beperken, bijvoorbeeld in het aanwijzingsbesluit (art. 5:14 Awb)."
+        },
+        {
+          "type": "law",
+          "title": "De cautie in het bestuursrecht",
+          "ref": {
+            "law": "Algemene wet bestuursrecht",
+            "article": "art. 5:10a",
+            "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:10a&g=2026-11-03",
+            "geldigOp": "2026-11-03"
+          },
+          "body": "Soms kan een bestuursorgaan voor een overtreding een **bestuurlijke boete** opleggen. Dat is een bestraffende sanctie (art. 5:2 lid 1 onder c en 5:40 Awb).\n\nHoor je iemand **met het oog op het opleggen van een bestraffende sanctie**? Dan geldt art. 5:10a Awb:\n- de persoon is niet verplicht om daarvoor verklaringen over de overtreding af te leggen (lid 1);\n- vóór het verhoor deel je hem mee dat hij niet verplicht is te antwoorden (lid 2).\n\nDit is de **bestuursrechtelijke cautie**. Bij een herstelsanctie, zoals een last onder dwangsom, geldt art. 5:10a niet. Die sanctie is niet bestraffend."
         },
         {
           "type": "text",
           "title": "Toezicht of opsporing?",
-          "body": "**Toezicht** is controleren of iemand zich aan de regels houdt. Daarvoor is geen verdenking nodig. Je hoeft dan geen cautie te geven.\n\n**Opsporing** is onderzoek naar een strafbaar feit. Een verdachte is iemand tegen wie een redelijk vermoeden van schuld aan een strafbaar feit bestaat (art. 27 Sv).\n\nOntstaat tijdens je controle zo'n verdenking en wil je de persoon vragen stellen over dat feit? Dan hoor je een verdachte. Je werkt nu als opsporingsambtenaar. Vóór het verhoor zeg je dat hij niet verplicht is te antwoorden: de cautie (art. 29 lid 2 Sv).\n\nVergeet je de cautie, dan kan de verklaring later onbruikbaar zijn voor de strafzaak."
+          "body": "**Opsporing** is onderzoek naar een strafbaar feit. Een verdachte is iemand tegen wie uit feiten of omstandigheden een redelijk vermoeden van schuld aan een strafbaar feit voortvloeit (art. 27 lid 1 Sv).\n\nOntstaat tijdens je controle zo'n verdenking en wil je de persoon vragen stellen over dat feit? Dan hoor je een verdachte. Je werkt nu als opsporingsambtenaar. Vóór het verhoor zeg je dat hij niet verplicht is te antwoorden (art. 29 lid 2 Sv). Die mededeling neem je op in het proces-verbaal.\n\nKort gezegd:\n- gewone nalevingscontrole zonder verdenking en zonder verhoor voor een boete: geen cautie;\n- verhoor met het oog op een bestraffende sanctie, zoals een bestuurlijke boete: cautie van art. 5:10a Awb;\n- verhoor van een verdachte van een strafbaar feit: cautie van art. 29 lid 2 Sv."
         },
         {
           "type": "example",
           "title": "Praktijk: controle bij de markt",
-          "body": "Boa Thomas is door het college aangewezen als toezichthouder voor de marktverordening. Hij controleert de standplaatsvergunning van marktkoopman Sanne.\n\nSanne vraagt wie hij is. Thomas laat direct zijn legitimatiebewijs zien (art. 5:12 Awb). Hij vraagt alleen naar de vergunning en niet naar andere zaken (art. 5:13 Awb).\n\nSanne heeft geen vergunning. Thomas vermoedt nu een strafbaar feit. Voordat hij haar vragen stelt over het feit, geeft hij de cautie (art. 29 lid 2 Sv). Proces-verbaal maakt hij alleen op als het feit in zijn akte en domeinlijst valt."
+          "body": "Boa Thomas is door het college aangewezen als toezichthouder voor de marktverordening. Hij controleert de standplaatsvergunning van marktkoopman Sanne.\n\nSanne vraagt wie hij is. Thomas laat direct zijn legitimatiebewijs zien (art. 5:12 Awb). Hij vraagt alleen naar de vergunning en niet naar andere zaken (art. 5:13 Awb).\n\nSanne heeft geen vergunning. In deze gemeente is dat strafbaar gesteld en het feit valt onder de akte van Thomas. Thomas vermoedt nu een strafbaar feit. Voordat hij haar vragen stelt over het feit, geeft hij de cautie (art. 29 lid 2 Sv). Daarna handelt hij het feit af volgens zijn akte en de werkafspraken."
         },
         {
           "type": "exercise",
@@ -212,10 +292,10 @@
           "title": "Kennischeck",
           "questionIds": [
             "q-m03-l02-1",
+            "q-m03-l02-7",
             "q-m03-l02-2",
-            "q-m03-l02-3",
-            "q-m03-l02-5",
-            "q-m03-l02-6"
+            "q-m03-l02-9",
+            "q-m03-l02-8"
           ]
         },
         {
@@ -226,41 +306,73 @@
       "summary": [
         "Een toezichthouder is bij of krachtens wettelijk voorschrift belast met het toezicht op de naleving (art. 5:11 Awb); vaak gebeurt dat via een aanwijzingsbesluit.",
         "Je boa-akte maakt je opsporingsambtenaar; toezichthouder ben je pas na een aanwijzing voor bepaalde regels.",
-        "Je hebt je legitimatiebewijs bij je en laat het op verzoek direct zien (art. 5:12 Awb).",
-        "Je gebruikt je bevoegdheden alleen voor zover dat redelijkerwijs nodig is (art. 5:13 Awb).",
-        "Bij toezicht geef je geen cautie; hoor je iemand als verdachte, dan werk je als opsporingsambtenaar en geef je de cautie (art. 29 lid 2 Sv)."
+        "Verplichtingen: je hebt je legitimatiebewijs bij je en toont het op verzoek meteen (art. 5:12 Awb) en je gebruikt je bevoegdheden alleen voor zover redelijkerwijs nodig (art. 5:13 Awb).",
+        "Het bestuursorgaan kan je bevoegdheden beperken (art. 5:14 Awb).",
+        "Wie wordt verhoord met het oog op een bestraffende sanctie, hoeft niet over de overtreding te verklaren en krijgt vooraf de cautie (art. 5:10a Awb).",
+        "Hoor je iemand als verdachte van een strafbaar feit, dan werk je als opsporingsambtenaar en geef je de cautie van art. 29 lid 2 Sv."
       ],
       "sourceRefs": [
         {
           "law": "Algemene wet bestuursrecht",
-          "article": "art. 5:11"
+          "article": "art. 5:11",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:11&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         },
         {
           "law": "Algemene wet bestuursrecht",
-          "article": "art. 5:12"
+          "article": "art. 5:12",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:12&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         },
         {
           "law": "Algemene wet bestuursrecht",
-          "article": "art. 5:13"
+          "article": "art. 5:13",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:13&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         },
         {
           "law": "Algemene wet bestuursrecht",
-          "article": "art. 5:14"
+          "article": "art. 5:14",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:14&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        },
+        {
+          "law": "Algemene wet bestuursrecht",
+          "article": "art. 5:10a",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:10a&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        },
+        {
+          "law": "Algemene wet bestuursrecht",
+          "article": "art. 5:2",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:2&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        },
+        {
+          "law": "Algemene wet bestuursrecht",
+          "article": "art. 5:40",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:40&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         },
         {
           "law": "Wetboek van Strafvordering",
-          "article": "art. 27"
+          "article": "art. 27 lid 1",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=27&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         },
         {
           "law": "Wetboek van Strafvordering",
-          "article": "art. 29 lid 2"
+          "article": "art. 29 lid 2",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=29&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         }
       ],
-      "reviewNote": "Graag controleren hoe het legitimatiebewijs voor een boa die ook als toezichthouder is aangewezen in de praktijk is geregeld (apart toezichthoudersbewijs of gecombineerd met de boa-legitimatie). De les noemt bewust alleen de algemene regel van art. 5:12 Awb.",
       "origin": "nieuw",
-      "reviewStatus": "juridische_review_nodig",
-      "version": "1.1",
-      "lastModified": "2026-11-02"
+      "reviewStatus": "inhoudelijk_gecontroleerd",
+      "version": "1.2",
+      "lastModified": "2026-11-03",
+      "reviewedBy": "Claude (AI-controle tegen wettekst geldig op 2026-11-03)",
+      "reviewedOn": "2026-11-03"
     },
     {
       "id": "m03-l03",
@@ -268,15 +380,17 @@
       "order": 3,
       "title": "Toezichtsbevoegdheden",
       "minutes": 20,
-      "termIds": [],
+      "termIds": [
+        "3.2.1"
+      ],
       "objectives": [
         {
           "text": "Je kunt de toezichtsbevoegdheden uit art. 5:15 tot en met 5:19 Awb noemen.",
           "level": "K"
         },
         {
-          "text": "Je kunt uitleggen wat de medewerkingsplicht en het verschoningsrecht inhouden.",
-          "level": "B"
+          "text": "Je kunt uitleggen wat de medewerkingsplicht en het verschoningsrecht inhouden (art. 5:20 Awb).",
+          "level": "K"
         },
         {
           "text": "Je kunt in een casus bepalen of je een plaats mag betreden en wat je doet als iemand niet meewerkt.",
@@ -293,28 +407,32 @@
           "title": "Betreden, inlichtingen en identiteit",
           "ref": {
             "law": "Algemene wet bestuursrecht",
-            "article": "art. 5:15, 5:16 en 5:16a"
+            "article": "art. 5:15",
+            "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:15&g=2026-11-03",
+            "geldigOp": "2026-11-03"
           },
-          "body": "- **Betreden (art. 5:15):** je mag elke plaats betreden, met je benodigde apparatuur. Een woning betreed je niet zonder toestemming van de bewoner. Zo nodig kun je de hulp van de sterke arm (de politie) inroepen. Je mag je laten vergezellen door personen die jij daarvoor aanwijst.\n- **Inlichtingen (art. 5:16):** je mag inlichtingen vorderen, dus vragen stellen die nodig zijn voor je toezicht.\n- **Identiteitsbewijs (art. 5:16a):** je mag van personen inzage vorderen in hun identiteitsbewijs.\n\nDit zijn bevoegdheden uit de Awb. Je hebt ze alleen voor zover je als toezichthouder bent aangewezen en je aanwijzing ze niet beperkt (art. 5:14 Awb)."
+          "body": "- **Betreden (art. 5:15):** je mag met de benodigde apparatuur elke plaats betreden, behalve een woning zonder toestemming van de bewoner (lid 1). Zo nodig verschaf je je toegang met hulp van de sterke arm, de politie (lid 2). Je mag je laten vergezellen door personen die jij daarvoor aanwijst (lid 3).\n- **Inlichtingen (art. 5:16):** je mag inlichtingen vorderen, dus vragen stellen die nodig zijn voor je toezicht.\n- **Identiteitsbewijs (art. 5:16a):** je mag van personen inzage vorderen van een identiteitsbewijs als bedoeld in art. 1 van de Wet op de identificatieplicht. Iedereen van 14 jaar of ouder moet het dan ter inzage geven, ook als een toezichthouder erom vraagt (art. 2 WID). Wie dat niet doet, is strafbaar (art. 447e Sr).\n\nDit zijn bevoegdheden uit de Awb. Je hebt ze alleen als je als toezichthouder bent aangewezen en voor zover je aanwijzing ze niet beperkt (art. 5:14 Awb)."
         },
         {
           "type": "law",
           "title": "Gegevens, zaken en vervoermiddelen",
           "ref": {
             "law": "Algemene wet bestuursrecht",
-            "article": "art. 5:17, 5:18 en 5:19"
+            "article": "art. 5:17",
+            "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:17&g=2026-11-03",
+            "geldigOp": "2026-11-03"
           },
-          "body": "- **Zakelijke gegevens (art. 5:17):** je mag inzage vorderen in zakelijke gegevens en bescheiden, zoals een administratie. Je mag er kopieën van maken. Kan dat niet ter plekke? Dan mag je ze voor korte tijd meenemen om ze te kopiëren, tegen een schriftelijk bewijs.\n- **Zaken (art. 5:18):** je mag zaken onderzoeken, opnemen en er monsters van nemen. Je mag daarvoor ook verpakkingen openen.\n- **Vervoermiddelen (art. 5:19):** je mag vervoermiddelen en hun lading onderzoeken. Je mag ook van de bestuurder vorderen dat hij stilhoudt en het vervoermiddel naar een plaats brengt die jij aanwijst.\n\nSteeds geldt: alleen voor zover redelijkerwijs nodig (art. 5:13 Awb)."
+          "body": "- **Zakelijke gegevens (art. 5:17):** je mag inzage vorderen van zakelijke gegevens en bescheiden, zoals een administratie, en daarvan kopieën maken. Kan kopiëren niet ter plaatse? Dan mag je ze voor korte tijd meenemen tegen een schriftelijk bewijs.\n- **Zaken (art. 5:18):** je mag zaken onderzoeken, opnemen en er monsters van nemen, en daarvoor verpakkingen openen. Op verzoek van de belanghebbende neem je zo mogelijk een tweede monster. Kan het onderzoek niet ter plaatse? Dan mag je de zaken kort meenemen tegen een schriftelijk bewijs.\n- **Vervoermiddelen (art. 5:19):** je mag vervoermiddelen onderzoeken waarop je toezicht houdt (lid 1) en hun lading (lid 2). Je mag van de bestuurder inzage vorderen van de wettelijk voorgeschreven bescheiden (lid 3). Je mag vorderen dat de bestuurder stilhoudt en het vervoermiddel naar een plaats brengt die jij aanwijst (lid 4).\n\nSteeds geldt: alleen voor zover redelijkerwijs nodig (art. 5:13 Awb)."
         },
         {
           "type": "text",
           "title": "Medewerkingsplicht en verschoningsrecht",
-          "body": "Iedereen moet binnen een redelijke termijn alle medewerking geven die jij redelijkerwijs kunt vorderen bij het gebruik van je bevoegdheden (art. 5:20 lid 1 Awb).\n\nEr is een uitzondering. Wie door zijn ambt, beroep of een wettelijk voorschrift tot geheimhouding verplicht is, mag weigeren voor zover dat uit die geheimhouding volgt (art. 5:20 lid 2 Awb). Denk aan een arts of een advocaat. Dit heet het verschoningsrecht.\n\nWerkt iemand opzettelijk niet mee aan een vordering die jij als toezichthouder op grond van de wet doet? Dan is dat strafbaar (art. 184 Sr).\n\nLet op: de medewerkingsplicht verplicht een verdachte niet om over het strafbare feit te verklaren. Dan geef je de cautie (art. 29 lid 2 Sv)."
+          "body": "Iedereen moet binnen de redelijke termijn die jij stelt alle medewerking geven die jij redelijkerwijs kunt vorderen bij het gebruik van je bevoegdheden (art. 5:20 lid 1 Awb). Dat is een verplichting voor de burger, geen extra bevoegdheid voor jou.\n\nEr is een uitzondering. Wie door zijn ambt, beroep of een wettelijk voorschrift tot geheimhouding verplicht is, mag weigeren voor zover dat uit die geheimhouding volgt (art. 5:20 lid 2 Awb). Denk aan een arts of een advocaat. Dit heet het verschoningsrecht.\n\nWat als iemand niet meewerkt?\n- Het bestuursorgaan kan de medewerking afdwingen met een last onder bestuursdwang (art. 5:20 lid 3 Awb).\n- Opzettelijk niet voldoen aan een vordering die jij als toezichthouder krachtens een wettelijk voorschrift doet, is strafbaar (art. 184 lid 1 Sr). Die strafbepaling wordt in een aparte les uitgewerkt.\n- Weigert iemand alleen zijn identiteitsbewijs te tonen, dan gaat het om art. 447e Sr.\n\nLet op: de medewerkingsplicht verplicht een verdachte niet om over het strafbare feit te verklaren. Dan geef je de cautie (art. 29 lid 2 Sv)."
         },
         {
           "type": "example",
           "title": "Praktijk: de bestelbus met afval",
-          "body": "Boa Joris is aangewezen als toezichthouder voor de afvalregels van de gemeente. Hij ziet een bestelbus vol bouwafval bij een milieustraat die gesloten is.\n\nJoris laat zijn legitimatiebewijs zien. Hij vordert dat bestuurder Mila stilhoudt en vraagt naar de herkomst van het afval (art. 5:19 en 5:16 Awb). Hij bekijkt de lading (art. 5:19 Awb) en maakt foto's.\n\nMila wil de laaddeur niet openen. Joris legt uit dat zij moet meewerken (art. 5:20 Awb) en dat weigeren strafbaar is (art. 184 Sr).\n\nMila vraagt of Joris ook haar huis mag bekijken. Nee: een woning betreedt hij niet zonder haar toestemming (art. 5:15 Awb)."
+          "body": "Boa Joris is aangewezen als toezichthouder voor de afvalregels van de gemeente. Hij ziet een bestelbus vol bouwafval bij een milieustraat die gesloten is.\n\nJoris laat zijn legitimatiebewijs zien. Hij vordert dat bestuurder Mila stilhoudt (art. 5:19 lid 4 Awb) en vraagt naar de herkomst van het afval (art. 5:16 Awb). Hij wil de lading onderzoeken (art. 5:19 lid 2 Awb) en maakt foto's.\n\nMila wil de laaddeur niet openen. Joris legt uit dat zij moet meewerken (art. 5:20 lid 1 Awb) en dat opzettelijk niet voldoen aan zijn vordering strafbaar is (art. 184 Sr).\n\nMila vraagt of Joris ook haar huis mag bekijken. Nee: een woning betreedt hij niet zonder haar toestemming (art. 5:15 lid 1 Awb)."
         },
         {
           "type": "exercise",
@@ -326,10 +444,10 @@
           "title": "Kennischeck",
           "questionIds": [
             "q-m03-l03-1",
-            "q-m03-l03-2",
             "q-m03-l03-3",
-            "q-m03-l03-4",
-            "q-m03-l03-5"
+            "q-m03-l03-5",
+            "q-m03-l03-7",
+            "q-m03-l03-2"
           ]
         },
         {
@@ -338,84 +456,123 @@
         }
       ],
       "summary": [
-        "Je mag elke plaats betreden, behalve een woning zonder toestemming van de bewoner (art. 5:15 Awb).",
-        "Je mag inlichtingen vorderen (art. 5:16), inzage in een identiteitsbewijs vorderen (art. 5:16a), zakelijke gegevens inzien (art. 5:17), zaken onderzoeken (art. 5:18) en vervoermiddelen onderzoeken (art. 5:19 Awb).",
+        "Je mag elke plaats betreden, behalve een woning zonder toestemming van de bewoner (art. 5:15 lid 1 Awb); zo nodig met de sterke arm (lid 2).",
+        "Je mag inlichtingen vorderen (art. 5:16), inzage in een identiteitsbewijs vorderen (art. 5:16a), zakelijke gegevens inzien (art. 5:17), zaken onderzoeken (art. 5:18) en vervoermiddelen onderzoeken en laten stilhouden (art. 5:19 Awb).",
         "Iedereen moet redelijkerwijs medewerking geven (art. 5:20 lid 1 Awb); wie een geheimhoudingsplicht heeft, kan zich daarop beroepen (art. 5:20 lid 2 Awb).",
-        "Opzettelijk niet voldoen aan een wettelijke vordering van een toezichthouder is strafbaar (art. 184 Sr).",
+        "Niet meewerken: het bestuursorgaan kan een last onder bestuursdwang opleggen (art. 5:20 lid 3 Awb); opzettelijk niet voldoen aan een vordering is strafbaar (art. 184 Sr); weigeren van een identiteitsbewijs valt onder art. 447e Sr.",
         "Je gebruikt deze bevoegdheden alleen als je bent aangewezen en alleen voor zover dat redelijkerwijs nodig is (art. 5:13 en 5:14 Awb)."
       ],
       "sourceRefs": [
         {
           "law": "Algemene wet bestuursrecht",
-          "article": "art. 5:15"
+          "article": "art. 5:15",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:15&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         },
         {
           "law": "Algemene wet bestuursrecht",
-          "article": "art. 5:16"
+          "article": "art. 5:16",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:16&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         },
         {
           "law": "Algemene wet bestuursrecht",
-          "article": "art. 5:16a"
+          "article": "art. 5:16a",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:16a&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         },
         {
           "law": "Algemene wet bestuursrecht",
-          "article": "art. 5:17"
+          "article": "art. 5:17",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:17&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         },
         {
           "law": "Algemene wet bestuursrecht",
-          "article": "art. 5:18"
+          "article": "art. 5:18",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:18&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         },
         {
           "law": "Algemene wet bestuursrecht",
           "article": "art. 5:19",
-          "note": "lidnummering stilhouden en overbrengen",
-          "verify": true
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:19&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         },
         {
           "law": "Algemene wet bestuursrecht",
-          "article": "art. 5:20"
+          "article": "art. 5:20",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        },
+        {
+          "law": "Algemene wet bestuursrecht",
+          "article": "art. 5:13",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:13&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        },
+        {
+          "law": "Algemene wet bestuursrecht",
+          "article": "art. 5:14",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:14&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        },
+        {
+          "law": "Wet op de identificatieplicht",
+          "article": "art. 2",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0006297&artikel=2&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         },
         {
           "law": "Wetboek van Strafrecht",
-          "article": "art. 184"
+          "article": "art. 184 lid 1",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=184&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         },
         {
-          "law": "Algemene wet bestuursrecht",
-          "article": "art. 5:13"
+          "law": "Wetboek van Strafrecht",
+          "article": "art. 447e",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=447e&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         },
         {
-          "law": "Algemene wet bestuursrecht",
-          "article": "art. 5:14"
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 29 lid 2",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=29&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         }
       ],
       "origin": "nieuw",
-      "reviewStatus": "juridische_review_nodig",
-      "reviewNote": "Controleren: (1) de exacte lidnummering van art. 5:19 Awb (stilhouden en overbrengen van een vervoermiddel; in de les staat bewust geen lidnummer bij de inhoud); (2) of bij het weigeren van inzage in een identiteitsbewijs (art. 5:16a Awb) art. 184 Sr of art. 447e Sr van toepassing is; de les noemt daarom geen strafbepaling bij art. 5:16a.",
-      "version": "1.1",
-      "lastModified": "2026-11-02"
+      "reviewStatus": "inhoudelijk_gecontroleerd",
+      "version": "1.2",
+      "lastModified": "2026-11-03",
+      "reviewedBy": "Claude (AI-controle tegen wettekst geldig op 2026-11-03)",
+      "reviewedOn": "2026-11-03"
     },
     {
       "id": "m03-l04",
       "moduleId": "m03",
       "order": 4,
       "title": "Bestuurlijke sancties",
-      "minutes": 20,
-      "termIds": [],
+      "minutes": 25,
+      "termIds": [
+        "3.2.2"
+      ],
       "objectives": [
         {
-          "text": "Je kunt het verschil tussen een herstelsanctie en een bestraffende sanctie uitleggen.",
-          "level": "B"
-        },
-        {
-          "text": "Je kunt de last onder bestuursdwang, de last onder dwangsom en de bestuurlijke boete omschrijven.",
+          "text": "Je kunt de begrippen bestuurlijke sanctie, herstelsanctie, bestraffende sanctie en bestuurlijke boete omschrijven (art. 5:2 en 5:40 Awb).",
           "level": "K"
         },
         {
-          "text": "Je kunt uitleggen wat een begunstigingstermijn en een vooraankondiging zijn.",
+          "text": "Je kunt de last onder bestuursdwang en de last onder dwangsom omschrijven (art. 5:21 en 5:31d Awb).",
           "level": "K"
         },
         {
-          "text": "Je kunt je eigen rol bij bestuurlijke handhaving bepalen: constateren en rapporteren.",
+          "text": "Je kunt uitleggen dat voor elk overtreden voorschrift een sanctie kan worden opgelegd en aan wie een geldsom toekomt (art. 5:8 en 5:10 lid 1 Awb).",
+          "level": "K"
+        },
+        {
+          "text": "Je kunt in een situatie bepalen welke herstelsanctie past en wat jouw rol is: constateren en rapporteren, niet beslissen.",
           "level": "T"
         }
       ],
@@ -426,12 +583,14 @@
         },
         {
           "type": "law",
-          "title": "Soorten bestuurlijke sancties",
+          "title": "Wat is een bestuurlijke sanctie?",
           "ref": {
             "law": "Algemene wet bestuursrecht",
-            "article": "art. 5:2"
+            "article": "art. 5:2",
+            "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:2&g=2026-11-03",
+            "geldigOp": "2026-11-03"
           },
-          "body": "Een bestuurlijke sanctie is een verplichting of nadeel dat een bestuursorgaan oplegt wegens een overtreding (art. 5:2 Awb). Er zijn twee soorten.\n\n- **Herstelsanctie:** gericht op het beëindigen of ongedaan maken van de overtreding, het voorkomen van herhaling of het beperken van de gevolgen. Voorbeelden: last onder bestuursdwang en last onder dwangsom.\n- **Bestraffende sanctie:** bedoeld om de overtreder leed toe te voegen. Voorbeeld: de bestuurlijke boete.\n\nEen bestuursorgaan mag alleen een sanctie opleggen als een wet die bevoegdheid geeft (art. 5:4 Awb). Beleid is geen grondslag."
+          "body": "Een **bestuurlijke sanctie** is een verplichting of een onthouden aanspraak die een bestuursorgaan oplegt **wegens een overtreding** (art. 5:2 lid 1 onder a Awb). Een overtreding is een gedraging in strijd met een wettelijk voorschrift (art. 5:1 lid 1 Awb).\n\nEr zijn twee soorten:\n- **Herstelsanctie** (onder b): gericht op het beëindigen of ongedaan maken van de overtreding, het voorkomen van herhaling of het wegnemen of beperken van de gevolgen. Voorbeelden: last onder bestuursdwang en last onder dwangsom.\n- **Bestraffende sanctie** (onder c): bedoeld om de overtreder leed toe te voegen. Voorbeeld: de bestuurlijke boete.\n\nEen bestuursorgaan mag alleen een sanctie opleggen als die bevoegdheid bij of krachtens de wet is gegeven (art. 5:4 lid 1 Awb). Beleid is geen grondslag."
         },
         {
           "type": "keypoints",
@@ -439,36 +598,47 @@
           "items": [
             {
               "term": "Last onder bestuursdwang (art. 5:21 Awb)",
-              "text": "Een last om de overtreding te herstellen. Doet de overtreder dat niet op tijd, dan mag het bestuursorgaan het zelf (laten) doen. De kosten komen in de regel voor rekening van de overtreder (art. 5:25 Awb)."
+              "text": "Herstelsanctie met (a) een last om de overtreding geheel of gedeeltelijk te herstellen en (b) de bevoegdheid van het bestuursorgaan om de last door feitelijk handelen uit te voeren als de overtreder dat niet (op tijd) doet. De kosten zijn in beginsel voor de overtreder (art. 5:25 lid 1 Awb)."
             },
             {
               "term": "Last onder dwangsom (art. 5:31d Awb)",
-              "text": "Een last om de overtreding te herstellen. Doet de overtreder dat niet op tijd, dan moet hij een geldsom betalen."
+              "text": "Herstelsanctie met (a) een last om de overtreding geheel of gedeeltelijk te herstellen en (b) de verplichting een geldsom te betalen als de last niet (op tijd) wordt uitgevoerd. Wie bestuursdwang mag opleggen, mag in plaats daarvan een dwangsom opleggen (art. 5:32 lid 1 Awb)."
             },
             {
               "term": "Bestuurlijke boete (art. 5:40 Awb)",
-              "text": "Een bestraffende sanctie: de overtreder moet onvoorwaardelijk een geldsom betalen. Alleen als de bevoegdheid daartoe bij of krachtens de wet is gegeven (art. 5:4 Awb)."
+              "text": "Bestraffende sanctie: een onvoorwaardelijke verplichting om een geldsom te betalen. Alleen als de bevoegdheid daartoe bij of krachtens de wet is gegeven (art. 5:4 Awb)."
             },
             {
               "term": "Bevoegdheid gemeente (art. 125 Gemeentewet)",
-              "text": "Het gemeentebestuur mag een last onder bestuursdwang opleggen. Het college of de burgemeester doet dat, afhankelijk van wie de regel uitvoert."
+              "text": "Het gemeentebestuur is bevoegd tot een last onder bestuursdwang (lid 1). Het college oefent die bevoegdheid uit bij regels die het gemeentebestuur uitvoert, de burgemeester bij regels die hij uitvoert (lid 2 en 3)."
             }
           ]
         },
         {
+          "type": "law",
+          "title": "Meer overtredingen en de geldsom",
+          "ref": {
+            "law": "Algemene wet bestuursrecht",
+            "article": "art. 5:8",
+            "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:8&g=2026-11-03",
+            "geldigOp": "2026-11-03"
+          },
+          "body": "- **Per voorschrift een sanctie (art. 5:8 Awb):** zijn twee of meer voorschriften overtreden, dan kan voor de overtreding van elk afzonderlijk voorschrift een bestuurlijke sanctie worden opgelegd. Overtreedt een ondernemer zowel de terrasregels als de reclameregels? Dan kan voor elke overtreding een sanctie volgen.\n- **Wie krijgt het geld? (art. 5:10 lid 1 Awb):** moet de overtreder door een sanctie een geldsom betalen, zoals een verbeurde dwangsom of een boete? Dan komt die geldsom toe aan het bestuursorgaan dat de sanctie heeft opgelegd, tenzij een wettelijk voorschrift iets anders bepaalt. Het bestuursorgaan kan de geldsom invorderen bij dwangbevel (lid 2).\n- **Wat staat in het sanctiebesluit? (art. 5:9 Awb):** de overtreding en het overtreden voorschrift, en zo nodig de plaats en het tijdstip waarop de overtreding is geconstateerd. Die gegevens komen vaak uit jouw rapport."
+        },
+        {
           "type": "text",
-          "title": "Begunstigingstermijn en vooraankondiging",
-          "body": "**Begunstigingstermijn.** In de last staat welke maatregelen de overtreder moet nemen. Ook staat erin binnen welke termijn hij dat zelf kan doen zonder dat de sanctie wordt uitgevoerd (art. 5:24 Awb voor bestuursdwang). Pas na die termijn volgt uitvoering of een dwangsom.\n\n**Vooraankondiging.** Vaak stuurt het bestuursorgaan eerst een brief dat het van plan is een last op te leggen. De overtreder kan dan zijn mening geven. Zo hoort het bestuursorgaan een belanghebbende vóór een besluit dat hem raakt (art. 4:8 Awb).\n\n**Spoed.** Is de situatie zo spoedeisend dat een last niet kan worden afgewacht? Dan mag het bestuursorgaan meteen bestuursdwang toepassen. Het besluit volgt dan zo snel mogelijk (art. 5:31 Awb)."
+          "title": "Begunstigingstermijn, zienswijze en spoed",
+          "body": "**Begunstigingstermijn.** De last onder bestuursdwang omschrijft de herstelmaatregelen en noemt de termijn waarbinnen de overtreder de last moet uitvoeren (art. 5:24 lid 1 en 2 Awb). Binnen die termijn kan hij zelf herstellen. Pas daarna kan het bestuursorgaan de bestuursdwang uitvoeren.\n\n**Zienswijze (vooraankondiging).** In de praktijk stuurt het bestuursorgaan vaak eerst een brief met het voornemen om een last op te leggen. De overtreder kan dan zijn zienswijze geven. De Awb verplicht daartoe in de gevallen van art. 4:8 Awb: bij een beschikking waartegen de belanghebbende naar verwachting bedenkingen heeft en die steunt op gegevens over hem die hij niet zelf heeft verstrekt, zoals de bevindingen in jouw rapport.\n\n**Spoed.** In spoedeisende gevallen kan het bestuursorgaan besluiten dat bestuursdwang wordt toegepast zonder voorafgaande last (art. 5:31 lid 1 Awb). Kan zelfs dat besluit niet worden afgewacht, dan mag het meteen bestuursdwang toepassen. Het besluit wordt dan zo snel mogelijk nadien bekendgemaakt (art. 5:31 lid 2 Awb)."
         },
         {
           "type": "text",
           "title": "Jouw rol als boa",
-          "body": "Als boa neem je **geen** besluit over een bestuurlijke sanctie. Dat doet het bestuursorgaan, bijvoorbeeld het college of de burgemeester.\n\nJouw taak is:\n\n- de overtreding goed **constateren**: wat, waar, wanneer, wie;\n- bewijs vastleggen, zoals foto's en metingen;\n- een feitelijk en volledig **rapport** schrijven voor het bestuursorgaan;\n- na de begunstigingstermijn **controleren** of de overtreding is beëindigd, als je daarvoor bent ingezet.\n\nJe rapport is vaak de basis van het besluit. Het moet daarom ook in bezwaar en beroep overeind blijven."
+          "body": "De **bevoegdheid om een sanctie op te leggen** ligt bij het bestuursorgaan, bijvoorbeeld het college of de burgemeester (art. 5:4 Awb, art. 125 Gemeentewet). Als boa en toezichthouder neem je daarover **geen** besluit. Jij houdt **feitelijk toezicht**.\n\nJouw taak is:\n- de overtreding goed **constateren**: wat, waar, wanneer, wie;\n- bewijs vastleggen, zoals foto's en metingen;\n- een feitelijk en volledig **rapport** schrijven voor het bestuursorgaan;\n- na de begunstigingstermijn **controleren** of de overtreding is beëindigd, als je daarvoor bent ingezet.\n\nJe rapport is vaak de basis van het besluit. Het moet daarom ook in bezwaar en beroep overeind blijven."
         },
         {
           "type": "example",
           "title": "Praktijk: de aanhanger op straat",
-          "body": "Boa Noor ziet al weken een kapotte aanhanger op de openbare weg staan. Zij maakt foto's, noteert het kenteken en schrijft een rapport voor de gemeente.\n\nDe gemeente stuurt eigenaar Bram een vooraankondiging. Bram reageert niet. Daarna besluit het college tot een last onder bestuursdwang. Bram krijgt twee weken om de aanhanger weg te halen: de begunstigingstermijn.\n\nNa twee weken controleert Noor de plek. De aanhanger staat er nog. Zij meldt dit. De gemeente laat de aanhanger weghalen en stuurt Bram de rekening.\n\nNoor besliste zelf niets over de sanctie. Zij constateerde en rapporteerde."
+          "body": "Boa Noor ziet al weken een kapotte aanhanger op de openbare weg staan, in strijd met de APV. Zij maakt foto's, noteert het kenteken en schrijft een rapport voor de gemeente.\n\nDe gemeente stuurt eigenaar Bram een vooraankondiging. Bram reageert niet. Daarna besluit het college tot een last onder bestuursdwang. Bram krijgt twee weken om de aanhanger weg te halen: de begunstigingstermijn.\n\nNa twee weken controleert Noor de plek. De aanhanger staat er nog. Zij meldt dit. De gemeente laat de aanhanger weghalen en opslaan (art. 5:29 Awb) en stuurt Bram de rekening (art. 5:25 Awb).\n\nNoor besliste zelf niets over de sanctie. Zij constateerde en rapporteerde."
         },
         {
           "type": "exercise",
@@ -481,9 +651,9 @@
           "questionIds": [
             "q-m03-l04-1",
             "q-m03-l04-2",
-            "q-m03-l04-3",
-            "q-m03-l04-4",
-            "q-m03-l04-5"
+            "q-m03-l04-7",
+            "q-m03-l04-8",
+            "q-m03-l04-9"
           ]
         },
         {
@@ -492,63 +662,278 @@
         }
       ],
       "summary": [
-        "Een herstelsanctie wil de overtreding beëindigen of ongedaan maken; een bestraffende sanctie wil leed toevoegen (art. 5:2 Awb).",
+        "Een bestuurlijke sanctie is een verplichting of onthouden aanspraak die een bestuursorgaan oplegt wegens een overtreding (art. 5:2 lid 1 Awb).",
+        "Een herstelsanctie wil de overtreding beëindigen of ongedaan maken; een bestraffende sanctie wil leed toevoegen (art. 5:2 lid 1 onder b en c Awb).",
         "Last onder bestuursdwang (art. 5:21) en last onder dwangsom (art. 5:31d) zijn herstelsancties; de bestuurlijke boete (art. 5:40 Awb) is een bestraffende sanctie.",
+        "Voor elk afzonderlijk overtreden voorschrift kan een sanctie worden opgelegd (art. 5:8 Awb); een geldsom komt in beginsel toe aan het bestuursorgaan dat de sanctie oplegde (art. 5:10 lid 1 Awb).",
         "Een sanctie mag alleen als een wet die bevoegdheid geeft (art. 5:4 Awb); voor de gemeente geeft art. 125 Gemeentewet de bevoegdheid tot bestuursdwang.",
-        "De begunstigingstermijn is de tijd die de overtreder krijgt om zelf te herstellen (art. 5:24 Awb); een vooraankondiging geeft hem vooraf de kans zijn mening te geven (art. 4:8 Awb).",
         "Als boa constateer en rapporteer je; het bestuursorgaan beslist over de sanctie."
       ],
       "sourceRefs": [
         {
           "law": "Algemene wet bestuursrecht",
-          "article": "art. 5:2"
+          "article": "art. 5:1",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:1&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         },
         {
           "law": "Algemene wet bestuursrecht",
-          "article": "art. 5:4"
+          "article": "art. 5:2",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:2&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         },
         {
           "law": "Algemene wet bestuursrecht",
-          "article": "art. 5:21"
+          "article": "art. 5:4",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:4&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         },
         {
           "law": "Algemene wet bestuursrecht",
-          "article": "art. 5:24"
+          "article": "art. 5:8",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:8&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         },
         {
           "law": "Algemene wet bestuursrecht",
-          "article": "art. 5:25"
+          "article": "art. 5:9",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:9&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        },
+        {
+          "law": "Algemene wet bestuursrecht",
+          "article": "art. 5:10 lid 1",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:10&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        },
+        {
+          "law": "Algemene wet bestuursrecht",
+          "article": "art. 5:21",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:21&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        },
+        {
+          "law": "Algemene wet bestuursrecht",
+          "article": "art. 5:24",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:24&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        },
+        {
+          "law": "Algemene wet bestuursrecht",
+          "article": "art. 5:25",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:25&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         },
         {
           "law": "Algemene wet bestuursrecht",
           "article": "art. 5:31",
-          "note": "spoedeisende bestuursdwang",
-          "verify": true
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:31&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         },
         {
           "law": "Algemene wet bestuursrecht",
-          "article": "art. 5:31d"
+          "article": "art. 5:31d",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:31d&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         },
         {
           "law": "Algemene wet bestuursrecht",
-          "article": "art. 5:40"
+          "article": "art. 5:32",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:32&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        },
+        {
+          "law": "Algemene wet bestuursrecht",
+          "article": "art. 5:40",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:40&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         },
         {
           "law": "Algemene wet bestuursrecht",
           "article": "art. 4:8",
-          "note": "koppeling met vooraankondiging",
-          "verify": true
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:8&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         },
         {
           "law": "Gemeentewet",
-          "article": "art. 125"
+          "article": "art. 125",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=125&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         }
       ],
       "origin": "nieuw",
-      "reviewStatus": "juridische_review_nodig",
-      "reviewNote": "Controleren: (1) de vooraankondiging staat niet als zodanig in de Awb; de les koppelt haar aan het horen van een belanghebbende vóór een belastend besluit (art. 4:8 Awb) - graag bevestigen dat deze koppeling juist is weergegeven; (2) de lidnummering van art. 5:31 Awb (spoedeisende bestuursdwang zonder voorafgaande last).",
-      "version": "1.1",
-      "lastModified": "2026-11-02"
+      "reviewStatus": "inhoudelijk_gecontroleerd",
+      "version": "1.2",
+      "lastModified": "2026-11-03",
+      "reviewedBy": "Claude (AI-controle tegen wettekst geldig op 2026-11-03)",
+      "reviewedOn": "2026-11-03"
+    },
+    {
+      "id": "m03-l05",
+      "moduleId": "m03",
+      "order": 5,
+      "title": "Bestuursdwang uitvoeren: betreden, meevoeren en opslaan",
+      "minutes": 15,
+      "termIds": [
+        "3.2.2",
+        "3.2.1"
+      ],
+      "objectives": [
+        {
+          "text": "Je kunt uitleggen wie bij het toepassen van bestuursdwang plaatsen mag betreden en wat geldt voor een woning zonder toestemming (art. 5:27 lid 1 en 2 Awb).",
+          "level": "K"
+        },
+        {
+          "text": "Je kunt uitleggen wanneer het bestuursorgaan zaken mag meevoeren en opslaan en wat het daarbij moet doen (art. 5:29 lid 1 en 2 Awb).",
+          "level": "K"
+        },
+        {
+          "text": "Je kunt in een situatie het verschil bepalen tussen betreden als toezichthouder (art. 5:15 Awb) en betreden om bestuursdwang toe te passen (art. 5:27 Awb).",
+          "level": "T"
+        }
+      ],
+      "screens": [
+        {
+          "type": "objectives",
+          "title": "Leerdoelen"
+        },
+        {
+          "type": "law",
+          "title": "Betreden om bestuursdwang toe te passen",
+          "ref": {
+            "law": "Algemene wet bestuursrecht",
+            "article": "art. 5:27 lid 1",
+            "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:27&g=2026-11-03",
+            "geldigOp": "2026-11-03"
+          },
+          "body": "Om bestuursdwang toe te passen, hebben de personen die **het bestuursorgaan daarvoor aanwijst** toegang tot elke plaats, voor zover dat redelijkerwijs nodig is voor hun taak (art. 5:27 lid 1 Awb). Denk aan medewerkers van de gemeente of een aannemer die een bouwwerk of een aanhanger weghalen.\n\nVoor het **binnentreden in een woning zonder toestemming van de bewoner** is het bestuursorgaan dat bestuursdwang toepast bevoegd een machtiging te geven als bedoeld in art. 2 van de Algemene wet op het binnentreden (art. 5:27 lid 2 Awb).\n\nIs een plaats niet bij de overtreding betrokken, zoals de tuin van de buren? Dan wordt die pas betreden nadat het bestuursorgaan dit ten minste 48 uur vooraf schriftelijk heeft aangezegd aan de rechthebbende (art. 5:27 lid 3 Awb). Bij spoed gebeurt de aanzegging zo snel mogelijk (lid 4)."
+        },
+        {
+          "type": "law",
+          "title": "Meevoeren en opslaan van zaken",
+          "ref": {
+            "law": "Algemene wet bestuursrecht",
+            "article": "art. 5:29 lid 1",
+            "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:29&g=2026-11-03",
+            "geldigOp": "2026-11-03"
+          },
+          "body": "Vergt de toepassing van bestuursdwang het, dan kan het bestuursorgaan **zaken meevoeren en opslaan** (art. 5:29 lid 1 Awb). Bijvoorbeeld: een fietswrak, een aanhanger of de spullen van een terras zonder vergunning.\n\nVan het meevoeren en opslaan laat het bestuursorgaan **proces-verbaal** opmaken. Wie de zaken onder zijn beheer had, krijgt een afschrift van dat proces-verbaal (art. 5:29 lid 2 Awb). Let op: dit is een bestuursrechtelijk verslag van wat is meegenomen, geen proces-verbaal van een strafbaar feit.\n\nHet bestuursorgaan bewaart de zaken en geeft ze terug aan de rechthebbende (lid 3). Het kan de teruggave uitstellen totdat de kosten van de bestuursdwang zijn betaald (art. 5:29 lid 4 Awb)."
+        },
+        {
+          "type": "keypoints",
+          "title": "Toezicht of bestuursdwang: wie mag waar naar binnen?",
+          "items": [
+            {
+              "term": "Toezichthouder (art. 5:15 Awb)",
+              "text": "Mag elke plaats betreden om toezicht te houden, maar geen woning zonder toestemming van de bewoner. Art. 5:15 geeft geen bevoegdheid om een woning zonder toestemming binnen te gaan."
+            },
+            {
+              "term": "Aangewezen persoon bij bestuursdwang (art. 5:27 lid 1)",
+              "text": "Heeft toegang tot elke plaats, voor zover redelijkerwijs nodig om de bestuursdwang uit te voeren."
+            },
+            {
+              "term": "Woning bij bestuursdwang (art. 5:27 lid 2)",
+              "text": "Zonder toestemming van de bewoner alleen met een machtiging tot binnentreden (art. 2 Awbi), die het bestuursorgaan dat bestuursdwang toepast mag geven."
+            },
+            {
+              "term": "Eerst een besluit",
+              "text": "Bestuursdwang volgt op een last met begunstigingstermijn, of bij spoed op een besluit zonder voorafgaande last (art. 5:21, 5:24 en 5:31 Awb). Jij beslist dat als boa niet zelf."
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "title": "Praktijk: de bakfiets in de stalling",
+          "body": "Boa Yara rapporteert dat in de fietsenstalling bij het station al maanden een kapotte bakfiets staat, vastgezet aan een rek. Het college legt de eigenaar een last onder bestuursdwang op met een begunstigingstermijn. De eigenaar reageert niet.\n\nNa de termijn knippen medewerkers die het college heeft aangewezen het slot door. Zij nemen de bakfiets mee naar het gemeentedepot (art. 5:27 lid 1 en 5:29 lid 1 Awb). Van het meevoeren en opslaan wordt proces-verbaal opgemaakt. De eigenaar krijgt een afschrift (art. 5:29 lid 2 Awb).\n\nDe eigenaar meldt zich bij het depot. De gemeente geeft de bakfiets pas terug als de kosten van de bestuursdwang zijn betaald (art. 5:29 lid 4 Awb)."
+        },
+        {
+          "type": "exercise",
+          "title": "Oefening",
+          "questionId": "q-m03-l05-1"
+        },
+        {
+          "type": "check",
+          "title": "Kennischeck",
+          "questionIds": [
+            "q-m03-l05-2",
+            "q-m03-l05-3",
+            "q-m03-l05-4",
+            "q-m03-l05-5"
+          ]
+        },
+        {
+          "type": "summary",
+          "title": "Samenvatting"
+        }
+      ],
+      "summary": [
+        "Om bestuursdwang toe te passen, hebben door het bestuursorgaan aangewezen personen toegang tot elke plaats, voor zover redelijkerwijs nodig (art. 5:27 lid 1 Awb).",
+        "Voor het binnentreden in een woning zonder toestemming van de bewoner kan het bestuursorgaan dat bestuursdwang toepast een machtiging geven (art. 5:27 lid 2 Awb jo. art. 2 Awbi).",
+        "Vergt de bestuursdwang het, dan kan het bestuursorgaan zaken meevoeren en opslaan (art. 5:29 lid 1 Awb); daarvan wordt proces-verbaal opgemaakt en een afschrift gegeven aan degene die de zaken onder zich had (lid 2).",
+        "Een toezichthouder mag een woning niet zonder toestemming betreden (art. 5:15 lid 1 Awb); de machtiging van art. 5:27 lid 2 hoort bij het toepassen van bestuursdwang."
+      ],
+      "sourceRefs": [
+        {
+          "law": "Algemene wet bestuursrecht",
+          "article": "art. 5:27 lid 1",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:27&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        },
+        {
+          "law": "Algemene wet bestuursrecht",
+          "article": "art. 5:27 lid 2",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:27&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        },
+        {
+          "law": "Algemene wet bestuursrecht",
+          "article": "art. 5:29 lid 1",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:29&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        },
+        {
+          "law": "Algemene wet bestuursrecht",
+          "article": "art. 5:29 lid 2",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:29&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        },
+        {
+          "law": "Algemene wet bestuursrecht",
+          "article": "art. 5:15",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:15&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        },
+        {
+          "law": "Algemene wet bestuursrecht",
+          "article": "art. 5:21",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:21&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        },
+        {
+          "law": "Algemene wet bestuursrecht",
+          "article": "art. 5:24",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:24&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        },
+        {
+          "law": "Algemene wet bestuursrecht",
+          "article": "art. 5:31",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:31&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        },
+        {
+          "law": "Algemene wet op het binnentreden",
+          "article": "art. 2",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0006763&artikel=2&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "inhoudelijk_gecontroleerd",
+      "version": "1.0",
+      "lastModified": "2026-11-03",
+      "reviewedBy": "Claude (AI-controle tegen wettekst geldig op 2026-11-03)",
+      "reviewedOn": "2026-11-03"
     }
   ],
   "questions": [
@@ -556,7 +941,9 @@
       "id": "q-m03-l01-1",
       "moduleId": "m03",
       "lessonId": "m03-l01",
-      "termIds": [],
+      "termIds": [
+        "3.1.2"
+      ],
       "topic": "Bestuursorgaan",
       "level": "K",
       "type": "mc",
@@ -570,7 +957,7 @@
         {
           "id": "b",
           "text": "Het college van burgemeester en wethouders",
-          "feedback": "Juist. Het college is een orgaan van de gemeente, een publiekrechtelijke rechtspersoon. Het is dus een bestuursorgaan (art. 1:1 Awb)."
+          "feedback": "Juist. Het college is een orgaan van de gemeente, een rechtspersoon die krachtens publiekrecht is ingesteld. Het is dus een bestuursorgaan (art. 1:1 lid 1 onder a Awb)."
         },
         {
           "id": "c",
@@ -579,23 +966,29 @@
         }
       ],
       "correctAnswer": "b",
-      "explanation": "Volgens art. 1:1 Awb is een bestuursorgaan een orgaan van een publiekrechtelijke rechtspersoon (zoals de gemeente) of een andere persoon of college met openbaar gezag. Het college van B en W valt daaronder.",
+      "explanation": "Volgens art. 1:1 lid 1 Awb is een bestuursorgaan een orgaan van een rechtspersoon die krachtens publiekrecht is ingesteld (zoals de gemeente), of een andere persoon of college met enig openbaar gezag. Het college van B en W valt daaronder.",
       "sourceRefs": [
         {
           "law": "Algemene wet bestuursrecht",
-          "article": "art. 1:1"
+          "article": "art. 1:1 lid 1",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=1:1&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         }
       ],
       "origin": "nieuw",
-      "reviewStatus": "concept",
-      "version": "1.0",
-      "lastModified": "2026-11-02"
+      "reviewStatus": "inhoudelijk_gecontroleerd",
+      "version": "1.1",
+      "lastModified": "2026-11-03",
+      "reviewedBy": "Claude (AI-controle tegen wettekst geldig op 2026-11-03)",
+      "reviewedOn": "2026-11-03"
     },
     {
       "id": "q-m03-l01-2",
       "moduleId": "m03",
       "lessonId": "m03-l01",
-      "termIds": [],
+      "termIds": [
+        "3.1.2"
+      ],
       "topic": "Besluit",
       "level": "K",
       "type": "mc",
@@ -604,7 +997,7 @@
         {
           "id": "a",
           "text": "Een schriftelijke beslissing van een bestuursorgaan met een publiekrechtelijke rechtshandeling",
-          "feedback": "Juist. Dit is de omschrijving uit art. 1:3 Awb. Denk aan een vergunning of een last onder dwangsom."
+          "feedback": "Juist. Dit is de omschrijving uit art. 1:3 lid 1 Awb. Denk aan een vergunning of een last onder dwangsom."
         },
         {
           "id": "b",
@@ -618,23 +1011,29 @@
         }
       ],
       "correctAnswer": "a",
-      "explanation": "Art. 1:3 Awb omschrijft een besluit als een schriftelijke beslissing van een bestuursorgaan, inhoudende een publiekrechtelijke rechtshandeling. Een rapport van een boa is daarvoor de feitelijke basis, maar zelf geen besluit.",
+      "explanation": "Art. 1:3 lid 1 Awb omschrijft een besluit als een schriftelijke beslissing van een bestuursorgaan, inhoudende een publiekrechtelijke rechtshandeling. Een rapport van een boa is daarvoor de feitelijke basis, maar zelf geen besluit.",
       "sourceRefs": [
         {
           "law": "Algemene wet bestuursrecht",
-          "article": "art. 1:3"
+          "article": "art. 1:3 lid 1",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=1:3&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         }
       ],
       "origin": "nieuw",
-      "reviewStatus": "concept",
-      "version": "1.0",
-      "lastModified": "2026-11-02"
+      "reviewStatus": "inhoudelijk_gecontroleerd",
+      "version": "1.1",
+      "lastModified": "2026-11-03",
+      "reviewedBy": "Claude (AI-controle tegen wettekst geldig op 2026-11-03)",
+      "reviewedOn": "2026-11-03"
     },
     {
       "id": "q-m03-l01-3",
       "moduleId": "m03",
       "lessonId": "m03-l01",
-      "termIds": [],
+      "termIds": [
+        "3.1.1"
+      ],
       "topic": "Bestuursrecht en strafrecht",
       "level": "B",
       "type": "mc",
@@ -648,7 +1047,7 @@
         {
           "id": "b",
           "text": "Schadevergoeding regelen voor buren of anderen die last van de overtreding hadden",
-          "feedback": "Onjuist. Een herstelsanctie regelt geen schadevergoeding voor derden. Zij is gericht op het beëindigen of ongedaan maken van de overtreding (art. 5:2 Awb)."
+          "feedback": "Onjuist. Een herstelsanctie regelt geen schadevergoeding voor derden. Zij is gericht op het beëindigen of ongedaan maken van de overtreding (art. 5:2 lid 1 onder b Awb)."
         },
         {
           "id": "c",
@@ -657,107 +1056,133 @@
         }
       ],
       "correctAnswer": "c",
-      "explanation": "Een herstelsanctie wil een overtreding beëindigen, ongedaan maken, herhaling voorkomen of de gevolgen beperken (art. 5:2 lid 1 onder b Awb). Het strafrecht is gericht op bestraffen van een strafbaar feit.",
+      "explanation": "Een herstelsanctie wil een overtreding beëindigen of ongedaan maken, herhaling voorkomen of de gevolgen wegnemen of beperken (art. 5:2 lid 1 onder b Awb). Zo gebruikt de overheid het bestuursrecht als instrument om naleving te bereiken. Het strafrecht is gericht op het bestraffen van een strafbaar feit.",
       "sourceRefs": [
         {
           "law": "Algemene wet bestuursrecht",
-          "article": "art. 5:2 lid 1"
+          "article": "art. 5:2 lid 1",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:2&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         }
       ],
       "origin": "nieuw",
-      "reviewStatus": "concept",
-      "version": "1.0",
-      "lastModified": "2026-11-02"
+      "reviewStatus": "inhoudelijk_gecontroleerd",
+      "version": "1.1",
+      "lastModified": "2026-11-03",
+      "reviewedBy": "Claude (AI-controle tegen wettekst geldig op 2026-11-03)",
+      "reviewedOn": "2026-11-03"
     },
     {
       "id": "q-m03-l01-4",
       "moduleId": "m03",
       "lessonId": "m03-l01",
-      "termIds": [],
-      "topic": "Belanghebbende en bezwaar",
-      "level": "T",
+      "termIds": [
+        "3.1.1"
+      ],
+      "topic": "Waarborgfunctie",
+      "level": "B",
       "type": "mc",
-      "case": "De gemeente legt eigenaar Daan een last onder dwangsom op, omdat hij een container zonder vergunning op de openbare weg heeft laten staan. Daan is het daar niet mee eens.",
-      "prompt": "Wie kan bezwaar maken en waar?",
+      "case": "De gemeente legt eigenaar Daan een last onder dwangsom op, omdat hij zonder vergunning een container op de openbare weg heeft laten staan. Daan is het daar niet mee eens.",
+      "prompt": "Daan kan eerst bezwaar maken bij het bestuursorgaan en daarna in beroep gaan bij de bestuursrechter. Welke functie van het bestuursrecht zie je hierin vooral terug?",
       "options": [
         {
           "id": "a",
-          "text": "Daan maakt bezwaar bij jou als boa, omdat jij de overtreding hebt gezien",
-          "feedback": "Onjuist. Jij hebt het besluit niet genomen. Bezwaar maak je bij het bestuursorgaan dat het besluit nam (art. 7:1 Awb)."
+          "text": "De instrumentele functie: de overheid stuurt de samenleving met regels en sancties",
+          "feedback": "Onjuist. De last onder dwangsom zelf is een instrument van de overheid. Maar de mogelijkheid van bezwaar en beroep beschermt Daan tegen de overheid."
         },
         {
           "id": "b",
-          "text": "Daan maakt als belanghebbende bezwaar bij het bestuursorgaan dat besloot",
-          "feedback": "Juist. Daan is rechtstreeks bij het besluit betrokken (art. 1:2 Awb). Hij maakt eerst bezwaar bij het bestuursorgaan (art. 7:1 Awb), binnen zes weken (art. 6:7 Awb)."
+          "text": "De waarborgfunctie: Daan wordt beschermd tegen onjuist handelen van de overheid",
+          "feedback": "Juist. Via bezwaar (art. 7:1 Awb) en beroep (art. 8:1 Awb) kan Daan het besluit laten toetsen. Dat beschermt burgers tegen de overheid: de waarborgfunctie."
         },
         {
           "id": "c",
-          "text": "Daan gaat direct naar de strafrechter, want het gaat om een overtreding",
-          "feedback": "Onjuist. Tegen een bestuursrechtelijk besluit staat eerst bezwaar open en daarna beroep bij de bestuursrechter (art. 7:1 en 8:1 Awb), niet de strafrechter."
+          "text": "Een bestraffende functie: Daan kan via bezwaar een lagere straf krijgen",
+          "feedback": "Onjuist. Een last onder dwangsom is geen straf maar een herstelsanctie (art. 5:2 en 5:31d Awb). Bezwaar is geen strafprocedure."
         }
       ],
       "correctAnswer": "b",
-      "explanation": "Daan is belanghebbende, omdat zijn belang rechtstreeks bij het besluit betrokken is (art. 1:2 Awb). Hij maakt eerst bezwaar bij het bestuursorgaan (art. 7:1 Awb) binnen zes weken (art. 6:7 Awb). Daarna kan hij in beroep bij de bestuursrechter (art. 8:1 Awb).",
+      "explanation": "Het bestuursrecht heeft een instrumentele functie (de overheid bestuurt met regels en sancties) en een waarborgfunctie (burgers en bedrijven worden beschermd tegen het handelen van de overheid). Bezwaar (art. 7:1 Awb, binnen zes weken: art. 6:7 Awb) en beroep bij de bestuursrechter (art. 8:1 Awb) zijn waarborgen voor de belanghebbende (art. 1:2 Awb).",
       "sourceRefs": [
         {
           "law": "Algemene wet bestuursrecht",
-          "article": "art. 1:2"
+          "article": "art. 7:1",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:1&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         },
         {
           "law": "Algemene wet bestuursrecht",
-          "article": "art. 6:7"
+          "article": "art. 8:1",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:1&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         },
         {
           "law": "Algemene wet bestuursrecht",
-          "article": "art. 7:1"
+          "article": "art. 6:7",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=6:7&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         },
         {
           "law": "Algemene wet bestuursrecht",
-          "article": "art. 8:1"
+          "article": "art. 1:2",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=1:2&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         }
       ],
       "origin": "nieuw",
-      "reviewStatus": "concept",
-      "version": "1.0",
-      "lastModified": "2026-11-02"
+      "reviewStatus": "inhoudelijk_gecontroleerd",
+      "version": "1.1",
+      "lastModified": "2026-11-03",
+      "reviewedBy": "Claude (AI-controle tegen wettekst geldig op 2026-11-03)",
+      "reviewedOn": "2026-11-03"
     },
     {
       "id": "q-m03-l01-5",
       "moduleId": "m03",
       "lessonId": "m03-l01",
-      "termIds": [],
+      "termIds": [
+        "3.1.2"
+      ],
       "topic": "Bezwaar en beroep",
       "level": "K",
       "type": "truefalse",
       "prompt": "Stelling: wie het niet eens is met een besluit, moet in de regel eerst bezwaar maken voordat hij beroep kan instellen bij de bestuursrechter.",
       "correctAnswer": true,
-      "feedbackTrue": "Juist. Art. 7:1 Awb bepaalt dat iemand eerst bezwaar maakt voordat hij beroep instelt bij de bestuursrechter. De wet kent daarop uitzonderingen, maar dit is de hoofdregel.",
-      "feedbackFalse": "Onjuist. De hoofdregel is juist wel dat je eerst bezwaar maakt (art. 7:1 Awb). Pas na de beslissing op bezwaar volgt beroep bij de bestuursrechter (art. 8:1 Awb).",
-      "explanation": "Volgens art. 7:1 Awb maakt een belanghebbende eerst bezwaar voordat hij beroep instelt. De wet noemt uitzonderingen, maar die zijn voor deze les niet nodig.",
+      "feedbackTrue": "Juist. Art. 7:1 lid 1 Awb bepaalt dat iemand eerst bezwaar maakt voordat hij beroep instelt bij de bestuursrechter. De wet kent daarop uitzonderingen, maar dit is de hoofdregel.",
+      "feedbackFalse": "Onjuist. De hoofdregel is juist wel dat je eerst bezwaar maakt (art. 7:1 lid 1 Awb). Pas na de beslissing op bezwaar volgt beroep bij de bestuursrechter (art. 8:1 Awb).",
+      "explanation": "Volgens art. 7:1 lid 1 Awb maakt een belanghebbende eerst bezwaar voordat hij beroep instelt. De wet noemt uitzonderingen, maar die zijn voor deze les niet nodig.",
       "sourceRefs": [
         {
           "law": "Algemene wet bestuursrecht",
-          "article": "art. 7:1"
+          "article": "art. 7:1 lid 1",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:1&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         },
         {
           "law": "Algemene wet bestuursrecht",
-          "article": "art. 8:1"
+          "article": "art. 8:1",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:1&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         }
       ],
       "origin": "nieuw",
-      "reviewStatus": "concept",
+      "reviewStatus": "inhoudelijk_gecontroleerd",
       "version": "1.0",
-      "lastModified": "2026-11-02"
+      "lastModified": "2026-11-03",
+      "reviewedBy": "Claude (AI-controle tegen wettekst geldig op 2026-11-03)",
+      "reviewedOn": "2026-11-03"
     },
     {
       "id": "q-m03-l01-6",
       "moduleId": "m03",
       "lessonId": "m03-l01",
-      "termIds": [],
+      "termIds": [
+        "3.1.2"
+      ],
       "topic": "Basisbegrippen Awb",
       "level": "K",
       "type": "match",
-      "prompt": "Koppel elk begrip aan de juiste omschrijving.",
+      "prompt": "Koppel elk begrip uit de Awb aan de juiste omschrijving.",
       "pairs": [
         {
           "left": "Bestuursorgaan",
@@ -780,39 +1205,263 @@
           "right": "Persoon belast met toezicht op de naleving van wettelijke voorschriften (art. 5:11 Awb)"
         }
       ],
-      "explanation": "Deze begrippen staan in de eerste hoofdstukken van de Awb (art. 1:1, 1:2, 1:3), in hoofdstuk 7 (bezwaar) en in hoofdstuk 5 (toezichthouder, art. 5:11).",
+      "explanation": "Deze begrippen staan in hoofdstuk 1 van de Awb (art. 1:1, 1:2, 1:3), in hoofdstuk 7 (bezwaar) en in hoofdstuk 5 (toezichthouder, art. 5:11).",
       "sourceRefs": [
         {
           "law": "Algemene wet bestuursrecht",
-          "article": "art. 1:1"
+          "article": "art. 1:1",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=1:1&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         },
         {
           "law": "Algemene wet bestuursrecht",
-          "article": "art. 1:2"
+          "article": "art. 1:2",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=1:2&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         },
         {
           "law": "Algemene wet bestuursrecht",
-          "article": "art. 1:3"
+          "article": "art. 1:3",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=1:3&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         },
         {
           "law": "Algemene wet bestuursrecht",
-          "article": "art. 7:1"
+          "article": "art. 7:1",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:1&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         },
         {
           "law": "Algemene wet bestuursrecht",
-          "article": "art. 5:11"
+          "article": "art. 5:11",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:11&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         }
       ],
       "origin": "nieuw",
-      "reviewStatus": "concept",
+      "reviewStatus": "inhoudelijk_gecontroleerd",
       "version": "1.0",
-      "lastModified": "2026-11-02"
+      "lastModified": "2026-11-03",
+      "reviewedBy": "Claude (AI-controle tegen wettekst geldig op 2026-11-03)",
+      "reviewedOn": "2026-11-03"
+    },
+    {
+      "id": "q-m03-l01-7",
+      "moduleId": "m03",
+      "lessonId": "m03-l01",
+      "termIds": [
+        "3.1.1"
+      ],
+      "topic": "Instrumentele functie",
+      "level": "B",
+      "type": "mc",
+      "case": "De gemeenteraad stelt regels vast voor terrassen. Wie een terras wil, heeft een vergunning nodig. Houdt een ondernemer zich niet aan de regels, dan kan het college hem een last onder dwangsom opleggen.",
+      "prompt": "Welke functie van het bestuursrecht zie je hier vooral?",
+      "options": [
+        {
+          "id": "a",
+          "text": "De instrumentele functie: de overheid gebruikt regels, vergunningen en sancties om de samenleving te besturen",
+          "feedback": "Juist. Met een vergunningplicht en een mogelijke last onder dwangsom stuurt de gemeente het gebruik van de openbare ruimte. Dat is de instrumentele functie."
+        },
+        {
+          "id": "b",
+          "text": "De waarborgfunctie: de ondernemer wordt beschermd tegen de gemeente",
+          "feedback": "Onjuist. De waarborgfunctie gaat over bescherming van burgers en bedrijven, bijvoorbeeld via bezwaar en beroep. Hier gebruikt de gemeente juist haar instrumenten."
+        },
+        {
+          "id": "c",
+          "text": "Geen functie van het bestuursrecht: dit is strafrecht, omdat er een sanctie kan volgen",
+          "feedback": "Onjuist. Een last onder dwangsom is een bestuursrechtelijke herstelsanctie (art. 5:2 en 5:31d Awb), geen straf."
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "Het bestuursrecht is een instrument voor de overheid om de samenleving te besturen, bijvoorbeeld met vergunningen en herstelsancties zoals de last onder dwangsom (art. 5:2 lid 1 onder b en 5:31d Awb). Daarnaast beschermt het burgers en bedrijven (waarborgfunctie).",
+      "sourceRefs": [
+        {
+          "law": "Algemene wet bestuursrecht",
+          "article": "art. 5:2 lid 1",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:2&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        },
+        {
+          "law": "Algemene wet bestuursrecht",
+          "article": "art. 5:31d",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:31d&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "inhoudelijk_gecontroleerd",
+      "version": "1.0",
+      "lastModified": "2026-11-03",
+      "reviewedBy": "Claude (AI-controle tegen wettekst geldig op 2026-11-03)",
+      "reviewedOn": "2026-11-03"
+    },
+    {
+      "id": "q-m03-l01-8",
+      "moduleId": "m03",
+      "lessonId": "m03-l01",
+      "termIds": [
+        "3.1.1"
+      ],
+      "topic": "Begrip bestuursrecht",
+      "level": "B",
+      "type": "mc",
+      "prompt": "Welke omschrijving past het best bij het begrip bestuursrecht?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Het recht over strafbare feiten en de straffen die de rechter daarvoor kan opleggen",
+          "feedback": "Onjuist. Dat is het strafrecht."
+        },
+        {
+          "id": "b",
+          "text": "Het recht over afspraken tussen burgers onderling, zoals koop en huur",
+          "feedback": "Onjuist. Dat is het burgerlijk recht (privaatrecht)."
+        },
+        {
+          "id": "c",
+          "text": "Het recht over het optreden van de overheid als bestuur en haar verhouding tot burgers en bedrijven",
+          "feedback": "Juist. Het bestuursrecht regelt wat bestuursorganen mogen en moeten en hoe zij omgaan met burgers en bedrijven. De algemene regels daarvan staan in de Awb (art. 107 lid 2 Grondwet)."
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "Bestuursrecht gaat over de overheid als bestuur (bestuursorganen, art. 1:1 Awb) en over haar verhouding tot burgers en bedrijven. De Grondwet bepaalt dat de wet daarvoor algemene regels vaststelt (art. 107 lid 2 Grondwet): de Awb.",
+      "sourceRefs": [
+        {
+          "law": "Grondwet",
+          "article": "art. 107 lid 2",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0001840&artikel=107&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        },
+        {
+          "law": "Algemene wet bestuursrecht",
+          "article": "art. 1:1",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=1:1&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "inhoudelijk_gecontroleerd",
+      "version": "1.0",
+      "lastModified": "2026-11-03",
+      "reviewedBy": "Claude (AI-controle tegen wettekst geldig op 2026-11-03)",
+      "reviewedOn": "2026-11-03"
+    },
+    {
+      "id": "q-m03-l01-9",
+      "moduleId": "m03",
+      "lessonId": "m03-l01",
+      "termIds": [
+        "3.1.2"
+      ],
+      "topic": "Plaats van de Awb",
+      "level": "K",
+      "type": "mc",
+      "prompt": "Wat beschrijft de Algemene wet bestuursrecht (Awb)?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Alleen de regels van de gemeentelijke APV en de straffen die daarbij horen",
+          "feedback": "Onjuist. De APV is een gemeentelijke verordening. De Awb bevat algemene regels voor alle bestuursorganen."
+        },
+        {
+          "id": "b",
+          "text": "De regels voor het opsporen van strafbare feiten en het verhoren van verdachten",
+          "feedback": "Onjuist. Dat regelt het Wetboek van Strafvordering. De hoofdstukken 2 t/m 8 en 10 van de Awb gelden juist niet voor opsporing en vervolging (art. 1:6 Awb)."
+        },
+        {
+          "id": "c",
+          "text": "Alleen regels voor de rijksoverheid; gemeenten hebben hun eigen wet",
+          "feedback": "Onjuist. De Awb geldt voor alle bestuursorganen, dus ook voor gemeentelijke bestuursorganen (art. 1:1 Awb)."
+        },
+        {
+          "id": "d",
+          "text": "Algemene regels voor de verhouding tussen de overheid en burgers en bedrijven, die voor alle bestuursorganen gelden",
+          "feedback": "Juist. De Awb bevat de algemene regels van bestuursrecht (art. 107 lid 2 Grondwet), bijvoorbeeld over besluiten, toezicht, sancties en bezwaar en beroep."
+        }
+      ],
+      "correctAnswer": "d",
+      "explanation": "De Awb is de wet met algemene regels van bestuursrecht (art. 107 lid 2 Grondwet). Zij regelt de verhouding tussen de overheid en burgers en bedrijven en geldt voor alle bestuursorganen (art. 1:1 Awb). Voor de opsporing en vervolging van strafbare feiten gelden de hoofdstukken 2 t/m 8 en 10 niet (art. 1:6 Awb).",
+      "sourceRefs": [
+        {
+          "law": "Grondwet",
+          "article": "art. 107 lid 2",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0001840&artikel=107&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        },
+        {
+          "law": "Algemene wet bestuursrecht",
+          "article": "art. 1:1",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=1:1&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        },
+        {
+          "law": "Algemene wet bestuursrecht",
+          "article": "art. 1:6",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=1:6&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "inhoudelijk_gecontroleerd",
+      "version": "1.0",
+      "lastModified": "2026-11-03",
+      "reviewedBy": "Claude (AI-controle tegen wettekst geldig op 2026-11-03)",
+      "reviewedOn": "2026-11-03"
+    },
+    {
+      "id": "q-m03-l01-10",
+      "moduleId": "m03",
+      "lessonId": "m03-l01",
+      "termIds": [
+        "3.1.2"
+      ],
+      "topic": "Awb en opsporing",
+      "level": "K",
+      "type": "mc",
+      "prompt": "Je verhoort als boa een verdachte over een strafbaar feit. Gelden daarvoor de algemene regels uit de hoofdstukken 2 tot en met 8 van de Awb?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ja, de Awb geldt voor alles wat een medewerker van de overheid doet",
+          "feedback": "Onjuist. De Awb maakt zelf een uitzondering voor de opsporing en vervolging van strafbare feiten (art. 1:6 onder a Awb)."
+        },
+        {
+          "id": "b",
+          "text": "Nee, die hoofdstukken gelden niet voor de opsporing van strafbare feiten; daar geldt het Wetboek van Strafvordering",
+          "feedback": "Juist. Art. 1:6 onder a Awb sluit de hoofdstukken 2 tot en met 8 en 10 uit voor de opsporing en vervolging van strafbare feiten."
+        },
+        {
+          "id": "c",
+          "text": "Alleen als de verdachte daar zelf om vraagt",
+          "feedback": "Onjuist. Of de Awb geldt, hangt niet af van een verzoek van de verdachte, maar van de wet (art. 1:6 Awb)."
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "De Awb regelt de verhouding tussen bestuur en burger. Voor de opsporing en vervolging van strafbare feiten gelden de hoofdstukken 2 tot en met 8 en 10 van de Awb niet (art. 1:6 onder a Awb). Daar gelden het Wetboek van Strafvordering en de regels van je akte.",
+      "sourceRefs": [
+        {
+          "law": "Algemene wet bestuursrecht",
+          "article": "art. 1:6",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=1:6&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "inhoudelijk_gecontroleerd",
+      "version": "1.0",
+      "lastModified": "2026-11-03",
+      "reviewedBy": "Claude (AI-controle tegen wettekst geldig op 2026-11-03)",
+      "reviewedOn": "2026-11-03"
     },
     {
       "id": "q-m03-l02-1",
       "moduleId": "m03",
       "lessonId": "m03-l02",
-      "termIds": [],
+      "termIds": [
+        "3.2.1"
+      ],
       "topic": "Toezichthouder",
       "level": "K",
       "type": "mc",
@@ -839,19 +1488,25 @@
       "sourceRefs": [
         {
           "law": "Algemene wet bestuursrecht",
-          "article": "art. 5:11"
+          "article": "art. 5:11",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:11&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         }
       ],
       "origin": "nieuw",
-      "reviewStatus": "concept",
+      "reviewStatus": "inhoudelijk_gecontroleerd",
       "version": "1.0",
-      "lastModified": "2026-11-02"
+      "lastModified": "2026-11-03",
+      "reviewedBy": "Claude (AI-controle tegen wettekst geldig op 2026-11-03)",
+      "reviewedOn": "2026-11-03"
     },
     {
       "id": "q-m03-l02-2",
       "moduleId": "m03",
       "lessonId": "m03-l02",
-      "termIds": [],
+      "termIds": [
+        "3.2.1"
+      ],
       "topic": "Legitimatieplicht",
       "level": "T",
       "type": "mc",
@@ -861,12 +1516,12 @@
         {
           "id": "a",
           "text": "Je laat direct je legitimatiebewijs als toezichthouder zien",
-          "feedback": "Juist. Je moet je legitimatiebewijs bij je hebben en het op het eerste verzoek tonen (art. 5:12 Awb)."
+          "feedback": "Juist. Je hebt je legitimatiebewijs bij je en toont het desgevraagd meteen (art. 5:12 lid 1 en 2 Awb)."
         },
         {
           "id": "b",
           "text": "Je noemt je naam; je bewijs laat je pas zien als de controle klaar is",
-          "feedback": "Onjuist. Art. 5:12 Awb verplicht je het legitimatiebewijs meteen op verzoek te tonen, niet pas achteraf."
+          "feedback": "Onjuist. Art. 5:12 lid 2 Awb verplicht je het legitimatiebewijs meteen op verzoek te tonen, niet pas achteraf."
         },
         {
           "id": "c",
@@ -875,25 +1530,31 @@
         }
       ],
       "correctAnswer": "a",
-      "explanation": "Een toezichthouder heeft bij het uitoefenen van zijn taak een legitimatiebewijs bij zich en toont dit desgevraagd aanstonds (art. 5:12 Awb).",
+      "explanation": "Een toezichthouder draagt bij het uitoefenen van zijn taak een legitimatiebewijs bij zich en toont dit desgevraagd aanstonds (art. 5:12 lid 1 en 2 Awb). Dat is een verplichting van de toezichthouder.",
       "sourceRefs": [
         {
           "law": "Algemene wet bestuursrecht",
-          "article": "art. 5:12"
+          "article": "art. 5:12",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:12&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         }
       ],
       "origin": "nieuw",
-      "reviewStatus": "concept",
-      "version": "1.0",
-      "lastModified": "2026-11-02"
+      "reviewStatus": "inhoudelijk_gecontroleerd",
+      "version": "1.1",
+      "lastModified": "2026-11-03",
+      "reviewedBy": "Claude (AI-controle tegen wettekst geldig op 2026-11-03)",
+      "reviewedOn": "2026-11-03"
     },
     {
       "id": "q-m03-l02-3",
       "moduleId": "m03",
       "lessonId": "m03-l02",
-      "termIds": [],
-      "topic": "Evenredigheid",
-      "level": "B",
+      "termIds": [
+        "3.2.1"
+      ],
+      "topic": "Noodzaak en evenredigheid",
+      "level": "K",
       "type": "mc",
       "prompt": "Wat betekent art. 5:13 Awb voor jou als toezichthouder?",
       "options": [
@@ -904,8 +1565,8 @@
         },
         {
           "id": "b",
-          "text": "Je gebruikt een bevoegdheid alleen als dat redelijkerwijs nodig is voor je taak",
-          "feedback": "Juist. Art. 5:13 Awb verplicht je het lichtste middel te kiezen dat nodig is om je toezichtstaak uit te voeren."
+          "text": "Je gebruikt een bevoegdheid alleen voor zover dat redelijkerwijs nodig is voor je taak",
+          "feedback": "Juist. Art. 5:13 Awb begrenst al je bevoegdheden: niet verder gaan dan redelijkerwijs nodig is voor je toezichtstaak."
         },
         {
           "id": "c",
@@ -914,37 +1575,45 @@
         }
       ],
       "correctAnswer": "b",
-      "explanation": "Een toezichthouder maakt van zijn bevoegdheden slechts gebruik voor zover dat redelijkerwijs voor de vervulling van zijn taak nodig is (art. 5:13 Awb).",
+      "explanation": "Een toezichthouder maakt van zijn bevoegdheden slechts gebruik voor zover dat redelijkerwijs voor de vervulling van zijn taak nodig is (art. 5:13 Awb). Het bestuursorgaan kan de bevoegdheden daarnaast beperken (art. 5:14 Awb).",
       "sourceRefs": [
         {
           "law": "Algemene wet bestuursrecht",
-          "article": "art. 5:13"
+          "article": "art. 5:13",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:13&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         },
         {
           "law": "Algemene wet bestuursrecht",
-          "article": "art. 5:14"
+          "article": "art. 5:14",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:14&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         }
       ],
       "origin": "nieuw",
-      "reviewStatus": "concept",
-      "version": "1.0",
-      "lastModified": "2026-11-02"
+      "reviewStatus": "inhoudelijk_gecontroleerd",
+      "version": "1.1",
+      "lastModified": "2026-11-03",
+      "reviewedBy": "Claude (AI-controle tegen wettekst geldig op 2026-11-03)",
+      "reviewedOn": "2026-11-03"
     },
     {
       "id": "q-m03-l02-4",
       "moduleId": "m03",
       "lessonId": "m03-l02",
-      "termIds": [],
+      "termIds": [
+        "3.2.1"
+      ],
       "topic": "Van toezicht naar opsporing",
       "level": "T",
       "type": "mc",
-      "case": "Je controleert als toezichthouder een evenement. Je ziet dat organisator Karim de geluidsgrens uit de vergunning ruim overschrijdt. Je vermoedt dat hij daarmee een strafbaar feit pleegt. Je wilt hem vragen stellen over wat er is gebeurd.",
+      "case": "Je bent boa en ook aangewezen als toezichthouder voor de marktregels. Bij een controle blijkt dat koopman Karim zonder vergunning een kraam heeft neergezet. In deze gemeente is dat een strafbaar feit en het valt onder jouw akte. Je wilt Karim vragen stellen over wat er is gebeurd.",
       "prompt": "Wat moet je doen voordat je hem vragen stelt over dit feit?",
       "options": [
         {
           "id": "a",
           "text": "Niets bijzonders; als toezichthouder hoef je nooit een cautie te geven",
-          "feedback": "Onjuist. Bij zuiver toezicht niet, maar Karim is nu verdachte (art. 27 Sv). Wie een verdachte verhoort, geeft vooraf de cautie (art. 29 lid 2 Sv)."
+          "feedback": "Onjuist. Bij zuiver toezicht niet, maar Karim is nu verdachte (art. 27 lid 1 Sv). Wie een verdachte verhoort, geeft vooraf de cautie (art. 29 lid 2 Sv)."
         },
         {
           "id": "b",
@@ -954,36 +1623,51 @@
         {
           "id": "c",
           "text": "Hem vertellen dat hij niet verplicht is te antwoorden: de cautie",
-          "feedback": "Juist. Er is een redelijk vermoeden van schuld, dus Karim is verdachte (art. 27 Sv). Vóór het verhoor geef je de cautie (art. 29 lid 2 Sv)."
+          "feedback": "Juist. Er is een redelijk vermoeden van schuld, dus Karim is verdachte (art. 27 lid 1 Sv). Vóór het verhoor geef je de cautie (art. 29 lid 2 Sv)."
         }
       ],
       "correctAnswer": "c",
-      "explanation": "Zodra er een redelijk vermoeden van schuld aan een strafbaar feit is, is de persoon verdachte (art. 27 Sv). Wie hem over dat feit hoort, werkt als opsporingsambtenaar en geeft vóór het verhoor de cautie (art. 29 lid 2 Sv). Opmaken van proces-verbaal kan alleen als het feit in je akte en domeinlijst valt.",
+      "explanation": "Zodra er een redelijk vermoeden van schuld aan een strafbaar feit is, is de persoon verdachte (art. 27 lid 1 Sv). Wie hem over dat feit hoort, werkt als opsporingsambtenaar en geeft vóór het verhoor de cautie (art. 29 lid 2 Sv). De medewerkingsplicht van art. 5:20 Awb verandert dat niet.",
       "sourceRefs": [
         {
           "law": "Wetboek van Strafvordering",
-          "article": "art. 27"
+          "article": "art. 27 lid 1",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=27&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         },
         {
           "law": "Wetboek van Strafvordering",
-          "article": "art. 29 lid 2"
+          "article": "art. 29 lid 2",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=29&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         },
         {
           "law": "Algemene wet bestuursrecht",
-          "article": "art. 5:20"
+          "article": "art. 5:20",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        },
+        {
+          "law": "Algemene wet bestuursrecht",
+          "article": "art. 5:11",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:11&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         }
       ],
       "origin": "nieuw",
-      "reviewStatus": "juridische_review_nodig",
-      "version": "1.0",
-      "lastModified": "2026-11-02",
-      "reviewNote": "Redactie 2026-11-02: controleren of het overschrijden van een geluidsgrens uit een evenementenvergunning als strafbaar feit kan gelden (APV-strafbepaling bij vergunningvoorschriften); de casus zegt alleen 'je vermoedt'."
+      "reviewStatus": "inhoudelijk_gecontroleerd",
+      "version": "1.1",
+      "lastModified": "2026-11-03",
+      "reviewedBy": "Claude (AI-controle tegen wettekst geldig op 2026-11-03)",
+      "reviewedOn": "2026-11-03"
     },
     {
       "id": "q-m03-l02-5",
       "moduleId": "m03",
       "lessonId": "m03-l02",
-      "termIds": [],
+      "termIds": [
+        "3.2.1"
+      ],
       "topic": "Aanwijzing",
       "level": "K",
       "type": "mc",
@@ -997,7 +1681,7 @@
         {
           "id": "b",
           "text": "Automatisch, doordat je in de domeinlijst van Domein I staat",
-          "feedback": "Onjuist. De domeinlijst gaat over je opsporingsbevoegdheid. Toezichthouder word je door een aanwijzing (art. 5:11 Awb)."
+          "feedback": "Onjuist. De domeinlijst gaat over je opsporingsbevoegdheid (art. 142 lid 2 Sv). Toezichthouder word je door een aanwijzing (art. 5:11 Awb)."
         },
         {
           "id": "c",
@@ -1010,87 +1694,318 @@
       "sourceRefs": [
         {
           "law": "Algemene wet bestuursrecht",
-          "article": "art. 5:11"
+          "article": "art. 5:11",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:11&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        },
+        {
+          "law": "Wetboek van Strafvordering",
+          "article": "art. 142 lid 2",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=142&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         }
       ],
       "origin": "nieuw",
-      "reviewStatus": "concept",
-      "version": "1.0",
-      "lastModified": "2026-11-02"
+      "reviewStatus": "inhoudelijk_gecontroleerd",
+      "version": "1.1",
+      "lastModified": "2026-11-03",
+      "reviewedBy": "Claude (AI-controle tegen wettekst geldig op 2026-11-03)",
+      "reviewedOn": "2026-11-03"
     },
     {
       "id": "q-m03-l02-6",
       "moduleId": "m03",
       "lessonId": "m03-l02",
-      "termIds": [],
+      "termIds": [
+        "3.2.1"
+      ],
       "topic": "Toezicht en cautie",
-      "level": "B",
+      "level": "K",
       "type": "truefalse",
-      "prompt": "Stelling: als je alleen controleert of iemand een geldige vergunning heeft, zonder dat er een verdenking is, hoef je geen cautie te geven.",
+      "prompt": "Stelling: als je alleen controleert of iemand een geldige vergunning heeft, zonder dat er een verdenking is en zonder verhoor met het oog op een boete, hoef je geen cautie te geven.",
       "correctAnswer": true,
-      "feedbackTrue": "Juist. Toezicht vraagt geen verdenking. De cautie geldt bij het verhoren van een verdachte (art. 29 lid 2 Sv).",
-      "feedbackFalse": "Onjuist. De cautie hoort bij het verhoor van een verdachte (art. 29 lid 2 Sv). Bij een gewone nalevingscontrole zonder verdenking is er geen verdachte, dus ook geen cautieplicht.",
-      "explanation": "De cautieplicht van art. 29 lid 2 Sv geldt bij het verhoor van een verdachte. Bij toezicht op de naleving (art. 5:11 Awb) zonder verdenking is daar geen sprake van.",
+      "feedbackTrue": "Juist. Toezicht vraagt geen verdenking. De cautie geldt bij het verhoor van een verdachte (art. 29 lid 2 Sv) of bij een verhoor met het oog op een bestraffende sanctie (art. 5:10a Awb).",
+      "feedbackFalse": "Onjuist. Bij een gewone nalevingscontrole zonder verdenking is er geen verdachte (art. 29 lid 2 Sv) en geen verhoor voor een bestraffende sanctie (art. 5:10a Awb). Dan is er geen cautieplicht.",
+      "explanation": "De cautie van art. 29 lid 2 Sv geldt bij het verhoor van een verdachte. De cautie van art. 5:10a Awb geldt bij een verhoor met het oog op een bestraffende sanctie. Bij een gewone controle op de naleving (art. 5:11 Awb) is van geen van beide sprake.",
       "sourceRefs": [
         {
           "law": "Wetboek van Strafvordering",
-          "article": "art. 29 lid 2"
+          "article": "art. 29 lid 2",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=29&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         },
         {
           "law": "Algemene wet bestuursrecht",
-          "article": "art. 5:11"
+          "article": "art. 5:10a",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:10a&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        },
+        {
+          "law": "Algemene wet bestuursrecht",
+          "article": "art. 5:11",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:11&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         }
       ],
       "origin": "nieuw",
-      "reviewStatus": "concept",
+      "reviewStatus": "inhoudelijk_gecontroleerd",
+      "version": "1.1",
+      "lastModified": "2026-11-03",
+      "reviewedBy": "Claude (AI-controle tegen wettekst geldig op 2026-11-03)",
+      "reviewedOn": "2026-11-03"
+    },
+    {
+      "id": "q-m03-l02-7",
+      "moduleId": "m03",
+      "lessonId": "m03-l02",
+      "termIds": [
+        "3.2.1"
+      ],
+      "topic": "Bevoegdheid of verplichting",
+      "level": "K",
+      "type": "mc",
+      "prompt": "Welke van deze regels is een verplichting van de toezichthouder en geen bevoegdheid?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Inlichtingen vorderen (art. 5:16 Awb)",
+          "feedback": "Onjuist. Dit is een bevoegdheid: iets wat je mag doen."
+        },
+        {
+          "id": "b",
+          "text": "Op verzoek meteen je legitimatiebewijs tonen (art. 5:12 Awb)",
+          "feedback": "Juist. Art. 5:12 lid 2 Awb legt de toezichthouder de plicht op het legitimatiebewijs desgevraagd aanstonds te tonen."
+        },
+        {
+          "id": "c",
+          "text": "Vorderen dat een bestuurder stilhoudt (art. 5:19 Awb)",
+          "feedback": "Onjuist. Dit is een bevoegdheid van de toezichthouder (art. 5:19 lid 4 Awb)."
+        },
+        {
+          "id": "d",
+          "text": "Inzage vorderen van zakelijke gegevens (art. 5:17 Awb)",
+          "feedback": "Onjuist. Dit is een bevoegdheid van de toezichthouder (art. 5:17 lid 1 Awb)."
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "De Awb geeft de toezichthouder bevoegdheden (art. 5:15 t/m 5:19) en legt hem verplichtingen op, zoals het tonen van het legitimatiebewijs (art. 5:12), het gebruiken van bevoegdheden alleen voor zover redelijkerwijs nodig (art. 5:13) en de cautie bij een verhoor met het oog op een bestraffende sanctie (art. 5:10a).",
+      "sourceRefs": [
+        {
+          "law": "Algemene wet bestuursrecht",
+          "article": "art. 5:12",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:12&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        },
+        {
+          "law": "Algemene wet bestuursrecht",
+          "article": "art. 5:13",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:13&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        },
+        {
+          "law": "Algemene wet bestuursrecht",
+          "article": "art. 5:16",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:16&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        },
+        {
+          "law": "Algemene wet bestuursrecht",
+          "article": "art. 5:17",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:17&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        },
+        {
+          "law": "Algemene wet bestuursrecht",
+          "article": "art. 5:19",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:19&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "inhoudelijk_gecontroleerd",
       "version": "1.0",
-      "lastModified": "2026-11-02"
+      "lastModified": "2026-11-03",
+      "reviewedBy": "Claude (AI-controle tegen wettekst geldig op 2026-11-03)",
+      "reviewedOn": "2026-11-03"
+    },
+    {
+      "id": "q-m03-l02-8",
+      "moduleId": "m03",
+      "lessonId": "m03-l02",
+      "termIds": [
+        "3.2.1"
+      ],
+      "topic": "Cautie in het bestuursrecht",
+      "level": "T",
+      "type": "mc",
+      "case": "Je bent aangewezen als toezichthouder. In deze gemeente kan het college voor het naast de container zetten van huisvuil een bestuurlijke boete opleggen. Je ziet bewoner Ilse bij een vuilniszak naast de container staan. Je wilt haar vragen stellen om te bepalen of zij de overtreder is, zodat het college kan beslissen over een boete.",
+      "prompt": "Wat doe je voordat je Ilse vragen stelt over de overtreding?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Je deelt haar mee dat zij niet verplicht is te antwoorden",
+          "feedback": "Juist. Je hoort Ilse met het oog op een bestraffende sanctie. Zij hoeft niet over de overtreding te verklaren en je deelt dat vóór het verhoor mee (art. 5:10a lid 1 en 2 Awb)."
+        },
+        {
+          "id": "b",
+          "text": "Je zegt dat zij moet antwoorden, omdat iedereen moet meewerken met een toezichthouder",
+          "feedback": "Onjuist. De medewerkingsplicht (art. 5:20 Awb) verplicht haar niet om voor een boete over de overtreding te verklaren (art. 5:10a lid 1 Awb)."
+        },
+        {
+          "id": "c",
+          "text": "Niets; een cautie bestaat alleen in het strafrecht",
+          "feedback": "Onjuist. Het bestuursrecht kent ook een cautie, bij een verhoor met het oog op een bestraffende sanctie (art. 5:10a lid 2 Awb)."
+        },
+        {
+          "id": "d",
+          "text": "Je gaat eerst haar woning binnen om bewijs te zoeken",
+          "feedback": "Onjuist. Een toezichthouder betreedt geen woning zonder toestemming van de bewoner (art. 5:15 lid 1 Awb). Dat staat ook los van de cautie."
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "Wie wordt verhoord met het oog op het opleggen van een bestraffende sanctie, zoals een bestuurlijke boete (art. 5:40 Awb), is niet verplicht daarvoor verklaringen over de overtreding af te leggen. Vóór het verhoor wordt hem meegedeeld dat hij niet verplicht is te antwoorden (art. 5:10a Awb).",
+      "sourceRefs": [
+        {
+          "law": "Algemene wet bestuursrecht",
+          "article": "art. 5:10a",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:10a&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        },
+        {
+          "law": "Algemene wet bestuursrecht",
+          "article": "art. 5:40",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:40&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        },
+        {
+          "law": "Algemene wet bestuursrecht",
+          "article": "art. 5:20",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        },
+        {
+          "law": "Algemene wet bestuursrecht",
+          "article": "art. 5:15 lid 1",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:15&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "inhoudelijk_gecontroleerd",
+      "version": "1.0",
+      "lastModified": "2026-11-03",
+      "reviewedBy": "Claude (AI-controle tegen wettekst geldig op 2026-11-03)",
+      "reviewedOn": "2026-11-03"
+    },
+    {
+      "id": "q-m03-l02-9",
+      "moduleId": "m03",
+      "lessonId": "m03-l02",
+      "termIds": [
+        "3.2.1"
+      ],
+      "topic": "Cautie in het bestuursrecht",
+      "level": "K",
+      "type": "mc",
+      "prompt": "Wanneer geldt de cautie van art. 5:10a Awb?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Bij elke controle van een vergunning, ook zonder vermoeden van een overtreding",
+          "feedback": "Onjuist. Een gewone nalevingscontrole is geen verhoor met het oog op een bestraffende sanctie."
+        },
+        {
+          "id": "b",
+          "text": "Bij het verhoren van iemand met het oog op het opleggen van een last onder dwangsom",
+          "feedback": "Onjuist. Een last onder dwangsom is een herstelsanctie, geen bestraffende sanctie (art. 5:2 lid 1 onder b Awb). Art. 5:10a gaat over bestraffende sancties."
+        },
+        {
+          "id": "c",
+          "text": "Bij het verhoren van iemand met het oog op het opleggen van een bestraffende sanctie, zoals een bestuurlijke boete",
+          "feedback": "Juist. Dat is precies wat art. 5:10a Awb regelt."
+        },
+        {
+          "id": "d",
+          "text": "Alleen als de politie bij het verhoor aanwezig is",
+          "feedback": "Onjuist. Art. 5:10a Awb stelt die eis niet."
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "Art. 5:10a Awb: wie wordt verhoord met het oog op het aan hem opleggen van een bestraffende sanctie, hoeft daarvoor geen verklaringen over de overtreding af te leggen (lid 1). Vóór het verhoor wordt hem meegedeeld dat hij niet verplicht is te antwoorden (lid 2).",
+      "sourceRefs": [
+        {
+          "law": "Algemene wet bestuursrecht",
+          "article": "art. 5:10a",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:10a&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        },
+        {
+          "law": "Algemene wet bestuursrecht",
+          "article": "art. 5:2 lid 1",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:2&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "inhoudelijk_gecontroleerd",
+      "version": "1.0",
+      "lastModified": "2026-11-03",
+      "reviewedBy": "Claude (AI-controle tegen wettekst geldig op 2026-11-03)",
+      "reviewedOn": "2026-11-03"
     },
     {
       "id": "q-m03-l03-1",
       "moduleId": "m03",
       "lessonId": "m03-l03",
-      "termIds": [],
+      "termIds": [
+        "3.2.1"
+      ],
       "topic": "Betreden van plaatsen",
       "level": "T",
       "type": "mc",
-      "case": "Je bent toezichthouder voor de afvalregels. Je vermoedt dat bewoner Erik in zijn woning illegaal afval opslaat. Erik zegt dat je niet binnen mag komen.",
+      "case": "Je bent toezichthouder voor de afvalregels. Je vermoedt dat bewoner Erik in zijn woning afval opslaat in strijd met de regels. Erik zegt dat je niet binnen mag komen.",
       "prompt": "Mag je de woning binnengaan op grond van art. 5:15 Awb?",
       "options": [
         {
           "id": "a",
           "text": "Ja, want je mag als toezichthouder met je apparatuur elke plaats betreden",
-          "feedback": "Onjuist. Art. 5:15 Awb maakt een uitzondering voor de woning: daar mag je niet in zonder toestemming van de bewoner."
+          "feedback": "Onjuist. Art. 5:15 lid 1 Awb maakt een uitzondering voor de woning: daar mag je niet in zonder toestemming van de bewoner."
         },
         {
           "id": "b",
           "text": "Nee, een woning betreed je niet zonder toestemming van de bewoner",
-          "feedback": "Juist. Art. 5:15 Awb geeft een betredingsbevoegdheid voor elke plaats, maar uitdrukkelijk niet voor een woning zonder toestemming van de bewoner."
+          "feedback": "Juist. Art. 5:15 lid 1 Awb geeft een betredingsbevoegdheid voor elke plaats, maar uitdrukkelijk niet voor een woning zonder toestemming van de bewoner."
         },
         {
           "id": "c",
           "text": "Ja, als je eerst de politie belt om je met de sterke arm te helpen",
-          "feedback": "Onjuist. De sterke arm helpt je om toegang te krijgen tot plaatsen die je wél mag betreden. Een woning zonder toestemming hoort daar niet bij (art. 5:15 Awb)."
+          "feedback": "Onjuist. De sterke arm (art. 5:15 lid 2 Awb) helpt je om toegang te krijgen tot plaatsen die je wél mag betreden. Een woning zonder toestemming hoort daar niet bij."
         }
       ],
       "correctAnswer": "b",
-      "explanation": "Art. 5:15 Awb geeft de toezichthouder de bevoegdheid elke plaats te betreden, met uitzondering van een woning zonder toestemming van de bewoner.",
+      "explanation": "Art. 5:15 lid 1 Awb geeft de toezichthouder de bevoegdheid elke plaats te betreden, met uitzondering van een woning zonder toestemming van de bewoner. De sterke arm (lid 2) verandert daar niets aan.",
       "sourceRefs": [
         {
           "law": "Algemene wet bestuursrecht",
-          "article": "art. 5:15"
+          "article": "art. 5:15",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:15&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         }
       ],
       "origin": "nieuw",
-      "reviewStatus": "concept",
-      "version": "1.0",
-      "lastModified": "2026-11-02"
+      "reviewStatus": "inhoudelijk_gecontroleerd",
+      "version": "1.1",
+      "lastModified": "2026-11-03",
+      "reviewedBy": "Claude (AI-controle tegen wettekst geldig op 2026-11-03)",
+      "reviewedOn": "2026-11-03"
     },
     {
       "id": "q-m03-l03-2",
       "moduleId": "m03",
       "lessonId": "m03-l03",
-      "termIds": [],
+      "termIds": [
+        "3.2.1"
+      ],
       "topic": "Inzage identiteitsbewijs",
       "level": "K",
       "type": "mc",
@@ -1109,7 +2024,7 @@
         {
           "id": "c",
           "text": "Art. 5:16a Awb",
-          "feedback": "Juist. Art. 5:16a Awb geeft de toezichthouder de bevoegdheid om van personen inzage in hun identiteitsbewijs te vorderen."
+          "feedback": "Juist. Art. 5:16a Awb geeft de toezichthouder de bevoegdheid om van personen inzage te vorderen van een identiteitsbewijs als bedoeld in art. 1 Wet op de identificatieplicht."
         }
       ],
       "correctAnswer": "c",
@@ -1117,27 +2032,37 @@
       "sourceRefs": [
         {
           "law": "Algemene wet bestuursrecht",
-          "article": "art. 5:16a"
+          "article": "art. 5:16a",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:16a&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         },
         {
           "law": "Algemene wet bestuursrecht",
-          "article": "art. 5:13"
+          "article": "art. 5:13",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:13&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         },
         {
           "law": "Algemene wet bestuursrecht",
-          "article": "art. 5:20 lid 1"
+          "article": "art. 5:20 lid 1",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         }
       ],
       "origin": "nieuw",
-      "reviewStatus": "concept",
+      "reviewStatus": "inhoudelijk_gecontroleerd",
       "version": "1.0",
-      "lastModified": "2026-11-02"
+      "lastModified": "2026-11-03",
+      "reviewedBy": "Claude (AI-controle tegen wettekst geldig op 2026-11-03)",
+      "reviewedOn": "2026-11-03"
     },
     {
       "id": "q-m03-l03-3",
       "moduleId": "m03",
       "lessonId": "m03-l03",
-      "termIds": [],
+      "termIds": [
+        "3.2.1"
+      ],
       "topic": "Vervoermiddelen",
       "level": "T",
       "type": "mc",
@@ -1147,12 +2072,12 @@
         {
           "id": "a",
           "text": "Ja, je mag vorderen dat de bestuurder stilhoudt en de lading onderzoeken",
-          "feedback": "Juist. Art. 5:19 Awb geeft de toezichthouder de bevoegdheid vervoermiddelen en hun lading te onderzoeken en de bestuurder te laten stilhouden, voor zover redelijkerwijs nodig (art. 5:13 Awb)."
+          "feedback": "Juist. Art. 5:19 Awb geeft de toezichthouder de bevoegdheid de lading te onderzoeken (lid 2) en te vorderen dat de bestuurder stilhoudt (lid 4), voor zover redelijkerwijs nodig (art. 5:13 Awb)."
         },
         {
           "id": "b",
           "text": "Nee, alleen de politie mag een rijdend vervoermiddel laten stoppen en controleren",
-          "feedback": "Onjuist. Art. 5:19 Awb geeft ook de toezichthouder deze bevoegdheid, als zijn aanwijzing die niet beperkt (art. 5:14 Awb)."
+          "feedback": "Onjuist. Art. 5:19 lid 4 Awb geeft ook de toezichthouder deze bevoegdheid, als zijn aanwijzing die niet beperkt (art. 5:14 Awb)."
         },
         {
           "id": "c",
@@ -1161,36 +2086,43 @@
         }
       ],
       "correctAnswer": "a",
-      "explanation": "Art. 5:19 Awb geeft de toezichthouder de bevoegdheid vervoermiddelen en hun lading te onderzoeken en van de bestuurder te vorderen dat hij stilhoudt. Voorwaarden: je bent als toezichthouder aangewezen, je bevoegdheid is niet beperkt (art. 5:14) en het is redelijkerwijs nodig (art. 5:13).",
+      "explanation": "Art. 5:19 Awb: de toezichthouder mag vervoermiddelen onderzoeken (lid 1), de lading onderzoeken als daarmee naar zijn redelijk oordeel zaken worden vervoerd waarop hij toezicht houdt (lid 2), bescheiden inzien (lid 3) en vorderen dat de bestuurder stilhoudt en het vervoermiddel naar een aangewezen plaats brengt (lid 4). Voorwaarden: je bent aangewezen, je bevoegdheid is niet beperkt (art. 5:14) en het is redelijkerwijs nodig (art. 5:13).",
       "sourceRefs": [
         {
           "law": "Algemene wet bestuursrecht",
           "article": "art. 5:19",
-          "note": "lidnummering stilhouden",
-          "verify": true
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:19&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         },
         {
           "law": "Algemene wet bestuursrecht",
-          "article": "art. 5:13"
+          "article": "art. 5:13",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:13&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         },
         {
           "law": "Algemene wet bestuursrecht",
-          "article": "art. 5:14"
+          "article": "art. 5:14",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:14&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         }
       ],
       "origin": "nieuw",
-      "reviewStatus": "juridische_review_nodig",
-      "reviewNote": "Controleren in welk lid van art. 5:19 Awb de bevoegdheid tot het vorderen van stilhouden staat; de vraag noemt bewust geen lidnummer.",
-      "version": "1.0",
-      "lastModified": "2026-11-02"
+      "reviewStatus": "inhoudelijk_gecontroleerd",
+      "version": "1.1",
+      "lastModified": "2026-11-03",
+      "reviewedBy": "Claude (AI-controle tegen wettekst geldig op 2026-11-03)",
+      "reviewedOn": "2026-11-03"
     },
     {
       "id": "q-m03-l03-4",
       "moduleId": "m03",
       "lessonId": "m03-l03",
-      "termIds": [],
+      "termIds": [
+        "3.2.1"
+      ],
       "topic": "Verschoningsrecht",
-      "level": "B",
+      "level": "K",
       "type": "mc",
       "prompt": "Wie mag op grond van art. 5:20 lid 2 Awb medewerking weigeren?",
       "options": [
@@ -1202,7 +2134,7 @@
         {
           "id": "b",
           "text": "Wie door ambt, beroep of wet tot geheimhouding verplicht is, voor zover die reikt",
-          "feedback": "Juist. Art. 5:20 lid 2 Awb geeft personen met een geheimhoudingsplicht uit ambt, beroep of wet een verschoningsrecht."
+          "feedback": "Juist. Art. 5:20 lid 2 Awb geeft personen met een geheimhoudingsplicht uit ambt, beroep of wettelijk voorschrift een verschoningsrecht."
         },
         {
           "id": "c",
@@ -1215,19 +2147,31 @@
       "sourceRefs": [
         {
           "law": "Algemene wet bestuursrecht",
-          "article": "art. 5:20"
+          "article": "art. 5:20",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        },
+        {
+          "law": "Algemene wet bestuursrecht",
+          "article": "art. 5:17",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:17&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         }
       ],
       "origin": "nieuw",
-      "reviewStatus": "concept",
-      "version": "1.0",
-      "lastModified": "2026-11-02"
+      "reviewStatus": "inhoudelijk_gecontroleerd",
+      "version": "1.1",
+      "lastModified": "2026-11-03",
+      "reviewedBy": "Claude (AI-controle tegen wettekst geldig op 2026-11-03)",
+      "reviewedOn": "2026-11-03"
     },
     {
       "id": "q-m03-l03-5",
       "moduleId": "m03",
       "lessonId": "m03-l03",
-      "termIds": [],
+      "termIds": [
+        "3.2.1"
+      ],
       "topic": "Niet meewerken",
       "level": "T",
       "type": "mc",
@@ -1237,45 +2181,55 @@
         {
           "id": "a",
           "text": "Je mag de stukken zo nodig met geweld uit haar kantoor halen",
-          "feedback": "Onjuist. De Awb geeft geen bevoegdheid om stukken met geweld te nemen. Wel is opzettelijk niet meewerken strafbaar (art. 184 Sr)."
+          "feedback": "Onjuist. De Awb geeft jou geen bevoegdheid om stukken met geweld te nemen. Het bestuursorgaan kan wel een last onder bestuursdwang opleggen om de medewerking af te dwingen (art. 5:20 lid 3 Awb)."
         },
         {
           "id": "b",
           "text": "Er gebeurt niets; medewerking aan een toezichthouder is altijd vrijwillig",
-          "feedback": "Onjuist. Er is een medewerkingsplicht (art. 5:20 lid 1 Awb). Opzettelijk niet voldoen aan een wettelijke vordering is strafbaar (art. 184 Sr)."
+          "feedback": "Onjuist. Er is een medewerkingsplicht (art. 5:20 lid 1 Awb). Opzettelijk niet voldoen aan een wettelijke vordering is strafbaar (art. 184 lid 1 Sr)."
         },
         {
           "id": "c",
           "text": "Lotte kan zich schuldig maken aan het strafbare feit van art. 184 Sr",
-          "feedback": "Juist. Lotte moet meewerken (art. 5:17 en 5:20 Awb). Opzettelijk niet voldoen aan een vordering van een toezichthouder krachtens wettelijk voorschrift is strafbaar (art. 184 Sr)."
+          "feedback": "Juist. Lotte moet meewerken (art. 5:17 en 5:20 lid 1 Awb). Opzettelijk niet voldoen aan een vordering die een toezichthouder krachtens wettelijk voorschrift doet, is strafbaar (art. 184 lid 1 Sr)."
         }
       ],
       "correctAnswer": "c",
-      "explanation": "Iedereen moet redelijkerwijs medewerking verlenen aan de toezichthouder (art. 5:20 lid 1 Awb). Wie opzettelijk niet voldoet aan een vordering die een toezichthouder krachtens wettelijk voorschrift doet, pleegt een strafbaar feit (art. 184 Sr). Proces-verbaal maak je alleen op als dit feit in je akte en domeinlijst valt.",
+      "explanation": "Iedereen moet redelijkerwijs medewerking verlenen aan de toezichthouder (art. 5:20 lid 1 Awb). Wie opzettelijk niet voldoet aan een vordering die een toezichthouder krachtens wettelijk voorschrift doet, pleegt een strafbaar feit (art. 184 lid 1 Sr). Proces-verbaal maak je alleen op als je voor dit feit opsporingsbevoegd bent volgens je akte. Daarnaast kan het bestuursorgaan een last onder bestuursdwang opleggen (art. 5:20 lid 3 Awb).",
       "sourceRefs": [
         {
           "law": "Algemene wet bestuursrecht",
-          "article": "art. 5:17"
+          "article": "art. 5:17",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:17&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         },
         {
           "law": "Algemene wet bestuursrecht",
-          "article": "art. 5:20"
+          "article": "art. 5:20",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         },
         {
           "law": "Wetboek van Strafrecht",
-          "article": "art. 184"
+          "article": "art. 184 lid 1",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=184&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         }
       ],
       "origin": "nieuw",
-      "reviewStatus": "concept",
-      "version": "1.0",
-      "lastModified": "2026-11-02"
+      "reviewStatus": "inhoudelijk_gecontroleerd",
+      "version": "1.1",
+      "lastModified": "2026-11-03",
+      "reviewedBy": "Claude (AI-controle tegen wettekst geldig op 2026-11-03)",
+      "reviewedOn": "2026-11-03"
     },
     {
       "id": "q-m03-l03-6",
       "moduleId": "m03",
       "lessonId": "m03-l03",
-      "termIds": [],
+      "termIds": [
+        "3.2.1"
+      ],
       "topic": "Toezichtsbevoegdheden",
       "level": "K",
       "type": "match",
@@ -1310,39 +2264,124 @@
       "sourceRefs": [
         {
           "law": "Algemene wet bestuursrecht",
-          "article": "art. 5:15"
+          "article": "art. 5:15",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:15&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         },
         {
           "law": "Algemene wet bestuursrecht",
-          "article": "art. 5:16"
+          "article": "art. 5:16",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:16&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         },
         {
           "law": "Algemene wet bestuursrecht",
-          "article": "art. 5:16a"
+          "article": "art. 5:16a",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:16a&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         },
         {
           "law": "Algemene wet bestuursrecht",
-          "article": "art. 5:17"
+          "article": "art. 5:17",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:17&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         },
         {
           "law": "Algemene wet bestuursrecht",
-          "article": "art. 5:18"
+          "article": "art. 5:18",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:18&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         },
         {
           "law": "Algemene wet bestuursrecht",
-          "article": "art. 5:19"
+          "article": "art. 5:19",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:19&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         }
       ],
       "origin": "nieuw",
-      "reviewStatus": "concept",
+      "reviewStatus": "inhoudelijk_gecontroleerd",
       "version": "1.0",
-      "lastModified": "2026-11-02"
+      "lastModified": "2026-11-03",
+      "reviewedBy": "Claude (AI-controle tegen wettekst geldig op 2026-11-03)",
+      "reviewedOn": "2026-11-03"
+    },
+    {
+      "id": "q-m03-l03-7",
+      "moduleId": "m03",
+      "lessonId": "m03-l03",
+      "termIds": [
+        "3.2.1"
+      ],
+      "topic": "Identiteitsbewijs weigeren",
+      "level": "T",
+      "type": "mc",
+      "case": "Je bent aangewezen als toezichthouder voor de APV-regels over honden. Je ziet dat de hond van Ruben (32) zijn behoefte doet op het trottoir en dat Ruben niets opruimt. Voor je rapport heb je zijn gegevens nodig. Je vordert inzage in zijn identiteitsbewijs. Ruben weigert.",
+      "prompt": "Wat is juist?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ruben hoeft niet mee te werken, want bij toezicht is er geen verdachte",
+          "feedback": "Onjuist. De plicht om een identiteitsbewijs te tonen geldt ook als een toezichthouder het vordert (art. 2 WID; art. 5:16a Awb). Een verdenking is niet nodig."
+        },
+        {
+          "id": "b",
+          "text": "Je mag zijn jaszak doorzoeken om zijn identiteitsbewijs te vinden",
+          "feedback": "Onjuist. Art. 5:16a Awb geeft alleen de bevoegdheid om inzage te vorderen, niet om iemand te doorzoeken."
+        },
+        {
+          "id": "c",
+          "text": "Ruben hoeft pas mee te werken nadat je hem de cautie hebt gegeven",
+          "feedback": "Onjuist. De cautie heeft hier niets mee te maken. Het gaat om het tonen van een identiteitsbewijs (art. 5:16a Awb en art. 2 WID)."
+        },
+        {
+          "id": "d",
+          "text": "Ruben moet zijn identiteitsbewijs tonen; als hij weigert, is dat strafbaar op grond van art. 447e Sr",
+          "feedback": "Juist. Je mag inzage vorderen (art. 5:16a Awb). Iedereen van 14 jaar of ouder moet dan een identiteitsbewijs tonen, ook aan een toezichthouder (art. 2 WID). Niet voldoen is strafbaar (art. 447e Sr)."
+        }
+      ],
+      "correctAnswer": "d",
+      "explanation": "Een toezichthouder mag inzage vorderen van een identiteitsbewijs (art. 5:16a Awb), voor zover redelijkerwijs nodig (art. 5:13 Awb). Iedereen van 14 jaar of ouder is verplicht dan een identiteitsbewijs ter inzage aan te bieden; die plicht geldt ook bij een vordering van een toezichthouder (art. 2 WID). Wie dat niet doet, is strafbaar (art. 447e Sr).",
+      "sourceRefs": [
+        {
+          "law": "Algemene wet bestuursrecht",
+          "article": "art. 5:16a",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:16a&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        },
+        {
+          "law": "Algemene wet bestuursrecht",
+          "article": "art. 5:13",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:13&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        },
+        {
+          "law": "Wet op de identificatieplicht",
+          "article": "art. 2",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0006297&artikel=2&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        },
+        {
+          "law": "Wetboek van Strafrecht",
+          "article": "art. 447e",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=447e&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "inhoudelijk_gecontroleerd",
+      "version": "1.0",
+      "lastModified": "2026-11-03",
+      "reviewedBy": "Claude (AI-controle tegen wettekst geldig op 2026-11-03)",
+      "reviewedOn": "2026-11-03"
     },
     {
       "id": "q-m03-l04-1",
       "moduleId": "m03",
       "lessonId": "m03-l04",
-      "termIds": [],
+      "termIds": [
+        "3.2.2"
+      ],
       "topic": "Herstel- en bestraffende sanctie",
       "level": "K",
       "type": "mc",
@@ -1351,49 +2390,61 @@
         {
           "id": "a",
           "text": "De last onder dwangsom",
-          "feedback": "Onjuist. De last onder dwangsom is een herstelsanctie: zij wil de overtreding laten beëindigen (art. 5:2 en 5:31d Awb)."
+          "feedback": "Onjuist. De last onder dwangsom is een herstelsanctie: zij wil de overtreding laten beëindigen (art. 5:2 lid 1 onder b en 5:31d Awb)."
         },
         {
           "id": "b",
           "text": "De bestuurlijke boete",
-          "feedback": "Juist. De bestuurlijke boete is een bestraffende sanctie: zij wil de overtreder leed toevoegen (art. 5:2 en 5:40 Awb)."
+          "feedback": "Juist. De bestuurlijke boete is een bestraffende sanctie: zij wil de overtreder leed toevoegen (art. 5:2 lid 1 onder c en 5:40 Awb)."
         },
         {
           "id": "c",
           "text": "De last onder bestuursdwang",
-          "feedback": "Onjuist. De last onder bestuursdwang is een herstelsanctie, gericht op herstel van de overtreding (art. 5:2 en 5:21 Awb)."
+          "feedback": "Onjuist. De last onder bestuursdwang is een herstelsanctie, gericht op herstel van de overtreding (art. 5:2 lid 1 onder b en 5:21 Awb)."
         }
       ],
       "correctAnswer": "b",
-      "explanation": "Art. 5:2 Awb onderscheidt herstelsancties (gericht op herstel) en bestraffende sancties (gericht op leed toevoegen). De bestuurlijke boete is een bestraffende sanctie (art. 5:40 Awb).",
+      "explanation": "Art. 5:2 lid 1 Awb onderscheidt herstelsancties (gericht op herstel) en bestraffende sancties (gericht op leed toevoegen). De bestuurlijke boete is een bestraffende sanctie (art. 5:40 Awb).",
       "sourceRefs": [
         {
           "law": "Algemene wet bestuursrecht",
-          "article": "art. 5:2"
+          "article": "art. 5:2",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:2&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         },
         {
           "law": "Algemene wet bestuursrecht",
-          "article": "art. 5:21"
+          "article": "art. 5:21",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:21&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         },
         {
           "law": "Algemene wet bestuursrecht",
-          "article": "art. 5:31d"
+          "article": "art. 5:31d",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:31d&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         },
         {
           "law": "Algemene wet bestuursrecht",
-          "article": "art. 5:40"
+          "article": "art. 5:40",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:40&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         }
       ],
       "origin": "nieuw",
-      "reviewStatus": "concept",
-      "version": "1.0",
-      "lastModified": "2026-11-02"
+      "reviewStatus": "inhoudelijk_gecontroleerd",
+      "version": "1.1",
+      "lastModified": "2026-11-03",
+      "reviewedBy": "Claude (AI-controle tegen wettekst geldig op 2026-11-03)",
+      "reviewedOn": "2026-11-03"
     },
     {
       "id": "q-m03-l04-2",
       "moduleId": "m03",
       "lessonId": "m03-l04",
-      "termIds": [],
+      "termIds": [
+        "3.2.2"
+      ],
       "topic": "Rol boa",
       "level": "T",
       "type": "mc",
@@ -1417,80 +2468,100 @@
         }
       ],
       "correctAnswer": "c",
-      "explanation": "Een bestuurlijke sanctie is een besluit van een bestuursorgaan (art. 1:3 en 5:2 Awb). Bij de gemeente is dat het college of de burgemeester (art. 125 Gemeentewet). De boa constateert en rapporteert.",
+      "explanation": "Een bestuurlijke sanctie wordt opgelegd door een bestuursorgaan (art. 5:2 lid 1 onder a Awb) bij besluit (art. 1:3 Awb). Bij de gemeente is dat het college of de burgemeester (art. 125 Gemeentewet). De boa houdt feitelijk toezicht: hij constateert en rapporteert.",
       "sourceRefs": [
         {
           "law": "Algemene wet bestuursrecht",
-          "article": "art. 1:3"
+          "article": "art. 1:3",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=1:3&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         },
         {
           "law": "Algemene wet bestuursrecht",
-          "article": "art. 5:2"
+          "article": "art. 5:2",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:2&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         },
         {
           "law": "Algemene wet bestuursrecht",
-          "article": "art. 5:31d"
+          "article": "art. 5:31d",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:31d&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         },
         {
           "law": "Gemeentewet",
-          "article": "art. 125"
+          "article": "art. 125",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=125&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         }
       ],
       "origin": "nieuw",
-      "reviewStatus": "concept",
-      "version": "1.0",
-      "lastModified": "2026-11-02"
+      "reviewStatus": "inhoudelijk_gecontroleerd",
+      "version": "1.1",
+      "lastModified": "2026-11-03",
+      "reviewedBy": "Claude (AI-controle tegen wettekst geldig op 2026-11-03)",
+      "reviewedOn": "2026-11-03"
     },
     {
       "id": "q-m03-l04-3",
       "moduleId": "m03",
       "lessonId": "m03-l04",
-      "termIds": [],
+      "termIds": [
+        "3.2.2"
+      ],
       "topic": "Begunstigingstermijn",
-      "level": "B",
+      "level": "K",
       "type": "mc",
       "prompt": "Wat is een begunstigingstermijn?",
       "options": [
         {
           "id": "a",
           "text": "De termijn waarin de overtreder zelf kan herstellen voordat de sanctie wordt uitgevoerd",
-          "feedback": "Juist. In de last staat binnen welke termijn de overtreder zelf kan herstellen zonder dat bestuursdwang volgt (art. 5:24 Awb)."
+          "feedback": "Juist. De last vermeldt de termijn waarbinnen de overtreder de last moet uitvoeren (art. 5:24 lid 2 Awb). Binnen die termijn kan hij zelf herstellen."
         },
         {
           "id": "b",
           "text": "De termijn waarbinnen de overtreder bezwaar kan maken tegen het sanctiebesluit",
-          "feedback": "Onjuist. Dat is de bezwaartermijn van zes weken (art. 6:7 Awb). De begunstigingstermijn gaat over herstel (art. 5:24 Awb)."
+          "feedback": "Onjuist. Dat is de bezwaartermijn van zes weken (art. 6:7 Awb). De begunstigingstermijn gaat over herstel (art. 5:24 lid 2 Awb)."
         },
         {
           "id": "c",
           "text": "De termijn waarbinnen de boa zijn rapport over de overtreding bij de gemeente moet inleveren",
-          "feedback": "Onjuist. De begunstigingstermijn is een termijn voor de overtreder, die in de last staat (art. 5:24 Awb)."
+          "feedback": "Onjuist. De begunstigingstermijn is een termijn voor de overtreder, die in de last staat (art. 5:24 lid 2 Awb)."
         }
       ],
       "correctAnswer": "a",
-      "explanation": "De begunstigingstermijn is de termijn die in de last wordt gegeven, waarbinnen de overtreder de last kan uitvoeren zonder dat het bestuursorgaan de sanctie uitvoert (art. 5:24 Awb).",
+      "explanation": "De begunstigingstermijn is de termijn die in de last wordt gegeven, waarbinnen de overtreder de last kan uitvoeren voordat het bestuursorgaan de sanctie uitvoert (art. 5:24 lid 2 Awb).",
       "sourceRefs": [
         {
           "law": "Algemene wet bestuursrecht",
-          "article": "art. 5:24"
+          "article": "art. 5:24 lid 2",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:24&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         },
         {
           "law": "Algemene wet bestuursrecht",
-          "article": "art. 6:7"
+          "article": "art. 6:7",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=6:7&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         }
       ],
       "origin": "nieuw",
-      "reviewStatus": "concept",
-      "version": "1.0",
-      "lastModified": "2026-11-02"
+      "reviewStatus": "inhoudelijk_gecontroleerd",
+      "version": "1.1",
+      "lastModified": "2026-11-03",
+      "reviewedBy": "Claude (AI-controle tegen wettekst geldig op 2026-11-03)",
+      "reviewedOn": "2026-11-03"
     },
     {
       "id": "q-m03-l04-4",
       "moduleId": "m03",
       "lessonId": "m03-l04",
-      "termIds": [],
+      "termIds": [
+        "3.2.2"
+      ],
       "topic": "Spoedeisende bestuursdwang",
-      "level": "B",
+      "level": "T",
       "type": "mc",
       "case": "Bij een storm is een bouwhek van een particulier omgewaaid en ligt het over de rijbaan. De eigenaar is niet bereikbaar. Het hek is direct gevaarlijk voor het verkeer.",
       "prompt": "Wat mag de gemeente in deze situatie doen?",
@@ -1498,44 +2569,49 @@
         {
           "id": "a",
           "text": "Eerst een vooraankondiging sturen en zes weken op een reactie wachten",
-          "feedback": "Onjuist. Bij spoed hoeft het bestuursorgaan niet eerst een last af te wachten. Het mag direct bestuursdwang toepassen (art. 5:31 Awb)."
+          "feedback": "Onjuist. Is de situatie zo spoedeisend dat zelfs een besluit niet kan worden afgewacht, dan mag het bestuursorgaan meteen bestuursdwang toepassen (art. 5:31 lid 2 Awb)."
         },
         {
           "id": "b",
-          "text": "Direct bestuursdwang toepassen en daarna zo snel mogelijk het besluit nemen",
-          "feedback": "Juist. Is de situatie zo spoedeisend dat een last niet kan worden afgewacht, dan mag direct bestuursdwang worden toegepast. Het besluit volgt zo snel mogelijk (art. 5:31 Awb)."
+          "text": "Direct bestuursdwang toepassen en daarna zo snel mogelijk het besluit bekendmaken",
+          "feedback": "Juist. Bij zo veel spoed dat een besluit niet kan worden afgewacht, mag terstond bestuursdwang worden toegepast. Het besluit wordt zo spoedig mogelijk nadien bekendgemaakt (art. 5:31 lid 2 Awb)."
         },
         {
           "id": "c",
           "text": "Niets, want bestuursdwang mag alleen na een besluit met begunstigingstermijn",
-          "feedback": "Onjuist. De Awb kent een spoedregeling (art. 5:31 Awb). Bij spoed hoeft het bestuursorgaan geen besluit met begunstigingstermijn af te wachten."
+          "feedback": "Onjuist. De Awb kent een spoedregeling (art. 5:31 lid 1 en 2 Awb). Bij spoed hoeft het bestuursorgaan geen last met begunstigingstermijn af te wachten."
         }
       ],
       "correctAnswer": "b",
-      "explanation": "Bij spoedeisende situaties mag het bestuursorgaan bestuursdwang toepassen zonder voorafgaande last. Het besluit wordt dan zo spoedig mogelijk alsnog bekendgemaakt (art. 5:31 Awb). Jij als boa meldt de situatie; het bevoegde bestuursorgaan beslist (art. 125 Gemeentewet).",
+      "explanation": "In spoedeisende gevallen kan het bestuursorgaan besluiten tot bestuursdwang zonder voorafgaande last (art. 5:31 lid 1 Awb). Is de situatie zo spoedeisend dat ook dat besluit niet kan worden afgewacht, dan mag terstond bestuursdwang worden toegepast en wordt het besluit zo spoedig mogelijk nadien bekendgemaakt (art. 5:31 lid 2 Awb). Jij als boa meldt de situatie; het bevoegde bestuursorgaan beslist (art. 125 Gemeentewet).",
       "sourceRefs": [
         {
           "law": "Algemene wet bestuursrecht",
-          "article": "art. 5:31",
-          "note": "lidnummering spoedregeling",
-          "verify": true
+          "article": "art. 5:31 lid 2",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:31&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         },
         {
           "law": "Gemeentewet",
-          "article": "art. 125"
+          "article": "art. 125",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=125&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         }
       ],
       "origin": "nieuw",
-      "reviewStatus": "juridische_review_nodig",
-      "reviewNote": "Controleren of de inhoud van de spoedregeling (bestuursdwang zonder voorafgaande last, besluit zo spoedig mogelijk alsnog) volledig en juist is samengevat en in welk lid van art. 5:31 Awb dit staat.",
-      "version": "1.0",
-      "lastModified": "2026-11-02"
+      "reviewStatus": "inhoudelijk_gecontroleerd",
+      "version": "1.1",
+      "lastModified": "2026-11-03",
+      "reviewedBy": "Claude (AI-controle tegen wettekst geldig op 2026-11-03)",
+      "reviewedOn": "2026-11-03"
     },
     {
       "id": "q-m03-l04-5",
       "moduleId": "m03",
       "lessonId": "m03-l04",
-      "termIds": [],
+      "termIds": [
+        "3.2.2"
+      ],
       "topic": "Bevoegdheid gemeente",
       "level": "K",
       "type": "mc",
@@ -1549,103 +2625,726 @@
         {
           "id": "b",
           "text": "Het handhavingsbeleid van de gemeente",
-          "feedback": "Onjuist. Beleid is geen bevoegdheidsgrondslag. Een sanctiebevoegdheid moet in de wet staan (art. 5:4 Awb)."
+          "feedback": "Onjuist. Beleid is geen bevoegdheidsgrondslag. Een sanctiebevoegdheid moet bij of krachtens de wet zijn gegeven (art. 5:4 lid 1 Awb)."
         },
         {
           "id": "c",
           "text": "Art. 125 Gemeentewet",
-          "feedback": "Juist. Art. 125 Gemeentewet geeft het gemeentebestuur de bevoegdheid tot het opleggen van een last onder bestuursdwang."
+          "feedback": "Juist. Art. 125 lid 1 Gemeentewet geeft het gemeentebestuur de bevoegdheid tot het opleggen van een last onder bestuursdwang."
         }
       ],
       "correctAnswer": "c",
-      "explanation": "Een bestuursorgaan mag alleen een sanctie opleggen als de wet die bevoegdheid geeft (art. 5:4 Awb). Voor de gemeente staat de bevoegdheid tot bestuursdwang in art. 125 Gemeentewet. Wie bestuursdwang mag toepassen, mag in plaats daarvan meestal ook een last onder dwangsom opleggen (art. 5:32 Awb).",
+      "explanation": "Een bestuursorgaan mag alleen een sanctie opleggen als de wet die bevoegdheid geeft (art. 5:4 lid 1 Awb). Voor de gemeente staat de bevoegdheid tot bestuursdwang in art. 125 Gemeentewet. Wie bevoegd is een last onder bestuursdwang op te leggen, kan in plaats daarvan een last onder dwangsom opleggen (art. 5:32 lid 1 Awb).",
       "sourceRefs": [
         {
           "law": "Gemeentewet",
-          "article": "art. 125"
+          "article": "art. 125",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=125&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         },
         {
           "law": "Algemene wet bestuursrecht",
-          "article": "art. 5:4"
+          "article": "art. 5:4",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:4&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         },
         {
           "law": "Algemene wet bestuursrecht",
-          "article": "art. 5:32"
+          "article": "art. 5:32",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:32&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         }
       ],
       "origin": "nieuw",
-      "reviewStatus": "concept",
-      "version": "1.0",
-      "lastModified": "2026-11-02"
+      "reviewStatus": "inhoudelijk_gecontroleerd",
+      "version": "1.1",
+      "lastModified": "2026-11-03",
+      "reviewedBy": "Claude (AI-controle tegen wettekst geldig op 2026-11-03)",
+      "reviewedOn": "2026-11-03"
     },
     {
       "id": "q-m03-l04-6",
       "moduleId": "m03",
       "lessonId": "m03-l04",
-      "termIds": [],
+      "termIds": [
+        "3.2.2"
+      ],
       "topic": "Verloop last onder bestuursdwang",
       "level": "T",
       "type": "order",
-      "prompt": "Zet de stappen bij een last onder bestuursdwang in de juiste volgorde.",
+      "prompt": "Zet de stappen bij een last onder bestuursdwang in de gebruikelijke volgorde.",
       "items": [
         "De boa constateert de overtreding en schrijft een rapport",
-        "Het bestuursorgaan stuurt een vooraankondiging; de overtreder kan reageren",
+        "Het bestuursorgaan stuurt een vooraankondiging; de overtreder kan zijn zienswijze geven",
         "Het bestuursorgaan besluit tot een last onder bestuursdwang met begunstigingstermijn",
         "Na afloop van de begunstigingstermijn wordt gecontroleerd of de overtreding is beëindigd",
         "Het bestuursorgaan voert de bestuursdwang uit en verhaalt de kosten op de overtreder"
       ],
-      "explanation": "Eerst worden de feiten vastgelegd. Daarna hoort het bestuursorgaan de overtreder (art. 4:8 Awb) en neemt het een besluit met begunstigingstermijn (art. 5:21 en 5:24 Awb). Na de termijn volgt controle en zo nodig uitvoering, met kostenverhaal (art. 5:25 Awb). Bij spoed kan het anders lopen (art. 5:31 Awb).",
+      "explanation": "Eerst worden de feiten vastgelegd. Daarna krijgt de overtreder de kans zijn zienswijze te geven (in de gevallen van art. 4:8 Awb verplicht). Het bestuursorgaan neemt een besluit met een termijn waarbinnen de last moet worden uitgevoerd (art. 5:21 en 5:24 Awb). Na de termijn volgt controle en zo nodig uitvoering, met kostenverhaal (art. 5:25 Awb). Bij spoed kan het anders lopen (art. 5:31 Awb).",
       "sourceRefs": [
         {
           "law": "Algemene wet bestuursrecht",
           "article": "art. 4:8",
-          "note": "koppeling met vooraankondiging",
-          "verify": true
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:8&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         },
         {
           "law": "Algemene wet bestuursrecht",
-          "article": "art. 5:21"
+          "article": "art. 5:21",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:21&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         },
         {
           "law": "Algemene wet bestuursrecht",
-          "article": "art. 5:24"
+          "article": "art. 5:24",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:24&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         },
         {
           "law": "Algemene wet bestuursrecht",
-          "article": "art. 5:25"
+          "article": "art. 5:25",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:25&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        },
+        {
+          "law": "Algemene wet bestuursrecht",
+          "article": "art. 5:31",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:31&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         }
       ],
       "origin": "nieuw",
-      "reviewStatus": "juridische_review_nodig",
-      "reviewNote": "Controleren of de vooraankondiging juist is gekoppeld aan art. 4:8 Awb (horen van een belanghebbende die het besluit niet heeft aangevraagd).",
+      "reviewStatus": "inhoudelijk_gecontroleerd",
+      "version": "1.1",
+      "lastModified": "2026-11-03",
+      "reviewedBy": "Claude (AI-controle tegen wettekst geldig op 2026-11-03)",
+      "reviewedOn": "2026-11-03"
+    },
+    {
+      "id": "q-m03-l04-7",
+      "moduleId": "m03",
+      "lessonId": "m03-l04",
+      "termIds": [
+        "3.2.2"
+      ],
+      "topic": "Sanctie per voorschrift",
+      "level": "T",
+      "type": "mc",
+      "case": "Bij een controle zie je dat café De Linde het terras groter heeft gemaakt dan vergund. Ook staat er zonder vergunning een groot reclamebord op de stoep. Voor beide regels is het college bevoegd een herstelsanctie op te leggen.",
+      "prompt": "Wat kan het bestuursorgaan volgens art. 5:8 Awb doen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Maar één sanctie opleggen, omdat het om dezelfde ondernemer gaat",
+          "feedback": "Onjuist. Art. 5:8 Awb kijkt naar het aantal overtreden voorschriften, niet naar het aantal overtreders."
+        },
+        {
+          "id": "b",
+          "text": "Alleen een sanctie opleggen voor de zwaarste overtreding; de andere vervalt",
+          "feedback": "Onjuist. Zo'n regel staat niet in de Awb. Voor elk overtreden voorschrift kan een sanctie worden opgelegd (art. 5:8 Awb)."
+        },
+        {
+          "id": "c",
+          "text": "Voor elk overtreden voorschrift een afzonderlijke sanctie opleggen",
+          "feedback": "Juist. Zijn twee of meer voorschriften overtreden, dan kan voor de overtreding van elk afzonderlijk voorschrift een bestuurlijke sanctie worden opgelegd (art. 5:8 Awb)."
+        },
+        {
+          "id": "d",
+          "text": "Pas een sanctie opleggen nadat de strafrechter heeft beslist",
+          "feedback": "Onjuist. Een bestuurlijke sanctie hangt niet af van een uitspraak van de strafrechter."
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "Art. 5:8 Awb: indien twee of meer voorschriften zijn overtreden, kan voor de overtreding van elk afzonderlijk voorschrift een bestuurlijke sanctie worden opgelegd. Het bestuursorgaan moet daarvoor wel voor elk voorschrift bevoegd zijn (art. 5:4 Awb).",
+      "sourceRefs": [
+        {
+          "law": "Algemene wet bestuursrecht",
+          "article": "art. 5:8",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:8&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        },
+        {
+          "law": "Algemene wet bestuursrecht",
+          "article": "art. 5:4",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:4&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "inhoudelijk_gecontroleerd",
       "version": "1.0",
-      "lastModified": "2026-11-02"
+      "lastModified": "2026-11-03",
+      "reviewedBy": "Claude (AI-controle tegen wettekst geldig op 2026-11-03)",
+      "reviewedOn": "2026-11-03"
+    },
+    {
+      "id": "q-m03-l04-8",
+      "moduleId": "m03",
+      "lessonId": "m03-l04",
+      "termIds": [
+        "3.2.2"
+      ],
+      "topic": "Ingevorderde geldsom",
+      "level": "K",
+      "type": "mc",
+      "prompt": "Een ondernemer verbeurt een dwangsom die het college heeft opgelegd. Aan wie komt die geldsom volgens art. 5:10 lid 1 Awb toe?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Aan de Staat, omdat alle boetes en dwangsommen naar het Rijk gaan",
+          "feedback": "Onjuist. Art. 5:10 lid 1 Awb bepaalt iets anders: de geldsom komt toe aan het bestuursorgaan dat de sanctie oplegde."
+        },
+        {
+          "id": "b",
+          "text": "Aan het bestuursorgaan dat de sanctie heeft opgelegd, tenzij een wettelijk voorschrift anders bepaalt",
+          "feedback": "Juist. Dat is de hoofdregel van art. 5:10 lid 1 Awb. Het bestuursorgaan kan de geldsom invorderen bij dwangbevel (lid 2)."
+        },
+        {
+          "id": "c",
+          "text": "Aan de boa-organisatie die de overtreding heeft geconstateerd",
+          "feedback": "Onjuist. Wie constateert, krijgt het geld niet. Het gaat naar het bestuursorgaan dat de sanctie oplegde (art. 5:10 lid 1 Awb)."
+        },
+        {
+          "id": "d",
+          "text": "Aan de buren die last hadden van de overtreding",
+          "feedback": "Onjuist. Een dwangsom is geen schadevergoeding voor derden (art. 5:10 lid 1 Awb)."
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "Voor zover een bestuurlijke sanctie verplicht tot betaling van een geldsom, komt die geldsom toe aan het bestuursorgaan dat de sanctie heeft opgelegd, tenzij bij wettelijk voorschrift anders is bepaald (art. 5:10 lid 1 Awb). Het bestuursorgaan kan de geldsom invorderen bij dwangbevel (art. 5:10 lid 2 Awb).",
+      "sourceRefs": [
+        {
+          "law": "Algemene wet bestuursrecht",
+          "article": "art. 5:10 lid 1",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:10&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        },
+        {
+          "law": "Algemene wet bestuursrecht",
+          "article": "art. 5:10 lid 2",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:10&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "inhoudelijk_gecontroleerd",
+      "version": "1.0",
+      "lastModified": "2026-11-03",
+      "reviewedBy": "Claude (AI-controle tegen wettekst geldig op 2026-11-03)",
+      "reviewedOn": "2026-11-03"
+    },
+    {
+      "id": "q-m03-l04-9",
+      "moduleId": "m03",
+      "lessonId": "m03-l04",
+      "termIds": [
+        "3.2.2"
+      ],
+      "topic": "Herstelsanctie kiezen",
+      "level": "T",
+      "type": "mc",
+      "case": "Het college stuurt winkelier Femke een besluit. Zij moet het reclamebord dat zonder vergunning op de stoep staat binnen een week weghalen. Doet zij dat niet, dan moet zij € 100 per dag betalen, tot maximaal € 1.000.",
+      "prompt": "Welke sanctie heeft het college aan Femke opgelegd?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Een bestuurlijke boete",
+          "feedback": "Onjuist. Een boete is een onvoorwaardelijke betalingsplicht (art. 5:40 Awb). Femke hoeft hier alleen te betalen als zij de last niet op tijd uitvoert."
+        },
+        {
+          "id": "b",
+          "text": "Een last onder bestuursdwang",
+          "feedback": "Onjuist. Bij bestuursdwang voert het bestuursorgaan de last zelf feitelijk uit (art. 5:21 Awb). Hier moet Femke een geldsom betalen als zij niet herstelt."
+        },
+        {
+          "id": "c",
+          "text": "Een strafbeschikking",
+          "feedback": "Onjuist. Een strafbeschikking is strafrecht. Dit is een bestuursrechtelijke herstelsanctie."
+        },
+        {
+          "id": "d",
+          "text": "Een last onder dwangsom",
+          "feedback": "Juist. Een last tot herstel met de verplichting een geldsom te betalen als de last niet of niet op tijd wordt uitgevoerd, is een last onder dwangsom (art. 5:31d Awb)."
+        }
+      ],
+      "correctAnswer": "d",
+      "explanation": "Een last onder dwangsom is een herstelsanctie met een last tot geheel of gedeeltelijk herstel van de overtreding en de verplichting een geldsom te betalen als de last niet of niet tijdig wordt uitgevoerd (art. 5:31d Awb). Bij een last onder bestuursdwang voert het bestuursorgaan de last zelf uit (art. 5:21 Awb).",
+      "sourceRefs": [
+        {
+          "law": "Algemene wet bestuursrecht",
+          "article": "art. 5:31d",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:31d&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        },
+        {
+          "law": "Algemene wet bestuursrecht",
+          "article": "art. 5:21",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:21&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        },
+        {
+          "law": "Algemene wet bestuursrecht",
+          "article": "art. 5:40",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:40&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "inhoudelijk_gecontroleerd",
+      "version": "1.0",
+      "lastModified": "2026-11-03",
+      "reviewedBy": "Claude (AI-controle tegen wettekst geldig op 2026-11-03)",
+      "reviewedOn": "2026-11-03"
+    },
+    {
+      "id": "q-m03-l04-10",
+      "moduleId": "m03",
+      "lessonId": "m03-l04",
+      "termIds": [
+        "3.2.2"
+      ],
+      "topic": "Bestuurlijke boete",
+      "level": "K",
+      "type": "mc",
+      "prompt": "Wat is een bestuurlijke boete volgens art. 5:40 Awb?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Een bestraffende sanctie: een onvoorwaardelijke verplichting om een geldsom te betalen",
+          "feedback": "Juist. Dit is de omschrijving van art. 5:40 lid 1 Awb."
+        },
+        {
+          "id": "b",
+          "text": "Een herstelsanctie waarbij de overtreder alleen betaalt als hij niet op tijd herstelt",
+          "feedback": "Onjuist. Dat is een last onder dwangsom (art. 5:31d Awb)."
+        },
+        {
+          "id": "c",
+          "text": "Een geldboete die de strafrechter oplegt na een proces-verbaal",
+          "feedback": "Onjuist. Een bestuurlijke boete wordt opgelegd door een bestuursorgaan (art. 5:2 lid 1 onder a Awb), niet door de strafrechter."
+        },
+        {
+          "id": "d",
+          "text": "Een vergoeding van de kosten die de gemeente maakte bij bestuursdwang",
+          "feedback": "Onjuist. Dat is kostenverhaal bij bestuursdwang (art. 5:25 Awb), geen boete."
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "Een bestuurlijke boete is de bestraffende sanctie, inhoudende een onvoorwaardelijke verplichting tot betaling van een geldsom (art. 5:40 lid 1 Awb). Het bestuursorgaan mag haar alleen opleggen als de wet die bevoegdheid geeft (art. 5:4 Awb).",
+      "sourceRefs": [
+        {
+          "law": "Algemene wet bestuursrecht",
+          "article": "art. 5:40 lid 1",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:40&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        },
+        {
+          "law": "Algemene wet bestuursrecht",
+          "article": "art. 5:31d",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:31d&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        },
+        {
+          "law": "Algemene wet bestuursrecht",
+          "article": "art. 5:4",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:4&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "inhoudelijk_gecontroleerd",
+      "version": "1.0",
+      "lastModified": "2026-11-03",
+      "reviewedBy": "Claude (AI-controle tegen wettekst geldig op 2026-11-03)",
+      "reviewedOn": "2026-11-03"
+    },
+    {
+      "id": "q-m03-l05-1",
+      "moduleId": "m03",
+      "lessonId": "m03-l05",
+      "termIds": [
+        "3.2.2"
+      ],
+      "topic": "Betreden bij bestuursdwang",
+      "level": "T",
+      "type": "mc",
+      "case": "Het college heeft eigenaar Ahmed een last onder bestuursdwang opgelegd: een schutting die zonder toestemming op gemeentegrond staat, moet weg. De begunstigingstermijn is verlopen. Een aannemer die het college daarvoor heeft aangewezen, moet over het erf van Ahmed lopen om de schutting te verwijderen.",
+      "prompt": "Mag de aannemer het erf betreden?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Nee, alleen een toezichthouder mag plaatsen betreden (art. 5:15 Awb)",
+          "feedback": "Onjuist. Voor het toepassen van bestuursdwang geeft art. 5:27 lid 1 Awb een eigen toegangsregel voor personen die het bestuursorgaan aanwijst."
+        },
+        {
+          "id": "b",
+          "text": "Ja, maar alleen met schriftelijke toestemming van de eigenaar van het erf",
+          "feedback": "Onjuist. Toestemming is niet nodig. Het erf is geen woning en de aangewezen personen hebben toegang voor zover redelijkerwijs nodig (art. 5:27 lid 1 Awb)."
+        },
+        {
+          "id": "c",
+          "text": "Ja, door het bestuursorgaan aangewezen personen hebben toegang tot elke plaats voor zover dat redelijkerwijs nodig is",
+          "feedback": "Juist. Om bestuursdwang toe te passen, hebben door het bestuursorgaan aangewezen personen toegang tot elke plaats, voor zover redelijkerwijs nodig (art. 5:27 lid 1 Awb)."
+        },
+        {
+          "id": "d",
+          "text": "Nee, eerst moet de bestuursrechter toestemming geven",
+          "feedback": "Onjuist. De Awb vraagt geen toestemming van de rechter om bestuursdwang uit te voeren."
+        }
+      ],
+      "correctAnswer": "c",
+      "explanation": "Om bestuursdwang toe te passen, hebben door het bestuursorgaan aangewezen personen toegang tot elke plaats, voor zover dat redelijkerwijs voor de vervulling van hun taak nodig is (art. 5:27 lid 1 Awb). Voor een woning zonder toestemming van de bewoner is een machtiging nodig (lid 2). Een erf dat bij de overtreding hoort, is geen woning.",
+      "sourceRefs": [
+        {
+          "law": "Algemene wet bestuursrecht",
+          "article": "art. 5:27 lid 1",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:27&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        },
+        {
+          "law": "Algemene wet bestuursrecht",
+          "article": "art. 5:15",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:15&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "inhoudelijk_gecontroleerd",
+      "version": "1.0",
+      "lastModified": "2026-11-03",
+      "reviewedBy": "Claude (AI-controle tegen wettekst geldig op 2026-11-03)",
+      "reviewedOn": "2026-11-03"
+    },
+    {
+      "id": "q-m03-l05-2",
+      "moduleId": "m03",
+      "lessonId": "m03-l05",
+      "termIds": [
+        "3.2.2"
+      ],
+      "topic": "Woning bij bestuursdwang",
+      "level": "T",
+      "type": "mc",
+      "case": "Het college past bestuursdwang toe om een bouwwerk in een achtertuin te laten afbreken. De tuin is alleen bereikbaar via de woning. De bewoner weigert de medewerkers die het college heeft aangewezen binnen te laten. Er is geen acuut gevaar.",
+      "prompt": "Wat is nodig om de woning zonder toestemming van de bewoner binnen te gaan?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Niets extra; bij bestuursdwang heeft het bestuursorgaan zonder meer toegang tot een woning",
+          "feedback": "Onjuist. Art. 5:27 lid 2 Awb maakt voor een woning zonder toestemming een aparte regel: daarvoor is een machtiging nodig."
+        },
+        {
+          "id": "b",
+          "text": "Een machtiging tot binnentreden die het bestuursorgaan dat de bestuursdwang toepast, geeft",
+          "feedback": "Juist. Voor het binnentreden in een woning zonder toestemming van de bewoner is het bestuursorgaan dat bestuursdwang toepast bevoegd tot het geven van een machtiging als bedoeld in art. 2 Awbi (art. 5:27 lid 2 Awb)."
+        },
+        {
+          "id": "c",
+          "text": "Een toezichthouder die zijn legitimatiebewijs laat zien",
+          "feedback": "Onjuist. Een legitimatiebewijs geeft geen toegang tot een woning zonder toestemming. Art. 5:15 lid 1 Awb sluit dat voor toezichthouders zelfs uit."
+        },
+        {
+          "id": "d",
+          "text": "Een proces-verbaal van een opsporingsambtenaar",
+          "feedback": "Onjuist. Een proces-verbaal geeft geen bevoegdheid om een woning binnen te gaan."
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "Om bestuursdwang toe te passen, hebben aangewezen personen toegang tot elke plaats (art. 5:27 lid 1 Awb). Voor het binnentreden in een woning zonder toestemming van de bewoner kan het bestuursorgaan dat bestuursdwang toepast een machtiging geven als bedoeld in art. 2 Algemene wet op het binnentreden (art. 5:27 lid 2 Awb).",
+      "sourceRefs": [
+        {
+          "law": "Algemene wet bestuursrecht",
+          "article": "art. 5:27 lid 2",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:27&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        },
+        {
+          "law": "Algemene wet op het binnentreden",
+          "article": "art. 2",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0006763&artikel=2&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        },
+        {
+          "law": "Algemene wet bestuursrecht",
+          "article": "art. 5:15 lid 1",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:15&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "inhoudelijk_gecontroleerd",
+      "version": "1.0",
+      "lastModified": "2026-11-03",
+      "reviewedBy": "Claude (AI-controle tegen wettekst geldig op 2026-11-03)",
+      "reviewedOn": "2026-11-03"
+    },
+    {
+      "id": "q-m03-l05-3",
+      "moduleId": "m03",
+      "lessonId": "m03-l05",
+      "termIds": [
+        "3.2.2"
+      ],
+      "topic": "Meevoeren en opslaan",
+      "level": "K",
+      "type": "mc",
+      "prompt": "Het bestuursorgaan voert bij bestuursdwang een aanhanger mee en slaat hem op. Wat moet het bestuursorgaan daarbij volgens art. 5:29 lid 2 Awb doen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "De aanhanger na 48 uur laten vernietigen als niemand zich meldt",
+          "feedback": "Onjuist. Art. 5:29 Awb verplicht het bestuursorgaan juist de zaken te bewaren en terug te geven aan de rechthebbende (lid 3)."
+        },
+        {
+          "id": "b",
+          "text": "Aangifte van diefstal doen bij de politie",
+          "feedback": "Onjuist. Het gaat om bestuursdwang, niet om diefstal."
+        },
+        {
+          "id": "c",
+          "text": "Een proces-verbaal van een strafbaar feit naar de officier van justitie sturen",
+          "feedback": "Onjuist. Het proces-verbaal van art. 5:29 lid 2 Awb is een verslag van het meevoeren en opslaan, geen proces-verbaal van een strafbaar feit."
+        },
+        {
+          "id": "d",
+          "text": "Proces-verbaal laten opmaken van het meevoeren en opslaan en een afschrift geven aan wie de aanhanger onder zijn beheer had",
+          "feedback": "Juist. Dat staat in art. 5:29 lid 2 Awb."
+        }
+      ],
+      "correctAnswer": "d",
+      "explanation": "Voor zover de toepassing van bestuursdwang dit vergt, kan het bestuursorgaan zaken meevoeren en opslaan (art. 5:29 lid 1 Awb). Het bestuursorgaan doet daarvan proces-verbaal opmaken en verstrekt een afschrift aan degene die de zaken onder zijn beheer had (art. 5:29 lid 2 Awb).",
+      "sourceRefs": [
+        {
+          "law": "Algemene wet bestuursrecht",
+          "article": "art. 5:29 lid 2",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:29&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        },
+        {
+          "law": "Algemene wet bestuursrecht",
+          "article": "art. 5:29 lid 1",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:29&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "inhoudelijk_gecontroleerd",
+      "version": "1.0",
+      "lastModified": "2026-11-03",
+      "reviewedBy": "Claude (AI-controle tegen wettekst geldig op 2026-11-03)",
+      "reviewedOn": "2026-11-03"
+    },
+    {
+      "id": "q-m03-l05-4",
+      "moduleId": "m03",
+      "lessonId": "m03-l05",
+      "termIds": [
+        "3.2.2"
+      ],
+      "topic": "Meevoeren en opslaan",
+      "level": "K",
+      "type": "mc",
+      "prompt": "Wanneer mag het bestuursorgaan zaken meevoeren en opslaan op grond van art. 5:29 lid 1 Awb?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Voor zover de toepassing van bestuursdwang dit vergt",
+          "feedback": "Juist. Art. 5:29 lid 1 Awb koppelt het meevoeren en opslaan aan de toepassing van bestuursdwang."
+        },
+        {
+          "id": "b",
+          "text": "Steeds wanneer een toezichthouder een overtreding constateert",
+          "feedback": "Onjuist. Een toezichthouder neemt geen zaken in bewaring op grond van art. 5:29 Awb. Er moet bestuursdwang worden toegepast."
+        },
+        {
+          "id": "c",
+          "text": "Alleen als de eigenaar daarvoor toestemming geeft",
+          "feedback": "Onjuist. Toestemming is niet nodig. De toepassing van bestuursdwang moet het vergen (art. 5:29 lid 1 Awb)."
+        },
+        {
+          "id": "d",
+          "text": "Alleen als de zaak gestolen is",
+          "feedback": "Onjuist. Dat is geen voorwaarde in art. 5:29 Awb."
+        }
+      ],
+      "correctAnswer": "a",
+      "explanation": "Art. 5:29 lid 1 Awb: voor zover de toepassing van bestuursdwang dit vergt, kan het bestuursorgaan zaken meevoeren en opslaan. Het bewaart ze en geeft ze terug aan de rechthebbende (lid 3), zo nodig pas na betaling van de kosten (lid 4).",
+      "sourceRefs": [
+        {
+          "law": "Algemene wet bestuursrecht",
+          "article": "art. 5:29 lid 1",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:29&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "inhoudelijk_gecontroleerd",
+      "version": "1.0",
+      "lastModified": "2026-11-03",
+      "reviewedBy": "Claude (AI-controle tegen wettekst geldig op 2026-11-03)",
+      "reviewedOn": "2026-11-03"
+    },
+    {
+      "id": "q-m03-l05-5",
+      "moduleId": "m03",
+      "lessonId": "m03-l05",
+      "termIds": [
+        "3.2.2",
+        "3.2.1"
+      ],
+      "topic": "Toezicht of bestuursdwang",
+      "level": "T",
+      "type": "mc",
+      "case": "Je bent aangewezen als toezichthouder voor de APV. Je wilt in een woning controleren of daar spullen liggen voor straathandel zonder vergunning. De bewoner weigert je binnen te laten. Je collega zegt: 'Vraag het college om een machtiging, dan mag je naar binnen.'",
+      "prompt": "Wat is juist?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Je collega heeft gelijk: met een machtiging van het college mag je als toezichthouder de woning in",
+          "feedback": "Onjuist. De machtiging van art. 5:27 lid 2 Awb hoort bij het toepassen van bestuursdwang. Voor toezicht geldt art. 5:15 lid 1 Awb: geen woning zonder toestemming."
+        },
+        {
+          "id": "b",
+          "text": "Je mag als toezichthouder de woning niet zonder toestemming van de bewoner binnengaan",
+          "feedback": "Juist. Art. 5:15 lid 1 Awb sluit het betreden van een woning zonder toestemming van de bewoner uit voor de toezichthouder."
+        },
+        {
+          "id": "c",
+          "text": "Je mag naar binnen als je de politie meeneemt (de sterke arm)",
+          "feedback": "Onjuist. De sterke arm (art. 5:15 lid 2 Awb) helpt alleen bij plaatsen die je wél mag betreden."
+        },
+        {
+          "id": "d",
+          "text": "Je mag naar binnen als je eerst je legitimatiebewijs laat zien",
+          "feedback": "Onjuist. Het tonen van je legitimatiebewijs (art. 5:12 Awb) is een verplichting, maar geeft geen toegang tot een woning."
+        }
+      ],
+      "correctAnswer": "b",
+      "explanation": "Een toezichthouder is bevoegd elke plaats te betreden met uitzondering van een woning zonder toestemming van de bewoner (art. 5:15 lid 1 Awb). De machtiging van art. 5:27 lid 2 Awb geldt alleen voor het binnentreden om bestuursdwang toe te passen, door personen die het bestuursorgaan daarvoor aanwijst.",
+      "sourceRefs": [
+        {
+          "law": "Algemene wet bestuursrecht",
+          "article": "art. 5:15",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:15&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        },
+        {
+          "law": "Algemene wet bestuursrecht",
+          "article": "art. 5:27 lid 2",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:27&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        },
+        {
+          "law": "Algemene wet bestuursrecht",
+          "article": "art. 5:12",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:12&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        }
+      ],
+      "origin": "nieuw",
+      "reviewStatus": "inhoudelijk_gecontroleerd",
+      "version": "1.0",
+      "lastModified": "2026-11-03",
+      "reviewedBy": "Claude (AI-controle tegen wettekst geldig op 2026-11-03)",
+      "reviewedOn": "2026-11-03"
     }
   ],
   "glossary": [
     {
-      "term": "Bestuursorgaan",
-      "definition": "Een orgaan van een publiekrechtelijke rechtspersoon, of een andere persoon of college met openbaar gezag, zoals het college van B en W of de burgemeester.",
+      "term": "Bestuursrecht",
+      "definition": "Het recht over het optreden van de overheid als bestuur en haar verhouding tot burgers en bedrijven. Het heeft een instrumentele functie en een waarborgfunctie.",
+      "moduleId": "m03",
+      "sourceRefs": [
+        {
+          "law": "Grondwet",
+          "article": "art. 107 lid 2",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0001840&artikel=107&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        }
+      ],
+      "reviewStatus": "inhoudelijk_gecontroleerd"
+    },
+    {
+      "term": "Instrumentele functie",
+      "definition": "Het bestuursrecht als middel voor de overheid om de samenleving te besturen, bijvoorbeeld met vergunningen, verboden en herstelsancties.",
       "moduleId": "m03",
       "sourceRefs": [
         {
           "law": "Algemene wet bestuursrecht",
-          "article": "art. 1:1"
+          "article": "art. 5:2",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:2&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         }
       ],
-      "reviewStatus": "concept"
+      "reviewStatus": "inhoudelijk_gecontroleerd"
+    },
+    {
+      "term": "Waarborgfunctie",
+      "definition": "Het bestuursrecht als bescherming van burgers en bedrijven tegen het handelen van de overheid, bijvoorbeeld via bezwaar en beroep.",
+      "moduleId": "m03",
+      "sourceRefs": [
+        {
+          "law": "Algemene wet bestuursrecht",
+          "article": "art. 7:1",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:1&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        },
+        {
+          "law": "Algemene wet bestuursrecht",
+          "article": "art. 8:1",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:1&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        }
+      ],
+      "reviewStatus": "inhoudelijk_gecontroleerd"
+    },
+    {
+      "term": "Algemene wet bestuursrecht (Awb)",
+      "definition": "De wet met de algemene regels van bestuursrecht voor de verhouding tussen de overheid en burgers en bedrijven; zij geldt voor alle bestuursorganen.",
+      "moduleId": "m03",
+      "sourceRefs": [
+        {
+          "law": "Grondwet",
+          "article": "art. 107 lid 2",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0001840&artikel=107&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        },
+        {
+          "law": "Algemene wet bestuursrecht",
+          "article": "art. 1:6",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=1:6&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        }
+      ],
+      "reviewStatus": "inhoudelijk_gecontroleerd"
+    },
+    {
+      "term": "Bestuursorgaan",
+      "definition": "Een orgaan van een rechtspersoon die krachtens publiekrecht is ingesteld, of een ander persoon of college met enig openbaar gezag, zoals het college van B en W of de burgemeester.",
+      "moduleId": "m03",
+      "sourceRefs": [
+        {
+          "law": "Algemene wet bestuursrecht",
+          "article": "art. 1:1",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=1:1&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        }
+      ],
+      "reviewStatus": "inhoudelijk_gecontroleerd"
     },
     {
       "term": "Besluit",
-      "definition": "Een schriftelijke beslissing van een bestuursorgaan met een publiekrechtelijke rechtshandeling, zoals een vergunning of een last onder dwangsom.",
+      "definition": "Een schriftelijke beslissing van een bestuursorgaan, inhoudende een publiekrechtelijke rechtshandeling, zoals een vergunning of een last onder dwangsom.",
       "moduleId": "m03",
       "sourceRefs": [
         {
           "law": "Algemene wet bestuursrecht",
-          "article": "art. 1:3"
+          "article": "art. 1:3",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=1:3&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         }
       ],
-      "reviewStatus": "concept"
+      "reviewStatus": "inhoudelijk_gecontroleerd"
     },
     {
       "term": "Belanghebbende",
@@ -1654,82 +3353,142 @@
       "sourceRefs": [
         {
           "law": "Algemene wet bestuursrecht",
-          "article": "art. 1:2"
+          "article": "art. 1:2",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=1:2&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         }
       ],
-      "reviewStatus": "concept"
+      "reviewStatus": "inhoudelijk_gecontroleerd"
     },
     {
       "term": "Toezichthouder",
-      "definition": "Een persoon die bij of krachtens wettelijk voorschrift is belast met het toezicht op de naleving van regels. Een boa is dat alleen na aanwijzing.",
+      "definition": "Een persoon die bij of krachtens wettelijk voorschrift is belast met het houden van toezicht op de naleving van regels. Een boa is dat alleen na aanwijzing.",
       "moduleId": "m03",
       "sourceRefs": [
         {
           "law": "Algemene wet bestuursrecht",
-          "article": "art. 5:11"
+          "article": "art. 5:11",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:11&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         }
       ],
-      "reviewStatus": "concept"
+      "reviewStatus": "inhoudelijk_gecontroleerd"
+    },
+    {
+      "term": "Cautie (bestuursrecht)",
+      "definition": "De mededeling vóór een verhoor met het oog op een bestraffende sanctie dat de betrokkene niet verplicht is te antwoorden.",
+      "moduleId": "m03",
+      "sourceRefs": [
+        {
+          "law": "Algemene wet bestuursrecht",
+          "article": "art. 5:10a",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:10a&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        }
+      ],
+      "reviewStatus": "inhoudelijk_gecontroleerd"
     },
     {
       "term": "Medewerkingsplicht",
-      "definition": "De plicht van iedereen om binnen een redelijke termijn de medewerking te verlenen die een toezichthouder redelijkerwijs kan vorderen. Opzettelijk niet meewerken is strafbaar.",
+      "definition": "De plicht van iedereen om binnen een redelijke termijn de medewerking te verlenen die een toezichthouder redelijkerwijs kan vorderen. Opzettelijk niet voldoen aan een vordering is strafbaar.",
       "moduleId": "m03",
       "sourceRefs": [
         {
           "law": "Algemene wet bestuursrecht",
-          "article": "art. 5:20"
+          "article": "art. 5:20",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         },
         {
           "law": "Wetboek van Strafrecht",
-          "article": "art. 184"
+          "article": "art. 184 lid 1",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=184&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         }
       ],
-      "reviewStatus": "concept"
+      "reviewStatus": "inhoudelijk_gecontroleerd"
+    },
+    {
+      "term": "Bestuurlijke sanctie",
+      "definition": "Een door een bestuursorgaan wegens een overtreding opgelegde verplichting of onthouden aanspraak.",
+      "moduleId": "m03",
+      "sourceRefs": [
+        {
+          "law": "Algemene wet bestuursrecht",
+          "article": "art. 5:2",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:2&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        }
+      ],
+      "reviewStatus": "inhoudelijk_gecontroleerd"
     },
     {
       "term": "Herstelsanctie",
-      "definition": "Een bestuurlijke sanctie die de overtreding wil beëindigen of ongedaan maken, herhaling wil voorkomen of de gevolgen wil beperken.",
+      "definition": "Een bestuurlijke sanctie die de overtreding wil beëindigen of ongedaan maken, herhaling wil voorkomen of de gevolgen wil wegnemen of beperken.",
       "moduleId": "m03",
       "sourceRefs": [
         {
           "law": "Algemene wet bestuursrecht",
-          "article": "art. 5:2"
+          "article": "art. 5:2",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:2&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         }
       ],
-      "reviewStatus": "concept"
+      "reviewStatus": "inhoudelijk_gecontroleerd"
     },
     {
       "term": "Bestraffende sanctie",
-      "definition": "Een bestuurlijke sanctie die bedoeld is om de overtreder leed toe te voegen, zoals de bestuurlijke boete.",
+      "definition": "Een bestuurlijke sanctie voor zover die beoogt de overtreder leed toe te voegen, zoals de bestuurlijke boete.",
       "moduleId": "m03",
       "sourceRefs": [
         {
           "law": "Algemene wet bestuursrecht",
-          "article": "art. 5:2"
+          "article": "art. 5:2",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:2&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         },
         {
           "law": "Algemene wet bestuursrecht",
-          "article": "art. 5:40"
+          "article": "art. 5:40",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:40&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         }
       ],
-      "reviewStatus": "concept"
+      "reviewStatus": "inhoudelijk_gecontroleerd"
+    },
+    {
+      "term": "Bestuurlijke boete",
+      "definition": "De bestraffende sanctie, inhoudende een onvoorwaardelijke verplichting tot betaling van een geldsom.",
+      "moduleId": "m03",
+      "sourceRefs": [
+        {
+          "law": "Algemene wet bestuursrecht",
+          "article": "art. 5:40",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:40&g=2026-11-03",
+          "geldigOp": "2026-11-03"
+        }
+      ],
+      "reviewStatus": "inhoudelijk_gecontroleerd"
     },
     {
       "term": "Last onder bestuursdwang",
-      "definition": "Herstelsanctie: een last om de overtreding te herstellen, met de bevoegdheid van het bestuursorgaan om dat zelf te (laten) doen als de overtreder de last niet op tijd uitvoert.",
+      "definition": "Herstelsanctie: een last om de overtreding te herstellen, met de bevoegdheid van het bestuursorgaan om de last door feitelijk handelen uit te voeren als de overtreder dat niet op tijd doet.",
       "moduleId": "m03",
       "sourceRefs": [
         {
           "law": "Algemene wet bestuursrecht",
-          "article": "art. 5:21"
+          "article": "art. 5:21",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:21&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         },
         {
           "law": "Gemeentewet",
-          "article": "art. 125"
+          "article": "art. 125",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=125&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         }
       ],
-      "reviewStatus": "concept"
+      "reviewStatus": "inhoudelijk_gecontroleerd"
     },
     {
       "term": "Last onder dwangsom",
@@ -1738,22 +3497,26 @@
       "sourceRefs": [
         {
           "law": "Algemene wet bestuursrecht",
-          "article": "art. 5:31d"
+          "article": "art. 5:31d",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:31d&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         }
       ],
-      "reviewStatus": "concept"
+      "reviewStatus": "inhoudelijk_gecontroleerd"
     },
     {
       "term": "Begunstigingstermijn",
-      "definition": "De termijn in een last waarbinnen de overtreder de overtreding zelf kan beëindigen, voordat het bestuursorgaan de sanctie uitvoert.",
+      "definition": "De termijn in een last waarbinnen de overtreder de last moet (en kan) uitvoeren, voordat het bestuursorgaan de sanctie uitvoert.",
       "moduleId": "m03",
       "sourceRefs": [
         {
           "law": "Algemene wet bestuursrecht",
-          "article": "art. 5:24"
+          "article": "art. 5:24",
+          "url": "https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:24&g=2026-11-03",
+          "geldigOp": "2026-11-03"
         }
       ],
-      "reviewStatus": "concept"
+      "reviewStatus": "inhoudelijk_gecontroleerd"
     }
   ]
 }
